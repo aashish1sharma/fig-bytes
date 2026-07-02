@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T10:32:46.340Z",
+  "generatedAt": "2026-07-02T14:46:09.531Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,6 +32,13 @@
       "name": "Asset Management",
       "bullets": [
         {
+          "tag": "Strategy",
+          "headline": "Hong Kong Wealth, Fund Assets Reach Record $5.4 Trillion on Inflows - Bloomberg",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamFsWW1HTllXSHRPWV9rQjFKWTE2Uk1TbmdHUkFlaVIycE1ibVNrUkNrZ3F5aXdlRUpadkZjLXVFaUJxNmJTeHNwODVZM2doLWdNdXVLNzN0Ui15UVFsUVMtdXRnV1hYb2RFVkZQc1ZwS1Yya0lNV1U3U3YzNTE1WV80c0d2VjlnNUpIZU4xNG9HYWx1MVRiU2Vtbk5ZcG1YbVU0WVcyNy1CY3V6akxKcUFwb2FiQjA?oc=5",
+          "published": "2026-07-02T09:48:12.000Z"
+        },
+        {
           "tag": "Earnings",
           "headline": "Hong Kong’s AUM grew 20% to record high: SFC’s 2025 survey on asset and wealth management - Securities & Futures Commission of Hong Kong",
           "source": "Securities & Futures Commission of Hong Kong",
@@ -48,6 +55,13 @@
       ],
       "candidates": [
         {
+          "tag": "Strategy",
+          "headline": "Hong Kong Wealth, Fund Assets Reach Record $5.4 Trillion on Inflows - Bloomberg",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamFsWW1HTllXSHRPWV9rQjFKWTE2Uk1TbmdHUkFlaVIycE1ibVNrUkNrZ3F5aXdlRUpadkZjLXVFaUJxNmJTeHNwODVZM2doLWdNdXVLNzN0Ui15UVFsUVMtdXRnV1hYb2RFVkZQc1ZwS1Yya0lNV1U3U3YzNTE1WV80c0d2VjlnNUpIZU4xNG9HYWx1MVRiU2Vtbk5ZcG1YbVU0WVcyNy1CY3V6akxKcUFwb2FiQjA?oc=5",
+          "published": "2026-07-02T09:48:12.000Z"
+        },
+        {
           "tag": "Earnings",
           "headline": "Hong Kong’s AUM grew 20% to record high: SFC’s 2025 survey on asset and wealth management - Securities & Futures Commission of Hong Kong",
           "source": "Securities & Futures Commission of Hong Kong",
@@ -62,15 +76,7 @@
           "published": "2026-06-30T07:44:59.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "83118 – Price – Harvest MSCI China A ETF RMB Counter - Morningstar",
-        "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HdG5lMzZsUndDNUJMM0ZJRWd6STVIUW1GUDFiZ2dXWlFKTHRCQWFOaXRtR081bHZ2RXdXQ1haUWV0eGppeEpCLUlGZUxRMXlRVkhGbmVyZ0F4LUk2Znc?oc=5",
-        "published": "2026-06-26T13:53:44.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": []
     },
     {
@@ -85,18 +91,18 @@
           "published": "2026-07-02T02:08:00.000Z"
         },
         {
+          "tag": "Earnings",
+          "headline": "Hong Kong's assets under management grow to record $5.38 trillion, SFC survey shows - CNA",
+          "source": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVS1Od2pMaTduV1hJeEk2UnB5MVZUdWFUcTFvY0tDSlFsTXpRYmZ0T0ZwWW9SQ05hTFhlS0hjZWNZS0FwUElReGUyell4ZmhyQ044MkVQaE9jbTlTQ2pvaHljaVRPOGpvajVZRURqcDlsUnB3cnI4dkhWM2hhWjk1Y1k4YlRTbVRMRndrbGQxbkN3QXl5VXVOdHd2bVZ2VzRlOUdHOVFXeUs2azhFRV9walBybk42UEZHUG85TFBIblViRjNqcU5Gb3o1N0VKSFc1UV9lUkw1a1V4UFBRVHc?oc=5",
+          "published": "2026-07-02T11:26:07.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "Analysis: How Hong Kong’s New Tax Rules Will Transform Cross-Border Wealth Management - Caixin Global",
           "source": "Caixin Global",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmpDdThsUXJUMm01akdQVGN2RFNDMGk3amlQOG04djNSYi1fQTNIRjdFcUlvWFo5dlJ4MGFzZDhJQzV5MEZRWXJ0bW5wX1BqczE1NFA0TDVuTk5ucVlnSE9HQkpLX3R1VjFzVnozcDEzTndzVGxsUjcyNkx0WGdaVHJKdGFRTmh6ZHJVZGN5dE5wR2QyUjNjZWJBUkl4bzZXclRvY3RuU0hVbVQ2YzljY1dlRlhPdXNvR3Vpb1dzZlNZS0s2VjNldWNYZTgyeTNYOE9KcQ?oc=5",
           "published": "2026-07-02T08:43:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "AI shifts how wealth management solutions are built and delivered at scale - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjlLbW5ieUdNWjdTMDRlZlRwblJDdk5ocFJKVFYwbzVPRXNLREtYRXN6cllURmVyTWZsLXQ5a01SZWw3cTEyZEF4YWh0a190cGNhdUxURWl5TFB0ci1SVUszeFhMNE9hdm5KanliZXpBMkdnNHhaNzREQnlkQlp5TnhCM2xhaGw5LWtSRmZUVkMxYmJHcHRkN19xeFBBOUs3am13?oc=5",
-          "published": "2026-07-01T09:52:54.000Z"
         }
       ],
       "candidates": [
@@ -106,6 +112,13 @@
           "source": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczJDOXFGdFJzVVlkWGlwdEN3R3huWXN2WWZaNEpJc3JHN25YenBJYnc3dEQ2a0VhRmhSYmdMYkkwWWZoMldJS1RreVQtR1Nocnk1UzhXOVJlWTJlQkRNV1MtZEpQQlhFYVhuYWtjcFlLLVc2V05ORWhBU3p2RjhrNmVZRWF6RGNTUURwRXloMEk5SUw3OWQtVG15b3daektwQjE4NlNvRVpXeGxLeWlOeFhtZXZoaEdxZ1FyRlkxbGFTOF96bzM4RWtaSnB0TmRCS1pqdlI4bkN4ZVR4?oc=5",
           "published": "2026-07-02T02:08:00.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Hong Kong's assets under management grow to record $5.38 trillion, SFC survey shows - CNA",
+          "source": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVS1Od2pMaTduV1hJeEk2UnB5MVZUdWFUcTFvY0tDSlFsTXpRYmZ0T0ZwWW9SQ05hTFhlS0hjZWNZS0FwUElReGUyell4ZmhyQ044MkVQaE9jbTlTQ2pvaHljaVRPOGpvajVZRURqcDlsUnB3cnI4dkhWM2hhWjk1Y1k4YlRTbVRMRndrbGQxbkN3QXl5VXVOdHd2bVZ2VzRlOUdHOVFXeUs2azhFRV9walBybk42UEZHUG85TFBIblViRjNqcU5Gb3o1N0VKSFc1UV9lUkw1a1V4UFBRVHc?oc=5",
+          "published": "2026-07-02T11:26:07.000Z"
         },
         {
           "tag": "Press",
@@ -160,13 +173,6 @@
           "source": "Singapore Business Review",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczVOZkE5azFKSXJjbDQ1LTNDZlF2cGFObU1fanp3QVR6bU9scFRQR1JjT0lqTnVmRjZtVjA0SnB2RzNzdGxsYmFmcGZ2REhpeTdmWDN6S1JkU0pTbTVqSE5ONHV4RHIzb2pnVDQwdTZkNmlxT1BDUjRmWTd0Y3NEWDFJUTVyY2pJekpJ?oc=5",
           "published": "2026-07-01T07:40:09.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "JPMorgan Expands Tokenized Deposit Network With Singapore Dollar - CoinTrust",
-          "source": "CoinTrust",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnY5ZE94RmFyZXd3TmtBTHV0ZzJnQzB2UUFFQWFmOVZlNEVHRzQyTDVNR2dhZDZUeS14am1PcVc4TS1BNEFTeGhibV9FNDZ4NWVEQndIUC1HblNZUWIxRVJSbUdlOGFVbUU4Q21UNzVDcnBROFN6UkN2clBDY3QzSVZJZWsydENjN1NaVV9vN0VuTGl2ZTdwcFFFeU5NMEEyV3FnedIBqgFBVV95cUxNNXFKeUVqM0R6TnZKdHItNnZtTTdUbHRQOHIyYk5vM1BoNmd1dU9FSDZoNVZLNHZWb21sU01lbzZhRFItX0QtQ3lqY2g0VmRmS0lwVUxYd0ZOVDBZQldlbDBJa0dOSjQ1b2ZsRURyMlFPRkh2YWR3d2NkNUlLRmdWZ285SDl5QXZqcGVVUHJxYkhITHNUUGw2RnVDemc4MnRmNG5wR1pobFRzUQ?oc=5",
-          "published": "2026-06-29T10:54:41.000Z"
         }
       ],
       "candidates": [
@@ -176,13 +182,6 @@
           "source": "Singapore Business Review",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczVOZkE5azFKSXJjbDQ1LTNDZlF2cGFObU1fanp3QVR6bU9scFRQR1JjT0lqTnVmRjZtVjA0SnB2RzNzdGxsYmFmcGZ2REhpeTdmWDN6S1JkU0pTbTVqSE5ONHV4RHIzb2pnVDQwdTZkNmlxT1BDUjRmWTd0Y3NEWDFJUTVyY2pJekpJ?oc=5",
           "published": "2026-07-01T07:40:09.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "JPMorgan Expands Tokenized Deposit Network With Singapore Dollar - CoinTrust",
-          "source": "CoinTrust",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnY5ZE94RmFyZXd3TmtBTHV0ZzJnQzB2UUFFQWFmOVZlNEVHRzQyTDVNR2dhZDZUeS14am1PcVc4TS1BNEFTeGhibV9FNDZ4NWVEQndIUC1HblNZUWIxRVJSbUdlOGFVbUU4Q21UNzVDcnBROFN6UkN2clBDY3QzSVZJZWsydENjN1NaVV9vN0VuTGl2ZTdwcFFFeU5NMEEyV3FnedIBqgFBVV95cUxNNXFKeUVqM0R6TnZKdHItNnZtTTdUbHRQOHIyYk5vM1BoNmd1dU9FSDZoNVZLNHZWb21sU01lbzZhRFItX0QtQ3lqY2g0VmRmS0lwVUxYd0ZOVDBZQldlbDBJa0dOSjQ1b2ZsRURyMlFPRkh2YWR3d2NkNUlLRmdWZ285SDl5QXZqcGVVUHJxYkhITHNUUGw2RnVDemc4MnRmNG5wR1pobFRzUQ?oc=5",
-          "published": "2026-06-29T10:54:41.000Z"
         }
       ],
       "insight": null,
