@@ -1,0 +1,30 @@
+{
+  "name": "fig-bytes",
+  "version": "1.0.0",
+  "description": "Daily FIG sector dashboards for India and Asia-Pacific — asset management, wealth, insurance, and retail banking headlines in a 5-minute scan.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "dashboard",
+    "finance",
+    "insurance",
+    "banking",
+    "asset-management",
+    "india",
+    "asia",
+    "news",
+    "rss"
+  ],
+  "scripts": {
+    "refresh": "node scripts/fetch-news.mjs",
+    "serve": "node scripts/server.mjs",
+    "start": "npm run refresh && npm run serve",
+    "schedule:install": "bash scripts/install-schedule.sh && bash scripts/install-server.sh",
+    "schedule:uninstall": "bash scripts/uninstall-schedule.sh",
+    "bookmark": "bash scripts/add-chrome-bookmark.sh",
+    "setup": "npm run schedule:install && npm run bookmark"
+  }
+}

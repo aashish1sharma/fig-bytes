@@ -1,0 +1,177 @@
+{
+  "generatedAt": "2026-07-02T08:30:17.182Z",
+  "region": "Asia",
+  "title": "Asia FIG Bytes",
+  "regionId": "asia",
+  "timezone": "Asia/Singapore",
+  "windowHours": 24,
+  "sources": [
+    "Reuters",
+    "Bloomberg",
+    "Financial Times",
+    "Nikkei Asia",
+    "SCMP",
+    "CNBC",
+    "Business Times",
+    "CNA",
+    "AFR",
+    "Morningstar",
+    "Google News",
+    "McKinsey",
+    "BCG",
+    "Bain",
+    "Deloitte",
+    "PwC",
+    "EY",
+    "KPMG",
+    "Oliver Wyman"
+  ],
+  "sectors": [
+    {
+      "id": "asset-management",
+      "name": "Asset Management",
+      "bullets": [
+        {
+          "tag": "Earnings",
+          "headline": "Hong Kong’s AUM grew 20% to record high: SFC’s 2025 survey on asset and wealth management - Securities & Futures Commission of Hong Kong",
+          "source": "Securities & Futures Commission of Hong Kong",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHNPWFUydXRPNF95VzNPX2ZjanF6M2dpRmg1djZGdEszZzhma05yWHNBamk3YUpWYnh0ekZvei14S3k3M1lLNnVaNnlYa2JXNDN5VXJzLUJRU2t3TEhsNm84MnVGQkNMeTZSUkVwYUI1djBPanpYb1QwLUdVU0ZTam1VNnZjT3VKSUVXUWhIeUtmUlpkN1BaNA?oc=5",
+          "published": "2026-07-02T04:12:53.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Korea’s CL Asset Management Taken Over in 90% Stake Deal and More APAC Real Estate Headlines - Mingtiandi",
+          "source": "Mingtiandi",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWTRqeXZ4WS10cWlhQzhZWDI5ZzhUZDhUYi1VdlF0NXZ5WWFsR0pBbHpZMlAwWGIyVHJLck1lWW50Tmhwa1BjUlNTZjFDVEJ3Z0ZHdXpkdXpPQjQyaHBNWmpPSzNLX21JZGE2UFo0Z2NaZmNTMmJHUDNmNzY1ejN1Qlc5dHRMZ2dEamVFOExRdHBGQ0R3NV9LRklsT1NKYkFraDJhUmNfbENpcXZQU2lXMzYwdW5FdlZ2SnJUdF91VWg1OGRRVDVudndsRDlDOW1BTWtmVA?oc=5",
+          "published": "2026-06-30T07:44:59.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Global X China Semiconductor ETF HKD, 3191:HKG.HS summary - Financial Times",
+        "teaser": null,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2TGQybG9aYWo2Rm1EVVE0NEU0R25PbWF5c3Bid0p5Z3FJMjg3NWJFYnd5WlJid2NZcGJCbXFxVFp6LW5hOU9Fb2Vpa3NIazZaam1wbTVZRGpsT1B1bE8yTF9ZZVhraEhMR256ZHNxMXB1Zw?oc=5",
+        "published": "2026-06-29T04:49:43.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "Fidelity International",
+          "ticker": "FIL",
+          "tag": "Analyst Report",
+          "headline": "Fidelity Emerging Markets Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdTg4b05LYVI1TmZCU2RjSmlKN3hvTk8tOGdwSXRuUGo2RXBObFNsNm9lSDdhOUF1Z19OQkc0UWJQcHM3OTVOTlBOdWkxYlFIZmZHMzBJZDNOUVRra1dqREhuWXlUdmREODJibzdmM1FDeWhBMWc1M0pZSDVOeGRBQy1PWi1NWHdHVmEyVTJOZUhDRnM1aVg1aXlBSndpVjJXOUJ6N1JzSjBNR25JQzZGZUoycVo0eXIwV05CMUdzcFBMaE5sUGRaS2FwQzlHR3lBLVlMaE1hYWZaZ3oyY0ZLZERXaUU?oc=5",
+          "published": "2026-06-25T07:07:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "wealth-management",
+      "name": "Wealth Management",
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "AI shifts how wealth management solutions are built and delivered at scale - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjlLbW5ieUdNWjdTMDRlZlRwblJDdk5ocFJKVFYwbzVPRXNLREtYRXN6cllURmVyTWZsLXQ5a01SZWw3cTEyZEF4YWh0a190cGNhdUxURWl5TFB0ci1SVUszeFhMNE9hdm5KanliZXpBMkdnNHhaNzREQnlkQlp5TnhCM2xhaGw5LWtSRmZUVkMxYmJHcHRkN19xeFBBOUs3am13?oc=5",
+          "published": "2026-07-01T09:52:54.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "HSBC Bolsters Taiwan Private Banking Team - finews.asia",
+          "source": "finews.asia",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3BMUWl1R29UdDVjU3R0SWp1Nk5VR1F3UGlKUVVydS0wbURIOHlwYjFpWml2TWhRRUp5QW5XZ0ZWS3RVTVI0a2JHelY2QzlYUHpERTQtakJGd3ZoeDVFX0JvV2FrWFhtUy1Wal9PWFMyLUVPZ0ZSeTRZaDRHeFJZcnA5aUNXUQ?oc=5",
+          "published": "2026-06-30T07:37:00.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Bank of China (Hong Kong) x Television Broadcasts Limited ('TVB') 'Wealth Management Expo 2026' was Successfully Held – Company Announcemen…",
+        "teaser": null,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXpCVERmc1pTUHgwRVVPT3F3OTl6YzcyU0JZQUFUaXp1Qi1md3RoTHFkZVlCUmlsU2NLdm0xRTQ5WFlNUElMNWFFcmdwOTRtNXRKZkhoSmY0bFNfTmFoaTAweEVmcjdxMkNQQ2hEa1FMOEFQRTVBS1JaREUyckVYc1lTT3N5UklIQ0FwREUwUG03LWpSYVphcVJ4NXdDVEo1MUZTVDdxUUxUZw?oc=5",
+        "published": "2026-06-27T11:30:00.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "Transcript: UBS bets on the US - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KWUtPVjJvU1JDNXpNdFRjUC1pUE5qU3RjRFRTVnJNeWlDZnhqSk1oa0s4UG5NOFd4R0NlRWZBMTg3dHJIUE1TOTlqMVQxcXdhaGtNSkJYeTk3ZUdTWEdXREtQa3NxU0NDb09sZTM3SXM?oc=5",
+          "published": "2026-07-02T04:00:22.000Z"
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "name": "Insurance",
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Hong Kong Elderly Poverty Rises, 65 Retirement Age Questioned - Pension Policy International",
+          "source": "Pension Policy International",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU1ubGtCcjB5Qnh6MjdJY2k2em5NeHBNSDVLYjBnbEdveVVOSXNLcTE1eHplaHhZczhWeTNOaHJycDRyQmdyNkpyN1FERml3MW1SZWYyeW95S2FzUkpGb3hvY0YyU0F1VTczOFczR01GUzRlZ1JSRkc1ZEQybDdOZzVZcE5Zb3FrZnczcExVQmFPTjJRQ2FUdmVHMnFQUHpLaU5UcG5nQQ?oc=5",
+          "published": "2026-06-30T15:28:15.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "New China Life Insurance Strengthens Governance With Nomination and Remuneration Committee Rules - TipRanks",
+          "source": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWDNQYTkybHJPZTRPVUNINllvT29oZTZQb0Z4N0t6MzkyRDZNZnhaM1QwSUhqLXowZWVCRzFwRXpnd3hqSmx1My1JMzZBb3c5VDNMQ2JmaFRVSE5FYl85S05mQmNRSGhrZlJZeElJZGU1Zk5ha1c5ZGt0ZUliMklkRmY5YW12UG5FdHI3aFkwNFdhMnd2aU1aSUcwU0l2ZWlQaTAyY1FoY2NJdHVTQlZGS3Q1R1RNYkJfbXZZU3dWT0g0UFN3aXpuODVKSUpaTnBhQnB6Xy1DbW5fSEFkZ09sYkZB?oc=5",
+          "published": "2026-06-30T09:23:04.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "New China Life Insurance Tightens Governance Over Audit and Related Party Oversight - TipRanks",
+          "source": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZERVdTZ1MmRuakE4bGNpbGhpek40SXA2cEgzVjZERVU3c2pJakVjMHBhUzV0LVhEMkd1eEstZ3RGTWNNVDdIUlMyVHE0cjlwdzlZSWhsQWM2Z1o4MGoyeFhiNHBIcEZYdmxNdFlaYXVjeEllWWotZUVqQXRselpsOHpvcFVnV0dBM05sdXpKUVFVVFN0bWRjTGNuUFpZdEFtZVg0ZDl2aWxkWGZSVGRyTmxsR25YU1BQWGZ0d0J1SE1sUmRVSFNJaU14RVZ4c0RZ?oc=5",
+          "published": "2026-06-30T08:51:08.000Z"
+        }
+      ],
+      "insight": null,
+      "companyUpdates": [
+        {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-06-27T11:50:18.000Z"
+        }
+      ]
+    },
+    {
+      "id": "retail-banking",
+      "name": "Retail Banking",
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Trust Bank taps ecosystem to fuel digital banking growth - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczVOZkE5azFKSXJjbDQ1LTNDZlF2cGFObU1fanp3QVR6bU9scFRQR1JjT0lqTnVmRjZtVjA0SnB2RzNzdGxsYmFmcGZ2REhpeTdmWDN6S1JkU0pTbTVqSE5ONHV4RHIzb2pnVDQwdTZkNmlxT1BDUjRmWTd0Y3NEWDFJUTVyY2pJekpJ?oc=5",
+          "published": "2026-07-01T07:40:09.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "JPMorgan Expands Tokenized Deposit Network With Singapore Dollar - CoinTrust",
+          "source": "CoinTrust",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnY5ZE94RmFyZXd3TmtBTHV0ZzJnQzB2UUFFQWFmOVZlNEVHRzQyTDVNR2dhZDZUeS14am1PcVc4TS1BNEFTeGhibV9FNDZ4NWVEQndIUC1HblNZUWIxRVJSbUdlOGFVbUU4Q21UNzVDcnBROFN6UkN2clBDY3QzSVZJZWsydENjN1NaVV9vN0VuTGl2ZTdwcFFFeU5NMEEyV3FnedIBqgFBVV95cUxNNXFKeUVqM0R6TnZKdHItNnZtTTdUbHRQOHIyYk5vM1BoNmd1dU9FSDZoNVZLNHZWb21sU01lbzZhRFItX0QtQ3lqY2g0VmRmS0lwVUxYd0ZOVDBZQldlbDBJa0dOSjQ1b2ZsRURyMlFPRkh2YWR3d2NkNUlLRmdWZ285SDl5QXZqcGVVUHJxYkhITHNUUGw2RnVDemc4MnRmNG5wR1pobFRzUQ?oc=5",
+          "published": "2026-06-29T10:54:41.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Banking on it: Chinese EVs expand their global footprint - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmVVem9odVRIeEZkQ1dZQVFXdElzaDVtTW5pWnB3ZkFVa1FnN1ZtR3VwV2hPMXliR083ZDZpRzMzMmlzQ0NQMl9GeV9EdWRiYUZoUklkZk9NQWZkWDBFcmZyX1FzNTJlQmJCRzRVc2xSRTJJUy1xaERDcUdyM05XVHhIaVlEQzR0T3JTRVhET0lxZnhtejhmUDJ2MzY5NzlZOXBPMS1hWF9Mb1V3b28xUlJRVWpqQ3hGdTZiQTJQRmhNOU3SAcMBQVVfeXFMUGppT1c1YmxfUlhYcjZFSHVXZXU3by1CYllfaHpJRjZXa3M3SGR2Z2pYU1ItTzR4bHdWNXVLeXpNYXA4dzQyck9zX1BIVl9jVzlqQW5DcmptWl8xbjVYRVl0ajVmVjhWRUNaUUxTdGZmbDg3eHc4MkFrVU5xR0lQTGZWbHpoZWtILVFCVFE4V0lvMGtRejNvejRfZjE5SzQ2cWZCRXZRRVNKU2NVSERTbGtUUm4wak54b0JWR1d2N1V0RXZr?oc=5",
+        "published": "2026-06-26T06:30:05.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": []
+    }
+  ]
+}
