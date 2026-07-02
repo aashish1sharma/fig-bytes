@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T10:31:21.853Z",
+  "generatedAt": "2026-07-02T10:32:46.340Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -62,17 +62,16 @@
           "published": "2026-06-30T07:44:59.000Z"
         }
       ],
-      "insight": null,
-      "companyUpdates": [
-        {
-          "company": "Fidelity International",
-          "ticker": "FIL",
-          "tag": "Analyst Report",
-          "headline": "Fidelity Emerging Markets Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdTg4b05LYVI1TmZCU2RjSmlKN3hvTk8tOGdwSXRuUGo2RXBObFNsNm9lSDdhOUF1Z19OQkc0UWJQcHM3OTVOTlBOdWkxYlFIZmZHMzBJZDNOUVRra1dqREhuWXlUdmREODJibzdmM1FDeWhBMWc1M0pZSDVOeGRBQy1PWi1NWHdHVmEyVTJOZUhDRnM1aVg1aXlBSndpVjJXOUJ6N1JzSjBNR25JQzZGZUoycVo0eXIwV05CMUdzcFBMaE5sUGRaS2FwQzlHR3lBLVlMaE1hYWZaZ3oyY0ZLZERXaUU?oc=5",
-          "published": "2026-06-25T07:07:00.000Z"
-        }
-      ]
+      "insight": {
+        "tag": "Research",
+        "headline": "83118 – Price – Harvest MSCI China A ETF RMB Counter - Morningstar",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HdG5lMzZsUndDNUJMM0ZJRWd6STVIUW1GUDFiZ2dXWlFKTHRCQWFOaXRtR081bHZ2RXdXQ1haUWV0eGppeEpCLUlGZUxRMXlRVkhGbmVyZ0F4LUk2Znc?oc=5",
+        "published": "2026-06-26T13:53:44.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": []
     },
     {
       "id": "wealth-management",
