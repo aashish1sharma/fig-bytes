@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T14:46:09.531Z",
+  "generatedAt": "2026-07-03T11:18:44.710Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,33 +33,47 @@
       "bullets": [
         {
           "tag": "Strategy",
-          "headline": "Hong Kong Wealth, Fund Assets Reach Record $5.4 Trillion on Inflows - Bloomberg",
+          "headline": "Hong Kong Wealth, Fund Assets Reach Record $5.4 Trillion on Inflows - Bloomberg.com",
           "source": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamFsWW1HTllXSHRPWV9rQjFKWTE2Uk1TbmdHUkFlaVIycE1ibVNrUkNrZ3F5aXdlRUpadkZjLXVFaUJxNmJTeHNwODVZM2doLWdNdXVLNzN0Ui15UVFsUVMtdXRnV1hYb2RFVkZQc1ZwS1Yya0lNV1U3U3YzNTE1WV80c0d2VjlnNUpIZU4xNG9HYWx1MVRiU2Vtbk5ZcG1YbVU0WVcyNy1CY3V6akxKcUFwb2FiQjA?oc=5",
           "published": "2026-07-02T09:48:12.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "Hong Kong’s AUM grew 20% to record high: SFC’s 2025 survey on asset and wealth management - Securities & Futures Commission of Hong Kong",
-          "source": "Securities & Futures Commission of Hong Kong",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHNPWFUydXRPNF95VzNPX2ZjanF6M2dpRmg1djZGdEszZzhma05yWHNBamk3YUpWYnh0ekZvei14S3k3M1lLNnVaNnlYa2JXNDN5VXJzLUJRU2t3TEhsNm84MnVGQkNMeTZSUkVwYUI1djBPanpYb1QwLUdVU0ZTam1VNnZjT3VKSUVXUWhIeUtmUlpkN1BaNA?oc=5",
-          "published": "2026-07-02T04:12:53.000Z"
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF DR - USD (C): Net Asset Value(s) - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkFHNEdZZkZwNVRhRkFDWXZva0hsU1E1Z0pUWnhPZVNMS0JlRHUtRWJjOUgxcmc0ZnRVb3NPRmI2QV9jM2Y2TUxPTjBpWjZHR1lZc0hRd0hhSTFVUkFyTGhISUdfXzZDdWtadzZPNmc2SWxEemxfZDJneklHUFZCLWl0WnBzT2MzWnJTX2k3Mk1mQVlXbHNqcHo0azlXTGhuc0d4VDREV1cwZWs?oc=5",
+          "published": "2026-07-03T07:19:00.000Z"
         },
         {
-          "tag": "Press",
-          "headline": "Korea’s CL Asset Management Taken Over in 90% Stake Deal and More APAC Real Estate Headlines - Mingtiandi",
-          "source": "Mingtiandi",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWTRqeXZ4WS10cWlhQzhZWDI5ZzhUZDhUYi1VdlF0NXZ5WWFsR0pBbHpZMlAwWGIyVHJLck1lWW50Tmhwa1BjUlNTZjFDVEJ3Z0ZHdXpkdXpPQjQyaHBNWmpPSzNLX21JZGE2UFo0Z2NaZmNTMmJHUDNmNzY1ejN1Qlc5dHRMZ2dEamVFOExRdHBGQ0R3NV9LRklsT1NKYkFraDJhUmNfbENpcXZQU2lXMzYwdW5FdlZ2SnJUdF91VWg1OGRRVDVudndsRDlDOW1BTWtmVA?oc=5",
-          "published": "2026-06-30T07:44:59.000Z"
+          "tag": "Product",
+          "headline": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVJ5a1JJb3g5cDV6VGpKbEQ4QzNheWJIM21WUkJ6TTFSRHFDVHRFSTR6Y2o2SDFCYUxnWkxudHgwUVpkdUNZUndtV19wMWIwQnAxaHhNc3BUc0RPRkdIVFdmSUNIM0NRTWJkSmwwdUYxMDhoX0VnNnM4aUpzclVVNHpXT0JzYXM3c2QzTnZvWVRteGZEbnkyMTdmcWFyYXI3M2xNRl82WTJwX3M?oc=5",
+          "published": "2026-07-03T07:18:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Strategy",
-          "headline": "Hong Kong Wealth, Fund Assets Reach Record $5.4 Trillion on Inflows - Bloomberg",
+          "headline": "Hong Kong Wealth, Fund Assets Reach Record $5.4 Trillion on Inflows - Bloomberg.com",
           "source": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamFsWW1HTllXSHRPWV9rQjFKWTE2Uk1TbmdHUkFlaVIycE1ibVNrUkNrZ3F5aXdlRUpadkZjLXVFaUJxNmJTeHNwODVZM2doLWdNdXVLNzN0Ui15UVFsUVMtdXRnV1hYb2RFVkZQc1ZwS1Yya0lNV1U3U3YzNTE1WV80c0d2VjlnNUpIZU4xNG9HYWx1MVRiU2Vtbk5ZcG1YbVU0WVcyNy1CY3V6akxKcUFwb2FiQjA?oc=5",
           "published": "2026-07-02T09:48:12.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF DR - USD (C): Net Asset Value(s) - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkFHNEdZZkZwNVRhRkFDWXZva0hsU1E1Z0pUWnhPZVNMS0JlRHUtRWJjOUgxcmc0ZnRVb3NPRmI2QV9jM2Y2TUxPTjBpWjZHR1lZc0hRd0hhSTFVUkFyTGhISUdfXzZDdWtadzZPNmc2SWxEemxfZDJneklHUFZCLWl0WnBzT2MzWnJTX2k3Mk1mQVlXbHNqcHo0azlXTGhuc0d4VDREV1cwZWs?oc=5",
+          "published": "2026-07-03T07:19:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVJ5a1JJb3g5cDV6VGpKbEQ4QzNheWJIM21WUkJ6TTFSRHFDVHRFSTR6Y2o2SDFCYUxnWkxudHgwUVpkdUNZUndtV19wMWIwQnAxaHhNc3BUc0RPRkdIVFdmSUNIM0NRTWJkSmwwdUYxMDhoX0VnNnM4aUpzclVVNHpXT0JzYXM3c2QzTnZvWVRteGZEbnkyMTdmcWFyYXI3M2xNRl82WTJwX3M?oc=5",
+          "published": "2026-07-03T07:18:00.000Z"
         },
         {
           "tag": "Earnings",
@@ -67,13 +81,6 @@
           "source": "Securities & Futures Commission of Hong Kong",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHNPWFUydXRPNF95VzNPX2ZjanF6M2dpRmg1djZGdEszZzhma05yWHNBamk3YUpWYnh0ekZvei14S3k3M1lLNnVaNnlYa2JXNDN5VXJzLUJRU2t3TEhsNm84MnVGQkNMeTZSUkVwYUI1djBPanpYb1QwLUdVU0ZTam1VNnZjT3VKSUVXUWhIeUtmUlpkN1BaNA?oc=5",
           "published": "2026-07-02T04:12:53.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Korea’s CL Asset Management Taken Over in 90% Stake Deal and More APAC Real Estate Headlines - Mingtiandi",
-          "source": "Mingtiandi",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWTRqeXZ4WS10cWlhQzhZWDI5ZzhUZDhUYi1VdlF0NXZ5WWFsR0pBbHpZMlAwWGIyVHJLck1lWW50Tmhwa1BjUlNTZjFDVEJ3Z0ZHdXpkdXpPQjQyaHBNWmpPSzNLX21JZGE2UFo0Z2NaZmNTMmJHUDNmNzY1ejN1Qlc5dHRMZ2dEamVFOExRdHBGQ0R3NV9LRklsT1NKYkFraDJhUmNfbENpcXZQU2lXMzYwdW5FdlZ2SnJUdF91VWg1OGRRVDVudndsRDlDOW1BTWtmVA?oc=5",
-          "published": "2026-06-30T07:44:59.000Z"
         }
       ],
       "insight": null,
@@ -84,18 +91,18 @@
       "name": "Wealth Management",
       "bullets": [
         {
-          "tag": "Press",
-          "headline": "Taiwan's wealthy seeks diversification to Singapore, sparking private banking race: Bloomberg - The Business Times",
-          "source": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczJDOXFGdFJzVVlkWGlwdEN3R3huWXN2WWZaNEpJc3JHN25YenBJYnc3dEQ2a0VhRmhSYmdMYkkwWWZoMldJS1RreVQtR1Nocnk1UzhXOVJlWTJlQkRNV1MtZEpQQlhFYVhuYWtjcFlLLVc2V05ORWhBU3p2RjhrNmVZRWF6RGNTUURwRXloMEk5SUw3OWQtVG15b3daektwQjE4NlNvRVpXeGxLeWlOeFhtZXZoaEdxZ1FyRlkxbGFTOF96bzM4RWtaSnB0TmRCS1pqdlI4bkN4ZVR4?oc=5",
-          "published": "2026-07-02T02:08:00.000Z"
-        },
-        {
           "tag": "Earnings",
           "headline": "Hong Kong's assets under management grow to record $5.38 trillion, SFC survey shows - CNA",
           "source": "CNA",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVS1Od2pMaTduV1hJeEk2UnB5MVZUdWFUcTFvY0tDSlFsTXpRYmZ0T0ZwWW9SQ05hTFhlS0hjZWNZS0FwUElReGUyell4ZmhyQ044MkVQaE9jbTlTQ2pvaHljaVRPOGpvajVZRURqcDlsUnB3cnI4dkhWM2hhWjk1Y1k4YlRTbVRMRndrbGQxbkN3QXl5VXVOdHd2bVZ2VzRlOUdHOVFXeUs2azhFRV9walBybk42UEZHUG85TFBIblViRjNqcU5Gb3o1N0VKSFc1UV9lUkw1a1V4UFBRVHc?oc=5",
           "published": "2026-07-02T11:26:07.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Hong Kong's Wealth Management Dominance Highlights China's Capital Control Conundrum - EPS Surprise History - dars.gov.et",
+          "source": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWtUY2hOald3OVZNc1g3UVhtMHdnWWlCQ3hMNFowaVd0SjdrTXljVmR3dUtBSzBFbUJxRGNKUVExUktXdE11T1pRZ2JkTlNEbUF2bnVCU3k5Mm9BLU9OemJyak5OQWNJTG82RUFNRGdwZ3p0dUVkbE55MXN5RGUzbkZ1Q2RnQk1LbjFaQ0M2LXA0aWlMdUwyb00zNTVpRzFES1dRLTczYVJaYUloUGU0X3RHUlNqVEhnYndjM3AydTRqUQ?oc=5",
+          "published": "2026-06-30T22:02:31.000Z"
         },
         {
           "tag": "Press",
@@ -107,13 +114,6 @@
       ],
       "candidates": [
         {
-          "tag": "Press",
-          "headline": "Taiwan's wealthy seeks diversification to Singapore, sparking private banking race: Bloomberg - The Business Times",
-          "source": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczJDOXFGdFJzVVlkWGlwdEN3R3huWXN2WWZaNEpJc3JHN25YenBJYnc3dEQ2a0VhRmhSYmdMYkkwWWZoMldJS1RreVQtR1Nocnk1UzhXOVJlWTJlQkRNV1MtZEpQQlhFYVhuYWtjcFlLLVc2V05ORWhBU3p2RjhrNmVZRWF6RGNTUURwRXloMEk5SUw3OWQtVG15b3daektwQjE4NlNvRVpXeGxLeWlOeFhtZXZoaEdxZ1FyRlkxbGFTOF96bzM4RWtaSnB0TmRCS1pqdlI4bkN4ZVR4?oc=5",
-          "published": "2026-07-02T02:08:00.000Z"
-        },
-        {
           "tag": "Earnings",
           "headline": "Hong Kong's assets under management grow to record $5.38 trillion, SFC survey shows - CNA",
           "source": "CNA",
@@ -121,11 +121,25 @@
           "published": "2026-07-02T11:26:07.000Z"
         },
         {
+          "tag": "Earnings",
+          "headline": "Hong Kong's Wealth Management Dominance Highlights China's Capital Control Conundrum - EPS Surprise History - dars.gov.et",
+          "source": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWtUY2hOald3OVZNc1g3UVhtMHdnWWlCQ3hMNFowaVd0SjdrTXljVmR3dUtBSzBFbUJxRGNKUVExUktXdE11T1pRZ2JkTlNEbUF2bnVCU3k5Mm9BLU9OemJyak5OQWNJTG82RUFNRGdwZ3p0dUVkbE55MXN5RGUzbkZ1Q2RnQk1LbjFaQ0M2LXA0aWlMdUwyb00zNTVpRzFES1dRLTczYVJaYUloUGU0X3RHUlNqVEhnYndjM3AydTRqUQ?oc=5",
+          "published": "2026-06-30T22:02:31.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "Analysis: How Hong Kong’s New Tax Rules Will Transform Cross-Border Wealth Management - Caixin Global",
           "source": "Caixin Global",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmpDdThsUXJUMm01akdQVGN2RFNDMGk3amlQOG04djNSYi1fQTNIRjdFcUlvWFo5dlJ4MGFzZDhJQzV5MEZRWXJ0bW5wX1BqczE1NFA0TDVuTk5ucVlnSE9HQkpLX3R1VjFzVnozcDEzTndzVGxsUjcyNkx0WGdaVHJKdGFRTmh6ZHJVZGN5dE5wR2QyUjNjZWJBUkl4bzZXclRvY3RuU0hVbVQ2YzljY1dlRlhPdXNvR3Vpb1dzZlNZS0s2VjNldWNYZTgyeTNYOE9KcQ?oc=5",
           "published": "2026-07-02T08:43:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Taiwan's Rich Rush to Singapore as a Hedge Against Beijing, Igniting Private Banking Boom - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1djl3VkxrRDJ4ODVtOWNXUWRQQ2lQWnBnMWtEbjF0UE96aE9NWUdOUTU3eWVWbFFNbzVHZmYzN0VYVmFmRFVQYmQ3OUF2S0Vsck15cllFaVdPQmZmc3VaWkZkZVcxNklJVUsyRENYQ292VGJ5eHc?oc=5",
+          "published": "2026-07-02T07:35:00.000Z"
         },
         {
           "tag": "Press",
@@ -149,19 +163,44 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Transcript: UBS bets on the US - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWJDV2N5VHprcE4xaHp1ckMtMDVKbWlIODVNak5GRFRPXzhQR3J4aGd0RmxrcDg1d09fYW92Ri1aeGtWaGdCNS1MN240dGh2cjVmaFZzQWtpZVVUb2VxOHlRQnNwZ0tBQzZGdTVFS29oTnh4aW54UDRtZlFqWEdwSGxYOEM?oc=5",
-          "published": "2026-07-02T04:07:55.000Z"
+          "headline": "Citigroup Inc at UBS Financial Services Conference Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFLXU3elVTZWxvRjAtZDFuZHlwNVdRNGtCYVgxTWptazJDamNub2RqQ1V0Vk5NUllQQjBsdE5EZnloNkMyalJkTkdrXzhSTi1iSEJBc1Z1a3NtenBmYWNNVmhoR1V6eFhyV19NSGdxVQ?oc=5",
+          "published": "2026-07-02T17:03:48.000Z"
         }
       ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Earnings",
+          "headline": "Since Q2, insurance funds have accelerated their purchases of Hong Kong-listed stocks: Ping An Group has acquired over HK$10 billion wort…",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2NQWmMzdXVVTEtUOUJQZFZibFpyc0dJM1haaXY2MlYzcUJ4OElLSWhxQXFJdUhMeU4zWXdsWE05V1pjNHNCSVh6RDZkMzUyRmg0cWtXaG9DUFMyenBtRmdqZTFoOUFLQ1BFRUFYamtYTlpWcWx4REhhVlFQN1ZhSW1tVnVBVllpVzN1QWFMZFlpVlpHYmJQbEpOeklzQTR0b1oxR05WbWN4QVU?oc=5",
+          "published": "2026-07-03T00:59:01.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Earnings",
+          "headline": "Since Q2, insurance funds have accelerated their purchases of Hong Kong-listed stocks: Ping An Group has acquired over HK$10 billion wort…",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2NQWmMzdXVVTEtUOUJQZFZibFpyc0dJM1haaXY2MlYzcUJ4OElLSWhxQXFJdUhMeU4zWXdsWE05V1pjNHNCSVh6RDZkMzUyRmg0cWtXaG9DUFMyenBtRmdqZTFoOUFLQ1BFRUFYamtYTlpWcWx4REhhVlFQN1ZhSW1tVnVBVllpVzN1QWFMZFlpVlpHYmJQbEpOeklzQTR0b1oxR05WbWN4QVU?oc=5",
+          "published": "2026-07-03T00:59:01.000Z"
+        }
+      ],
       "insight": null,
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-07-02T01:54:48.000Z"
+        }
+      ]
     },
     {
       "id": "retail-banking",
@@ -173,6 +212,20 @@
           "source": "Singapore Business Review",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczVOZkE5azFKSXJjbDQ1LTNDZlF2cGFObU1fanp3QVR6bU9scFRQR1JjT0lqTnVmRjZtVjA0SnB2RzNzdGxsYmFmcGZ2REhpeTdmWDN6S1JkU0pTbTVqSE5ONHV4RHIzb2pnVDQwdTZkNmlxT1BDUjRmWTd0Y3NEWDFJUTVyY2pJekpJ?oc=5",
           "published": "2026-07-01T07:40:09.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Cathay United Bank Taiwan honoured with three wins at the Asian Banking & Finance Retail Banking Awards 2026 - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbmdDc0RtOUhpcF85Q3hvX3ZNVWZWZVFrc2Q3T2pRaXRCN2RoUEdYS1AzS2NaUW1CQjdlcEtpN0FDZDUtM0VwUGhBY05UdGNrSms3TGRrYmQtZC1CSmdVSkc4R3pqSHB4UmdYcU9hRzlRNW4xbGhrejNVbUVaMXdmeFlwUHhTQXpyYVVvdzBqYnE4S3h6a0tvUUpPZnR2N3FHME1reUN1Ri1iZlFqTkUzbzBxRkY3Um9Vb0g5TlhtdHk0Z3d4YVU0VlVhN0dzd3FvU2o0N0RPN0Jmd0RKdDhrUHpQRmJKd05XODZITUN6bmQ?oc=5",
+          "published": "2026-07-03T02:13:34.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "More ways to move: Uber introduces cash payments across Australia - Uber",
+          "source": "Uber",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wOF80S2lrS1pLUDkwZjN6LXc1a2J0SmN4aFRESHpMbHlSbHk3ZVBxNUlhQmtfRVB5UGp1TWVMWVNubk11NEsyYnh3WGVJX1lUVnMwMTRodGh1OUk1S1E?oc=5",
+          "published": "2026-07-03T09:02:01.000Z"
         }
       ],
       "candidates": [
@@ -182,6 +235,20 @@
           "source": "Singapore Business Review",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczVOZkE5azFKSXJjbDQ1LTNDZlF2cGFObU1fanp3QVR6bU9scFRQR1JjT0lqTnVmRjZtVjA0SnB2RzNzdGxsYmFmcGZ2REhpeTdmWDN6S1JkU0pTbTVqSE5ONHV4RHIzb2pnVDQwdTZkNmlxT1BDUjRmWTd0Y3NEWDFJUTVyY2pJekpJ?oc=5",
           "published": "2026-07-01T07:40:09.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Cathay United Bank Taiwan honoured with three wins at the Asian Banking & Finance Retail Banking Awards 2026 - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbmdDc0RtOUhpcF85Q3hvX3ZNVWZWZVFrc2Q3T2pRaXRCN2RoUEdYS1AzS2NaUW1CQjdlcEtpN0FDZDUtM0VwUGhBY05UdGNrSms3TGRrYmQtZC1CSmdVSkc4R3pqSHB4UmdYcU9hRzlRNW4xbGhrejNVbUVaMXdmeFlwUHhTQXpyYVVvdzBqYnE4S3h6a0tvUUpPZnR2N3FHME1reUN1Ri1iZlFqTkUzbzBxRkY3Um9Vb0g5TlhtdHk0Z3d4YVU0VlVhN0dzd3FvU2o0N0RPN0Jmd0RKdDhrUHpQRmJKd05XODZITUN6bmQ?oc=5",
+          "published": "2026-07-03T02:13:34.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "More ways to move: Uber introduces cash payments across Australia - Uber",
+          "source": "Uber",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wOF80S2lrS1pLUDkwZjN6LXc1a2J0SmN4aFRESHpMbHlSbHk3ZVBxNUlhQmtfRVB5UGp1TWVMWVNubk11NEsyYnh3WGVJX1lUVnMwMTRodGh1OUk1S1E?oc=5",
+          "published": "2026-07-03T09:02:01.000Z"
         }
       ],
       "insight": null,
