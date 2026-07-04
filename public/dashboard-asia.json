@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T11:18:44.710Z",
+  "generatedAt": "2026-07-04T09:36:52.727Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -39,18 +39,18 @@
           "published": "2026-07-02T09:48:12.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF DR - USD (C): Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkFHNEdZZkZwNVRhRkFDWXZva0hsU1E1Z0pUWnhPZVNMS0JlRHUtRWJjOUgxcmc0ZnRVb3NPRmI2QV9jM2Y2TUxPTjBpWjZHR1lZc0hRd0hhSTFVUkFyTGhISUdfXzZDdWtadzZPNmc2SWxEemxfZDJneklHUFZCLWl0WnBzT2MzWnJTX2k3Mk1mQVlXbHNqcHo0azlXTGhuc0d4VDREV1cwZWs?oc=5",
-          "published": "2026-07-03T07:19:00.000Z"
+          "tag": "Earnings",
+          "headline": "Hong Kong’s AUM grew 20% to record high: SFC’s 2025 survey on asset and wealth management - Securities & Futures Commission of Hong Kong",
+          "source": "Securities & Futures Commission of Hong Kong",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHNPWFUydXRPNF95VzNPX2ZjanF6M2dpRmg1djZGdEszZzhma05yWHNBamk3YUpWYnh0ekZvei14S3k3M1lLNnVaNnlYa2JXNDN5VXJzLUJRU2t3TEhsNm84MnVGQkNMeTZSUkVwYUI1djBPanpYb1QwLUdVU0ZTam1VNnZjT3VKSUVXUWhIeUtmUlpkN1BaNA?oc=5",
+          "published": "2026-07-02T04:12:53.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVJ5a1JJb3g5cDV6VGpKbEQ4QzNheWJIM21WUkJ6TTFSRHFDVHRFSTR6Y2o2SDFCYUxnWkxudHgwUVpkdUNZUndtV19wMWIwQnAxaHhNc3BUc0RPRkdIVFdmSUNIM0NRTWJkSmwwdUYxMDhoX0VnNnM4aUpzclVVNHpXT0JzYXM3c2QzTnZvWVRteGZEbnkyMTdmcWFyYXI3M2xNRl82WTJwX3M?oc=5",
-          "published": "2026-07-03T07:18:00.000Z"
+          "tag": "Press",
+          "headline": "246 Chinese Funds Double Returns in H1 2026; China Asset Management Leads with 17, Backed by Research 5.0 Framework - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Qjg1SEtXMjJVTXhadjhYYjFTLWRXMzl2R09MaFBpQVJwQ3JLd1VOOTdVaUZBdGlhUlBZM3cwZGtWQ3N0MXdfSXhoTnIzQTVsOFlGYW8yWWhVRWNtTjYzTUx0VmtWeHpUR05kdFh4Q0E0WWJxNUE?oc=5",
+          "published": "2026-07-03T13:56:00.000Z"
         }
       ],
       "candidates": [
@@ -62,25 +62,18 @@
           "published": "2026-07-02T09:48:12.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF DR - USD (C): Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkFHNEdZZkZwNVRhRkFDWXZva0hsU1E1Z0pUWnhPZVNMS0JlRHUtRWJjOUgxcmc0ZnRVb3NPRmI2QV9jM2Y2TUxPTjBpWjZHR1lZc0hRd0hhSTFVUkFyTGhISUdfXzZDdWtadzZPNmc2SWxEemxfZDJneklHUFZCLWl0WnBzT2MzWnJTX2k3Mk1mQVlXbHNqcHo0azlXTGhuc0d4VDREV1cwZWs?oc=5",
-          "published": "2026-07-03T07:19:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI Emerging Ex China UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVJ5a1JJb3g5cDV6VGpKbEQ4QzNheWJIM21WUkJ6TTFSRHFDVHRFSTR6Y2o2SDFCYUxnWkxudHgwUVpkdUNZUndtV19wMWIwQnAxaHhNc3BUc0RPRkdIVFdmSUNIM0NRTWJkSmwwdUYxMDhoX0VnNnM4aUpzclVVNHpXT0JzYXM3c2QzTnZvWVRteGZEbnkyMTdmcWFyYXI3M2xNRl82WTJwX3M?oc=5",
-          "published": "2026-07-03T07:18:00.000Z"
-        },
-        {
           "tag": "Earnings",
           "headline": "Hong Kong’s AUM grew 20% to record high: SFC’s 2025 survey on asset and wealth management - Securities & Futures Commission of Hong Kong",
           "source": "Securities & Futures Commission of Hong Kong",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHNPWFUydXRPNF95VzNPX2ZjanF6M2dpRmg1djZGdEszZzhma05yWHNBamk3YUpWYnh0ekZvei14S3k3M1lLNnVaNnlYa2JXNDN5VXJzLUJRU2t3TEhsNm84MnVGQkNMeTZSUkVwYUI1djBPanpYb1QwLUdVU0ZTam1VNnZjT3VKSUVXUWhIeUtmUlpkN1BaNA?oc=5",
           "published": "2026-07-02T04:12:53.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "246 Chinese Funds Double Returns in H1 2026; China Asset Management Leads with 17, Backed by Research 5.0 Framework - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Qjg1SEtXMjJVTXhadjhYYjFTLWRXMzl2R09MaFBpQVJwQ3JLd1VOOTdVaUZBdGlhUlBZM3cwZGtWQ3N0MXdfSXhoTnIzQTVsOFlGYW8yWWhVRWNtTjYzTUx0VmtWeHpUR05kdFh4Q0E0WWJxNUE?oc=5",
+          "published": "2026-07-03T13:56:00.000Z"
         }
       ],
       "insight": null,
@@ -98,18 +91,18 @@
           "published": "2026-07-02T11:26:07.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "Hong Kong's Wealth Management Dominance Highlights China's Capital Control Conundrum - EPS Surprise History - dars.gov.et",
-          "source": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWtUY2hOald3OVZNc1g3UVhtMHdnWWlCQ3hMNFowaVd0SjdrTXljVmR3dUtBSzBFbUJxRGNKUVExUktXdE11T1pRZ2JkTlNEbUF2bnVCU3k5Mm9BLU9OemJyak5OQWNJTG82RUFNRGdwZ3p0dUVkbE55MXN5RGUzbkZ1Q2RnQk1LbjFaQ0M2LXA0aWlMdUwyb00zNTVpRzFES1dRLTczYVJaYUloUGU0X3RHUlNqVEhnYndjM3AydTRqUQ?oc=5",
-          "published": "2026-06-30T22:02:31.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "Analysis: How Hong Kong’s New Tax Rules Will Transform Cross-Border Wealth Management - Caixin Global",
           "source": "Caixin Global",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmpDdThsUXJUMm01akdQVGN2RFNDMGk3amlQOG04djNSYi1fQTNIRjdFcUlvWFo5dlJ4MGFzZDhJQzV5MEZRWXJ0bW5wX1BqczE1NFA0TDVuTk5ucVlnSE9HQkpLX3R1VjFzVnozcDEzTndzVGxsUjcyNkx0WGdaVHJKdGFRTmh6ZHJVZGN5dE5wR2QyUjNjZWJBUkl4bzZXclRvY3RuU0hVbVQ2YzljY1dlRlhPdXNvR3Vpb1dzZlNZS0s2VjNldWNYZTgyeTNYOE9KcQ?oc=5",
           "published": "2026-07-02T08:43:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Taiwan's Rich Rush to Singapore as a Hedge Against Beijing, Igniting Private Banking Boom - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1djl3VkxrRDJ4ODVtOWNXUWRQQ2lQWnBnMWtEbjF0UE96aE9NWUdOUTU3eWVWbFFNbzVHZmYzN0VYVmFmRFVQYmQ3OUF2S0Vsck15cllFaVdPQmZmc3VaWkZkZVcxNklJVUsyRENYQ292VGJ5eHc?oc=5",
+          "published": "2026-07-02T07:35:00.000Z"
         }
       ],
       "candidates": [
@@ -119,13 +112,6 @@
           "source": "CNA",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVS1Od2pMaTduV1hJeEk2UnB5MVZUdWFUcTFvY0tDSlFsTXpRYmZ0T0ZwWW9SQ05hTFhlS0hjZWNZS0FwUElReGUyell4ZmhyQ044MkVQaE9jbTlTQ2pvaHljaVRPOGpvajVZRURqcDlsUnB3cnI4dkhWM2hhWjk1Y1k4YlRTbVRMRndrbGQxbkN3QXl5VXVOdHd2bVZ2VzRlOUdHOVFXeUs2azhFRV9walBybk42UEZHUG85TFBIblViRjNqcU5Gb3o1N0VKSFc1UV9lUkw1a1V4UFBRVHc?oc=5",
           "published": "2026-07-02T11:26:07.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Hong Kong's Wealth Management Dominance Highlights China's Capital Control Conundrum - EPS Surprise History - dars.gov.et",
-          "source": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWtUY2hOald3OVZNc1g3UVhtMHdnWWlCQ3hMNFowaVd0SjdrTXljVmR3dUtBSzBFbUJxRGNKUVExUktXdE11T1pRZ2JkTlNEbUF2bnVCU3k5Mm9BLU9OemJyak5OQWNJTG82RUFNRGdwZ3p0dUVkbE55MXN5RGUzbkZ1Q2RnQk1LbjFaQ0M2LXA0aWlMdUwyb00zNTVpRzFES1dRLTczYVJaYUloUGU0X3RHUlNqVEhnYndjM3AydTRqUQ?oc=5",
-          "published": "2026-06-30T22:02:31.000Z"
         },
         {
           "tag": "Press",
@@ -207,13 +193,6 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Trust Bank taps ecosystem to fuel digital banking growth - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczVOZkE5azFKSXJjbDQ1LTNDZlF2cGFObU1fanp3QVR6bU9scFRQR1JjT0lqTnVmRjZtVjA0SnB2RzNzdGxsYmFmcGZ2REhpeTdmWDN6S1JkU0pTbTVqSE5ONHV4RHIzb2pnVDQwdTZkNmlxT1BDUjRmWTd0Y3NEWDFJUTVyY2pJekpJ?oc=5",
-          "published": "2026-07-01T07:40:09.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "Cathay United Bank Taiwan honoured with three wins at the Asian Banking & Finance Retail Banking Awards 2026 - Asian Banking & Finance",
           "source": "Asian Banking & Finance",
@@ -229,13 +208,6 @@
         }
       ],
       "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Trust Bank taps ecosystem to fuel digital banking growth - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczVOZkE5azFKSXJjbDQ1LTNDZlF2cGFObU1fanp3QVR6bU9scFRQR1JjT0lqTnVmRjZtVjA0SnB2RzNzdGxsYmFmcGZ2REhpeTdmWDN6S1JkU0pTbTVqSE5ONHV4RHIzb2pnVDQwdTZkNmlxT1BDUjRmWTd0Y3NEWDFJUTVyY2pJekpJ?oc=5",
-          "published": "2026-07-01T07:40:09.000Z"
-        },
         {
           "tag": "Press",
           "headline": "Cathay United Bank Taiwan honoured with three wins at the Asian Banking & Finance Retail Banking Awards 2026 - Asian Banking & Finance",
