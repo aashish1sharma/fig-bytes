@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T09:57:18.649Z",
+  "generatedAt": "2026-07-06T14:37:45.045Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,34 +32,62 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Strategy",
-          "headline": "Hong Kong wealth, fund assets reach record US$5.4 tril on inflows - The Edge Malaysia",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Q244OGZITHpRMF9WWkpkOFdDVTY4aGhfcUJrQVBwZWZRLTNPa2ZZUThzeDhDaXFhY2NBVFVLUkhBaFVYUUFySERLV0g4MzFM?oc=5",
-          "published": "2026-07-02T10:46:57.000Z"
+          "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc29DZWx6TTl6bElYbFVFbmc4SG5HNmhrS05wVlRuek5pZS1aY0M2UFkybjlkbjMyV00wLVk0X3d2MUxwcXl1a2ZTS0ttZ254QW8zZTc2QXEyd0l4SDhPZ1JOWTZhdmFPWGh0UndSMnRCa0N5ZU1KYThvcFBSWC1wWEQyeThxT0JaYWNCOFJVVmdzUk9SLVFOSUc0QlNZUE5XNjkzN1BBM280aTQ?oc=5",
+          "published": "2026-07-06T07:18:00.000Z"
         },
         {
-          "tag": "Press",
-          "headline": "246 Chinese Funds Double Returns in H1 2026; China Asset Management Leads with 17, Backed by Research 5.0 Framework - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Qjg1SEtXMjJVTXhadjhYYjFTLWRXMzl2R09MaFBpQVJwQ3JLd1VOOTdVaUZBdGlhUlBZM3cwZGtWQ3N0MXdfSXhoTnIzQTVsOFlGYW8yWWhVRWNtTjYzTUx0VmtWeHpUR05kdFh4Q0E0WWJxNUE?oc=5",
-          "published": "2026-07-03T13:56:00.000Z"
+          "tag": "Product",
+          "headline": "Hong Kong pension fund to ease rules on gold ETF investment, source says - investingLive",
+          "source": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWngtbXRYX28xSHNmYkVVSnNNLVpDaHRfZ1UwbmpwZE9ld2ZZSFotVGYwRko5cjRoTVlXcUtaQ0MxcGhtb2hia1V4aUpVSGpoUktpNi1CUWNGbVJpYnFRcjhpb2x6eklLUFZXczNQRXVNRzZkc0lkVWRldjlreFI1OFREX2tKVDg2OWxrbzNLRlBkNFVENWl5VEF4c2hTaVVZS0VGMjd0b0kxOVU0cDBobzkwWGNWam5wMTd3?oc=5",
+          "published": "2026-07-06T03:01:24.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "\"Samsung, SK Still Undervalued\": KOSPI ETF Launches in Hong Kong - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGp3RlhmdGRNeXZXbGJaVzZEdG5rbF9BUHoyT0d1R05uTFRXYXN3Und1Z1E4dHBLYUlweUJqSWgtQ0RNNVZFaWNnbk9xTV9pdFk2dk1zX3lIeTdjRWNnODZFdjBZUHZNblNnWEVLVXpJN1RMclNLbkl2OHVZQThYbVVqN3phcmh5Y3dZbVlNSFZuT0xHNGpHZjhfZHVBUmZJUERkbg?oc=5",
+          "published": "2026-07-06T01:00:05.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Strategy",
-          "headline": "Hong Kong wealth, fund assets reach record US$5.4 tril on inflows - The Edge Malaysia",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Q244OGZITHpRMF9WWkpkOFdDVTY4aGhfcUJrQVBwZWZRLTNPa2ZZUThzeDhDaXFhY2NBVFVLUkhBaFVYUUFySERLV0g4MzFM?oc=5",
-          "published": "2026-07-02T10:46:57.000Z"
+          "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc29DZWx6TTl6bElYbFVFbmc4SG5HNmhrS05wVlRuek5pZS1aY0M2UFkybjlkbjMyV00wLVk0X3d2MUxwcXl1a2ZTS0ttZ254QW8zZTc2QXEyd0l4SDhPZ1JOWTZhdmFPWGh0UndSMnRCa0N5ZU1KYThvcFBSWC1wWEQyeThxT0JaYWNCOFJVVmdzUk9SLVFOSUc0QlNZUE5XNjkzN1BBM280aTQ?oc=5",
+          "published": "2026-07-06T07:18:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong pension fund to ease rules on gold ETF investment, source says - investingLive",
+          "source": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWngtbXRYX28xSHNmYkVVSnNNLVpDaHRfZ1UwbmpwZE9ld2ZZSFotVGYwRko5cjRoTVlXcUtaQ0MxcGhtb2hia1V4aUpVSGpoUktpNi1CUWNGbVJpYnFRcjhpb2x6eklLUFZXczNQRXVNRzZkc0lkVWRldjlreFI1OFREX2tKVDg2OWxrbzNLRlBkNFVENWl5VEF4c2hTaVVZS0VGMjd0b0kxOVU0cDBobzkwWGNWam5wMTd3?oc=5",
+          "published": "2026-07-06T03:01:24.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "\"Samsung, SK Still Undervalued\": KOSPI ETF Launches in Hong Kong - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGp3RlhmdGRNeXZXbGJaVzZEdG5rbF9BUHoyT0d1R05uTFRXYXN3Und1Z1E4dHBLYUlweUJqSWgtQ0RNNVZFaWNnbk9xTV9pdFk2dk1zX3lIeTdjRWNnODZFdjBZUHZNblNnWEVLVXpJN1RMclNLbkl2OHVZQThYbVVqN3phcmh5Y3dZbVlNSFZuT0xHNGpHZjhfZHVBUmZJUERkbg?oc=5",
+          "published": "2026-07-06T01:00:05.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong Capital Goes All-In on Korean Semiconductors, From Samsung Electro-Mechanics' 756% Surge to World's Largest SK Hynix ETF - fina…",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zUy1Eal9xUE5iQ1hOeE9zMTdJLVlwLTRFNS1yWnJINDdlcE5sT09kUHlxMkFWYmJFWC01dU9RQXFtdUs0VTRCTUNuUkZ5c3M3dUtyRVM4YWd2YmtmVVJYZHJZSHFKcVhpLXJaUTlkNGJxelM0UlE?oc=5",
+          "published": "2026-07-05T10:55:00.000Z"
         },
         {
           "tag": "Press",
-          "headline": "246 Chinese Funds Double Returns in H1 2026; China Asset Management Leads with 17, Backed by Research 5.0 Framework - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Qjg1SEtXMjJVTXhadjhYYjFTLWRXMzl2R09MaFBpQVJwQ3JLd1VOOTdVaUZBdGlhUlBZM3cwZGtWQ3N0MXdfSXhoTnIzQTVsOFlGYW8yWWhVRWNtTjYzTUx0VmtWeHpUR05kdFh4Q0E0WWJxNUE?oc=5",
-          "published": "2026-07-03T13:56:00.000Z"
+          "headline": "Hong Kong Reemerges as Asia’s Premier Asset Management Hub - 조선일보",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTVSOXUyTTRtOVpYSVo2Nnp2Sk0weDNoWFRVS3hjaWFpQ1BrX3Q1Nlk0dDRGMUlpZW42bGRLX19fYjNlNVo3elNENVNvc3VIMTlMZmdKUjhXV3VteWo5WkdRYWVFWXJUWTZBUHB2T1VWaGNkdkZoNXBGZHRrLXFPd3J2a3RYcVRPNDhnbFZ3?oc=5",
+          "published": "2026-07-06T00:22:42.000Z"
         }
       ],
       "insight": null,
@@ -70,20 +98,20 @@
       "name": "Wealth Management",
       "bullets": [
         {
-          "tag": "Earnings",
-          "headline": "Hong Kong's assets under management grow to record $5.38 trillion, SFC survey shows - CNA",
-          "source": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnBIUzhReEE5anJGUGUwcS1Fci1rZFozV1JPbHFQM3ZEbFhsaFdxUWZBX01TUDgzNTRjQzNxNEctS1g0R05KdWdKeGpYTmFncE9xZXl6enkzZXlLdzhqUkt6cV85d3d2NnlneUFXM005bHpIXzI3Rk1sQ0F5bjhYQmItTm4yR3F3VWFFZnFRRGxWdThydURHVEdDQTQyUFVnQXNiZmh3YTV2elNiMlh3NXV6bV9kdGpYaGRSdDRIUWR5aDQ?oc=5",
-          "published": "2026-07-02T11:26:07.000Z"
+          "tag": "Product",
+          "headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong - Bran ... - Brand Spur",
+          "source": "Brand Spur",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2FpZ2pXZkhZeGFDRXNLTlJMYkNyc2dwMkNlVHliNkl2Vnh3U1JYNmFFVWFQOUVuZlZNcUhKbUJBd1paWnoxR1RZcTI4MlNXVEZwRi1LR1AwRndXY0RKZEs4T1JHaE5TcHR6aUcwVTR6MEEteHVwMzU3M2JTS1FIOFJPTURtQk1zV1hIc0lmaHFQTE00Vjl6ZFNmcVRUV2c3aE5mZU04SmhNalh0enFTWmNYZ19zaHN2dGtrekZDdWF1TEd1Sllv0gHMAUFVX3lxTFBwRjJEZ1UwSno1YmNWVklxdUZnbWN5WDlxbGxFR2Q0RjN0dUdQeVFxWHVQMXNQSjQ3NGI1cmp1QXp1MC1vTlEwQlZfS2lTZlRPYV9PRjgzUEF3VHppc1pOY0RJckczc3ZvQ09peTdTWTF6UjBEbEo3SHNPa3FtczdWVFZYc1hNdmg0RUxmREdjcFNjXzVnUjZhMlNFclpkR2ltZWNsZzlqeTFSWHpISmZSRjZBTG55dEg5LXV0LXZ3WUtOSm80OHBzb0lWVw?oc=5",
+          "published": "2026-07-06T02:00:00.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Earnings",
-          "headline": "Hong Kong's assets under management grow to record $5.38 trillion, SFC survey shows - CNA",
-          "source": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnBIUzhReEE5anJGUGUwcS1Fci1rZFozV1JPbHFQM3ZEbFhsaFdxUWZBX01TUDgzNTRjQzNxNEctS1g0R05KdWdKeGpYTmFncE9xZXl6enkzZXlLdzhqUkt6cV85d3d2NnlneUFXM005bHpIXzI3Rk1sQ0F5bjhYQmItTm4yR3F3VWFFZnFRRGxWdThydURHVEdDQTQyUFVnQXNiZmh3YTV2elNiMlh3NXV6bV9kdGpYaGRSdDRIUWR5aDQ?oc=5",
-          "published": "2026-07-02T11:26:07.000Z"
+          "tag": "Product",
+          "headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong - Bran ... - Brand Spur",
+          "source": "Brand Spur",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2FpZ2pXZkhZeGFDRXNLTlJMYkNyc2dwMkNlVHliNkl2Vnh3U1JYNmFFVWFQOUVuZlZNcUhKbUJBd1paWnoxR1RZcTI4MlNXVEZwRi1LR1AwRndXY0RKZEs4T1JHaE5TcHR6aUcwVTR6MEEteHVwMzU3M2JTS1FIOFJPTURtQk1zV1hIc0lmaHFQTE00Vjl6ZFNmcVRUV2c3aE5mZU04SmhNalh0enFTWmNYZ19zaHN2dGtrekZDdWF1TEd1Sllv0gHMAUFVX3lxTFBwRjJEZ1UwSno1YmNWVklxdUZnbWN5WDlxbGxFR2Q0RjN0dUdQeVFxWHVQMXNQSjQ3NGI1cmp1QXp1MC1vTlEwQlZfS2lTZlRPYV9PRjgzUEF3VHppc1pOY0RJckczc3ZvQ09peTdTWTF6UjBEbEo3SHNPa3FtczdWVFZYc1hNdmg0RUxmREdjcFNjXzVnUjZhMlNFclpkR2ltZWNsZzlqeTFSWHpISmZSRjZBTG55dEg5LXV0LXZ3WUtOSm80OHBzb0lWVw?oc=5",
+          "published": "2026-07-06T02:00:00.000Z"
         }
       ],
       "insight": null,
@@ -101,49 +129,10 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Earnings",
-          "headline": "Since Q2, insurance funds have accelerated their purchases of Hong Kong-listed stocks: Ping An Group has acquired over HK$10 billion wort…",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2NQWmMzdXVVTEtUOUJQZFZibFpyc0dJM1haaXY2MlYzcUJ4OElLSWhxQXFJdUhMeU4zWXdsWE05V1pjNHNCSVh6RDZkMzUyRmg0cWtXaG9DUFMyenBtRmdqZTFoOUFLQ1BFRUFYamtYTlpWcWx4REhhVlFQN1ZhSW1tVnVBVllpVzN1QWFMZFlpVlpHYmJQbEpOeklzQTR0b1oxR05WbWN4QVU?oc=5",
-          "published": "2026-07-03T00:59:01.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Agricultural Bank of China (01288.HK) received an increase in its H-share holdings by Ping An Life Insurance Company of China, Ltd. and i…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUtLLWRCWlFabmpCb1hPZ0Rqa2lNMDRhZHJFWlc2MzRybDJ1c0V5RG1rVjk0R2dyUnRIYmI5aW1ueTUxTW01c08wcVdPVmd0VjZKb2xoTW5HQlpQM0w0cFJpYjRHYVhxNUY2QXI0UnBlT1hNelktdjBFMnRKTFRXUEl6RTNMQzlfblhrYjJrbmpkSFVLdmNIODZVV2p3UXZkNXc?oc=5",
-          "published": "2026-07-03T09:39:17.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Earnings",
-          "headline": "Since Q2, insurance funds have accelerated their purchases of Hong Kong-listed stocks: Ping An Group has acquired over HK$10 billion wort…",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2NQWmMzdXVVTEtUOUJQZFZibFpyc0dJM1haaXY2MlYzcUJ4OElLSWhxQXFJdUhMeU4zWXdsWE05V1pjNHNCSVh6RDZkMzUyRmg0cWtXaG9DUFMyenBtRmdqZTFoOUFLQ1BFRUFYamtYTlpWcWx4REhhVlFQN1ZhSW1tVnVBVllpVzN1QWFMZFlpVlpHYmJQbEpOeklzQTR0b1oxR05WbWN4QVU?oc=5",
-          "published": "2026-07-03T00:59:01.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Agricultural Bank of China (01288.HK) received an increase in its H-share holdings by Ping An Life Insurance Company of China, Ltd. and i…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUtLLWRCWlFabmpCb1hPZ0Rqa2lNMDRhZHJFWlc2MzRybDJ1c0V5RG1rVjk0R2dyUnRIYmI5aW1ueTUxTW01c08wcVdPVmd0VjZKb2xoTW5HQlpQM0w0cFJpYjRHYVhxNUY2QXI0UnBlT1hNelktdjBFMnRKTFRXUEl6RTNMQzlfblhrYjJrbmpkSFVLdmNIODZVV2p3UXZkNXc?oc=5",
-          "published": "2026-07-03T09:39:17.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
-      "companyUpdates": [
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-02T18:46:40.000Z"
-        }
-      ]
+      "companyUpdates": []
     },
     {
       "id": "retail-banking",
@@ -151,47 +140,47 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Cathay United Bank Taiwan honoured with three wins at the Asian Banking & Finance Retail Banking Awards 2026 - Asian Banking & Finance",
+          "headline": "Malaysia bank loans up 5.7% in May on record business loan growth - Asian Banking & Finance",
           "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbmdDc0RtOUhpcF85Q3hvX3ZNVWZWZVFrc2Q3T2pRaXRCN2RoUEdYS1AzS2NaUW1CQjdlcEtpN0FDZDUtM0VwUGhBY05UdGNrSms3TGRrYmQtZC1CSmdVSkc4R3pqSHB4UmdYcU9hRzlRNW4xbGhrejNVbUVaMXdmeFlwUHhTQXpyYVVvdzBqYnE4S3h6a0tvUUpPZnR2N3FHME1reUN1Ri1iZlFqTkUzbzBxRkY3Um9Vb0g5TlhtdHk0Z3d4YVU0VlVhN0dzd3FvU2o0N0RPN0Jmd0RKdDhrUHpQRmJKd05XODZITUN6bmQ?oc=5",
-          "published": "2026-07-03T02:13:34.000Z"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdram02WEp1YjRyT1VmcTNoa2N5VFBJanhGRzQyRmp4Nk1JRkQ0UFE0OXQ0R3NaY214LUxPcmhMTnlSZ29NdGtJRllFMXh0dEpOUkg2elFSaEtLRW5EeXE2R1FON1hnVU1nLUdwN0FibXlGM0dMVDBEVG5PVUFTSXlZZGVwZFBoRU56ZXBDTWF3WkM5cTJTd2dTcmNoMVRkcHk1RWxKUEt3NmJfTVl4RE1n?oc=5",
+          "published": "2026-07-06T04:27:50.000Z"
         },
         {
           "tag": "Product",
-          "headline": "More ways to move: Uber introduces cash payments across Australia - Uber",
-          "source": "Uber",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wOF80S2lrS1pLUDkwZjN6LXc1a2J0SmN4aFRESHpMbHlSbHk3ZVBxNUlhQmtfRVB5UGp1TWVMWVNubk11NEsyYnh3WGVJX1lUVnMwMTRodGh1OUk1S1E?oc=5",
-          "published": "2026-07-03T09:02:01.000Z"
+          "headline": "Wild Card City Casino platform – Secure Online Payments When Playing in Australia - Kafal Tree",
+          "source": "Kafal Tree",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEY3MUROVHlxYng5bUw4M3BQRWFwQ2VWbmpyMzZDSE5kRXMtSnNHR1lxSERBY19VS3NyUUdQSmVuQmpiTWdHTlM4eDduZVc3dnhhUFRnc0tDdTVNQjRKeHE2TzBBQm9NUUhmb1oxaU11REJtaGstRE9XY25QNUJaaVlDcmFSam95Y0IyVXVsYkJYZm9XcGlJY24ydFpvSWhsM3dwWdIBqgFBVV95cUxPU2tiUk1FV0pHZUJ2MnlnUG9jUWcwLUNjOUdKd0pxNlZjQ2NjT1c1STB6M3NrN0RiUmVkOG5JSzNodWZ3V0s1bVJlb1dsbHE1QjNaNnhEWFJZNU8wQ3JNQUQ3OGl0eFY2RjFxMTZwRFBzSE8tRi1sR0d4S3BQNUpONTQ0R3NkUnA3Tm4zMF9hLVlyY3p0aFdTbm5MM1l6b24zWFpYVFp1RkpPZw?oc=5",
+          "published": "2026-07-04T03:33:17.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Vietnamese QR payments to Singapore begin this year as Napas links cross-border QR payments - index.vn",
-          "source": "index.vn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEN0UlFlVUxlSnQ2RG80NURwQjdrSXNUX3p4LTNSX0JRLWdnMHZJZ3BWS042LVpMd3dlcF9iYmYxc0E5TG52RFZYQ0NqTGR4Z2lmN1p1bTVrbEtHdEtFeFlfYU9jUjFKb2R6UGp3UTRfN0lrTXZtU0J1dHFaN1ByQnhOei1QZ1FQdkZTaFY2V2hyMTQxeXk2TUZQSTlVbGtMWmJsSnRHb0xwcTNMTmN2S3hEaVZESEU?oc=5",
-          "published": "2026-07-02T10:06:00.000Z"
+          "headline": "Vietnamese banking apps to enable payments in Singapore - Vietnam+ (VietnamPlus)",
+          "source": "Vietnam+ (VietnamPlus)",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1J6SVR3b19BdEx5QTFkb2hTeUNIaEF0TFl5ZkdCWTgzQVd1eUtDaXRxby1Pb2pfZnk5cXZDS3FJUVdmUUlZSHU2S1p2Vml5N19lQ3hiMHNHblVBelFXVDVrZENfTTlCLTlma3ZEVGdtRzJSbDN1OV9kQU5WNzhXc05HUHNDX2lKNnIxY2FHWFVMVE5MQkEyRm40S08?oc=5",
+          "published": "2026-07-06T08:32:49.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Cathay United Bank Taiwan honoured with three wins at the Asian Banking & Finance Retail Banking Awards 2026 - Asian Banking & Finance",
+          "headline": "Malaysia bank loans up 5.7% in May on record business loan growth - Asian Banking & Finance",
           "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbmdDc0RtOUhpcF85Q3hvX3ZNVWZWZVFrc2Q3T2pRaXRCN2RoUEdYS1AzS2NaUW1CQjdlcEtpN0FDZDUtM0VwUGhBY05UdGNrSms3TGRrYmQtZC1CSmdVSkc4R3pqSHB4UmdYcU9hRzlRNW4xbGhrejNVbUVaMXdmeFlwUHhTQXpyYVVvdzBqYnE4S3h6a0tvUUpPZnR2N3FHME1reUN1Ri1iZlFqTkUzbzBxRkY3Um9Vb0g5TlhtdHk0Z3d4YVU0VlVhN0dzd3FvU2o0N0RPN0Jmd0RKdDhrUHpQRmJKd05XODZITUN6bmQ?oc=5",
-          "published": "2026-07-03T02:13:34.000Z"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdram02WEp1YjRyT1VmcTNoa2N5VFBJanhGRzQyRmp4Nk1JRkQ0UFE0OXQ0R3NaY214LUxPcmhMTnlSZ29NdGtJRllFMXh0dEpOUkg2elFSaEtLRW5EeXE2R1FON1hnVU1nLUdwN0FibXlGM0dMVDBEVG5PVUFTSXlZZGVwZFBoRU56ZXBDTWF3WkM5cTJTd2dTcmNoMVRkcHk1RWxKUEt3NmJfTVl4RE1n?oc=5",
+          "published": "2026-07-06T04:27:50.000Z"
         },
         {
           "tag": "Product",
-          "headline": "More ways to move: Uber introduces cash payments across Australia - Uber",
-          "source": "Uber",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wOF80S2lrS1pLUDkwZjN6LXc1a2J0SmN4aFRESHpMbHlSbHk3ZVBxNUlhQmtfRVB5UGp1TWVMWVNubk11NEsyYnh3WGVJX1lUVnMwMTRodGh1OUk1S1E?oc=5",
-          "published": "2026-07-03T09:02:01.000Z"
+          "headline": "Wild Card City Casino platform – Secure Online Payments When Playing in Australia - Kafal Tree",
+          "source": "Kafal Tree",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEY3MUROVHlxYng5bUw4M3BQRWFwQ2VWbmpyMzZDSE5kRXMtSnNHR1lxSERBY19VS3NyUUdQSmVuQmpiTWdHTlM4eDduZVc3dnhhUFRnc0tDdTVNQjRKeHE2TzBBQm9NUUhmb1oxaU11REJtaGstRE9XY25QNUJaaVlDcmFSam95Y0IyVXVsYkJYZm9XcGlJY24ydFpvSWhsM3dwWdIBqgFBVV95cUxPU2tiUk1FV0pHZUJ2MnlnUG9jUWcwLUNjOUdKd0pxNlZjQ2NjT1c1STB6M3NrN0RiUmVkOG5JSzNodWZ3V0s1bVJlb1dsbHE1QjNaNnhEWFJZNU8wQ3JNQUQ3OGl0eFY2RjFxMTZwRFBzSE8tRi1sR0d4S3BQNUpONTQ0R3NkUnA3Tm4zMF9hLVlyY3p0aFdTbm5MM1l6b24zWFpYVFp1RkpPZw?oc=5",
+          "published": "2026-07-04T03:33:17.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Vietnamese QR payments to Singapore begin this year as Napas links cross-border QR payments - index.vn",
-          "source": "index.vn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEN0UlFlVUxlSnQ2RG80NURwQjdrSXNUX3p4LTNSX0JRLWdnMHZJZ3BWS042LVpMd3dlcF9iYmYxc0E5TG52RFZYQ0NqTGR4Z2lmN1p1bTVrbEtHdEtFeFlfYU9jUjFKb2R6UGp3UTRfN0lrTXZtU0J1dHFaN1ByQnhOei1QZ1FQdkZTaFY2V2hyMTQxeXk2TUZQSTlVbGtMWmJsSnRHb0xwcTNMTmN2S3hEaVZESEU?oc=5",
-          "published": "2026-07-02T10:06:00.000Z"
+          "headline": "Vietnamese banking apps to enable payments in Singapore - Vietnam+ (VietnamPlus)",
+          "source": "Vietnam+ (VietnamPlus)",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1J6SVR3b19BdEx5QTFkb2hTeUNIaEF0TFl5ZkdCWTgzQVd1eUtDaXRxby1Pb2pfZnk5cXZDS3FJUVdmUUlZSHU2S1p2Vml5N19lQ3hiMHNHblVBelFXVDVrZENfTTlCLTlma3ZEVGdtRzJSbDN1OV9kQU5WNzhXc05HUHNDX2lKNnIxY2FHWFVMVE5MQkEyRm40S08?oc=5",
+          "published": "2026-07-06T08:32:49.000Z"
         }
       ],
       "insight": null,
