@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T12:15:38.357Z",
+  "generatedAt": "2026-07-08T10:01:06.287Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,10 +33,17 @@
       "bullets": [
         {
           "tag": "Strategy",
-          "headline": "Hong Kong wealth assets hit record $5.4 trillion as global capital inflows nearly triple - AsianInvestor Wealth",
-          "source": "AsianInvestor Wealth",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGE3cy1sMVNNdWZvS2NmYndvcmo5TUpmSms3SE92OEt5WWFRRlFaRzAwVktpWVB4aEJIZnVzS3NmUFdSTlpXQ1pOb3I5UmQtQUJxdm4tMTJsOUZiRjlkamFzWm4yOU40ZUZibjdtMGRBZmc0alBqZDRleFM3aFBnbFVwcGFvZ2FJMVlfUzFjQVRYeEZpY1ZPQXFYdFhaTHRKVnU1ZU91cERsTFZEQmNjbHJjN3RkcW9IOGpVUE5iTzdZOFI1OTRLUHNqVQ?oc=5",
-          "published": "2026-07-06T17:45:41.000Z"
+          "headline": "Hong Kong ETF market gathers pace amid surge in assets and inflows - SRP (Structured Retail Products)",
+          "source": "SRP (Structured Retail Products)",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXRGdVVVajdhNTRITTBmNEhOSmsxaUI2VEdmVmVFelo1dkdTYnRrZV9LSHRrVTN0OEI2cjY0QmVNRlpGdEJ2VmMwRWY4bUFwQ1FEblpRT0V6U3F4SWY0OW5UdGMxLVItblR0bi1TckowdHlVdGhidnpFNm16bXNodkdVWXVMQ25pQm5Yd1Yyajc4YjljZ0E4X2E3QjlmQUdIOVh3SlZzR0t3Qld0Rm82dnRMTTI4YWhNdlloSHluSQ?oc=5",
+          "published": "2026-07-07T16:18:25.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong's MPF Liberalizes Gold ETF Investment, Adopts Category-Based Approval Effective Immediately - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZHhXRGdBOW02U1ZvOTRzUTBzX1Jia2M2RFgxTUYxWDVQOGxjUWk0WWRUVHVOTFMwdVdETm9DMHRqbzFlV1doM01MYXlESmVCMGNTbV9tb0dJcmNqVU43WmIxTHBhTG5NUFRjb0pXdjNhSzVIX3c?oc=5",
+          "published": "2026-07-07T09:36:00.000Z"
         },
         {
           "tag": "Product",
@@ -44,22 +51,22 @@
           "source": "The Korea Economic Daily Global Edition",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NTHlYVjV4b29LZGxidlZIM285TXNUUjZUbnFPbEpPWTlIYmVldVRib3RaWnRLWlhEdFJ0a0lwcjNJZGVaQXI2dU9nYTZEdEg3cFB4RVgtLWRFOGxpNDJMOEpsUk5CQjhf?oc=5",
           "published": "2026-07-07T09:34:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong pension fund to ease rules on gold ETF investment, source says - investingLive",
-          "source": "investingLive",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWngtbXRYX28xSHNmYkVVSnNNLVpDaHRfZ1UwbmpwZE9ld2ZZSFotVGYwRko5cjRoTVlXcUtaQ0MxcGhtb2hia1V4aUpVSGpoUktpNi1CUWNGbVJpYnFRcjhpb2x6eklLUFZXczNQRXVNRzZkc0lkVWRldjlreFI1OFREX2tKVDg2OWxrbzNLRlBkNFVENWl5VEF4c2hTaVVZS0VGMjd0b0kxOVU0cDBobzkwWGNWam5wMTd3?oc=5",
-          "published": "2026-07-06T12:08:14.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Strategy",
-          "headline": "Hong Kong wealth assets hit record $5.4 trillion as global capital inflows nearly triple - AsianInvestor Wealth",
-          "source": "AsianInvestor Wealth",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGE3cy1sMVNNdWZvS2NmYndvcmo5TUpmSms3SE92OEt5WWFRRlFaRzAwVktpWVB4aEJIZnVzS3NmUFdSTlpXQ1pOb3I5UmQtQUJxdm4tMTJsOUZiRjlkamFzWm4yOU40ZUZibjdtMGRBZmc0alBqZDRleFM3aFBnbFVwcGFvZ2FJMVlfUzFjQVRYeEZpY1ZPQXFYdFhaTHRKVnU1ZU91cERsTFZEQmNjbHJjN3RkcW9IOGpVUE5iTzdZOFI1OTRLUHNqVQ?oc=5",
-          "published": "2026-07-06T17:45:41.000Z"
+          "headline": "Hong Kong ETF market gathers pace amid surge in assets and inflows - SRP (Structured Retail Products)",
+          "source": "SRP (Structured Retail Products)",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXRGdVVVajdhNTRITTBmNEhOSmsxaUI2VEdmVmVFelo1dkdTYnRrZV9LSHRrVTN0OEI2cjY0QmVNRlpGdEJ2VmMwRWY4bUFwQ1FEblpRT0V6U3F4SWY0OW5UdGMxLVItblR0bi1TckowdHlVdGhidnpFNm16bXNodkdVWXVMQ25pQm5Yd1Yyajc4YjljZ0E4X2E3QjlmQUdIOVh3SlZzR0t3Qld0Rm82dnRMTTI4YWhNdlloSHluSQ?oc=5",
+          "published": "2026-07-07T16:18:25.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong's MPF Liberalizes Gold ETF Investment, Adopts Category-Based Approval Effective Immediately - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZHhXRGdBOW02U1ZvOTRzUTBzX1Jia2M2RFgxTUYxWDVQOGxjUWk0WWRUVHVOTFMwdVdETm9DMHRqbzFlV1doM01MYXlESmVCMGNTbV9tb0dJcmNqVU43WmIxTHBhTG5NUFRjb0pXdjNhSzVIX3c?oc=5",
+          "published": "2026-07-07T09:36:00.000Z"
         },
         {
           "tag": "Product",
@@ -70,14 +77,21 @@
         },
         {
           "tag": "Product",
+          "headline": "Hong Kong’s Mandatory Provident Fund Schemes Authority optimizes gold ETF approval mechanism to broaden asset allocation options - 富途牛牛",
+          "source": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1AtV2dYRkU5eFc5dHA2Vm01V3NiVDhmVDJQQTZjSW1vQkpxSy1yZTQwX3hlZmxpNGMwREE0REVJSHBQRGZvRXdYYTVXM0JsSnlrcXRtLVM0VFpDSHFkd2ptbzRGcmdVZWpSM3k2bVpMd0ZKaFBza1FTbm9LN0VkTVZ0ZE40X0d1UTRnbGlFQm9YTGRFSjAtUkJSTUZuY3FjVF9jTDZGekgtNE1iZkZV?oc=5",
+          "published": "2026-07-07T08:41:21.000Z"
+        },
+        {
+          "tag": "Product",
           "headline": "Hong Kong pension fund to ease rules on gold ETF investment, source says - investingLive",
           "source": "investingLive",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWngtbXRYX28xSHNmYkVVSnNNLVpDaHRfZ1UwbmpwZE9ld2ZZSFotVGYwRko5cjRoTVlXcUtaQ0MxcGhtb2hia1V4aUpVSGpoUktpNi1CUWNGbVJpYnFRcjhpb2x6eklLUFZXczNQRXVNRzZkc0lkVWRldjlreFI1OFREX2tKVDg2OWxrbzNLRlBkNFVENWl5VEF4c2hTaVVZS0VGMjd0b0kxOVU0cDBobzkwWGNWam5wMTd3?oc=5",
-          "published": "2026-07-06T12:08:14.000Z"
+          "published": "2026-07-06T19:50:21.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Wann Asset Management views Singapore as a standout asset to strengthen its portfolio, boosted by major capital market reforms, and aims …",
+          "headline": "Wann Asset Management views Singapore as a standout asset to strengthen its portfolio, benefiting from major capital market reforms, and …",
           "source": "วารสารการเงินธนาคาร",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNjhYU3djOFEtT29GbXE3S05XY3RJd2tJVVN0NUM5VThyZFpaUXAwblFRTzhXTloxSVRqa1pIbUkwa3F6THZqS0dGdjRQT0wtc1FNQU94c1c?oc=5",
           "published": "2026-07-07T09:06:00.000Z"
@@ -107,19 +121,19 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong - iHarare News",
-          "source": "iHarare News",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd3pDdTVmcFlaUW5tb2M2dURYUnVpai1WWHZIYW1uQXVkbDNmZEZKNmlxRnM3SkZJdF9NbGJNRU1OOU9xaEVnb3hqMVpIV2hzbDhlbmg0S3dRUlczWFA2bGctSkRxajBYajNfT01YNTIzdGxlZ1J0R0ZCRnQ5NmdrQm9icjNyQXRHN1BNakRmSWY0S0JTaDdmc3RIUUFOSUdhN19icUpsUmw5cUNFR2hiVkg3bEQ4UHdRZ19lbzZLTzExc3U2MWNCajBWbXpndWw3My1uZkRmbWRORUNucGNB?oc=5",
-          "published": "2026-07-06T17:50:08.000Z"
+          "headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong - 巴士的報",
+          "source": "巴士的報",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNHVDeVFKNHA2RjBSSDE0S19US291d1BtR0VYRHpHLWhKTlhONUFZN3JVNGt6QlpsT2dzb2I1X2QzLTMyZnV5NXo4dW5abmphby1hTjJoeG91c01nTVMtTi0tb3lwTWJUVHBaY1lSbjdHMFJjQzJWRERidjRSRXNSQmhSNmVIa1VleUVPZlJjR21Dd25xTDNnYTFCR1Y5am5ZT3RLelNmR3BuUWQ4V0RURkJqdW5leFFhQi1IVzRGODUyTEZzby16dTZVbGQtenVGdjZ6VDQyeDUxOG1L?oc=5",
+          "published": "2026-07-06T01:00:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong - iHarare News",
-          "source": "iHarare News",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd3pDdTVmcFlaUW5tb2M2dURYUnVpai1WWHZIYW1uQXVkbDNmZEZKNmlxRnM3SkZJdF9NbGJNRU1OOU9xaEVnb3hqMVpIV2hzbDhlbmg0S3dRUlczWFA2bGctSkRxajBYajNfT01YNTIzdGxlZ1J0R0ZCRnQ5NmdrQm9icjNyQXRHN1BNakRmSWY0S0JTaDdmc3RIUUFOSUdhN19icUpsUmw5cUNFR2hiVkg3bEQ4UHdRZ19lbzZLTzExc3U2MWNCajBWbXpndWw3My1uZkRmbWRORUNucGNB?oc=5",
-          "published": "2026-07-06T17:50:08.000Z"
+          "headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong - 巴士的報",
+          "source": "巴士的報",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNHVDeVFKNHA2RjBSSDE0S19US291d1BtR0VYRHpHLWhKTlhONUFZN3JVNGt6QlpsT2dzb2I1X2QzLTMyZnV5NXo4dW5abmphby1hTjJoeG91c01nTVMtTi0tb3lwTWJUVHBaY1lSbjdHMFJjQzJWRERidjRSRXNSQmhSNmVIa1VleUVPZlJjR21Dd25xTDNnYTFCR1Y5am5ZT3RLelNmR3BuUWQ4V0RURkJqdW5leFFhQi1IVzRGODUyTEZzby16dTZVbGQtenVGdjZ6VDQyeDUxOG1L?oc=5",
+          "published": "2026-07-06T01:00:00.000Z"
         }
       ],
       "insight": null,
@@ -156,7 +170,16 @@
         }
       ],
       "insight": null,
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-07-05T22:33:48.000Z"
+        }
+      ]
     },
     {
       "id": "retail-banking",
@@ -171,10 +194,10 @@
         },
         {
           "tag": "Press",
-          "headline": "Best No Deposit Bonus Casinos Australia (2026) - New No Deposit Bonus Codes & Free Spins - Ocean Road Magazine",
-          "source": "Ocean Road Magazine",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS0g5WURLYnN5WlczRHhnT2dybFpGSmhfSVptM3hzVG9wQUZBS1NGR1d5Y0cwWGVqci1Sd0xZenhxSmhSX0o1Yk5Obm9HOXlTelF6ZVJmUkZrcDJmUG5fOWI1SWc1ZnRmc3k0Y1lrUk5nbDU1QmhIZVRlb1A2dmJ0akFVR3lrZHFFQm9zQjZYaFJkdE5Ud0ktdS1jUzhEQm0yUmZNZmpIWUoxVmptOWNmVE5ZM0VCSDdfWlNaUQ?oc=5",
-          "published": "2026-07-06T22:31:44.000Z"
+          "headline": "Singapore holds top spot in Southeast Asia's loan market despite 7.3% drop - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQendQYzBpVUl1bGNfWmYtMGt6SnJwREJXTHdGQUhLWUhmRnBOLTJZZlQyMV9HZDF6ZDFKRXVvQ2FFeUJrdVg2SDFXTXdScFg3WGZHOEc1VEFObm5iUkVEcUo2dWJKODdtUDRfeUlMN3h3Zmh6ME83enhMcnc4ZGpvNUZDTkpiNmNFLUJhS21XSUxUeXo4WTRtdnBoNWJrWnhuOFlHU1JSM2tQdTJBblZBd3VLZw?oc=5",
+          "published": "2026-07-07T03:53:21.000Z"
         },
         {
           "tag": "Press",
@@ -194,10 +217,10 @@
         },
         {
           "tag": "Press",
-          "headline": "Best No Deposit Bonus Casinos Australia (2026) - New No Deposit Bonus Codes & Free Spins - Ocean Road Magazine",
-          "source": "Ocean Road Magazine",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS0g5WURLYnN5WlczRHhnT2dybFpGSmhfSVptM3hzVG9wQUZBS1NGR1d5Y0cwWGVqci1Sd0xZenhxSmhSX0o1Yk5Obm9HOXlTelF6ZVJmUkZrcDJmUG5fOWI1SWc1ZnRmc3k0Y1lrUk5nbDU1QmhIZVRlb1A2dmJ0akFVR3lrZHFFQm9zQjZYaFJkdE5Ud0ktdS1jUzhEQm0yUmZNZmpIWUoxVmptOWNmVE5ZM0VCSDdfWlNaUQ?oc=5",
-          "published": "2026-07-06T22:31:44.000Z"
+          "headline": "Singapore holds top spot in Southeast Asia's loan market despite 7.3% drop - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQendQYzBpVUl1bGNfWmYtMGt6SnJwREJXTHdGQUhLWUhmRnBOLTJZZlQyMV9HZDF6ZDFKRXVvQ2FFeUJrdVg2SDFXTXdScFg3WGZHOEc1VEFObm5iUkVEcUo2dWJKODdtUDRfeUlMN3h3Zmh6ME83enhMcnc4ZGpvNUZDTkpiNmNFLUJhS21XSUxUeXo4WTRtdnBoNWJrWnhuOFlHU1JSM2tQdTJBblZBd3VLZw?oc=5",
+          "published": "2026-07-07T03:53:21.000Z"
         },
         {
           "tag": "Press",
@@ -205,6 +228,13 @@
           "source": "Asian Banking & Finance",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdram02WEp1YjRyT1VmcTNoa2N5VFBJanhGRzQyRmp4Nk1JRkQ0UFE0OXQ0R3NaY214LUxPcmhMTnlSZ29NdGtJRllFMXh0dEpOUkg2elFSaEtLRW5EeXE2R1FON1hnVU1nLUdwN0FibXlGM0dMVDBEVG5PVUFTSXlZZGVwZFBoRU56ZXBDTWF3WkM5cTJTd2dTcmNoMVRkcHk1RWxKUEt3NmJfTVl4RE1n?oc=5",
           "published": "2026-07-06T04:27:50.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Catastrophic Telstra Outage Halts Trains and Freezes Payments Across Australia - streamlinefeed.co.ke",
+          "source": "streamlinefeed.co.ke",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkdRM0ZxaGpzWjZBc3R6dkVoSUlLMGJZYVRNZmd4UG9DWUlBWTR5aXNuaTJKYnE4aDljWDF1dFNRZGJBZ21fenJLV0pUanhiOGtPcktBZWRpVTdsV196a3dxUFJxZFZtblBDRHhXRlhYMkhSSHRDVHZSNU5xRzBVMWJibjhTN3MzV3FUcm5qUzduTkMzczZkc1owdlU4d1lXX01oM2RtYzRXWk9aTHJpMlJn?oc=5",
+          "published": "2026-07-08T08:39:49.000Z"
         },
         {
           "tag": "Press",
