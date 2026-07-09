@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T10:01:06.287Z",
+  "generatedAt": "2026-07-09T12:21:06.156Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,6 +33,13 @@
       "bullets": [
         {
           "tag": "Strategy",
+          "headline": "China gold ETFs see record US$2.91 billion outflow in June as risk appetite returns - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUlFRa0o2SWFrVkUxeDQ2UGNydURVTnhvWnktMXVmZ1BoaGhqS3JkdWhjcWkzWjVmR1gtTzdOR0ZydHMzNDRCMHlJUkdhTFhHM0hmbGxOZy1YZEJjcEZvUXZhcXhkZFhXcDZlV1pHekk2WHhVNmhxcjVPN3MtOGRFSF9BYkRkU0tmdWhhV0JORVg5NDZ5WlRIWFNKRDJoMDFxcU9XS2NFSUhhTWl1czZuV3hmZHQ2RDZSa1BWaUN5Z2ZRdHNLSXVENC1ySm9NQdIBzgFBVV95cUxObDk4YnpkLTBSVXYwUmt3eHl4WU1IenNaQi1oY1YtRVlOdnVVQ1hVdEVlUk5rSU9UYzkwQmlvOC1PWXBCQnRsX0JxOGFMUU9tNnh3ZXhvTUp5eHpLM1RKMzB4Z2N3ZW0ycUtqVERpZWtYYTRvWG9ldy1wV2lLUUJrQXowQ1daSGdVaDRjTUt4UGtWa0k0c2VRRW80TEljSWQ3SVU5ZTB0eUVRVTdFUkI2d0daMEktTTh2MWRMR0xxazY5MGdyc2RKRTZSMWpfQQ?oc=5",
+          "published": "2026-07-08T12:00:07.000Z"
+        },
+        {
+          "tag": "Strategy",
           "headline": "Hong Kong ETF market gathers pace amid surge in assets and inflows - SRP (Structured Retail Products)",
           "source": "SRP (Structured Retail Products)",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXRGdVVVajdhNTRITTBmNEhOSmsxaUI2VEdmVmVFelo1dkdTYnRrZV9LSHRrVTN0OEI2cjY0QmVNRlpGdEJ2VmMwRWY4bUFwQ1FEblpRT0V6U3F4SWY0OW5UdGMxLVItblR0bi1TckowdHlVdGhidnpFNm16bXNodkdVWXVMQ25pQm5Yd1Yyajc4YjljZ0E4X2E3QjlmQUdIOVh3SlZzR0t3Qld0Rm82dnRMTTI4YWhNdlloSHluSQ?oc=5",
@@ -44,16 +51,16 @@
           "source": "finance.biggo.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZHhXRGdBOW02U1ZvOTRzUTBzX1Jia2M2RFgxTUYxWDVQOGxjUWk0WWRUVHVOTFMwdVdETm9DMHRqbzFlV1doM01MYXlESmVCMGNTbV9tb0dJcmNqVU43WmIxTHBhTG5NUFRjb0pXdjNhSzVIX3c?oc=5",
           "published": "2026-07-07T09:36:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong-listed KOSPI 200 ETF amasses $105 mn in 2 weeks - The Korea Economic Daily Global Edition",
-          "source": "The Korea Economic Daily Global Edition",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NTHlYVjV4b29LZGxidlZIM285TXNUUjZUbnFPbEpPWTlIYmVldVRib3RaWnRLWlhEdFJ0a0lwcjNJZGVaQXI2dU9nYTZEdEg3cFB4RVgtLWRFOGxpNDJMOEpsUk5CQjhf?oc=5",
-          "published": "2026-07-07T09:34:00.000Z"
         }
       ],
       "candidates": [
+        {
+          "tag": "Strategy",
+          "headline": "China gold ETFs see record US$2.91 billion outflow in June as risk appetite returns - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUlFRa0o2SWFrVkUxeDQ2UGNydURVTnhvWnktMXVmZ1BoaGhqS3JkdWhjcWkzWjVmR1gtTzdOR0ZydHMzNDRCMHlJUkdhTFhHM0hmbGxOZy1YZEJjcEZvUXZhcXhkZFhXcDZlV1pHekk2WHhVNmhxcjVPN3MtOGRFSF9BYkRkU0tmdWhhV0JORVg5NDZ5WlRIWFNKRDJoMDFxcU9XS2NFSUhhTWl1czZuV3hmZHQ2RDZSa1BWaUN5Z2ZRdHNLSXVENC1ySm9NQdIBzgFBVV95cUxObDk4YnpkLTBSVXYwUmt3eHl4WU1IenNaQi1oY1YtRVlOdnVVQ1hVdEVlUk5rSU9UYzkwQmlvOC1PWXBCQnRsX0JxOGFMUU9tNnh3ZXhvTUp5eHpLM1RKMzB4Z2N3ZW0ycUtqVERpZWtYYTRvWG9ldy1wV2lLUUJrQXowQ1daSGdVaDRjTUt4UGtWa0k0c2VRRW80TEljSWQ3SVU5ZTB0eUVRVTdFUkI2d0daMEktTTh2MWRMR0xxazY5MGdyc2RKRTZSMWpfQQ?oc=5",
+          "published": "2026-07-08T12:00:07.000Z"
+        },
         {
           "tag": "Strategy",
           "headline": "Hong Kong ETF market gathers pace amid surge in assets and inflows - SRP (Structured Retail Products)",
@@ -77,31 +84,10 @@
         },
         {
           "tag": "Product",
-          "headline": "Hong Kong’s Mandatory Provident Fund Schemes Authority optimizes gold ETF approval mechanism to broaden asset allocation options - 富途牛牛",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1AtV2dYRkU5eFc5dHA2Vm01V3NiVDhmVDJQQTZjSW1vQkpxSy1yZTQwX3hlZmxpNGMwREE0REVJSHBQRGZvRXdYYTVXM0JsSnlrcXRtLVM0VFpDSHFkd2ptbzRGcmdVZWpSM3k2bVpMd0ZKaFBza1FTbm9LN0VkTVZ0ZE40X0d1UTRnbGlFQm9YTGRFSjAtUkJSTUZuY3FjVF9jTDZGekgtNE1iZkZV?oc=5",
-          "published": "2026-07-07T08:41:21.000Z"
-        },
-        {
-          "tag": "Product",
           "headline": "Hong Kong pension fund to ease rules on gold ETF investment, source says - investingLive",
           "source": "investingLive",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWngtbXRYX28xSHNmYkVVSnNNLVpDaHRfZ1UwbmpwZE9ld2ZZSFotVGYwRko5cjRoTVlXcUtaQ0MxcGhtb2hia1V4aUpVSGpoUktpNi1CUWNGbVJpYnFRcjhpb2x6eklLUFZXczNQRXVNRzZkc0lkVWRldjlreFI1OFREX2tKVDg2OWxrbzNLRlBkNFVENWl5VEF4c2hTaVVZS0VGMjd0b0kxOVU0cDBobzkwWGNWam5wMTd3?oc=5",
           "published": "2026-07-06T19:50:21.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Wann Asset Management views Singapore as a standout asset to strengthen its portfolio, benefiting from major capital market reforms, and …",
-          "source": "วารสารการเงินธนาคาร",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNjhYU3djOFEtT29GbXE3S05XY3RJd2tJVVN0NUM5VThyZFpaUXAwblFRTzhXTloxSVRqa1pIbUkwa3F6THZqS0dGdjRQT0wtc1FNQU94c1c?oc=5",
-          "published": "2026-07-07T09:06:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Hong Kong Reemerges as Asia’s Premier Asset Management Hub - 조선일보",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTVSOXUyTTRtOVpYSVo2Nnp2Sk0weDNoWFRVS3hjaWFpQ1BrX3Q1Nlk0dDRGMUlpZW42bGRLX19fYjNlNVo3elNENVNvc3VIMTlMZmdKUjhXV3VteWo5WkdRYWVFWXJUWTZBUHB2T1VWaGNkdkZoNXBGZHRrLXFPd3J2a3RYcVRPNDhnbFZ3?oc=5",
-          "published": "2026-07-06T00:22:42.000Z"
         }
       ],
       "insight": {
@@ -113,62 +99,39 @@
         "published": "2026-07-07T07:09:00.000Z",
         "paywalled": false
       },
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "Schroders",
+          "ticker": "SDR",
+          "tag": "Presentation",
+          "headline": "Investor Presentation - mybrand.schroders.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
+          "published": "2026-07-09T07:36:47.000Z"
+        }
+      ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong - 巴士的報",
-          "source": "巴士的報",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNHVDeVFKNHA2RjBSSDE0S19US291d1BtR0VYRHpHLWhKTlhONUFZN3JVNGt6QlpsT2dzb2I1X2QzLTMyZnV5NXo4dW5abmphby1hTjJoeG91c01nTVMtTi0tb3lwTWJUVHBaY1lSbjdHMFJjQzJWRERidjRSRXNSQmhSNmVIa1VleUVPZlJjR21Dd25xTDNnYTFCR1Y5am5ZT3RLelNmR3BuUWQ4V0RURkJqdW5leFFhQi1IVzRGODUyTEZzby16dTZVbGQtenVGdjZ6VDQyeDUxOG1L?oc=5",
-          "published": "2026-07-06T01:00:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong - 巴士的報",
-          "source": "巴士的報",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNHVDeVFKNHA2RjBSSDE0S19US291d1BtR0VYRHpHLWhKTlhONUFZN3JVNGt6QlpsT2dzb2I1X2QzLTMyZnV5NXo4dW5abmphby1hTjJoeG91c01nTVMtTi0tb3lwTWJUVHBaY1lSbjdHMFJjQzJWRERidjRSRXNSQmhSNmVIa1VleUVPZlJjR21Dd25xTDNnYTFCR1Y5am5ZT3RLelNmR3BuUWQ4V0RURkJqdW5leFFhQi1IVzRGODUyTEZzby16dTZVbGQtenVGdjZ6VDQyeDUxOG1L?oc=5",
-          "published": "2026-07-06T01:00:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
-          "published": "2026-07-02T20:17:22.000Z"
+          "headline": "PulteGroup (PHM) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBadW9McGZEeGZ2emJvVjY3dGhiYmNERVAwSzNYd21fLTNLbDFZMTd5bVRsZVFmRFFWZFdIamN5R0lTTTI4cVVWUDlicTQxcTdUWUl4enRFNGhoSUpBS1NmU2lLZUNIQUU?oc=5",
+          "published": "2026-07-05T04:12:14.000Z"
         }
       ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Ping An Life Insurance Company of China, Ltd. acquired approximately 171 million additional shares of Agricultural Bank of China (stock c…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPck0wV3o0OTEzZU9XQkpzX0RhSjFqX1F0VGdKQTdDYjg1V2d3TlZxLVNodXNEaHZvR3R6azRGODRheFZWTE9lMDV6SVhzYzV1TGdmdDZrN1p6WTRnWEhQdTQwQjVyTUIzYUhjTFZyME9KWlBzMGNPWUpBUnp1b0xJS3ktMlYyRGVESENkclBCc21pNldITmp0aFNSYVUxMGlVd1owZlNOTGFjS1E?oc=5",
-          "published": "2026-07-06T13:09:09.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Ping An Life Insurance Company of China, Ltd. acquired approximately 171 million additional shares of Agricultural Bank of China (stock c…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPck0wV3o0OTEzZU9XQkpzX0RhSjFqX1F0VGdKQTdDYjg1V2d3TlZxLVNodXNEaHZvR3R6azRGODRheFZWTE9lMDV6SVhzYzV1TGdmdDZrN1p6WTRnWEhQdTQwQjVyTUIzYUhjTFZyME9KWlBzMGNPWUpBUnp1b0xJS3ktMlYyRGVESENkclBCc21pNldITmp0aFNSYVUxMGlVd1owZlNOTGFjS1E?oc=5",
-          "published": "2026-07-06T13:09:09.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
@@ -177,7 +140,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-05T22:33:48.000Z"
+          "published": "2026-07-08T23:49:23.000Z"
         }
       ]
     },
@@ -201,10 +164,10 @@
         },
         {
           "tag": "Press",
-          "headline": "Malaysia bank loans up 5.7% in May on record business loan growth - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdram02WEp1YjRyT1VmcTNoa2N5VFBJanhGRzQyRmp4Nk1JRkQ0UFE0OXQ0R3NaY214LUxPcmhMTnlSZ29NdGtJRllFMXh0dEpOUkg2elFSaEtLRW5EeXE2R1FON1hnVU1nLUdwN0FibXlGM0dMVDBEVG5PVUFTSXlZZGVwZFBoRU56ZXBDTWF3WkM5cTJTd2dTcmNoMVRkcHk1RWxKUEt3NmJfTVl4RE1n?oc=5",
-          "published": "2026-07-06T04:27:50.000Z"
+          "headline": "Legal Tales | Legal tender and electronic payments – can we insist on paying in cash? - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVHdWOVNhSHNybE0xakUzaTlGLXJXSldFTWFZNTNzZ3NIUUhMV0lsWFRkeEx5NGFwYko0dktxdkhzdVhkVjZUWlk5QU8ySkJQYTU0d0d6OUVGWndsQi03azFjWl9yaXhkcVZsZ1FFMlk1LVlXd0RmbUhleTFnLThQajlwTE9tQnFJN3ppYXhnVzhOOElGSTJyYmt0TWVIRk1JMWJPNUJWb2s2Q2pzcDItSmdCNEFndGZHWDEzbU1IQmlVRERWeTMw0gHHAUFVX3lxTE1HNnBkck9UaGJGdGF5Sld1R2ZoMUI3bXlpSEg4azNzQTJycFFickhvMElfMlhITWxaTHJVT2RFV1JwUXptSG10TU9aTkpMcTZyaGltME5HLWNRNnVMcWNDSVhLcHlLLXJrRUFhSkpTOW9ZUUFqSXpGbUloQXVrV3NBekRVM1NILXdGQnlab1VwSVRfQ0NITk1wLXJ1VkhoOFVaNVoyTmZwOGtyZ0gxbFVlSktIMmNpc01aY0tBV2lIcFFXWHI1b2c?oc=5",
+          "published": "2026-07-09T01:30:12.000Z"
         }
       ],
       "candidates": [
@@ -224,10 +187,31 @@
         },
         {
           "tag": "Press",
-          "headline": "Malaysia bank loans up 5.7% in May on record business loan growth - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdram02WEp1YjRyT1VmcTNoa2N5VFBJanhGRzQyRmp4Nk1JRkQ0UFE0OXQ0R3NaY214LUxPcmhMTnlSZ29NdGtJRllFMXh0dEpOUkg2elFSaEtLRW5EeXE2R1FON1hnVU1nLUdwN0FibXlGM0dMVDBEVG5PVUFTSXlZZGVwZFBoRU56ZXBDTWF3WkM5cTJTd2dTcmNoMVRkcHk1RWxKUEt3NmJfTVl4RE1n?oc=5",
-          "published": "2026-07-06T04:27:50.000Z"
+          "headline": "Legal Tales | Legal tender and electronic payments – can we insist on paying in cash? - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVHdWOVNhSHNybE0xakUzaTlGLXJXSldFTWFZNTNzZ3NIUUhMV0lsWFRkeEx5NGFwYko0dktxdkhzdVhkVjZUWlk5QU8ySkJQYTU0d0d6OUVGWndsQi03azFjWl9yaXhkcVZsZ1FFMlk1LVlXd0RmbUhleTFnLThQajlwTE9tQnFJN3ppYXhnVzhOOElGSTJyYmt0TWVIRk1JMWJPNUJWb2s2Q2pzcDItSmdCNEFndGZHWDEzbU1IQmlVRERWeTMw0gHHAUFVX3lxTE1HNnBkck9UaGJGdGF5Sld1R2ZoMUI3bXlpSEg4azNzQTJycFFickhvMElfMlhITWxaTHJVT2RFV1JwUXptSG10TU9aTkpMcTZyaGltME5HLWNRNnVMcWNDSVhLcHlLLXJrRUFhSkpTOW9ZUUFqSXpGbUloQXVrV3NBekRVM1NILXdGQnlab1VwSVRfQ0NITk1wLXJ1VkhoOFVaNVoyTmZwOGtyZ0gxbFVlSktIMmNpc01aY0tBV2lIcFFXWHI1b2c?oc=5",
+          "published": "2026-07-09T01:30:12.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore-ASEAN payments face stablecoin shift as regulation matures - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHNITHR3M0kySlZXT3hBUVNCODl1WVBJalhDOUdmaEdUS2FtaFo3Sjl4WHVCVVZGbzF6X2FtN3pyWkg0enl1SVZWblNXN2R4VGRuNnRhNFZPd3FoZjNPekVmLWJpZWtYTlNtd2tVYWgtZy0xTVRWMFg0Q3U4UGtaR2lhbEhKb3NWYkwyaHNORFB0OXFLeXc?oc=5",
+          "published": "2026-07-09T03:54:09.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Nium Acquires Cypher to Bridge Fiat and Digital Asset Payments - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tOHVFZXpHYlNQN3VhaVhiX3FoWlV5eWZPcnJZcGg2R3dlS3ZzX1VWdWlIYUhPVk9TZ1JoWjliOGZISGU4dExZSHZBU0JZSVh5OFhtS3EyTFFWT1R2eTMtYk9Pd1c4d1k?oc=5",
+          "published": "2026-07-09T01:20:34.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Is Malaysia's First Digital Bank Keeping Its Promise? - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BwTXR6Y2YyNHh3cXkxWVNSd1VFOXYweHVHb0NNLTNYbVYySnN6MHFteHYyeFI3THpOV0FYNkpYQmJCRUoyRGstUlNHbzJzWkpscUIyLXB5WHVnU0F2VTVZY1R3amtKUzRrS3EzSm9VNlFLVUl6OVhITTBJeVltVm9zdFJfWmJHQThPSUhEM2Q?oc=5",
+          "published": "2026-07-08T11:30:21.000Z"
         },
         {
           "tag": "Press",
@@ -235,16 +219,17 @@
           "source": "streamlinefeed.co.ke",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkdRM0ZxaGpzWjZBc3R6dkVoSUlLMGJZYVRNZmd4UG9DWUlBWTR5aXNuaTJKYnE4aDljWDF1dFNRZGJBZ21fenJLV0pUanhiOGtPcktBZWRpVTdsV196a3dxUFJxZFZtblBDRHhXRlhYMkhSSHRDVHZSNU5xRzBVMWJibjhTN3MzV3FUcm5qUzduTkMzczZkc1owdlU4d1lXX01oM2RtYzRXWk9aTHJpMlJn?oc=5",
           "published": "2026-07-08T08:39:49.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Vietnamese banking apps to enable payments in Singapore - Vietnam+ (VietnamPlus)",
-          "source": "Vietnam+ (VietnamPlus)",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1J6SVR3b19BdEx5QTFkb2hTeUNIaEF0TFl5ZkdCWTgzQVd1eUtDaXRxby1Pb2pfZnk5cXZDS3FJUVdmUUlZSHU2S1p2Vml5N19lQ3hiMHNHblVBelFXVDVrZENfTTlCLTlma3ZEVGdtRzJSbDN1OV9kQU5WNzhXc05HUHNDX2lKNnIxY2FHWFVMVE5MQkEyRm40S08?oc=5",
-          "published": "2026-07-06T08:32:49.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "Legal Tales | Legal tender and electronic payments – can we insist on paying in cash? - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVHdWOVNhSHNybE0xakUzaTlGLXJXSldFTWFZNTNzZ3NIUUhMV0lsWFRkeEx5NGFwYko0dktxdkhzdVhkVjZUWlk5QU8ySkJQYTU0d0d6OUVGWndsQi03azFjWl9yaXhkcVZsZ1FFMlk1LVlXd0RmbUhleTFnLThQajlwTE9tQnFJN3ppYXhnVzhOOElGSTJyYmt0TWVIRk1JMWJPNUJWb2s2Q2pzcDItSmdCNEFndGZHWDEzbU1IQmlVRERWeTMw0gHHAUFVX3lxTE1HNnBkck9UaGJGdGF5Sld1R2ZoMUI3bXlpSEg4azNzQTJycFFickhvMElfMlhITWxaTHJVT2RFV1JwUXptSG10TU9aTkpMcTZyaGltME5HLWNRNnVMcWNDSVhLcHlLLXJrRUFhSkpTOW9ZUUFqSXpGbUloQXVrV3NBekRVM1NILXdGQnlab1VwSVRfQ0NITk1wLXJ1VkhoOFVaNVoyTmZwOGtyZ0gxbFVlSktIMmNpc01aY0tBV2lIcFFXWHI1b2c?oc=5",
+        "published": "2026-07-09T01:30:12.000Z",
+        "paywalled": false
+      },
       "companyUpdates": []
     }
   ]
