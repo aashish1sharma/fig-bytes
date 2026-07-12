@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T07:27:46.082Z",
+  "generatedAt": "2026-07-12T04:55:33.506Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,13 +32,6 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Strategy",
-          "headline": "China gold ETFs see record US$2.91 billion outflow in June as risk appetite returns - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUlFRa0o2SWFrVkUxeDQ2UGNydURVTnhvWnktMXVmZ1BoaGhqS3JkdWhjcWkzWjVmR1gtTzdOR0ZydHMzNDRCMHlJUkdhTFhHM0hmbGxOZy1YZEJjcEZvUXZhcXhkZFhXcDZlV1pHekk2WHhVNmhxcjVPN3MtOGRFSF9BYkRkU0tmdWhhV0JORVg5NDZ5WlRIWFNKRDJoMDFxcU9XS2NFSUhhTWl1czZuV3hmZHQ2RDZSa1BWaUN5Z2ZRdHNLSXVENC1ySm9NQdIBzgFBVV95cUxObDk4YnpkLTBSVXYwUmt3eHl4WU1IenNaQi1oY1YtRVlOdnVVQ1hVdEVlUk5rSU9UYzkwQmlvOC1PWXBCQnRsX0JxOGFMUU9tNnh3ZXhvTUp5eHpLM1RKMzB4Z2N3ZW0ycUtqVERpZWtYYTRvWG9ldy1wV2lLUUJrQXowQ1daSGdVaDRjTUt4UGtWa0k0c2VRRW80TEljSWQ3SVU5ZTB0eUVRVTdFUkI2d0daMEktTTh2MWRMR0xxazY5MGdyc2RKRTZSMWpfQQ?oc=5",
-          "published": "2026-07-08T12:00:07.000Z"
-        },
-        {
           "tag": "Product",
           "headline": "Hong Kong retail investors reel as SK hynix ETF swings turn painful - The Korea Times",
           "source": "The Korea Times",
@@ -47,13 +40,6 @@
         }
       ],
       "candidates": [
-        {
-          "tag": "Strategy",
-          "headline": "China gold ETFs see record US$2.91 billion outflow in June as risk appetite returns - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUlFRa0o2SWFrVkUxeDQ2UGNydURVTnhvWnktMXVmZ1BoaGhqS3JkdWhjcWkzWjVmR1gtTzdOR0ZydHMzNDRCMHlJUkdhTFhHM0hmbGxOZy1YZEJjcEZvUXZhcXhkZFhXcDZlV1pHekk2WHhVNmhxcjVPN3MtOGRFSF9BYkRkU0tmdWhhV0JORVg5NDZ5WlRIWFNKRDJoMDFxcU9XS2NFSUhhTWl1czZuV3hmZHQ2RDZSa1BWaUN5Z2ZRdHNLSXVENC1ySm9NQdIBzgFBVV95cUxObDk4YnpkLTBSVXYwUmt3eHl4WU1IenNaQi1oY1YtRVlOdnVVQ1hVdEVlUk5rSU9UYzkwQmlvOC1PWXBCQnRsX0JxOGFMUU9tNnh3ZXhvTUp5eHpLM1RKMzB4Z2N3ZW0ycUtqVERpZWtYYTRvWG9ldy1wV2lLUUJrQXowQ1daSGdVaDRjTUt4UGtWa0k0c2VRRW80TEljSWQ3SVU5ZTB0eUVRVTdFUkI2d0daMEktTTh2MWRMR0xxazY5MGdyc2RKRTZSMWpfQQ?oc=5",
-          "published": "2026-07-08T12:00:07.000Z"
-        },
         {
           "tag": "Product",
           "headline": "Hong Kong retail investors reel as SK hynix ETF swings turn painful - The Korea Times",
@@ -85,38 +71,8 @@
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Earnings",
-          "headline": "Hong Kong Stock Market Concept Tracker | Sci-Tech Innovation, International, and Wealth Management Businesses All Gain Momentum! Brokerag…",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGd5bmk3bHU2UTlnWXZVUGlHRTFVN3hBb3ZYdWJSM1VoRjhnUmJ4TUo2NFpYSG1acHVDajBuaF9pM1hMVC02YWJoYVlvR004Zk4zRjB6S3RqLVc2OUFNZ0Njd3hHamZFM0F0YUJPbm9vc2lSTjdwbVBiTGQxQ183VlQ2SmJ3aC05YTU1OHJLNFhWRk43WnBPeEhObkFEdGZFMUVMU0E2NjczcFhLN1pURnJfdXo?oc=5",
-          "published": "2026-07-08T23:17:10.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "GDS Wealth Management Expands Capabilities to Serve Growing Client Needs - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUhUNmc2NHltY2x2VnFWamZpQmQ3QS1zOWRsUGRFVjNXT2ZiTjFnMWJHUW1yVFVCOEljSktXYkVMZjVDOF9YWS1qR1BXV01FZ2FIcmtmVEFIRzZHNmlqY0s2SFV4ZEJ2WC11RzFoUkxKZVpNRVY2MWhRSGtFUmtHUDdnOUo5UDk5cjU2U18yR08xUU9rUVE?oc=5",
-          "published": "2026-07-08T13:05:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Earnings",
-          "headline": "Hong Kong Stock Market Concept Tracker | Sci-Tech Innovation, International, and Wealth Management Businesses All Gain Momentum! Brokerag…",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGd5bmk3bHU2UTlnWXZVUGlHRTFVN3hBb3ZYdWJSM1VoRjhnUmJ4TUo2NFpYSG1acHVDajBuaF9pM1hMVC02YWJoYVlvR004Zk4zRjB6S3RqLVc2OUFNZ0Njd3hHamZFM0F0YUJPbm9vc2lSTjdwbVBiTGQxQ183VlQ2SmJ3aC05YTU1OHJLNFhWRk43WnBPeEhObkFEdGZFMUVMU0E2NjczcFhLN1pURnJfdXo?oc=5",
-          "published": "2026-07-08T23:17:10.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "GDS Wealth Management Expands Capabilities to Serve Growing Client Needs - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUhUNmc2NHltY2x2VnFWamZpQmQ3QS1zOWRsUGRFVjNXT2ZiTjFnMWJHUW1yVFVCOEljSktXYkVMZjVDOF9YWS1qR1BXV01FZ2FIcmtmVEFIRzZHNmlqY0s2SFV4ZEJ2WC11RzFoUkxKZVpNRVY2MWhRSGtFUmtHUDdnOUo5UDk5cjU2U18yR08xUU9rUVE?oc=5",
-          "published": "2026-07-08T13:05:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
@@ -132,24 +88,8 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Japan Post Insurance and SCOR sign MOU Regarding the Ceding (Retrocession) of “Postal Life Insurance Policies” and Investment in a Reinsu…",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQm1BRnlPOXpuMnNZdmdEUmNneG5JNHFKQWZKZ1FVTHAyVUdtTXJqZ0l4RENQbkk0eDZ5VmpuNV9UeVUtc0p2WDk1elg2cExSMWNQYUNIRWxNN1NxVnRiLU5qalNZRHY5ZzRkNHJvWHlfYjdDWTk1Q3phdk9BQU8tSlVZX1VlMmNpbEN4ODdGajF0b3ZTMGc?oc=5",
-          "published": "2026-07-10T06:46:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Japan Post Insurance and SCOR sign MOU Regarding the Ceding (Retrocession) of “Postal Life Insurance Policies” and Investment in a Reinsu…",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQm1BRnlPOXpuMnNZdmdEUmNneG5JNHFKQWZKZ1FVTHAyVUdtTXJqZ0l4RENQbkk0eDZ5VmpuNV9UeVUtc0p2WDk1elg2cExSMWNQYUNIRWxNN1NxVnRiLU5qalNZRHY5ZzRkNHJvWHlfYjdDWTk1Q3phdk9BQU8tSlVZX1VlMmNpbEN4ODdGajF0b3ZTMGc?oc=5",
-          "published": "2026-07-10T06:46:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
@@ -158,7 +98,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-08T23:49:23.000Z"
+          "published": "2026-07-09T19:38:04.000Z"
         }
       ]
     },
@@ -167,48 +107,20 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Press",
-          "headline": "Legal Tales | Legal tender and electronic payments – can we insist on paying in cash? - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVHdWOVNhSHNybE0xakUzaTlGLXJXSldFTWFZNTNzZ3NIUUhMV0lsWFRkeEx5NGFwYko0dktxdkhzdVhkVjZUWlk5QU8ySkJQYTU0d0d6OUVGWndsQi03azFjWl9yaXhkcVZsZ1FFMlk1LVlXd0RmbUhleTFnLThQajlwTE9tQnFJN3ppYXhnVzhOOElGSTJyYmt0TWVIRk1JMWJPNUJWb2s2Q2pzcDItSmdCNEFndGZHWDEzbU1IQmlVRERWeTMw0gHHAUFVX3lxTE1HNnBkck9UaGJGdGF5Sld1R2ZoMUI3bXlpSEg4azNzQTJycFFickhvMElfMlhITWxaTHJVT2RFV1JwUXptSG10TU9aTkpMcTZyaGltME5HLWNRNnVMcWNDSVhLcHlLLXJrRUFhSkpTOW9ZUUFqSXpGbUloQXVrV3NBekRVM1NILXdGQnlab1VwSVRfQ0NITk1wLXJ1VkhoOFVaNVoyTmZwOGtyZ0gxbFVlSktIMmNpc01aY0tBV2lIcFFXWHI1b2c?oc=5",
-          "published": "2026-07-09T01:30:12.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore-ASEAN payments face stablecoin shift as regulation matures - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHNITHR3M0kySlZXT3hBUVNCODl1WVBJalhDOUdmaEdUS2FtaFo3Sjl4WHVCVVZGbzF6X2FtN3pyWkg0enl1SVZWblNXN2R4VGRuNnRhNFZPd3FoZjNPekVmLWJpZWtYTlNtd2tVYWgtZy0xTVRWMFg0Q3U4UGtaR2lhbEhKb3NWYkwyaHNORFB0OXFLeXc?oc=5",
-          "published": "2026-07-09T03:54:09.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Is Malaysia's First Digital Bank Keeping Its Promise? - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BwTXR6Y2YyNHh3cXkxWVNSd1VFOXYweHVHb0NNLTNYbVYySnN6MHFteHYyeFI3THpOV0FYNkpYQmJCRUoyRGstUlNHbzJzWkpscUIyLXB5WHVnU0F2VTVZY1R3amtKUzRrS3EzSm9VNlFLVUl6OVhITTBJeVltVm9zdFJfWmJHQThPSUhEM2Q?oc=5",
-          "published": "2026-07-08T11:30:21.000Z"
+          "tag": "Strategy",
+          "headline": "Vietnam's digital bank Cake wins two HR Asia Awards with its people-first strategy - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjQ3STRURkFnblNOMi1oQlBqV3pwY1VhbVpQbHhZX3VRTXprYVUwTmp5TUEyQjBtRFJMSUFrbVRiOHlyekdtZmpOQ3NzOWJtbEtUckNoMkFPNzlJci0yOS1ZTjRQUUctcy12aER5bHRsdWxjSnFTcHdlZS1jZkNQU3FMVktLZWc?oc=5",
+          "published": "2026-07-10T07:24:00.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Press",
-          "headline": "Legal Tales | Legal tender and electronic payments – can we insist on paying in cash? - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVHdWOVNhSHNybE0xakUzaTlGLXJXSldFTWFZNTNzZ3NIUUhMV0lsWFRkeEx5NGFwYko0dktxdkhzdVhkVjZUWlk5QU8ySkJQYTU0d0d6OUVGWndsQi03azFjWl9yaXhkcVZsZ1FFMlk1LVlXd0RmbUhleTFnLThQajlwTE9tQnFJN3ppYXhnVzhOOElGSTJyYmt0TWVIRk1JMWJPNUJWb2s2Q2pzcDItSmdCNEFndGZHWDEzbU1IQmlVRERWeTMw0gHHAUFVX3lxTE1HNnBkck9UaGJGdGF5Sld1R2ZoMUI3bXlpSEg4azNzQTJycFFickhvMElfMlhITWxaTHJVT2RFV1JwUXptSG10TU9aTkpMcTZyaGltME5HLWNRNnVMcWNDSVhLcHlLLXJrRUFhSkpTOW9ZUUFqSXpGbUloQXVrV3NBekRVM1NILXdGQnlab1VwSVRfQ0NITk1wLXJ1VkhoOFVaNVoyTmZwOGtyZ0gxbFVlSktIMmNpc01aY0tBV2lIcFFXWHI1b2c?oc=5",
-          "published": "2026-07-09T01:30:12.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore-ASEAN payments face stablecoin shift as regulation matures - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHNITHR3M0kySlZXT3hBUVNCODl1WVBJalhDOUdmaEdUS2FtaFo3Sjl4WHVCVVZGbzF6X2FtN3pyWkg0enl1SVZWblNXN2R4VGRuNnRhNFZPd3FoZjNPekVmLWJpZWtYTlNtd2tVYWgtZy0xTVRWMFg0Q3U4UGtaR2lhbEhKb3NWYkwyaHNORFB0OXFLeXc?oc=5",
-          "published": "2026-07-09T03:54:09.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Is Malaysia's First Digital Bank Keeping Its Promise? - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BwTXR6Y2YyNHh3cXkxWVNSd1VFOXYweHVHb0NNLTNYbVYySnN6MHFteHYyeFI3THpOV0FYNkpYQmJCRUoyRGstUlNHbzJzWkpscUIyLXB5WHVnU0F2VTVZY1R3amtKUzRrS3EzSm9VNlFLVUl6OVhITTBJeVltVm9zdFJfWmJHQThPSUhEM2Q?oc=5",
-          "published": "2026-07-08T11:30:21.000Z"
+          "tag": "Strategy",
+          "headline": "Vietnam's digital bank Cake wins two HR Asia Awards with its people-first strategy - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjQ3STRURkFnblNOMi1oQlBqV3pwY1VhbVpQbHhZX3VRTXprYVUwTmp5TUEyQjBtRFJMSUFrbVRiOHlyekdtZmpOQ3NzOWJtbEtUckNoMkFPNzlJci0yOS1ZTjRQUUctcy12aER5bHRsdWxjSnFTcHdlZS1jZkNQU3FMVktLZWc?oc=5",
+          "published": "2026-07-10T07:24:00.000Z"
         }
       ],
       "insight": {
