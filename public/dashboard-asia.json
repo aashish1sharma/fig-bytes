@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T04:29:22.860Z",
+  "generatedAt": "2026-07-15T04:29:28.854Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,67 +32,31 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF DR - USD (C): Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGFDcXpZMVJVMGJZekFyMElfamVqODFuNm5CRW1rMGxWZDRUY3h1MXNHVWZ2NEZQOUhfcHBGTHluT2hORU02SEFWUnhqOHZ0UEZ5LWxnT0lwRnJXekd0SFlpUjltb3JaRlJkNVBfNXZ6bERxMlpmN3VUckszb2xGSmlXZi0tSVh4MEI5aW1fQzV2anZsc3pBWkx0U0ZOUnZDQVYtN19DMjJnNjg?oc=5",
-          "published": "2026-07-13T07:09:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS29mWVVNc1JWV3VzeEkzT0lURFdQcEJ6RG5qcDVIYjVfN0dfVU9zbUVGYUFVQVBrU2l0Tjd1NzBKN2JMakczRDJrMkJSeXJTdTM1UHFBSUJaSm1oaklSaVNYVnlYbmJjNHU2bGs2Y1BuZlprb043azlJZWZlcVlJbnRDZFlfZEZSOXBodFdiNUtFX2Zf?oc=5",
-          "published": "2026-07-13T06:07:00.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "Take Two: IMF lowers global growth forecast - BNPP AM Hong Kong - EN - BNP Paribas Asset Management",
-          "source": "BNP Paribas Asset Management",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGxHbXRsTVdVMHo4ZHZLRjNUbHpwT3FzMTBIbm1nNmZaQzhHQ0RBLXVuZi1FZFlYZFlFNWZfSkdYZFc4Z3BjamtMdW1NblRDbDBWTkZMaWo4TmFIR3VQS2ZDYXFZTFZWSUF1TlhJR3VaVlpLY3hzZ3lJU2E1bFltMlZ5dVpGX1psSndzcGpYcVo1OXJDbGVoUw?oc=5",
-          "published": "2026-07-13T04:42:21.000Z"
+          "headline": "Insights from Singapore: Australia’s AI edge lies in the infrastructure race - Wilson Asset Management",
+          "source": "Wilson Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHRaVUlzYnNTRzh6VkFISV9fRVRxSmtwczNlZHNSdXRNTG5JOG1iSEtIcTdUR2o5ZjdSSjlnR3p1YnZjbXVUdkQ4cUNkaEk0LWR3VjhvN2NIQ1QxNTZ0eTBxWTR0MlM3THZ5SEFCdDNVeE91UzlyU3ZDTUd1XzFoM2RIMjJWQkNZY3pHTnpaWlR1eEpOd25UUjI4cXRKemlURHE2aTVZRlpjcVlpM1dCT0ZR?oc=5",
+          "published": "2026-07-14T01:21:57.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF DR - USD (C): Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGFDcXpZMVJVMGJZekFyMElfamVqODFuNm5CRW1rMGxWZDRUY3h1MXNHVWZ2NEZQOUhfcHBGTHluT2hORU02SEFWUnhqOHZ0UEZ5LWxnT0lwRnJXekd0SFlpUjltb3JaRlJkNVBfNXZ6bERxMlpmN3VUckszb2xGSmlXZi0tSVh4MEI5aW1fQzV2anZsc3pBWkx0U0ZOUnZDQVYtN19DMjJnNjg?oc=5",
-          "published": "2026-07-13T07:09:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS29mWVVNc1JWV3VzeEkzT0lURFdQcEJ6RG5qcDVIYjVfN0dfVU9zbUVGYUFVQVBrU2l0Tjd1NzBKN2JMakczRDJrMkJSeXJTdTM1UHFBSUJaSm1oaklSaVNYVnlYbmJjNHU2bGs2Y1BuZlprb043azlJZWZlcVlJbnRDZFlfZEZSOXBodFdiNUtFX2Zf?oc=5",
-          "published": "2026-07-13T06:07:00.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "Take Two: IMF lowers global growth forecast - BNPP AM Hong Kong - EN - BNP Paribas Asset Management",
-          "source": "BNP Paribas Asset Management",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGxHbXRsTVdVMHo4ZHZLRjNUbHpwT3FzMTBIbm1nNmZaQzhHQ0RBLXVuZi1FZFlYZFlFNWZfSkdYZFc4Z3BjamtMdW1NblRDbDBWTkZMaWo4TmFIR3VQS2ZDYXFZTFZWSUF1TlhJR3VaVlpLY3hzZ3lJU2E1bFltMlZ5dVpGX1psSndzcGpYcVo1OXJDbGVoUw?oc=5",
-          "published": "2026-07-13T04:42:21.000Z"
+          "headline": "Insights from Singapore: Australia’s AI edge lies in the infrastructure race - Wilson Asset Management",
+          "source": "Wilson Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHRaVUlzYnNTRzh6VkFISV9fRVRxSmtwczNlZHNSdXRNTG5JOG1iSEtIcTdUR2o5ZjdSSjlnR3p1YnZjbXVUdkQ4cUNkaEk0LWR3VjhvN2NIQ1QxNTZ0eTBxWTR0MlM3THZ5SEFCdDNVeE91UzlyU3ZDTUd1XzFoM2RIMjJWQkNZY3pHTnpaWlR1eEpOd25UUjI4cXRKemlURHE2aTVZRlpjcVlpM1dCT0ZR?oc=5",
+          "published": "2026-07-14T01:21:57.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Hang Feng Technology Innovation (FOFO.US) Secures Another Licensing Breakthrough: Asset Management Subsidiary Granted Type 1 License by the…",
-        "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPVGx6RzJMS2hkUWdSWnRhcllsdE8wZ2ExaEFVWmZzSE1WV055Q3ZNVHNKMExMa3E2SU55XzVsM0NiRDhIYU1iYnRKZGlfNUJESENvWEFiYXlCNU1hVE9HWnNDQlFBTlQ2eFZCQzhZbDB4VFFkSEFZYWFOUi1EdFZUbUN6MjJFOFU4SS15c0NLQWxLc0lHVXZkcmtUTUpJVEJVR2hkVkhaem45MGxPaTZsZnM0dlRPSW02clU5XzNzUEYyT1VpYm5YelBTb0NLd0JGa1NlQjl3dzV0WHFTMFM5THJjcXRLU0E2bm03b04tNURiRHJGVm1odEFfdHF5ZXp1akRtSmZzeW1XdkFnQmtYRWtHY2MzVDdYcnk2N1VtdWY4UVBGMXFqNjROWl9YTm9hNFRtckt3c1NDT25tVEZxeTNYR1B3ZFhfNmlEUF9MMVBXZlgwNU5UUVRrbGhSLTFrTVRHYlc2SjNheDZmRnIwZ0FuVUl6OFFZV1JjeDNyWksxaVlFaXF2ZnlmY0RCVVltYzZyTFFtVmVWRHZZUWg5MTRCanE0TnFKcEV3dVVVRmJGRHBp?oc=5",
-        "published": "2026-07-07T07:09:00.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Schroders",
           "ticker": "SDR",
           "tag": "Transcript",
           "headline": "Earnings call transcript: Schroders Real Estate Investment Trust posts slower H2 2026 return By Investing.com - Investi…",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUtuYnpuYlVKSk1oZWtPd21Ha1N0ZGhJVzk1OXlUXzhIRWhlbEJFQ0dGRFBZYTNjYWNGelNyWEdmMFBHZG1pSXkzWGs2RFI0Q0xTMlhORUhZOEd0Nl9KeWE0Q0RFNloyUlAxcFQxaDhzX0NTUS1sYk1rNWItLVRROVFtS05vVGctcklJUF92U1FlemI3UmI0VnBiQjNMUEl6SGxqQkF4dktGTTFBeHJlM0xiUVFNcnpCcUZXQ2dfelZkN3hJblBVNGN3a0w2VGc1SDNNSnI3amVoWnpESVVkcw?oc=5",
-          "published": "2026-07-10T09:49:43.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOTIxREZaR1NLS3BTM3ExLXh1X0VaR09ybkg2S1NoYWloRlhmOHROckFRRDFpLUZaLVFuc25CUEh0dzhxUWVoZFd4cVNkME5RNUFWcld6al9mQUV4WU9DNW40ekN6QTBKYnhqb2hGNGlEdEs3aUVBcjJxMERqVThNaGI2S3Z5eHZYc256cXlZUnlhS2RpMy0wNEwwVjJTU2gzV0xEME1mc2pCWDNRTmRnaHZCaDRDUDdOWGMxMWVZYjgxRWphOXFrZmhoSk5EbWVFR2hwbGQyMC1Vc1ZFSk9v?oc=5",
+          "published": "2026-07-10T09:54:00.000Z"
         }
       ]
     },
@@ -102,19 +66,19 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Exclusive Look Inside CTBC Bank's NT$100 Million Asia New Bay Area Branch as Private Banking and Family Office Market Share Tops 30%, Res…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VSC1seV9qOWl3UVNJS0xuY01XaHpiMy1hT2JkMDhsU1JlYTdpNVlqUllyVTludUJRTDBEN2FWMVd6bmhzZ0NmVGZBajItTy0yVUxOUkZzS2FwMzV4bWtFRlJHQnVUVHlTQ0F5bmlOVmQxalExNmc?oc=5",
-          "published": "2026-07-13T11:36:00.000Z"
+          "headline": "FNB Wealth Management Selects Cetera Financial Institutions to Elevate and Expand Its Investment Services Program - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmRaMWh1QXVVaXhKczBWWkx2UVZUREctUGRtSjZENnRuUENPZ25OZTJpdVBuZGttV292N1Y5eTB2LVhGLXFtRlFPMzM0ZGg2Z2NpMTg4ZEJDYWlVQlJjYW93aHpBc3gwSFJQUVdZRHowT25xV09MOUtuWW0xV2tTRDN3dFNlNzhKalVIa0xn?oc=5",
+          "published": "2026-07-14T12:05:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Exclusive Look Inside CTBC Bank's NT$100 Million Asia New Bay Area Branch as Private Banking and Family Office Market Share Tops 30%, Res…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VSC1seV9qOWl3UVNJS0xuY01XaHpiMy1hT2JkMDhsU1JlYTdpNVlqUllyVTludUJRTDBEN2FWMVd6bmhzZ0NmVGZBajItTy0yVUxOUkZzS2FwMzV4bWtFRlJHQnVUVHlTQ0F5bmlOVmQxalExNmc?oc=5",
-          "published": "2026-07-13T11:36:00.000Z"
+          "headline": "FNB Wealth Management Selects Cetera Financial Institutions to Elevate and Expand Its Investment Services Program - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmRaMWh1QXVVaXhKczBWWkx2UVZUREctUGRtSjZENnRuUENPZ25OZTJpdVBuZGttV292N1Y5eTB2LVhGLXFtRlFPMzM0ZGg2Z2NpMTg4ZEJDYWlVQlJjYW93aHpBc3gwSFJQUVdZRHowT25xV09MOUtuWW0xV2tTRDN3dFNlNzhKalVIa0xn?oc=5",
+          "published": "2026-07-14T12:05:00.000Z"
         }
       ],
       "insight": {
@@ -158,6 +122,13 @@
       "name": "Insurance",
       "bullets": [
         {
+          "tag": "Press",
+          "headline": "APRA finalises amendments to general insurance reinsurance framework - Global Regulation Tomorrow",
+          "source": "Global Regulation Tomorrow",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazNQNndBbE5rbHJ6Z2VwNm1DdmNoTWtQdVRlLW5tbkEzcEE4N2hyVGRHekNwQ0tQZU91Z0RBVXBiNEYzSTVmd19DaFl5V0hWVnNWXzEtSFRBcngyMENrd0N6YkhGdWF6YTgyYTdGN0ZZWUdEUjFkYkVWTlh2Y0JGaC1aVV9yQzcxMEh0WVdvX1B0eFlSMkkxT1U4SEFrM053bFAwbTJZaEJCVV9Kc01lV2ZR?oc=5",
+          "published": "2026-07-14T08:54:04.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "South Korea: Hyundai Marine launches health insurance for patients with medical history - Asia Insurance Review",
           "source": "Asia Insurance Review",
@@ -166,21 +137,21 @@
         },
         {
           "tag": "Earnings",
-          "headline": "Selected HKEX Announcements | New China Life Insurance expects interim net profit to exceed RMB 20 billion - 富途牛牛",
+          "headline": "Selected HKEX Announcements | China Life Insurance H1 profit may surge over 200% year-on-year; China Shenhua expects H1 net profit to exc…",
           "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHdhWUhkSkZveGJET1A3MlZXSG1YTm1GQ1IzNTFvaElaYVVDc3RhLWlma0xqenB6dGx5VVpQN2JVeG9pU3QzRXJ2Q1RHTHBFQ3VZVzE1a21zU1hPM2lQOWQ4NlN5b2V6djIyX0M1Ym8xR1ZXN1M3Y1BFTE5QRUFrR250eGN1UmdfOV82OXd5VWlHTzFnNHA4V0Z4ZXhqT00wX21BUDlUQVZnUzJKNUxMSWcwOA?oc=5",
-          "published": "2026-07-13T13:18:10.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Aflac Life Insurance Japan and The Cancer Institute Hospital of JFCR adopt Fujitsu's Medical Certificate Integration Service for online c…",
-          "source": "ACN Newswire",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOeWh2WHdnRWZNOUlEUURHeUxBMGxIMHkxd2Y4UFl5UmhRM29MNE5PME1ncXIyVDlSSi1GUEs3YUhQRzNOWG9LMHhodWM4QVcyZmFweGVLd1pIRmF5dHFxTmVGNW5ySDNQSVBiU051d2luWHB4eW9IMmx0MVlDR3FBWXBhSnBOOUxkX0hKRmtVVlNtdnMybnF4VWlQMzlsR2EyZlFYWmJlXzFKZFRMT3B0MFIzNVdSdGhqOGYzN3pHczFMb054Zko1a3BNMm5rX2kyTE9pU0hPUnVHZnBlOTU5OUNPTld3R1RBd3dMMWpDZTltQXhRd2xjSmpTSFRCb2FQaC1ETGYzTWtJTDE5SDJiS0htMjROSENMUmV5cERJcmpKcnFVR25LXzkxZmtFdjVr?oc=5",
-          "published": "2026-07-13T12:56:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWw3SWpoRGpFcHY3U2U2eS1wX2JGdFRTdVZMUENubUFVQ181dE5vYWlVWHJDMVlsQ05VSVgyT0lSSWF2azVaR2NXRG5GOTNvWTJrd0xyTmVjTm9qOXFNNXEwMUQ1V1V4bjlycTZZQjhGMkFyNm5xVkxRUjVKMGQtYTc1OFF5WGRSUlExVnhrZHEwbmdtbEpzVkZVTzdEWDAwX1hHSWRobmt0bmUwOEE?oc=5",
+          "published": "2026-07-14T12:47:13.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Press",
+          "headline": "APRA finalises amendments to general insurance reinsurance framework - Global Regulation Tomorrow",
+          "source": "Global Regulation Tomorrow",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazNQNndBbE5rbHJ6Z2VwNm1DdmNoTWtQdVRlLW5tbkEzcEE4N2hyVGRHekNwQ0tQZU91Z0RBVXBiNEYzSTVmd19DaFl5V0hWVnNWXzEtSFRBcngyMENrd0N6YkhGdWF6YTgyYTdGN0ZZWUdEUjFkYkVWTlh2Y0JGaC1aVV9yQzcxMEh0WVdvX1B0eFlSMkkxT1U4SEFrM053bFAwbTJZaEJCVV9Kc01lV2ZR?oc=5",
+          "published": "2026-07-14T08:54:04.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "South Korea: Hyundai Marine launches health insurance for patients with medical history - Asia Insurance Review",
           "source": "Asia Insurance Review",
@@ -189,10 +160,10 @@
         },
         {
           "tag": "Earnings",
-          "headline": "Selected HKEX Announcements | New China Life Insurance expects interim net profit to exceed RMB 20 billion - 富途牛牛",
+          "headline": "Selected HKEX Announcements | China Life Insurance H1 profit may surge over 200% year-on-year; China Shenhua expects H1 net profit to exc…",
           "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHdhWUhkSkZveGJET1A3MlZXSG1YTm1GQ1IzNTFvaElaYVVDc3RhLWlma0xqenB6dGx5VVpQN2JVeG9pU3QzRXJ2Q1RHTHBFQ3VZVzE1a21zU1hPM2lQOWQ4NlN5b2V6djIyX0M1Ym8xR1ZXN1M3Y1BFTE5QRUFrR250eGN1UmdfOV82OXd5VWlHTzFnNHA4V0Z4ZXhqT00wX21BUDlUQVZnUzJKNUxMSWcwOA?oc=5",
-          "published": "2026-07-13T13:18:10.000Z"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWw3SWpoRGpFcHY3U2U2eS1wX2JGdFRTdVZMUENubUFVQ181dE5vYWlVWHJDMVlsQ05VSVgyT0lSSWF2azVaR2NXRG5GOTNvWTJrd0xyTmVjTm9qOXFNNXEwMUQ1V1V4bjlycTZZQjhGMkFyNm5xVkxRUjVKMGQtYTc1OFF5WGRSUlExVnhrZHEwbmdtbEpzVkZVTzdEWDAwX1hHSWRobmt0bmUwOEE?oc=5",
+          "published": "2026-07-14T12:47:13.000Z"
         },
         {
           "tag": "Press",
@@ -210,7 +181,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-11T03:38:32.000Z"
+          "published": "2026-07-11T17:36:40.000Z"
         }
       ]
     },
@@ -220,33 +191,33 @@
       "bullets": [
         {
           "tag": "Press",
+          "headline": "Neosurf Casinos Australia 2026: 5 Top Instant Deposit Online Casinos That Accept Neosurf - Muddy River News",
+          "source": "Muddy River News",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSUYyM3V5YnpzdWZ6QVRpZHAxWVRjdlY0azRZZHF2cGdEeEZIcTc1T0h2S1E5UVZUaFVITUFiSHhCNnlvQUZmUThUTElTTF84dVBJM3ZlOTZsbzE5UnhhbVBlbm1VWmN2VUtUbzB0TUpqbGZmZFliV0dZdlRQVmw4NTU3QS1LTmI1a3FpUEp2M0NVbWJOMFkzSU9kR0l6VVFmVVVRZXFJZ0hlZkh5Wnp0cGdTT3BpQjZMLTFqUl9MXzlYa0c2X1lEY1JPUWlkVzAyUWc4MUQydkRkZw?oc=5",
+          "published": "2026-07-14T15:12:59.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Fast Payout Casinos Australia: 5 Top Trusted Sites with Instant Payments - Muddy River News",
           "source": "Muddy River News",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjVUTXk5XzUzdnIwVkdQbEF6RkR1Nnh2MHkyM2ZsMHRUOVM2ZEFQVXB3R0VkOFFDTU9JY0xZd1NoeGNhSllVWVQzci1YaWljZllCZnp4bW5EaHl4bklpMFdTZDNVVVltS0FWdjlod0g5c0ZncERrSmhpbTNQb1MwU3FYYzlrb0J6X3MyNkh4LWpSa083c3VxaER6N1pMNVNpSlBuTkpGSWRfMUtlSzhET0ZrdHU1X1NpYUpSZUpyTkFvNDB3MkE?oc=5",
           "published": "2026-07-13T01:00:57.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Best PayID Casinos Australia | Top Online Casinos that Accept PayID Payments (Easy Deposits) - Muddy River News",
-          "source": "Muddy River News",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSU1WWmM3ZXlfeWs0R19XRGxqMGRWWHJESXN1aVdLbFliVkVWLXcydGp5VEZxSTlGdGRFbkFqcVRuUHk4RVpXOUktLWNXVmlOd2ItZjA1Y3BsUkZ1V0I2NGVLUkFDelRpUDdVNnJ5U0pUWGpBYXV3TERzaGFSenBJZG93WEEtOTdkaS1yN0hzZG1tdkxKV0xIdE1udU1YYk5aQTE0S2oxN2I2N0NWWGE4QWpFS05xYjBvemhYOHk0YllrWEJ4Sk4tMFBPdzhNQ3MxeTluc0dnYzhLTEk?oc=5",
-          "published": "2026-07-12T12:45:57.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
+          "headline": "Neosurf Casinos Australia 2026: 5 Top Instant Deposit Online Casinos That Accept Neosurf - Muddy River News",
+          "source": "Muddy River News",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSUYyM3V5YnpzdWZ6QVRpZHAxWVRjdlY0azRZZHF2cGdEeEZIcTc1T0h2S1E5UVZUaFVITUFiSHhCNnlvQUZmUThUTElTTF84dVBJM3ZlOTZsbzE5UnhhbVBlbm1VWmN2VUtUbzB0TUpqbGZmZFliV0dZdlRQVmw4NTU3QS1LTmI1a3FpUEp2M0NVbWJOMFkzSU9kR0l6VVFmVVVRZXFJZ0hlZkh5Wnp0cGdTT3BpQjZMLTFqUl9MXzlYa0c2X1lEY1JPUWlkVzAyUWc4MUQydkRkZw?oc=5",
+          "published": "2026-07-14T15:12:59.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Fast Payout Casinos Australia: 5 Top Trusted Sites with Instant Payments - Muddy River News",
           "source": "Muddy River News",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjVUTXk5XzUzdnIwVkdQbEF6RkR1Nnh2MHkyM2ZsMHRUOVM2ZEFQVXB3R0VkOFFDTU9JY0xZd1NoeGNhSllVWVQzci1YaWljZllCZnp4bW5EaHl4bklpMFdTZDNVVVltS0FWdjlod0g5c0ZncERrSmhpbTNQb1MwU3FYYzlrb0J6X3MyNkh4LWpSa083c3VxaER6N1pMNVNpSlBuTkpGSWRfMUtlSzhET0ZrdHU1X1NpYUpSZUpyTkFvNDB3MkE?oc=5",
           "published": "2026-07-13T01:00:57.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Best PayID Casinos Australia | Top Online Casinos that Accept PayID Payments (Easy Deposits) - Muddy River News",
-          "source": "Muddy River News",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSU1WWmM3ZXlfeWs0R19XRGxqMGRWWHJESXN1aVdLbFliVkVWLXcydGp5VEZxSTlGdGRFbkFqcVRuUHk4RVpXOUktLWNXVmlOd2ItZjA1Y3BsUkZ1V0I2NGVLUkFDelRpUDdVNnJ5U0pUWGpBYXV3TERzaGFSenBJZG93WEEtOTdkaS1yN0hzZG1tdkxKV0xIdE1udU1YYk5aQTE0S2oxN2I2N0NWWGE4QWpFS05xYjBvemhYOHk0YllrWEJ4Sk4tMFBPdzhNQ3MxeTluc0dnYzhLTEk?oc=5",
-          "published": "2026-07-12T12:45:57.000Z"
         }
       ],
       "insight": {
