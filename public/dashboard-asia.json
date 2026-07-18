@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T04:43:24.682Z",
+  "generatedAt": "2026-07-18T04:27:24.130Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -39,6 +39,13 @@
           "published": "2026-07-16T00:56:16.000Z"
         },
         {
+          "tag": "Earnings",
+          "headline": "What DBS’s S$1 trillion AUM target means for my Singapore bank allocation - Beansprout",
+          "source": "Beansprout",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VdXNpM25HOXk0UjdEM2lhblFpUl91ZG1keV81QWZMYVJRMjNGRnhETVA1MWxPeGNLdkRWMnUyV0hyOXVtbHl2UHB6Z1NLMUFieERvQVJBUVM?oc=5",
+          "published": "2026-07-17T08:12:52.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "ETFs Investing in China Cinda Asset Management Co., Ltd. Class H Stocks - TradingView",
           "source": "TradingView",
@@ -55,11 +62,25 @@
           "published": "2026-07-16T00:56:16.000Z"
         },
         {
+          "tag": "Earnings",
+          "headline": "What DBS’s S$1 trillion AUM target means for my Singapore bank allocation - Beansprout",
+          "source": "Beansprout",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VdXNpM25HOXk0UjdEM2lhblFpUl91ZG1keV81QWZMYVJRMjNGRnhETVA1MWxPeGNLdkRWMnUyV0hyOXVtbHl2UHB6Z1NLMUFieERvQVJBUVM?oc=5",
+          "published": "2026-07-17T08:12:52.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "ETFs Investing in China Cinda Asset Management Co., Ltd. Class H Stocks - TradingView",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jZmhpTjZ2X1ZYTmVsbEI2b0VnZmFGNHVzOHBXdjBPWlZ2aEVZeHVVZXNBcGt2UDdIMmlUOW8zT0JWa005Ny1TTVpTXzVsRmkwRmRxc3lwNDBjN2hMRUE?oc=5",
           "published": "2026-07-16T06:34:15.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Is Matthews China Small Companies Investor (MCSMX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDZaNVJ4SFlyRnl3RmU2bC1YNDRMZXc4MlBsSnNyRDcteXJZYi1SNHAwcFNyUEV1Qk1QckRmR1dHZHFhSkRnaDFlRE05eE42WFRITnRIbDdqQW9PYkRjRjVLMFh0NGVzSlJIV3Vodk1UcGVtbGhZcFZia1lnalE5TmFVNmp3NnFBZHRRUVNrcGE5dw?oc=5",
+          "published": "2026-07-15T11:00:02.000Z"
         }
       ],
       "insight": {
@@ -93,38 +114,8 @@
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "LPL Financial Welcomes Buell Wealth Management - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEVQOHcyenY5RzhhZEpHQmNacEQtS3pjQ0VDWHVXY0ZjZE9GbWxaNjZkaXRhbzFHdzVPRU8tZ1pUT3h1MVViSXcxSXdpLTlTSUpSMUR4RXZYM2tjTzdPUVdpWmxlSG5OWm14S1lZSzNrVm1NNW5kY0dvT2UyZ0JJWEctNlNQWVQ1WEkzOA?oc=5",
-          "published": "2026-07-15T12:55:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "FNB Wealth Management Selects Cetera Financial Institutions to Elevate and Expand Its Investment Services Program - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmRaMWh1QXVVaXhKczBWWkx2UVZUREctUGRtSjZENnRuUENPZ25OZTJpdVBuZGttV292N1Y5eTB2LVhGLXFtRlFPMzM0ZGg2Z2NpMTg4ZEJDYWlVQlJjYW93aHpBc3gwSFJQUVdZRHowT25xV09MOUtuWW0xV2tTRDN3dFNlNzhKalVIa0xn?oc=5",
-          "published": "2026-07-14T12:05:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "LPL Financial Welcomes Buell Wealth Management - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEVQOHcyenY5RzhhZEpHQmNacEQtS3pjQ0VDWHVXY0ZjZE9GbWxaNjZkaXRhbzFHdzVPRU8tZ1pUT3h1MVViSXcxSXdpLTlTSUpSMUR4RXZYM2tjTzdPUVdpWmxlSG5OWm14S1lZSzNrVm1NNW5kY0dvT2UyZ0JJWEctNlNQWVQ1WEkzOA?oc=5",
-          "published": "2026-07-15T12:55:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "FNB Wealth Management Selects Cetera Financial Institutions to Elevate and Expand Its Investment Services Program - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmRaMWh1QXVVaXhKczBWWkx2UVZUREctUGRtSjZENnRuUENPZ25OZTJpdVBuZGttV292N1Y5eTB2LVhGLXFtRlFPMzM0ZGg2Z2NpMTg4ZEJDYWlVQlJjYW93aHpBc3gwSFJQUVdZRHowT25xV09MOUtuWW0xV2tTRDN3dFNlNzhKalVIa0xn?oc=5",
-          "published": "2026-07-14T12:05:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "Wealth Management⠀: Latest News and Updates - South China Morning Post",
@@ -139,77 +130,17 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "PNC Financial Services Group (PNC) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5Uk9yY21XNW5sT19MeXJUSFNxTE5FSjJyYi1FZHpvT3dOeXJQcVphVU5pVW1ocHAxV21qV0R3OGFybzR6NWI0NWptX1FDN3E1VmFDaUd5R3BXcnBLck1OdVFTbi02WU1Od3dfWjVHa3RpUDBXdk9v?oc=5",
-          "published": "2026-07-15T21:00:00.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "HSBC Revises Gold Price Forecasts Lower for 2026-2027 Amid Hawkish Fed Outlook - Earnings Call Transcript - DonanımHaber",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzNGN1oyWGhRTnZ0Q0cxQnhJLXhUVEdrUTlpQ0ExRVNORWJUdmFsRUQyZVlZM0xkOFBvdU5aWjREb2V5Y0ptV0hxeXg3b183TGhmc3hvS256bE82QmZvZmoxUjdMUlFnSkF4eTZOUVVBTGg4ZS16eXFmZlUyVE9JNTVVb2c0S1FUSGdyNlVBRDZEWnA3VXlsbS1Fbnd3bjdWRFo5eTFZNk1xMzVGWktWYUNDbjlhd2xLZGpod0duQjRpNXROS0E?oc=5",
-          "published": "2026-07-09T10:18:53.000Z"
-        },
-        {
-          "company": "OCBC Bank",
-          "ticker": "O39.SI",
-          "tag": "Transcript",
-          "headline": "OCBC Launches AI-Powered Avatars, Plans to Hire 600 Relationship Managers for Wealth Management Expansion - Earnings Ca…",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVFZybVhaTXRaeTh3TkhQeHJwa0ZoOUhadWR3YjVUQXd3X1Q2YkgtdVc0NnNraFRRdjNiSENUV1dHZGFUZ2RUTnhkTkpEY0FDU003cEl2cV9qV2ZjdlpUbG5LYUdpZzV4MTVVUGswZGRFZ2VXV1pkWWhYcVFENXB6YjQxWGMzdjE2elRiMjJ4ZEtwbGFJbW5hNHlHY2VObkpVNWIzSXVUd2hiTWktenpSdkkya3pYSzJHX2pycG0xcEVPd0pSbmxlby0ycmd5WnR2Q2xpcDVnS19QaUdUMGcxSTFOU1ZXZWpqakRZ?oc=5",
-          "published": "2026-07-01T07:00:00.000Z"
+          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
+          "published": "2026-07-16T19:27:16.000Z"
         }
       ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "China Life Insurance has established a new RMB 5 billion fund dedicated to semiconductor investments, as insurance capital emerges as a k…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ3paMjhael9oRnMwOXdxUGJNMHR3Vk02VnhTS2RQNTlRc2pNMURYOHNFSHhYVDY5STZQeEJteThSZURzSVZTRmpXaGtjRktDcDdvcFFaakd6eWhZeWxIaENuMGZueTVQR3dsejFGYS1rNFNubHFwN3RNX1JNcUJOU1Nsb0c4OUVaT3lIQ3ZtUFZsQkFFaHMwM1FPUmxTNy1Ybl9DYng3OHM5cU1QeEtOVUpMWjJCSC0zQ3lxSXRkRXZ3b1RtZzBhRHZ3cVk?oc=5",
-          "published": "2026-07-14T13:13:56.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Cooling US Inflation Ignites Asian Stocks; South Korea's KOSPI Surges Over 7%, Triggering Circuit Breaker; China Life Insurance Profit So…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53ZkFjbW1UWkJXd1R6dTVHV2VvZlluNVlSem5BTXo4cUc5U1Z6U2FuSjFyYmNTTHNaRkgwanFENWJWWW5ObjFNT2UwdGh0QVZ6UmQwcV9KeGZuMGkwaGlLaU5INUhpeHJ0VE1BVDFwcGZUMXFZSWc?oc=5",
-          "published": "2026-07-15T02:05:00.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Selected HKEX Announcements | China Life Insurance H1 profit may surge over 200% year-on-year; China Shenhua expects H1 net profit to exc…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHVlc09TVWYtVUVDZ2RyNzJlanlkbVdINGg4T1pxTEwzTUdnb1RKUmI5enAwZHN0YklVTlBKbENtWkdEMHNBY1hvN3ZnclE4TkN6QzFMR3E1SFQ0STVZUFJ5Y1pSYXNCeVVJbmMzdDR0OThGWVZEdHRhTUxiM2t2NjFyaWJTSkNxbVZuTGJtUFlCazVMQVlEZm9RN2ZlZEtlLVhBRnpoQ2RJNU9QX3Nwbm5tNmYzZm9ueXoxRDU2ekRuQnJCdk1WT3RHeWoybmkyazBLeFZwVWFWSXBW?oc=5",
-          "published": "2026-07-14T12:47:13.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "China Life Insurance has established a new RMB 5 billion fund dedicated to semiconductor investments, as insurance capital emerges as a k…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ3paMjhael9oRnMwOXdxUGJNMHR3Vk02VnhTS2RQNTlRc2pNMURYOHNFSHhYVDY5STZQeEJteThSZURzSVZTRmpXaGtjRktDcDdvcFFaakd6eWhZeWxIaENuMGZueTVQR3dsejFGYS1rNFNubHFwN3RNX1JNcUJOU1Nsb0c4OUVaT3lIQ3ZtUFZsQkFFaHMwM1FPUmxTNy1Ybl9DYng3OHM5cU1QeEtOVUpMWjJCSC0zQ3lxSXRkRXZ3b1RtZzBhRHZ3cVk?oc=5",
-          "published": "2026-07-14T13:13:56.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Cooling US Inflation Ignites Asian Stocks; South Korea's KOSPI Surges Over 7%, Triggering Circuit Breaker; China Life Insurance Profit So…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53ZkFjbW1UWkJXd1R6dTVHV2VvZlluNVlSem5BTXo4cUc5U1Z6U2FuSjFyYmNTTHNaRkgwanFENWJWWW5ObjFNT2UwdGh0QVZ6UmQwcV9KeGZuMGkwaGlLaU5INUhpeHJ0VE1BVDFwcGZUMXFZSWc?oc=5",
-          "published": "2026-07-15T02:05:00.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Selected HKEX Announcements | China Life Insurance H1 profit may surge over 200% year-on-year; China Shenhua expects H1 net profit to exc…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHVlc09TVWYtVUVDZ2RyNzJlanlkbVdINGg4T1pxTEwzTUdnb1RKUmI5enAwZHN0YklVTlBKbENtWkdEMHNBY1hvN3ZnclE4TkN6QzFMR3E1SFQ0STVZUFJ5Y1pSYXNCeVVJbmMzdDR0OThGWVZEdHRhTUxiM2t2NjFyaWJTSkNxbVZuTGJtUFlCazVMQVlEZm9RN2ZlZEtlLVhBRnpoQ2RJNU9QX3Nwbm5tNmYzZm9ueXoxRDU2ekRuQnJCdk1WT3RHeWoybmkyazBLeFZwVWFWSXBW?oc=5",
-          "published": "2026-07-14T12:47:13.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
@@ -218,31 +149,15 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-15T22:08:56.000Z"
+          "published": "2026-07-16T11:51:56.000Z"
         }
       ]
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Best No Deposit Bonus Casinos Australia 2026 – New Free Spins & Bonus Codes - Ocean Road Magazine",
-          "source": "Ocean Road Magazine",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTNoR1RQUTZEXzV6blBiT2ZHLWY3OHhSSW1ZY2JtbXh4RzkwSGQ4aUhYLVZmNjVoVFJTNmNCd1dyd2FWcjNSVGFJeUczcmk5TDZMOFdQYzA0R2xJMjB4WVVnMnpkTlpWR3h2Yy1uSnRaOUthajJvbHZEazdyUDV3N0ctZFZRbktHUlNsZDIwYXVIRUltUmd6Ui1JOWZWNDB2Z2tkVTlGVEY1QjlPWWc?oc=5",
-          "published": "2026-07-14T22:20:02.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Best No Deposit Bonus Casinos Australia 2026 – New Free Spins & Bonus Codes - Ocean Road Magazine",
-          "source": "Ocean Road Magazine",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTNoR1RQUTZEXzV6blBiT2ZHLWY3OHhSSW1ZY2JtbXh4RzkwSGQ4aUhYLVZmNjVoVFJTNmNCd1dyd2FWcjNSVGFJeUczcmk5TDZMOFdQYzA0R2xJMjB4WVVnMnpkTlpWR3h2Yy1uSnRaOUthajJvbHZEazdyUDV3N0ctZFZRbktHUlNsZDIwYXVIRUltUmd6Ui1JOWZWNDB2Z2tkVTlGVEY1QjlPWWc?oc=5",
-          "published": "2026-07-14T22:20:02.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "Itochu, BHP greenlight Ministers North deposit in Western Australia - Morningstar",
@@ -252,24 +167,7 @@
         "published": "2026-07-16T03:18:58.000Z",
         "paywalled": false
       },
-      "companyUpdates": [
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "HSBC Revises Gold Price Forecasts Lower for 2026-2027 Amid Hawkish Fed Outlook - Earnings Call Transcript - DonanımHaber",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzNGN1oyWGhRTnZ0Q0cxQnhJLXhUVEdrUTlpQ0ExRVNORWJUdmFsRUQyZVlZM0xkOFBvdU5aWjREb2V5Y0ptV0hxeXg3b183TGhmc3hvS256bE82QmZvZmoxUjdMUlFnSkF4eTZOUVVBTGg4ZS16eXFmZlUyVE9JNTVVb2c0S1FUSGdyNlVBRDZEWnA3VXlsbS1Fbnd3bjdWRFo5eTFZNk1xMzVGWktWYUNDbjlhd2xLZGpod0duQjRpNXROS0E?oc=5",
-          "published": "2026-07-09T10:18:53.000Z"
-        },
-        {
-          "company": "OCBC Bank",
-          "ticker": "O39.SI",
-          "tag": "Transcript",
-          "headline": "OCBC Launches AI-Powered Avatars, Plans to Hire 600 Relationship Managers for Wealth Management Expansion - Earnings Ca…",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVFZybVhaTXRaeTh3TkhQeHJwa0ZoOUhadWR3YjVUQXd3X1Q2YkgtdVc0NnNraFRRdjNiSENUV1dHZGFUZ2RUTnhkTkpEY0FDU003cEl2cV9qV2ZjdlpUbG5LYUdpZzV4MTVVUGswZGRFZ2VXV1pkWWhYcVFENXB6YjQxWGMzdjE2elRiMjJ4ZEtwbGFJbW5hNHlHY2VObkpVNWIzSXVUd2hiTWktenpSdkkya3pYSzJHX2pycG0xcEVPd0pSbmxlby0ycmd5WnR2Q2xpcDVnS19QaUdUMGcxSTFOU1ZXZWpqakRZ?oc=5",
-          "published": "2026-07-01T07:00:00.000Z"
-        }
-      ]
+      "companyUpdates": []
     }
   ]
 }
