@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T04:27:24.130Z",
+  "generatedAt": "2026-07-19T04:51:11.540Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,20 +32,6 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Strategy",
-          "headline": "Inflows From Nontraditional ETFs Drive Hong Kong ETF Market to a New High - Morningstar",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUl1enFnYzdGLTdOVzRvV2N5RDlrNnFZdkhERUxxWjRibS1lUTg0ZFJUV3pIWkF0LWNqRGNrc1FlZkhucDJEd3pZdnpHSGk4RWpKRVc5aWZVRTNnSFZma05fZ1VJZGlJZEx1RDI0OTlfTXVsZElxYUdweG5rVkkyQmxXdV8xNDE3VXJkUk5IQWswZnEzX1VNYzdZaHByUmFXQUhSbHdwZmc?oc=5",
-          "published": "2026-07-16T00:56:16.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "What DBS’s S$1 trillion AUM target means for my Singapore bank allocation - Beansprout",
-          "source": "Beansprout",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VdXNpM25HOXk0UjdEM2lhblFpUl91ZG1keV81QWZMYVJRMjNGRnhETVA1MWxPeGNLdkRWMnUyV0hyOXVtbHl2UHB6Z1NLMUFieERvQVJBUVM?oc=5",
-          "published": "2026-07-17T08:12:52.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "ETFs Investing in China Cinda Asset Management Co., Ltd. Class H Stocks - TradingView",
           "source": "TradingView",
@@ -55,32 +41,11 @@
       ],
       "candidates": [
         {
-          "tag": "Strategy",
-          "headline": "Inflows From Nontraditional ETFs Drive Hong Kong ETF Market to a New High - Morningstar",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUl1enFnYzdGLTdOVzRvV2N5RDlrNnFZdkhERUxxWjRibS1lUTg0ZFJUV3pIWkF0LWNqRGNrc1FlZkhucDJEd3pZdnpHSGk4RWpKRVc5aWZVRTNnSFZma05fZ1VJZGlJZEx1RDI0OTlfTXVsZElxYUdweG5rVkkyQmxXdV8xNDE3VXJkUk5IQWswZnEzX1VNYzdZaHByUmFXQUhSbHdwZmc?oc=5",
-          "published": "2026-07-16T00:56:16.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "What DBS’s S$1 trillion AUM target means for my Singapore bank allocation - Beansprout",
-          "source": "Beansprout",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VdXNpM25HOXk0UjdEM2lhblFpUl91ZG1keV81QWZMYVJRMjNGRnhETVA1MWxPeGNLdkRWMnUyV0hyOXVtbHl2UHB6Z1NLMUFieERvQVJBUVM?oc=5",
-          "published": "2026-07-17T08:12:52.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "ETFs Investing in China Cinda Asset Management Co., Ltd. Class H Stocks - TradingView",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jZmhpTjZ2X1ZYTmVsbEI2b0VnZmFGNHVzOHBXdjBPWlZ2aEVZeHVVZXNBcGt2UDdIMmlUOW8zT0JWa005Ny1TTVpTXzVsRmkwRmRxc3lwNDBjN2hMRUE?oc=5",
           "published": "2026-07-16T06:34:15.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Is Matthews China Small Companies Investor (MCSMX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDZaNVJ4SFlyRnl3RmU2bC1YNDRMZXc4MlBsSnNyRDcteXJZYi1SNHAwcFNyUEV1Qk1QckRmR1dHZHFhSkRnaDFlRE05eE42WFRITnRIbDdqQW9PYkRjRjVLMFh0NGVzSlJIV3Vodk1UcGVtbGhZcFZia1lnalE5TmFVNmp3NnFBZHRRUVNrcGE5dw?oc=5",
-          "published": "2026-07-15T11:00:02.000Z"
         }
       ],
       "insight": {
@@ -149,7 +114,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-16T11:51:56.000Z"
+          "published": "2026-07-16T15:38:19.000Z"
         }
       ]
     },
