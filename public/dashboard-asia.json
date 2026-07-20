@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T04:51:11.540Z",
+  "generatedAt": "2026-07-20T05:08:00.546Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,29 +32,43 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Press",
-          "headline": "ETFs Investing in China Cinda Asset Management Co., Ltd. Class H Stocks - TradingView",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jZmhpTjZ2X1ZYTmVsbEI2b0VnZmFGNHVzOHBXdjBPWlZ2aEVZeHVVZXNBcGt2UDdIMmlUOW8zT0JWa005Ny1TTVpTXzVsRmkwRmRxc3lwNDBjN2hMRUE?oc=5",
-          "published": "2026-07-16T06:34:15.000Z"
+          "tag": "Product",
+          "headline": "Hong Kong-Based Asset Manager VSFG and Value Partners Files for Spot Bitcoin ETF - CoinMarketCap",
+          "source": "CoinMarketCap",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0R1YzdfTGJBOTlqS28xUXFkRk9YcnN6YVpBTm00WVhpNHp0R19MRy1NaVZqRU1xWVNIWWw5cTZ2NVh5bUFPLWw5UG42aU5jRko0dE5pQ3RaWjZJUzBCZU9UVF96b2pxNDdoWFZ0ZGxoUnFEV3Jza2FLd2lWX0VBUnptZXBMQUZaYkpuR2JjTldxOWJoNG9NX2o0RzFvWThRdE1ZS0VCRVhnLV80TVFLbzVkSDJ5TVR6N1loN21jUQ?oc=5",
+          "published": "2026-07-18T02:14:09.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Is Matthews China Small Companies Investor (MCSMX) a strong mutual fund pick right now? - MSN",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPekxiN2RuZThyNm5nRXpSTXpQc0dPZDVEdFdTUE5mSW5uZHlOcmd3bEsxNXVHOGY4Sy0tWWVvUnNlYUxaZHFGSHpBQ2RSQlB3X0tfWDU1OHhzdTRKNXVPM05lZVhiaDlNZVdrR1pYZTcyaVRkWEsxTVpudjZ2aWRnWmU3WUN0TTNFZ3I1ME8xOVpkQ0tBWlBvT0RyUmdHOGpiMWx4N0ZuQnpTQ004SlVQaHRRQ0tNUmtUaHM2M2xmTHY4UGF3XzE1NXRNVHdEd2hqb3FjOHNfQnZ5Q0ozVWxFMA?oc=5",
+          "published": "2026-07-17T08:31:18.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Press",
-          "headline": "ETFs Investing in China Cinda Asset Management Co., Ltd. Class H Stocks - TradingView",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jZmhpTjZ2X1ZYTmVsbEI2b0VnZmFGNHVzOHBXdjBPWlZ2aEVZeHVVZXNBcGt2UDdIMmlUOW8zT0JWa005Ny1TTVpTXzVsRmkwRmRxc3lwNDBjN2hMRUE?oc=5",
-          "published": "2026-07-16T06:34:15.000Z"
+          "tag": "Product",
+          "headline": "Hong Kong-Based Asset Manager VSFG and Value Partners Files for Spot Bitcoin ETF - CoinMarketCap",
+          "source": "CoinMarketCap",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0R1YzdfTGJBOTlqS28xUXFkRk9YcnN6YVpBTm00WVhpNHp0R19MRy1NaVZqRU1xWVNIWWw5cTZ2NVh5bUFPLWw5UG42aU5jRko0dE5pQ3RaWjZJUzBCZU9UVF96b2pxNDdoWFZ0ZGxoUnFEV3Jza2FLd2lWX0VBUnptZXBMQUZaYkpuR2JjTldxOWJoNG9NX2o0RzFvWThRdE1ZS0VCRVhnLV80TVFLbzVkSDJ5TVR6N1loN21jUQ?oc=5",
+          "published": "2026-07-18T02:14:09.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Is Matthews China Small Companies Investor (MCSMX) a strong mutual fund pick right now? - MSN",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPekxiN2RuZThyNm5nRXpSTXpQc0dPZDVEdFdTUE5mSW5uZHlOcmd3bEsxNXVHOGY4Sy0tWWVvUnNlYUxaZHFGSHpBQ2RSQlB3X0tfWDU1OHhzdTRKNXVPM05lZVhiaDlNZVdrR1pYZTcyaVRkWEsxTVpudjZ2aWRnWmU3WUN0TTNFZ3I1ME8xOVpkQ0tBWlBvT0RyUmdHOGpiMWx4N0ZuQnpTQ004SlVQaHRRQ0tNUmtUaHM2M2xmTHY4UGF3XzE1NXRNVHdEd2hqb3FjOHNfQnZ5Q0ozVWxFMA?oc=5",
+          "published": "2026-07-17T08:31:18.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Inflows From Nontraditional ETFs Drive Hong Kong ETF Market to a New High - Morningstar",
+        "headline": "2819 – ABF Hong Kong Bond Index – ETF Stock Quote - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUl1enFnYzdGLTdOVzRvV2N5RDlrNnFZdkhERUxxWjRibS1lUTg0ZFJUV3pIWkF0LWNqRGNrc1FlZkhucDJEd3pZdnpHSGk4RWpKRVc5aWZVRTNnSFZma05fZ1VJZGlJZEx1RDI0OTlfTXVsZElxYUdweG5rVkkyQmxXdV8xNDE3VXJkUk5IQWswZnEzX1VNYzdZaHByUmFXQUhSbHdwZmc?oc=5",
-        "published": "2026-07-16T00:56:16.000Z",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YSmZWTlpxZ3VzaGczZFNCRy16Z3dUcml3Y3BJNld6MS1wVFA2X2phVmM0dEt5UEpKc3M5SFd3dHpvSXVYYjhMS0ctMUp2cTJwZkkyMG1SN2dNYnZL?oc=5",
+        "published": "2026-07-15T07:00:00.000Z",
         "paywalled": false
       },
       "companyUpdates": [
