@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T04:49:02.307Z",
+  "generatedAt": "2026-07-22T04:49:04.332Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,20 +32,55 @@
       "name": "Asset Management",
       "bullets": [
         {
+          "tag": "Strategy",
+          "headline": "Japan convertible bond issuance at 22-year high on overseas inflows - Nikkei Asia",
+          "source": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE9YTGUzdlZsMk1ZdzNORUxlY051U3pMOW9UZkFiQ3BhVW12SkdqX2NaSXNYMV9vOGllMVdEZXBnV1I5TkFhdGpCMzFVSkdkdm14TGw4aEFVZ2hpQ3Etd0xWMktDTGFLTG0tX1NHQV8tQlpteXRiVi1qQVVJQzEzaFVLUmQtbzc4QXZVdWdYLXIwbndEUXRRY1ZwWWs4MzhUVnRBandrZWhKSFJiV1JXTWhOdUc?oc=5",
+          "published": "2026-07-21T22:22:00.000Z"
+        },
+        {
           "tag": "Product",
-          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0FETjlTX0hvc3dyVjVyNTJOd1BaWXpQU091Z0h4dTdaTlFRNFRCMGJTNkpIV2p5NG51TEdoTVlSQmxNUUtmZ0lLOWRZYmc0aDU0a1J6bDM0TUgxbUN5MHdPaUFxUGxWczFzOUMwM1c3RDVVaWF1ZlE3cjNQbUx1YmFNZEc5Z2o5SDFMWXd6bndsTGlhUHV0eFNnYi1Cam03cGhqZkptUW1sS0E?oc=5",
-          "published": "2026-07-20T07:04:00.000Z"
+          "headline": "China Merchants Securities drops South Korea ETF as Seoul stock volatility spills over",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3361400/china-merchants-securities-drops-south-korea-etf-seoul-stock-volatility-spills-over?utm_source=rss_feed",
+          "published": "2026-07-22T01:00:24.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Private wealth AUM up by 158% y-o-y; clients increase 149% y-o-y, says Moomoo Singapore - The Edge Singapore",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3I0bHU1SDBocFdNMlpZSkVsd0dQYTVpQXJLT3psNDNnWTVsV093S3VQZi0zRDlnM2ltZU1Sb1N5Nlh4SnhMekVSUGdZZ2VXSTZmSUhuREpMaG1ldUhSUG8wNGtXcWhJTUxZeU9GbFZhenpqTTRsX0xFanVpTTZKT3pjWDBfZjg5Y0hQSXA4YWFDcFlPWm5xS3BuZkVyeXhYa3NmanA4Yk5CTFdtcVBPNG1ESWY1MGtock5uTHhEWQ?oc=5",
+          "published": "2026-07-22T04:00:00.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Strategy",
+          "headline": "Japan convertible bond issuance at 22-year high on overseas inflows - Nikkei Asia",
+          "source": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE9YTGUzdlZsMk1ZdzNORUxlY051U3pMOW9UZkFiQ3BhVW12SkdqX2NaSXNYMV9vOGllMVdEZXBnV1I5TkFhdGpCMzFVSkdkdm14TGw4aEFVZ2hpQ3Etd0xWMktDTGFLTG0tX1NHQV8tQlpteXRiVi1qQVVJQzEzaFVLUmQtbzc4QXZVdWdYLXIwbndEUXRRY1ZwWWs4MzhUVnRBandrZWhKSFJiV1JXTWhOdUc?oc=5",
+          "published": "2026-07-21T22:22:00.000Z"
+        },
+        {
           "tag": "Product",
-          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0FETjlTX0hvc3dyVjVyNTJOd1BaWXpQU091Z0h4dTdaTlFRNFRCMGJTNkpIV2p5NG51TEdoTVlSQmxNUUtmZ0lLOWRZYmc0aDU0a1J6bDM0TUgxbUN5MHdPaUFxUGxWczFzOUMwM1c3RDVVaWF1ZlE3cjNQbUx1YmFNZEc5Z2o5SDFMWXd6bndsTGlhUHV0eFNnYi1Cam03cGhqZkptUW1sS0E?oc=5",
-          "published": "2026-07-20T07:04:00.000Z"
+          "headline": "China Merchants Securities drops South Korea ETF as Seoul stock volatility spills over",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/business/banking-finance/article/3361400/china-merchants-securities-drops-south-korea-etf-seoul-stock-volatility-spills-over?utm_source=rss_feed",
+          "published": "2026-07-22T01:00:24.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Private wealth AUM up by 158% y-o-y; clients increase 149% y-o-y, says Moomoo Singapore - The Edge Singapore",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3I0bHU1SDBocFdNMlpZSkVsd0dQYTVpQXJLT3psNDNnWTVsV093S3VQZi0zRDlnM2ltZU1Sb1N5Nlh4SnhMekVSUGdZZ2VXSTZmSUhuREpMaG1ldUhSUG8wNGtXcWhJTUxZeU9GbFZhenpqTTRsX0xFanVpTTZKT3pjWDBfZjg5Y0hQSXA4YWFDcFlPWm5xS3BuZkVyeXhYa3NmanA4Yk5CTFdtcVBPNG1ESWY1MGtock5uTHhEWQ?oc=5",
+          "published": "2026-07-22T04:00:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Hong Kong Asset Management and Private Equity Outlook - kpmg.com",
+          "source": "kpmg.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNelBQdW1xRGlzaDhZZTBsQUVrWmFGbm5BZVZKT2tZRmhscXRtb1hnWVN2SFI2YWI2MThrWDhOU25tOTdxcERkSng1QVZKZGtFNlJ1SzhFVDI2Z296RDh5ZE84TlBONnRjQ2FlcWM1blFHdHd1aTh2Njdxd0lTTjFvcXlMYUxRa3A0Q1ZXTFgxenZqOVV3U2hFWVNXVXlxLWc?oc=5",
+          "published": "2026-07-22T02:01:05.000Z"
         }
       ],
       "insight": {
@@ -62,9 +97,9 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
-          "published": "2026-07-15T18:30:00.000Z"
+          "headline": "Earnings call transcript: BlackRock beats Q2 2026 forecasts as shares rise premarket - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYnhOMjl0a0lKM3NWdC12dVVjTGs2VHJyUGNnbV8zRENLQ3lLRHMyZ1BsOFVwTHZCanlEaVJiNjdQY1lEODdqRTU1VnhlTG1OZHY0Mm90b2lnd3RKdEtVbEgtOEIxQ1RlbUh1Y216RjBRYVFnTGJuSjBzRFJtM2I1LWQ4ZUhBdWgyWXZCWHhHYjVIcnMxTWZjQUFacE03V09zbloxekFJMXdSeUdFNkVmSVpvUlcwejZEZE51UFlOQUZNbEhRZGRnN21QaWJqYkR2VndpeTZB?oc=5",
+          "published": "2026-07-15T13:11:37.000Z"
         },
         {
           "company": "Schroders",
@@ -112,9 +147,47 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Vietnam: Country's first comprehensive co-payment health insurance product launched - Asia Insurance Review",
+          "source": "Asia Insurance Review",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdlo0NG5od0kzbUd6Wnk4SEFiTUxSd0oyTV9KREo1b0ViSmVlS3pPZkJ2RmRTTmh4Wm1pT09MbC1zQ2gxYjZyT3F6d2V1WUprZHljU0thV1pjSnRyc3YxTEpKdXl0NmhuckZ6Ni02cVJjaVlTcjAwcjZpVGJmdWhJQTdNOHdESDFBR1hOWnlkdDRmenRsU19nVEZhN0t0VFBBSnVrS28xVWQ1MVlTRk1hVTBPZHR1Nld4WmRuaWZBVXg1Qzlxa2ZPOEV6Ql9QM2NBeHBhVUQwd3NKaEtGY3JCS2dZVGNDVDJzSVZFRTBVZks2aVRrd0R2V1lXenU?oc=5",
+          "published": "2026-07-22T00:01:21.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on South Korea’s Non-Life Insurance Market - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlBNQVhTWndJVFR6bVdWTl9CS0pPdnQteE40MVhZZ1FFSm4tamYwSVVmVlRybzlHMjJaU1BCb19IUXdXZDRCcTlUWVpkVGh0cUpFOTNYdFFndmJfSjg3WEVBeFFxR0g4Z0ZLNi1ZcE53dXBLRWdXNnB4SVQxcEdhZDIweGhUb2pZN0FIWlVpeTh3Sm9CZTMxQ3FwenAtSmVEaGJIZ1dteFlGOV8xQ1lwWjQzZkpuckRNZE05em9kcFk1OTRYOC1vYzdTeFY5T2t0Zi1lNWFvNkFGOGtFRWUxZ2ZRbTFWSV9VSTRPRl8zNTU?oc=5",
+          "published": "2026-07-22T00:00:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Vietnam: Country's first comprehensive co-payment health insurance product launched - Asia Insurance Review",
+          "source": "Asia Insurance Review",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdlo0NG5od0kzbUd6Wnk4SEFiTUxSd0oyTV9KREo1b0ViSmVlS3pPZkJ2RmRTTmh4Wm1pT09MbC1zQ2gxYjZyT3F6d2V1WUprZHljU0thV1pjSnRyc3YxTEpKdXl0NmhuckZ6Ni02cVJjaVlTcjAwcjZpVGJmdWhJQTdNOHdESDFBR1hOWnlkdDRmenRsU19nVEZhN0t0VFBBSnVrS28xVWQ1MVlTRk1hVTBPZHR1Nld4WmRuaWZBVXg1Qzlxa2ZPOEV6Ql9QM2NBeHBhVUQwd3NKaEtGY3JCS2dZVGNDVDJzSVZFRTBVZks2aVRrd0R2V1lXenU?oc=5",
+          "published": "2026-07-22T00:01:21.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on South Korea’s Non-Life Insurance Market - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlBNQVhTWndJVFR6bVdWTl9CS0pPdnQteE40MVhZZ1FFSm4tamYwSVVmVlRybzlHMjJaU1BCb19IUXdXZDRCcTlUWVpkVGh0cUpFOTNYdFFndmJfSjg3WEVBeFFxR0g4Z0ZLNi1ZcE53dXBLRWdXNnB4SVQxcEdhZDIweGhUb2pZN0FIWlVpeTh3Sm9CZTMxQ3FwenAtSmVEaGJIZ1dteFlGOV8xQ1lwWjQzZkpuckRNZE05em9kcFk1OTRYOC1vYzdTeFY5T2t0Zi1lNWFvNkFGOGtFRWUxZ2ZRbTFWSV9VSTRPRl8zNTU?oc=5",
+          "published": "2026-07-22T00:00:00.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on South Korea’s Non-Life Insurance Market - Morningstar",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTlplYWV6d0RtNk5fOEVhZWNSbm1KS3VJN25MNzlneTBCQWo3clI4OC1lYXpLTW0zTktrdmVJdzdFc1BxblV2VmR2MVNYbTVKdnk0dHFKSVpWenNNSmJGeWJHT0xZZXNoaEotWThWaElKdGlmc1BYbW5nTldzNGwtdF9VUWgtemRtYzFnbmt4cmZrc3UweXgtZzIxSXgyRlJGRS1nU0lqcnRPWmVSdUUzTWNqYzlqb1Nwdjk2UEhZWTBiOFNFYU5BRkl0MGwwUjlYeXNLY2VfZDIyS0M1NEh2ZjZ1Y2pDUjhFUWxPX05DaTlFNGs2SEpj?oc=5",
+        "published": "2026-07-22T00:55:08.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "Prudential plc",
@@ -122,7 +195,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-18T11:19:58.000Z"
+          "published": "2026-07-18T11:21:07.000Z"
         }
       ]
     },
@@ -131,14 +204,49 @@
       "name": "Retail Banking",
       "bullets": [
         {
+          "tag": "Product",
+          "headline": "The neobank ready to give Australia’s big four the chop - Switzer Daily",
+          "source": "Switzer Daily",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHVEZ3VscGR1WWRVaGtac1JITXFxa1RoaW40b3FxZ0lzc2pmdmVMNnFvYlhHS3FyRVh6MGgyZFpUNFUwdmJham0tVUF1cWNTTF9lbTF6eGVNNEttMThDWkd0WHpKUWtQTnBXYkVTTW5DN0xNSXVKa0Z3V0wwaXlRWkFOMG0?oc=5",
+          "published": "2026-07-21T23:24:03.000Z"
+        },
+        {
           "tag": "Press",
-          "headline": "What Australia’s Shift to Real-Time Payments Changed for Digital Services - Technology Org",
-          "source": "Technology Org",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnNXN2tVRUI0YVhoeVdUMlNxQnktdWM2NTVpczFMc1JzU3EzRks5Znd3TmlaZG5wOExXMUx6WVRWQ1V1QjFDOGFXLVYtNzQzaWxSTGVxNGJ4Y05sNDFtajFDVEpYazFsb0szd2xURXBXRFhlZlNQVEE2b2tvQWlodUdDS0VqLUxUa1FtT2FVakV5ZDloZ0JpUk9qeXBxampBTm9qYkd6TEtlcWZWMXVocQ?oc=5",
-          "published": "2026-07-20T20:24:15.000Z"
+          "headline": "Revolut Secures Full Authorised Deposit-Taking Institution Banking Licence in Australia - Bobsguide",
+          "source": "Bobsguide",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZktKTHo5Vmp1OVh6N1M3TjQyWVZacXdhRnRJNEhZNUw3U0FpX05qRmFVSk1MMEZvREpac0NtbkVSZnA3WEhvRDYwbjJjOGhQN0w1TjBxR2s0Q0d5T1RSWll1bFo4SnBkYlBfTlZvblBXU1F4TzVvUVJXOVZNaXJEMF9FVGhITEpVQzZCVWdVV0xWeGZ1WUNsMEVVeDV6WXhodzVuNVlyR3BfUzZIQU5DYmtWTGw?oc=5",
+          "published": "2026-07-21T09:58:02.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "TPBank Taps TerraPay for Cross-Border Payments from Vietnam - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wenAyWDVKSC1Kb29LRHpPdVJ3Nlg4VzBkdWlCLVhfakdkZzRzS3E1dDFTVGZiZzNaTHhHQ2o3LXlVQTBkUWg5ek5MVkVRaWxBU2hvSmR3T2RXUlZiTEhBMWxCVGViUQ?oc=5",
+          "published": "2026-07-22T02:50:56.000Z"
         }
       ],
       "candidates": [
+        {
+          "tag": "Product",
+          "headline": "The neobank ready to give Australia’s big four the chop - Switzer Daily",
+          "source": "Switzer Daily",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHVEZ3VscGR1WWRVaGtac1JITXFxa1RoaW40b3FxZ0lzc2pmdmVMNnFvYlhHS3FyRVh6MGgyZFpUNFUwdmJham0tVUF1cWNTTF9lbTF6eGVNNEttMThDWkd0WHpKUWtQTnBXYkVTTW5DN0xNSXVKa0Z3V0wwaXlRWkFOMG0?oc=5",
+          "published": "2026-07-21T23:24:03.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Revolut Secures Full Authorised Deposit-Taking Institution Banking Licence in Australia - Bobsguide",
+          "source": "Bobsguide",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZktKTHo5Vmp1OVh6N1M3TjQyWVZacXdhRnRJNEhZNUw3U0FpX05qRmFVSk1MMEZvREpac0NtbkVSZnA3WEhvRDYwbjJjOGhQN0w1TjBxR2s0Q0d5T1RSWll1bFo4SnBkYlBfTlZvblBXU1F4TzVvUVJXOVZNaXJEMF9FVGhITEpVQzZCVWdVV0xWeGZ1WUNsMEVVeDV6WXhodzVuNVlyR3BfUzZIQU5DYmtWTGw?oc=5",
+          "published": "2026-07-21T09:58:02.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "TPBank Taps TerraPay for Cross-Border Payments from Vietnam - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wenAyWDVKSC1Kb29LRHpPdVJ3Nlg4VzBkdWlCLVhfakdkZzRzS3E1dDFTVGZiZzNaTHhHQ2o3LXlVQTBkUWg5ek5MVkVRaWxBU2hvSmR3T2RXUlZiTEhBMWxCVGViUQ?oc=5",
+          "published": "2026-07-22T02:50:56.000Z"
+        },
         {
           "tag": "Press",
           "headline": "What Australia’s Shift to Real-Time Payments Changed for Digital Services - Technology Org",
