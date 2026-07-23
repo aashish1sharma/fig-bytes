@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T04:49:04.332Z",
+  "generatedAt": "2026-07-23T04:53:59.651Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,48 +32,55 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Strategy",
-          "headline": "Japan convertible bond issuance at 22-year high on overseas inflows - Nikkei Asia",
-          "source": "Nikkei Asia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE9YTGUzdlZsMk1ZdzNORUxlY051U3pMOW9UZkFiQ3BhVW12SkdqX2NaSXNYMV9vOGllMVdEZXBnV1I5TkFhdGpCMzFVSkdkdm14TGw4aEFVZ2hpQ3Etd0xWMktDTGFLTG0tX1NHQV8tQlpteXRiVi1qQVVJQzEzaFVLUmQtbzc4QXZVdWdYLXIwbndEUXRRY1ZwWWs4MzhUVnRBandrZWhKSFJiV1JXTWhOdUc?oc=5",
-          "published": "2026-07-21T22:22:00.000Z"
+          "tag": "Product",
+          "headline": "Chinese brokerage quits South Korea ETF as Seoul stock volatility spills over - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWENYRDRPZFpFUURiTTNQRUhTR19MYndpOXlyNW1YVlRNNVd2NGlNcWpuSWcxQ3NKeklDNldIdVV6SGhPam1UazlOUmVpR2M5cUduNDhpUTBlbDV5TXNQdkhEMDlRTXhjLUg5d19mQVpaUHU1WVk2cHFpaWxpcFhOWGJobzFRczI2OXVKNW5NVXZKYWtHZFFNWFBub0dwY0JiZjR5Sk9uRE9YblY3M2ZSLTd6SnVPcC1xclF5SDdTaGJZbEFfbnBPTWd3MzJlazl1WFkzMlhBSHMyc21LV3fSAd4BQVVfeXFMT1hDWEQ0T2RaRVFEYk0zUEVIU0dfTGJ3aTl5cjVtWFZUTTVXdjRpTXFqbklnMUNzSnpJQzZXSHVVekhoT2ptVGs5TlJlaUdjOXFHbjQ4aVEwZWw1eU1zUHZIRDA5UU14Yy1IOXdfZkFaWlB1NVlZNnBxaWlsaXBYTlhiaG8xUXMyNjl1SjVuTVV2SmFrR2RRTVhQbm9HcGNCYmY0eUpPbkRPWG5WNzNmUi03ekp1T3AtcXJReUg3U2hiWWxBX25wT01ndzMyZWs5dVhZMzJYQUhzMnNtS1d3?oc=5",
+          "published": "2026-07-22T01:00:24.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "China Merchants Securities drops South Korea ETF as Seoul stock volatility spills over",
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3361400/china-merchants-securities-drops-south-korea-etf-seoul-stock-volatility-spills-over?utm_source=rss_feed",
-          "published": "2026-07-22T01:00:24.000Z"
+          "tag": "Earnings",
+          "headline": "Asset management AUM hits record $42.2t - Hong Kong Business",
+          "source": "Hong Kong Business",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hyT01qWkVuLXhRVzVqNzhHZ1N2Vm8xQ3JIWTFDeElJTmJMNnFXTXcwVnBONVpfaGdYaDNja1ltQjJ0VHdwdEg0SUI3a3lsWkNMaVdFVkJ5NWNBa2l0SEVFbnBFMzdtZVlvVzlCbzB5czIwSzRocUNOd2YtcWFERmU2MGs?oc=5",
+          "published": "2026-07-23T00:17:28.000Z"
         },
         {
           "tag": "Earnings",
           "headline": "Private wealth AUM up by 158% y-o-y; clients increase 149% y-o-y, says Moomoo Singapore - The Edge Singapore",
           "source": "The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3I0bHU1SDBocFdNMlpZSkVsd0dQYTVpQXJLT3psNDNnWTVsV093S3VQZi0zRDlnM2ltZU1Sb1N5Nlh4SnhMekVSUGdZZ2VXSTZmSUhuREpMaG1ldUhSUG8wNGtXcWhJTUxZeU9GbFZhenpqTTRsX0xFanVpTTZKT3pjWDBfZjg5Y0hQSXA4YWFDcFlPWm5xS3BuZkVyeXhYa3NmanA4Yk5CTFdtcVBPNG1ESWY1MGtock5uTHhEWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjdROFZRcmN0M3lZcy16aFVlUmw2cjhOYnVOQjhZWUgzUmZ1WWlLTGR1amhpZU9hQ3lwZFhiWlJiQlpYd1RKQ1NKbjVDd09lQl9yMmF1WG5td2NfUHZPci1nc3U3eUxRSVVfeXBSREtyVVJRc2dDOXduZmF3bVBvd3BCU0dNVWp6Q2pCNU5LQ3RGY2luU0hvM2JCVUpQZ3I0RVRmbl9OZnNBMFNtWGtDSF9wWkQwVkFuckNaVnFIZDJtUzdD0gHEAUFVX3lxTE02N1E4VlFyY3QzeVlzLXpoVWVSbDZyOE5idU5COFlZSDNSZnVZaUtMZHVqaGllT2FDeXBkWGJaUmJCWlh3VEpDU0puNUN3T2VCX3IyYXVYbm13Y19Qdk9yLWdzdTd5TFFJVV95cFJES3JVUlFzZ0M5d25mYXdtUG93cEJTR01VanpDakI1TktDdEZjaW5TSG8zYkJVSlBncjRFVGZuX05mc0EwU21Ya0NIX3BaRDBWQW5yQ1pWcUhkMm1TN0M?oc=5",
           "published": "2026-07-22T04:00:00.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Strategy",
-          "headline": "Japan convertible bond issuance at 22-year high on overseas inflows - Nikkei Asia",
-          "source": "Nikkei Asia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE9YTGUzdlZsMk1ZdzNORUxlY051U3pMOW9UZkFiQ3BhVW12SkdqX2NaSXNYMV9vOGllMVdEZXBnV1I5TkFhdGpCMzFVSkdkdm14TGw4aEFVZ2hpQ3Etd0xWMktDTGFLTG0tX1NHQV8tQlpteXRiVi1qQVVJQzEzaFVLUmQtbzc4QXZVdWdYLXIwbndEUXRRY1ZwWWs4MzhUVnRBandrZWhKSFJiV1JXTWhOdUc?oc=5",
-          "published": "2026-07-21T22:22:00.000Z"
+          "tag": "Product",
+          "headline": "Chinese brokerage quits South Korea ETF as Seoul stock volatility spills over - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWENYRDRPZFpFUURiTTNQRUhTR19MYndpOXlyNW1YVlRNNVd2NGlNcWpuSWcxQ3NKeklDNldIdVV6SGhPam1UazlOUmVpR2M5cUduNDhpUTBlbDV5TXNQdkhEMDlRTXhjLUg5d19mQVpaUHU1WVk2cHFpaWxpcFhOWGJobzFRczI2OXVKNW5NVXZKYWtHZFFNWFBub0dwY0JiZjR5Sk9uRE9YblY3M2ZSLTd6SnVPcC1xclF5SDdTaGJZbEFfbnBPTWd3MzJlazl1WFkzMlhBSHMyc21LV3fSAd4BQVVfeXFMT1hDWEQ0T2RaRVFEYk0zUEVIU0dfTGJ3aTl5cjVtWFZUTTVXdjRpTXFqbklnMUNzSnpJQzZXSHVVekhoT2ptVGs5TlJlaUdjOXFHbjQ4aVEwZWw1eU1zUHZIRDA5UU14Yy1IOXdfZkFaWlB1NVlZNnBxaWlsaXBYTlhiaG8xUXMyNjl1SjVuTVV2SmFrR2RRTVhQbm9HcGNCYmY0eUpPbkRPWG5WNzNmUi03ekp1T3AtcXJReUg3U2hiWWxBX25wT01ndzMyZWs5dVhZMzJYQUhzMnNtS1d3?oc=5",
+          "published": "2026-07-22T01:00:24.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "China Merchants Securities drops South Korea ETF as Seoul stock volatility spills over",
-          "source": "SCMP",
-          "url": "https://www.scmp.com/business/banking-finance/article/3361400/china-merchants-securities-drops-south-korea-etf-seoul-stock-volatility-spills-over?utm_source=rss_feed",
-          "published": "2026-07-22T01:00:24.000Z"
+          "tag": "Earnings",
+          "headline": "Asset management AUM hits record $42.2t - Hong Kong Business",
+          "source": "Hong Kong Business",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hyT01qWkVuLXhRVzVqNzhHZ1N2Vm8xQ3JIWTFDeElJTmJMNnFXTXcwVnBONVpfaGdYaDNja1ltQjJ0VHdwdEg0SUI3a3lsWkNMaVdFVkJ5NWNBa2l0SEVFbnBFMzdtZVlvVzlCbzB5czIwSzRocUNOd2YtcWFERmU2MGs?oc=5",
+          "published": "2026-07-23T00:17:28.000Z"
         },
         {
           "tag": "Earnings",
           "headline": "Private wealth AUM up by 158% y-o-y; clients increase 149% y-o-y, says Moomoo Singapore - The Edge Singapore",
           "source": "The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3I0bHU1SDBocFdNMlpZSkVsd0dQYTVpQXJLT3psNDNnWTVsV093S3VQZi0zRDlnM2ltZU1Sb1N5Nlh4SnhMekVSUGdZZ2VXSTZmSUhuREpMaG1ldUhSUG8wNGtXcWhJTUxZeU9GbFZhenpqTTRsX0xFanVpTTZKT3pjWDBfZjg5Y0hQSXA4YWFDcFlPWm5xS3BuZkVyeXhYa3NmanA4Yk5CTFdtcVBPNG1ESWY1MGtock5uTHhEWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjdROFZRcmN0M3lZcy16aFVlUmw2cjhOYnVOQjhZWUgzUmZ1WWlLTGR1amhpZU9hQ3lwZFhiWlJiQlpYd1RKQ1NKbjVDd09lQl9yMmF1WG5td2NfUHZPci1nc3U3eUxRSVVfeXBSREtyVVJRc2dDOXduZmF3bVBvd3BCU0dNVWp6Q2pCNU5LQ3RGY2luU0hvM2JCVUpQZ3I0RVRmbl9OZnNBMFNtWGtDSF9wWkQwVkFuckNaVnFIZDJtUzdD0gHEAUFVX3lxTE02N1E4VlFyY3QzeVlzLXpoVWVSbDZyOE5idU5COFlZSDNSZnVZaUtMZHVqaGllT2FDeXBkWGJaUmJCWlh3VEpDU0puNUN3T2VCX3IyYXVYbm13Y19Qdk9yLWdzdTd5TFFJVV95cFJES3JVUlFzZ0M5d25mYXdtUG93cEJTR01VanpDakI1TktDdEZjaW5TSG8zYkJVSlBncjRFVGZuX05mc0EwU21Ya0NIX3BaRDBWQW5yQ1pWcUhkMm1TN0M?oc=5",
           "published": "2026-07-22T04:00:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Indonesia passes law to form international financial centres, eyes 500 trillion rupiah foreign investments - Asia Asset Management",
+          "source": "Asia Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNnF1cEtGTFRzWkJ5aUdsQXZtVmptN3RvLVhMZmlhMDAtby1tOEE5bl9pS1d6dU5oUHl6dng4SHZYMHlMNHUwRmlZZFl0N0NNZWFfMzB2eWFyQ2RIZ2hlaV9sc3JIN1FMdmZaQ2k2bVI0Zi1kcHdoVHZsM2R2UGV2VUJZRDd3THNkTGRGOXpIbnNIbThIN0hnX18xNzYxRXJjQkRPcXhTOGgySUFYSkxFU0w5elhRZjZJRXEzY202dmY5SHkxaVMwZnpnTlpiWFpLRzhHbWQxR3Nob0hScGNieA?oc=5",
+          "published": "2026-07-22T17:01:20.000Z"
         },
         {
           "tag": "Press",
@@ -85,11 +92,11 @@
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Inflows From Nontraditional ETFs Drive Hong Kong ETF Market to a New High - Morningstar",
+        "headline": "Chinese brokerage quits South Korea ETF as Seoul stock volatility spills over - South China Morning Post",
         "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUl1enFnYzdGLTdOVzRvV2N5RDlrNnFZdkhERUxxWjRibS1lUTg0ZFJUV3pIWkF0LWNqRGNrc1FlZkhucDJEd3pZdnpHSGk4RWpKRVc5aWZVRTNnSFZma05fZ1VJZGlJZEx1RDI0OTlfTXVsZElxYUdweG5rVkkyQmxXdV8xNDE3VXJkUk5IQWswZnEzX1VNYzdZaHByUmFXQUhSbHdwZmc?oc=5",
-        "published": "2026-07-16T00:56:16.000Z",
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWENYRDRPZFpFUURiTTNQRUhTR19MYndpOXlyNW1YVlRNNVd2NGlNcWpuSWcxQ3NKeklDNldIdVV6SGhPam1UazlOUmVpR2M5cUduNDhpUTBlbDV5TXNQdkhEMDlRTXhjLUg5d19mQVpaUHU1WVk2cHFpaWxpcFhOWGJobzFRczI2OXVKNW5NVXZKYWtHZFFNWFBub0dwY0JiZjR5Sk9uRE9YblY3M2ZSLTd6SnVPcC1xclF5SDdTaGJZbEFfbnBPTWd3MzJlazl1WFkzMlhBSHMyc21LV3fSAd4BQVVfeXFMT1hDWEQ0T2RaRVFEYk0zUEVIU0dfTGJ3aTl5cjVtWFZUTTVXdjRpTXFqbklnMUNzSnpJQzZXSHVVekhoT2ptVGs5TlJlaUdjOXFHbjQ4aVEwZWw1eU1zUHZIRDA5UU14Yy1IOXdfZkFaWlB1NVlZNnBxaWlsaXBYTlhiaG8xUXMyNjl1SjVuTVV2SmFrR2RRTVhQbm9HcGNCYmY0eUpPbkRPWG5WNzNmUi03ekp1T3AtcXJReUg3U2hiWWxBX25wT01ndzMyZWs5dVhZMzJYQUhzMnNtS1d3?oc=5",
+        "published": "2026-07-22T01:00:24.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -97,9 +104,9 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: BlackRock beats Q2 2026 forecasts as shares rise premarket - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYnhOMjl0a0lKM3NWdC12dVVjTGs2VHJyUGNnbV8zRENLQ3lLRHMyZ1BsOFVwTHZCanlEaVJiNjdQY1lEODdqRTU1VnhlTG1OZHY0Mm90b2lnd3RKdEtVbEgtOEIxQ1RlbUh1Y216RjBRYVFnTGJuSjBzRFJtM2I1LWQ4ZUhBdWgyWXZCWHhHYjVIcnMxTWZjQUFacE03V09zbloxekFJMXdSeUdFNkVmSVpvUlcwejZEZE51UFlOQUZNbEhRZGRnN21QaWJqYkR2VndpeTZB?oc=5",
-          "published": "2026-07-15T13:11:37.000Z"
+          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWh6VW1ZRjU5NThnNGVhSHRtZ0dkWS1Tb013c1lDejZNUk5DT01qNzlkcExuTHpSa0RBT3E5ZlJYcGFDSXplYUNQNGtGYWpMTXlwTWpVS3pZT0tqTVJqbFIxYlBpTFZfdE5hdmJ3UXp5YmFZUHpQc0pNclNCX01xWE1SeGhaUWRZbC1NVzhFV0JPZ3FybVlQTXp6LUFNWlVfNFdDTkxQYmY?oc=5",
+          "published": "2026-07-22T11:55:00.000Z"
         },
         {
           "company": "Schroders",
@@ -138,9 +145,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
-          "published": "2026-07-16T19:27:16.000Z"
+          "headline": "Citigroup Inc at UBS Financial Services Conference Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WRjQ2OGNQOUlDSG5pOWdRa1dJWi14NkEzbG0yaEI3OFY1amRsMGlPbklNcjd0YWFKRzlPbl8xT2RrVUZ6NGFpR0l3S1NpMExhUlQ4ZHdOb2hyQmNLMG1IS3c1ZmdPbjE3eEptWkllVQ?oc=5",
+          "published": "2026-07-21T23:20:09.000Z"
         }
       ]
     },
@@ -157,10 +164,17 @@
         },
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on South Korea’s Non-Life Insurance Market - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlBNQVhTWndJVFR6bVdWTl9CS0pPdnQteE40MVhZZ1FFSm4tamYwSVVmVlRybzlHMjJaU1BCb19IUXdXZDRCcTlUWVpkVGh0cUpFOTNYdFFndmJfSjg3WEVBeFFxR0g4Z0ZLNi1ZcE53dXBLRWdXNnB4SVQxcEdhZDIweGhUb2pZN0FIWlVpeTh3Sm9CZTMxQ3FwenAtSmVEaGJIZ1dteFlGOV8xQ1lwWjQzZkpuckRNZE05em9kcFk1OTRYOC1vYzdTeFY5T2t0Zi1lNWFvNkFGOGtFRWUxZ2ZRbTFWSV9VSTRPRl8zNTU?oc=5",
-          "published": "2026-07-22T00:00:00.000Z"
+          "headline": "The future of private health insurance in Australia - Bupa",
+          "source": "Bupa",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2pQMmFZb2Y4Q015Z2pyYll6djk2eDd6Z2hCcXNfTEstSi1LYzJ4UFFxYk9ZeUkyT3FIVnMteTZGN00xcDlaN0tGUzNsblVkZ0FNSDZuUTNkRFc0RU9yci1HVUlSdTQwcmF3UExTRFBxdnROenA2aWMtVzU5Unl4cmNRXy0?oc=5",
+          "published": "2026-07-23T02:35:53.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Taiwan: New rules bar insurance sales practices that frame interest-sensitive life insurance plans as bank deposits - Asia Insurance Review",
+          "source": "Asia Insurance Review",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNX0xPQjR3YVRPcVF1d3hTRVU3eGY1YVYtc25ScGpuck9sQXREZ09rX0FvY1JlSG5UZUJndnFwMHBkR1dXa08xZ0lMMjhBUGVlek1BMTZmWDRKTmxkSzJjZmx3Skt1aGwzUEtjd3JIeFRMZ0NBZ050cGRxSTNIVlk0N2Q1d2cydUVfMkpaQzU5dGt5OHdJdFU1eE03anJiVW1nTmFzVHltTVhwTjZjVFM1QmxvMW5tckV5elFGTEdJVlVrZHZVLTQzY2xtSHVXSWFiVFdFa3hkclp0cmVabTBRZm5JTncwTlE2aHRvejRxYUFPRkM1VTlxU0dRaUtha0VRMzI0MW1CNnRlMDdDRG5IdGh1TE1GcVY2cGhSdGhyUTJwMjZHWVI5NQ?oc=5",
+          "published": "2026-07-22T08:47:21.000Z"
         }
       ],
       "candidates": [
@@ -173,10 +187,24 @@
         },
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on South Korea’s Non-Life Insurance Market - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlBNQVhTWndJVFR6bVdWTl9CS0pPdnQteE40MVhZZ1FFSm4tamYwSVVmVlRybzlHMjJaU1BCb19IUXdXZDRCcTlUWVpkVGh0cUpFOTNYdFFndmJfSjg3WEVBeFFxR0g4Z0ZLNi1ZcE53dXBLRWdXNnB4SVQxcEdhZDIweGhUb2pZN0FIWlVpeTh3Sm9CZTMxQ3FwenAtSmVEaGJIZ1dteFlGOV8xQ1lwWjQzZkpuckRNZE05em9kcFk1OTRYOC1vYzdTeFY5T2t0Zi1lNWFvNkFGOGtFRWUxZ2ZRbTFWSV9VSTRPRl8zNTU?oc=5",
-          "published": "2026-07-22T00:00:00.000Z"
+          "headline": "The future of private health insurance in Australia - Bupa",
+          "source": "Bupa",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2pQMmFZb2Y4Q015Z2pyYll6djk2eDd6Z2hCcXNfTEstSi1LYzJ4UFFxYk9ZeUkyT3FIVnMteTZGN00xcDlaN0tGUzNsblVkZ0FNSDZuUTNkRFc0RU9yci1HVUlSdTQwcmF3UExTRFBxdnROenA2aWMtVzU5Unl4cmNRXy0?oc=5",
+          "published": "2026-07-23T02:35:53.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Taiwan: New rules bar insurance sales practices that frame interest-sensitive life insurance plans as bank deposits - Asia Insurance Review",
+          "source": "Asia Insurance Review",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNX0xPQjR3YVRPcVF1d3hTRVU3eGY1YVYtc25ScGpuck9sQXREZ09rX0FvY1JlSG5UZUJndnFwMHBkR1dXa08xZ0lMMjhBUGVlek1BMTZmWDRKTmxkSzJjZmx3Skt1aGwzUEtjd3JIeFRMZ0NBZ050cGRxSTNIVlk0N2Q1d2cydUVfMkpaQzU5dGt5OHdJdFU1eE03anJiVW1nTmFzVHltTVhwTjZjVFM1QmxvMW5tckV5elFGTEdJVlVrZHZVLTQzY2xtSHVXSWFiVFdFa3hkclp0cmVabTBRZm5JTncwTlE2aHRvejRxYUFPRkM1VTlxU0dRaUtha0VRMzI0MW1CNnRlMDdDRG5IdGh1TE1GcVY2cGhSdGhyUTJwMjZHWVI5NQ?oc=5",
+          "published": "2026-07-22T08:47:21.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on South Korea’s Non-Life Insurance Market - InsuranceNewsNet",
+          "source": "InsuranceNewsNet",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZEtTSnlBUlNzaEhBTElpRUhBM3hSZzBSSGNJUkIwYW5GbHI4ZVJMcDRwX1FQUW1wSEhLeXZ2WnBpMmdWU3IxVkloRHkxZUFUM2c5RzF1c0lZUWdRVkozQ0t1ZUp5by1KR2FHdGV5ZGJUYm10ZVhNUFl5Z0hUZkM1bW40bzVncmZlNmVzcUVlX1A4cTdsdDBuT3hHNFVjazBDcVc1Y3JmZDFKd0E5eXJNcGlRN25HQ0RPcFRZMHh3czExVzkyeVB5ZnBpVHl6VWlyNTdTUVgtZGw1Zw?oc=5",
+          "published": "2026-07-22T00:01:10.000Z"
         }
       ],
       "insight": {
@@ -188,16 +216,7 @@
         "published": "2026-07-22T00:55:08.000Z",
         "paywalled": false
       },
-      "companyUpdates": [
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-18T11:21:07.000Z"
-        }
-      ]
+      "companyUpdates": []
     },
     {
       "id": "retail-banking",
@@ -255,15 +274,7 @@
           "published": "2026-07-20T20:24:15.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Itochu, BHP greenlight Ministers North deposit in Western Australia - Morningstar",
-        "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbldFV3ZxbmFTaUdwTHlsQWcxMkI4VUFTazMwOF9tYTlzeG4zS1JZSm96RUlHSllNMGJDSjI3M1h4dElkTU5HTmVhRmh6RkhLU1lxa2ZZQklzclh4M3ZCNjBIaFBjb1JNdm9hSEN2RFZfeVVpSWxCQ2dFUy00bmtDYmFvMDlhTGY2cDA5M3JMNlhIQmJrRDUwc09MWnVBNWlmMVpiOWZEWVRqT3lEdXQwZWNvN0dsOFd0eW5HeGswQ2NDeDN6aEktMGZNQWVXQQ?oc=5",
-        "published": "2026-07-16T03:18:58.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": []
     }
   ]
