@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T04:50:20.921Z",
+  "generatedAt": "2026-07-25T04:46:10.600Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,41 +33,27 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Amundi MSCI AC Asia Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlc1cndrWVNzZ0Y3WkkyS2NEbWlHZXVsVHdNU20yNVhzM3VXUkt1MnE0Z2NtWkYtekNlc3ZEY1VtR2ZRYW0tZWdIRFRGSzRRdXNhLWVteGJXMW0tTy1LRG5rYWVXR0VyeVZRTGotSmhzbmUyUW1FVUNhUnYzN3NzQlZObUMxNzJ0bW5BbnZoaENHV3BYc1RtZTFOSDVWbVZSUUhEWWUtNGNTa2c?oc=5",
-          "published": "2026-07-23T07:07:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Chinese brokerage quits South Korea ETF as Seoul stock volatility spills over - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWENYRDRPZFpFUURiTTNQRUhTR19MYndpOXlyNW1YVlRNNVd2NGlNcWpuSWcxQ3NKeklDNldIdVV6SGhPam1UazlOUmVpR2M5cUduNDhpUTBlbDV5TXNQdkhEMDlRTXhjLUg5d19mQVpaUHU1WVk2cHFpaWxpcFhOWGJobzFRczI2OXVKNW5NVXZKYWtHZFFNWFBub0dwY0JiZjR5Sk9uRE9YblY3M2ZSLTd6SnVPcC1xclF5SDdTaGJZbEFfbnBPTWd3MzJlazl1WFkzMlhBSHMyc21LV3fSAd4BQVVfeXFMT1hDWEQ0T2RaRVFEYk0zUEVIU0dfTGJ3aTl5cjVtWFZUTTVXdjRpTXFqbklnMUNzSnpJQzZXSHVVekhoT2ptVGs5TlJlaUdjOXFHbjQ4aVEwZWw1eU1zUHZIRDA5UU14Yy1IOXdfZkFaWlB1NVlZNnBxaWlsaXBYTlhiaG8xUXMyNjl1SjVuTVV2SmFrR2RRTVhQbm9HcGNCYmY0eUpPbkRPWG5WNzNmUi03ekp1T3AtcXJReUg3U2hiWWxBX25wT01ndzMyZWs5dVhZMzJYQUhzMnNtS1d3?oc=5",
-          "published": "2026-07-22T01:00:24.000Z"
-        },
-        {
-          "tag": "Product",
           "headline": "Japan Plans to Launch Bitcoin ETF by 2028 - ababnews.com",
           "source": "ababnews.com",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5laGxNRmkxdF92cUxxWjlXMVFYZU1qRGVPMWRnUTM2SkN2Y2l4T191SEVLWmYxa3VyckFxWDV6RHdOQkN5elRDaXpCMkl2V1Azdzh0WktuM0VnZlBmazgtUXh1RXpBczJrQ2F6S0w0RmpTYmxP?oc=5",
           "published": "2026-07-23T04:25:50.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Asset management AUM hits record $42.2t - Hong Kong Business",
+          "source": "Hong Kong Business",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hyT01qWkVuLXhRVzVqNzhHZ1N2Vm8xQ3JIWTFDeElJTmJMNnFXTXcwVnBONVpfaGdYaDNja1ltQjJ0VHdwdEg0SUI3a3lsWkNMaVdFVkJ5NWNBa2l0SEVFbnBFMzdtZVlvVzlCbzB5czIwSzRocUNOd2YtcWFERmU2MGs?oc=5",
+          "published": "2026-07-23T00:17:28.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "US investment firm Starwood Capital opens office in Jeonju, where Korea’s NPS has its headquarters - Asia Asset Management",
+          "source": "Asia Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUYta3lueWpuNXhfc1dodEZHZWphcE9Kal81ZG9RVUtiQmJQZDdQazNYRkFoc1NzYmU2WTBjUnFyMF9sVllFcXA3RWpEWEYtYUVxUUNWenBwSnJhdVBpV3lPNEtuMkRJWWs4MWJYZ3JxRU5ldV9INVRVd1FybFpVNi1ybUtiTEI1UHEtb09LanNOWkVZLW9qVDNKWTN0ZVI2NmVlVXRkVVp5d2xrMm15TkthR3BHUXNlYl9oMkhKN1RkbW0zNVRHMndmdnduU2l0ZDJF?oc=5",
+          "published": "2026-07-23T16:18:46.000Z"
         }
       ],
       "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI AC Asia Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlc1cndrWVNzZ0Y3WkkyS2NEbWlHZXVsVHdNU20yNVhzM3VXUkt1MnE0Z2NtWkYtekNlc3ZEY1VtR2ZRYW0tZWdIRFRGSzRRdXNhLWVteGJXMW0tTy1LRG5rYWVXR0VyeVZRTGotSmhzbmUyUW1FVUNhUnYzN3NzQlZObUMxNzJ0bW5BbnZoaENHV3BYc1RtZTFOSDVWbVZSUUhEWWUtNGNTa2c?oc=5",
-          "published": "2026-07-23T07:07:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Chinese brokerage quits South Korea ETF as Seoul stock volatility spills over - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWENYRDRPZFpFUURiTTNQRUhTR19MYndpOXlyNW1YVlRNNVd2NGlNcWpuSWcxQ3NKeklDNldIdVV6SGhPam1UazlOUmVpR2M5cUduNDhpUTBlbDV5TXNQdkhEMDlRTXhjLUg5d19mQVpaUHU1WVk2cHFpaWxpcFhOWGJobzFRczI2OXVKNW5NVXZKYWtHZFFNWFBub0dwY0JiZjR5Sk9uRE9YblY3M2ZSLTd6SnVPcC1xclF5SDdTaGJZbEFfbnBPTWd3MzJlazl1WFkzMlhBSHMyc21LV3fSAd4BQVVfeXFMT1hDWEQ0T2RaRVFEYk0zUEVIU0dfTGJ3aTl5cjVtWFZUTTVXdjRpTXFqbklnMUNzSnpJQzZXSHVVekhoT2ptVGs5TlJlaUdjOXFHbjQ4aVEwZWw1eU1zUHZIRDA5UU14Yy1IOXdfZkFaWlB1NVlZNnBxaWlsaXBYTlhiaG8xUXMyNjl1SjVuTVV2SmFrR2RRTVhQbm9HcGNCYmY0eUpPbkRPWG5WNzNmUi03ekp1T3AtcXJReUg3U2hiWWxBX25wT01ndzMyZWs5dVhZMzJYQUhzMnNtS1d3?oc=5",
-          "published": "2026-07-22T01:00:24.000Z"
-        },
         {
           "tag": "Product",
           "headline": "Japan Plans to Launch Bitcoin ETF by 2028 - ababnews.com",
@@ -83,11 +69,11 @@
           "published": "2026-07-23T00:17:28.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "Private wealth AUM up by 158% y-o-y; clients increase 149% y-o-y, says Moomoo Singapore - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4NkpESHZLMndRWkE2YjdqdGpzWWIwZHNXaW0yTVNjX3RUR0Q4MHlXN0VtZWJ0OHZkQllfWnc4Q2ZhY2NveGpBUXpmSnVhaUpaajI5dy13YW81VDFpZWNrNkxCdDRaYVBDNUxtUWpXQ3Fhb1I1SUNqN2JybGZVZw?oc=5",
-          "published": "2026-07-21T20:00:00.000Z"
+          "tag": "Press",
+          "headline": "US investment firm Starwood Capital opens office in Jeonju, where Korea’s NPS has its headquarters - Asia Asset Management",
+          "source": "Asia Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUYta3lueWpuNXhfc1dodEZHZWphcE9Kal81ZG9RVUtiQmJQZDdQazNYRkFoc1NzYmU2WTBjUnFyMF9sVllFcXA3RWpEWEYtYUVxUUNWenBwSnJhdVBpV3lPNEtuMkRJWWs4MWJYZ3JxRU5ldV9INVRVd1FybFpVNi1ybUtiTEI1UHEtb09LanNOWkVZLW9qVDNKWTN0ZVI2NmVlVXRkVVp5d2xrMm15TkthR3BHUXNlYl9oMkhKN1RkbW0zNVRHMndmdnduU2l0ZDJF?oc=5",
+          "published": "2026-07-23T16:18:46.000Z"
         },
         {
           "tag": "Press",
@@ -98,10 +84,17 @@
         },
         {
           "tag": "Press",
-          "headline": "Hong Kong Asset Management and Private Equity Outlook - kpmg.com",
-          "source": "kpmg.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNelBQdW1xRGlzaDhZZTBsQUVrWmFGbm5BZVZKT2tZRmhscXRtb1hnWVN2SFI2YWI2MThrWDhOU25tOTdxcERkSng1QVZKZGtFNlJ1SzhFVDI2Z296RDh5ZE84TlBONnRjQ2FlcWM1blFHdHd1aTh2Njdxd0lTTjFvcXlMYUxRa3A0Q1ZXTFgxenZqOVV3U2hFWVNXVXlxLWc?oc=5",
-          "published": "2026-07-22T02:01:05.000Z"
+          "headline": "Indonesia passes law to form international financial centres, eyes 500 trillion rupiah foreign investments - Asia Asset Management",
+          "source": "Asia Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNnF1cEtGTFRzWkJ5aUdsQXZtVmptN3RvLVhMZmlhMDAtby1tOEE5bl9pS1d6dU5oUHl6dng4SHZYMHlMNHUwRmlZZFl0N0NNZWFfMzB2eWFyQ2RIZ2hlaV9sc3JIN1FMdmZaQ2k2bVI0Zi1kcHdoVHZsM2R2UGV2VUJZRDd3THNkTGRGOXpIbnNIbThIN0hnX18xNzYxRXJjQkRPcXhTOGgySUFYSkxFU0w5elhRZjZJRXEzY202dmY5SHkxaVMwZnpnTlpiWFpLRzhHbWQxR3Nob0hScGNieA?oc=5",
+          "published": "2026-07-22T17:01:20.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "CITIC Securities Q2 Public Mutual Fund Quarterly Report Analysis: Active Equity Funds See Significant Increase in Concentration of Top Ho…",
+          "source": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV84Qk1qWE00bDgxbUdtTDdiVVZ2MlhjLVFldEZ6SXRtX212dk1qZDc5bWJpUGNSTmRzZG5ubVZsSDk0R3hfYXBRcWcxSTUtRkVHVC0xS3EwUnFrNFZvS0Y1Z2FWSWxnaFJfcXpCWHQ4VlVOclJvNlNnRUhHd0FKOWFoTFg1MUdnYldBdmRjb3NKellaZzlmUHJXNTMtT19PSjVWUUk5UXZfWDFsazM4M0NR?oc=5",
+          "published": "2026-07-23T09:51:02.000Z"
         },
         {
           "tag": "Product",
@@ -125,34 +118,50 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWh6VW1ZRjU5NThnNGVhSHRtZ0dkWS1Tb013c1lDejZNUk5DT01qNzlkcExuTHpSa0RBT3E5ZlJYcGFDSXplYUNQNGtGYWpMTXlwTWpVS3pZT0tqTVJqbFIxYlBpTFZfdE5hdmJ3UXp5YmFZUHpQc0pNclNCX01xWE1SeGhaUWRZbC1NVzhFV0JPZ3FybVlQTXp6LUFNWlVfNFdDTkxQYmY?oc=5",
-          "published": "2026-07-22T11:55:00.000Z"
+          "headline": "BlackRock Inc. R (UU2.DU) Q1 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjVqbGxtb0JPZE15N294R3RxTlAxY05BcHlCUWRtX3l3Nmo5a3JFUFBPM3N6Mk00dVV3b3FXc00xYlltY0RpamlHZVJnSWs2OEtoczdtYlhPV2FyeWtON2NXVWE4QWN3VUJ0TmhVZlNCc1p0UkxZVTg1YXNZM1A3bzBadnpkRlQzeUthQm9vMG8xZw?oc=5",
+          "published": "2026-07-24T05:04:16.000Z"
         },
         {
           "company": "Schroders",
           "ticker": "SDR",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Schroders Real Estate Investment Trust posts slower H2 2026 return By Investing.com - Investi…",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUtuYnpuYlVKSk1oZWtPd21Ha1N0ZGhJVzk1OXlUXzhIRWhlbEJFQ0dGRFBZYTNjYWNGelNyWEdmMFBHZG1pSXkzWGs2RFI0Q0xTMlhORUhZOEd0Nl9KeWE0Q0RFNloyUlAxcFQxaDhzX0NTUS1sYk1rNWItLVRROVFtS05vVGctcklJUF92U1FlemI3UmI0VnBiQjNMUEl6SGxqQkF4dktGTTFBeHJlM0xiUVFNcnpCcUZXQ2dfelZkN3hJblBVNGN3a0w2VGc1SDNNSnI3amVoWnpESVVkcw?oc=5",
-          "published": "2026-07-10T09:49:43.000Z"
+          "tag": "Presentation",
+          "headline": "Investor Presentation - mybrand.schroders.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
+          "published": "2026-07-21T17:02:43.000Z"
         }
       ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Earnings",
+          "headline": "UOB targets five times growth in Hong Kong private bank AUM by 2030 - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSmtSUTl0YjVBUF91V3g3blRlV1FYSnNXMEtTSk8tRVFFRXM0UnV5MmRyVTZFYTA1NVAtaV9Nd05HRFNzeTdGVURqR1phdjA3dmNpMUtmbE9fUUI1ZTRxTnNNNnJoS0pmWFhCb1ZyWTBlZ1ExeTJjcE5xX1BIUlR0d0I1V3VJN054VHFZZWtIZzBWeTB4V0JLSzZ4S0E5OGZseWxDY1YtZkxwc2RYY2dZdzZR?oc=5",
+          "published": "2026-07-24T05:29:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Earnings",
+          "headline": "UOB targets five times growth in Hong Kong private bank AUM by 2030 - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSmtSUTl0YjVBUF91V3g3blRlV1FYSnNXMEtTSk8tRVFFRXM0UnV5MmRyVTZFYTA1NVAtaV9Nd05HRFNzeTdGVURqR1phdjA3dmNpMUtmbE9fUUI1ZTRxTnNNNnJoS0pmWFhCb1ZyWTBlZ1ExeTJjcE5xX1BIUlR0d0I1V3VJN054VHFZZWtIZzBWeTB4V0JLSzZ4S0E5OGZseWxDY1YtZkxwc2RYY2dZdzZR?oc=5",
+          "published": "2026-07-24T05:29:00.000Z"
+        }
+      ],
       "insight": null,
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Citigroup Inc at UBS Financial Services Conference Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WRjQ2OGNQOUlDSG5pOWdRa1dJWi14NkEzbG0yaEI3OFY1amRsMGlPbklNcjd0YWFKRzlPbl8xT2RrVUZ6NGFpR0l3S1NpMExhUlQ4ZHdOb2hyQmNLMG1IS3c1ZmdPbjE3eEptWkllVQ?oc=5",
-          "published": "2026-07-21T23:20:09.000Z"
+          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
+          "published": "2026-07-18T14:45:47.000Z"
         }
       ]
     },
@@ -161,41 +170,48 @@
       "name": "Insurance",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Vietnam: Country's first comprehensive co-payment health insurance product launched - Asia Insurance Review",
-          "source": "Asia Insurance Review",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdlo0NG5od0kzbUd6Wnk4SEFiTUxSd0oyTV9KREo1b0ViSmVlS3pPZkJ2RmRTTmh4Wm1pT09MbC1zQ2gxYjZyT3F6d2V1WUprZHljU0thV1pjSnRyc3YxTEpKdXl0NmhuckZ6Ni02cVJjaVlTcjAwcjZpVGJmdWhJQTdNOHdESDFBR1hOWnlkdDRmenRsU19nVEZhN0t0VFBBSnVrS28xVWQ1MVlTRk1hVTBPZHR1Nld4WmRuaWZBVXg1Qzlxa2ZPOEV6Ql9QM2NBeHBhVUQwd3NKaEtGY3JCS2dZVGNDVDJzSVZFRTBVZks2aVRrd0R2V1lXenU?oc=5",
-          "published": "2026-07-22T00:01:21.000Z"
+          "tag": "Press",
+          "headline": "HSBC Holdings (NYSE: HSBC) to sell Singapore life insurance arm to Allianz in S$2.7b deal - Stock Titan",
+          "source": "Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEVzSGgwS3lKakdvUEtXZjNhdDY3ZEVGT0I0QkdoWWN4cGtiMFBhVF9yN19ISHRNR0lfbHhaS2c3VFFnTF9tbXE0dHVBcnZ6cFNHMmZGaVNWQUlCanZuUjU4ekdzZUphUC1pWl9HRk5jMnBnNW5zQm9wWE9NeXE1U1Z3Zm5aUE8zcWRHcmpDaWFLSjhPak53RU5UUWx2UDhMTHFBbzhia1JhZzdVU3VvVlVEMA?oc=5",
+          "published": "2026-07-24T10:07:43.000Z"
         },
         {
           "tag": "Press",
-          "headline": "HSBC to Sell Singapore Life Insurance Unit to Allianz for SG$2.7 Billion - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWo1bGthcnprTmdaS2ZZUWczRFdkczgwZzUybk92Sk43ZVJ6V1pvTlBrZVpLNHdMTHNpS2laRFpJWklfYVNWSTBXZ2hQNkdUNlJsUFJURWgxcTllRVF3RzllQ1RNX1IxRW5nNFQtc0E3VTczV0haaDhBRnRQbW5STXhEQ0YxbUJqNXVn?oc=5",
-          "published": "2026-07-24T01:46:00.000Z"
+          "headline": "HSBC Shares Rise After $2.1bn Sale of Singapore Life Insurance Arm to Allianz - AskTraders",
+          "source": "AskTraders",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUtfY0FDNFhxRVJ4N0VnRG1jNkhrZ1dOaU1qUE8yVkhsbXk5ZkZyZEFGWnNoRy1OT2FHQmttdWRGT19yNE1zUFN1SWg1WG1nNV9Hb0lodnFtRHczQm1vaFFkS21wYUU1MHlmdEI0NnoxUE92c3VjM252YjVBUkVzeVVLMGVCVXFBU1d1cGE1VnJMNkNLMVZCSG5SV204WHVJS1ZQRy02aDF2S3FuY2VGWTR4Yw?oc=5",
+          "published": "2026-07-24T08:32:47.000Z"
         },
         {
           "tag": "Press",
-          "headline": "The future of private health insurance in Australia - Bupa",
-          "source": "Bupa",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2pQMmFZb2Y4Q015Z2pyYll6djk2eDd6Z2hCcXNfTEstSi1LYzJ4UFFxYk9ZeUkyT3FIVnMteTZGN00xcDlaN0tGUzNsblVkZ0FNSDZuUTNkRFc0RU9yci1HVUlSdTQwcmF3UExTRFBxdnROenA2aWMtVzU5Unl4cmNRXy0?oc=5",
-          "published": "2026-07-23T02:35:53.000Z"
+          "headline": "HSBC to sell Singapore life insurance unit to Allianz for $2.1bn By Investing.com - Investing.com South Africa",
+          "source": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdzJIejNhWC1DQnVZbm9nVGRuZlRvVzJCX1pPQWdCZkp5TUg3Z2taeFpBZ3NSLUE0UWdoMlhSbm1NUDQ2dWZZdWtOcEhFbnRsOGU5LXJvS0J4ZzBjWjZwSHhYdE5ITlBydERFekx6ZGthYVhSVHRsYUhHUl9UbDgzTkxYbDBNcDhKVFNBRC1kNjVJcE5nckwySHI0LTYzUmpfV25ISUp3OTN1QkVvd3h6LUlJaDhJQ2oyNjhUZ1BzSFMzNEtVRE5kZ21kUUJIWFU4?oc=5",
+          "published": "2026-07-24T08:14:07.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Vietnam: Country's first comprehensive co-payment health insurance product launched - Asia Insurance Review",
-          "source": "Asia Insurance Review",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdlo0NG5od0kzbUd6Wnk4SEFiTUxSd0oyTV9KREo1b0ViSmVlS3pPZkJ2RmRTTmh4Wm1pT09MbC1zQ2gxYjZyT3F6d2V1WUprZHljU0thV1pjSnRyc3YxTEpKdXl0NmhuckZ6Ni02cVJjaVlTcjAwcjZpVGJmdWhJQTdNOHdESDFBR1hOWnlkdDRmenRsU19nVEZhN0t0VFBBSnVrS28xVWQ1MVlTRk1hVTBPZHR1Nld4WmRuaWZBVXg1Qzlxa2ZPOEV6Ql9QM2NBeHBhVUQwd3NKaEtGY3JCS2dZVGNDVDJzSVZFRTBVZks2aVRrd0R2V1lXenU?oc=5",
-          "published": "2026-07-22T00:01:21.000Z"
+          "tag": "Press",
+          "headline": "HSBC Holdings (NYSE: HSBC) to sell Singapore life insurance arm to Allianz in S$2.7b deal - Stock Titan",
+          "source": "Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEVzSGgwS3lKakdvUEtXZjNhdDY3ZEVGT0I0QkdoWWN4cGtiMFBhVF9yN19ISHRNR0lfbHhaS2c3VFFnTF9tbXE0dHVBcnZ6cFNHMmZGaVNWQUlCanZuUjU4ekdzZUphUC1pWl9HRk5jMnBnNW5zQm9wWE9NeXE1U1Z3Zm5aUE8zcWRHcmpDaWFLSjhPak53RU5UUWx2UDhMTHFBbzhia1JhZzdVU3VvVlVEMA?oc=5",
+          "published": "2026-07-24T10:07:43.000Z"
         },
         {
           "tag": "Press",
-          "headline": "HSBC to Sell Singapore Life Insurance Unit to Allianz for SG$2.7 Billion - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWo1bGthcnprTmdaS2ZZUWczRFdkczgwZzUybk92Sk43ZVJ6V1pvTlBrZVpLNHdMTHNpS2laRFpJWklfYVNWSTBXZ2hQNkdUNlJsUFJURWgxcTllRVF3RzllQ1RNX1IxRW5nNFQtc0E3VTczV0haaDhBRnRQbW5STXhEQ0YxbUJqNXVn?oc=5",
-          "published": "2026-07-24T01:46:00.000Z"
+          "headline": "HSBC Shares Rise After $2.1bn Sale of Singapore Life Insurance Arm to Allianz - AskTraders",
+          "source": "AskTraders",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUtfY0FDNFhxRVJ4N0VnRG1jNkhrZ1dOaU1qUE8yVkhsbXk5ZkZyZEFGWnNoRy1OT2FHQmttdWRGT19yNE1zUFN1SWg1WG1nNV9Hb0lodnFtRHczQm1vaFFkS21wYUU1MHlmdEI0NnoxUE92c3VjM252YjVBUkVzeVVLMGVCVXFBU1d1cGE1VnJMNkNLMVZCSG5SV204WHVJS1ZQRy02aDF2S3FuY2VGWTR4Yw?oc=5",
+          "published": "2026-07-24T08:32:47.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "HSBC to sell Singapore life insurance unit to Allianz for $2.1bn By Investing.com - Investing.com South Africa",
+          "source": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdzJIejNhWC1DQnVZbm9nVGRuZlRvVzJCX1pPQWdCZkp5TUg3Z2taeFpBZ3NSLUE0UWdoMlhSbm1NUDQ2dWZZdWtOcEhFbnRsOGU5LXJvS0J4ZzBjWjZwSHhYdE5ITlBydERFekx6ZGthYVhSVHRsYUhHUl9UbDgzTkxYbDBNcDhKVFNBRC1kNjVJcE5nckwySHI0LTYzUmpfV25ISUp3OTN1QkVvd3h6LUlJaDhJQ2oyNjhUZ1BzSFMzNEtVRE5kZ21kUUJIWFU4?oc=5",
+          "published": "2026-07-24T08:14:07.000Z"
         },
         {
           "tag": "Press",
@@ -210,13 +226,6 @@
           "source": "Asia Insurance Review",
           "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSGhrazB2TUNvdEtNUk9nMjNRNGFFUm9IdTVlV0hibE1BSkRUWkFQSndkOW04d19iaTRtR2FjN3FWVDNzNGM0R2d0UHlSdW1Vdk5XVF95S3JMOWg4akRLcXpWODdWenVjbFNqbjQxMlZpV3FMUjhaZnU3eUhsSkM0cFJ2TjVXX2xsRHFOdmV3VERwUFoyRzVKdHF2TTNtOWIyanV0SVZtenFVZ29Pdmw5dy1sb0NFaUZJcldGWnEyV0IxQVRXZTFFMjlNblE4RzZ3OWJzMHNfU0lDY0pQTUdGaW9qVFdoQk9qMlZvcUFaS3RwbDlZX1VOS1IyemxvNjh2Z2Zub3ZEMWl0cVo4RUhobjl4SzVpeFE0WERWVVp5NmNodDBHMWc?oc=5",
           "published": "2026-07-22T08:47:21.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on South Korea’s Non-Life Insurance Market - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlBNQVhTWndJVFR6bVdWTl9CS0pPdnQteE40MVhZZ1FFSm4tamYwSVVmVlRybzlHMjJaU1BCb19IUXdXZDRCcTlUWVpkVGh0cUpFOTNYdFFndmJfSjg3WEVBeFFxR0g4Z0ZLNi1ZcE53dXBLRWdXNnB4SVQxcEdhZDIweGhUb2pZN0FIWlVpeTh3Sm9CZTMxQ3FwenAtSmVEaGJIZ1dteFlGOV8xQ1lwWjQzZkpuckRNZE05em9kcFk1OTRYOC1vYzdTeFY5T2t0Zi1lNWFvNkFGOGtFRWUxZ2ZRbTFWSV9VSTRPRl8zNTU?oc=5",
-          "published": "2026-07-22T00:00:00.000Z"
         }
       ],
       "insight": {
@@ -235,48 +244,18 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Philippines Central Bank Upgrades Sea Limited's MariBank to Full Digital Banking License - streamlinefeed.co.ke",
-          "source": "streamlinefeed.co.ke",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVc2WlJaNVVENklnaTEweXZwNnZtZ1R5ZjBLRnFMX1BDSzlfODFUTW9sVk1zRDMzUnRYNzRvZzRoWndRTlFtdlhJX3hhc2dkbHJLczRWLUhKZ2dIVk1INnkwZS04VXhqMm4ya3pLcHYyS081N1VvUVZweWhEQloyajJXbDU0ZmJlWGZ4TmtBdTF2Zk5yOVk4cEM0OXkzbzQ0Z0JDcHhyTTFfX3JNaU1kalowVy05ME0weDRhQg?oc=5",
-          "published": "2026-07-23T09:37:05.000Z"
+          "tag": "Regulatory",
+          "headline": "MariBank Philippines transitions to a digital bank license - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMzFXME1TR1l3R3Bic3VNNUlVWWpwWGY5cWxrZzhHNDJuZDBVaHNWUHB4bXdUMlRHLWlKeDZFcUk4RGNVRFNrRC1aX1RBZ3R0YkhUc2YxY3JFdFJ4Nk5sVnRNenNEOFNFcS04eFVwQmFqc081NlZkZWp0alJoZHVkWUlRT1B1VVZPMlByQXZrcHp1WHoxVGZBSEh5Z1AxdGNGT3dlMnRlTm5ubVAx?oc=5",
+          "published": "2026-07-23T09:27:55.000Z"
         },
         {
           "tag": "Earnings",
-          "headline": "Singapore banks to post loan growth but margins to dip in Q2 - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeE1MNXB6a2xGMVZwZW1xRjZGMV9ZN3g3NnJyVkoybDVjRzFqbEhJUHY5b2MybEliUnFrd1piYU04blpMNHVrcWxjaEtwWXNSYUhlaUFMc3hVa1p0N3FfM0tJTkI4UnJybDQ3aGhRM3BFc0hWTHpSaUc5WkhmelRrWGxzdkR4LXRTRlJfRWZNakJ1V3lSVFV5ZDZn?oc=5",
+          "headline": "Singapore banks to post loan growth but margins to dip in Q2 - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXpKSHpYQnV6V0doQ3ktUFBLMjY5TnRzTncwOVpMYUNEbjY2WHZKNk56R05mYkk2N3JaZDltQXdEb2dpQjBlUy01djJsUm9yRXhPYkp3aHQ1TUgtd3ZwMWtLOE15b1otam44RC1XN0tYR1pFX0VqRm1hSk9reUE1cmZGeFY?oc=5",
           "published": "2026-07-23T21:55:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Revolut Secures Full Authorised Deposit-Taking Institution Banking Licence in Australia - Bobsguide",
-          "source": "Bobsguide",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZktKTHo5Vmp1OVh6N1M3TjQyWVZacXdhRnRJNEhZNUw3U0FpX05qRmFVSk1MMEZvREpac0NtbkVSZnA3WEhvRDYwbjJjOGhQN0w1TjBxR2s0Q0d5T1RSWll1bFo4SnBkYlBfTlZvblBXU1F4TzVvUVJXOVZNaXJEMF9FVGhITEpVQzZCVWdVV0xWeGZ1WUNsMEVVeDV6WXhodzVuNVlyR3BfUzZIQU5DYmtWTGw?oc=5",
-          "published": "2026-07-21T09:58:02.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Philippines Central Bank Upgrades Sea Limited's MariBank to Full Digital Banking License - streamlinefeed.co.ke",
-          "source": "streamlinefeed.co.ke",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVc2WlJaNVVENklnaTEweXZwNnZtZ1R5ZjBLRnFMX1BDSzlfODFUTW9sVk1zRDMzUnRYNzRvZzRoWndRTlFtdlhJX3hhc2dkbHJLczRWLUhKZ2dIVk1INnkwZS04VXhqMm4ya3pLcHYyS081N1VvUVZweWhEQloyajJXbDU0ZmJlWGZ4TmtBdTF2Zk5yOVk4cEM0OXkzbzQ0Z0JDcHhyTTFfX3JNaU1kalowVy05ME0weDRhQg?oc=5",
-          "published": "2026-07-23T09:37:05.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Singapore banks to post loan growth but margins to dip in Q2 - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeE1MNXB6a2xGMVZwZW1xRjZGMV9ZN3g3NnJyVkoybDVjRzFqbEhJUHY5b2MybEliUnFrd1piYU04blpMNHVrcWxjaEtwWXNSYUhlaUFMc3hVa1p0N3FfM0tJTkI4UnJybDQ3aGhRM3BFc0hWTHpSaUc5WkhmelRrWGxzdkR4LXRTRlJfRWZNakJ1V3lSVFV5ZDZn?oc=5",
-          "published": "2026-07-23T21:55:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Revolut Secures Full Authorised Deposit-Taking Institution Banking Licence in Australia - Bobsguide",
-          "source": "Bobsguide",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZktKTHo5Vmp1OVh6N1M3TjQyWVZacXdhRnRJNEhZNUw3U0FpX05qRmFVSk1MMEZvREpac0NtbkVSZnA3WEhvRDYwbjJjOGhQN0w1TjBxR2s0Q0d5T1RSWll1bFo4SnBkYlBfTlZvblBXU1F4TzVvUVJXOVZNaXJEMF9FVGhITEpVQzZCVWdVV0xWeGZ1WUNsMEVVeDV6WXhodzVuNVlyR3BfUzZIQU5DYmtWTGw?oc=5",
-          "published": "2026-07-21T09:58:02.000Z"
         },
         {
           "tag": "Press",
@@ -284,13 +263,29 @@
           "source": "Fintech Singapore",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XYlpqcnBMTVhqczAxd3F6MUN1OVhCaktDVkk4VHNrT2NXcG4tVjR0MGpLejMzYmoyaDY2UzNvbmQxOVpUMk50bmR6QkNmdE5FMTJnQkZ2VkRyT1djRUdxNw?oc=5",
           "published": "2026-07-24T04:18:42.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Regulatory",
+          "headline": "MariBank Philippines transitions to a digital bank license - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMzFXME1TR1l3R3Bic3VNNUlVWWpwWGY5cWxrZzhHNDJuZDBVaHNWUHB4bXdUMlRHLWlKeDZFcUk4RGNVRFNrRC1aX1RBZ3R0YkhUc2YxY3JFdFJ4Nk5sVnRNenNEOFNFcS04eFVwQmFqc081NlZkZWp0alJoZHVkWUlRT1B1VVZPMlByQXZrcHp1WHoxVGZBSEh5Z1AxdGNGT3dlMnRlTm5ubVAx?oc=5",
+          "published": "2026-07-23T09:27:55.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Singapore banks to post loan growth but margins to dip in Q2 - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXpKSHpYQnV6V0doQ3ktUFBLMjY5TnRzTncwOVpMYUNEbjY2WHZKNk56R05mYkk2N3JaZDltQXdEb2dpQjBlUy01djJsUm9yRXhPYkp3aHQ1TUgtd3ZwMWtLOE15b1otam44RC1XN0tYR1pFX0VqRm1hSk9reUE1cmZGeFY?oc=5",
+          "published": "2026-07-23T21:55:00.000Z"
         },
         {
           "tag": "Press",
-          "headline": "TPBank Taps TerraPay for Cross-Border Payments from Vietnam - Fintech Singapore",
+          "headline": "Vietnamese Bank MBV Expands Global Payments With TerraPay - Fintech Singapore",
           "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wenAyWDVKSC1Kb29LRHpPdVJ3Nlg4VzBkdWlCLVhfakdkZzRzS3E1dDFTVGZiZzNaTHhHQ2o3LXlVQTBkUWg5ek5MVkVRaWxBU2hvSmR3T2RXUlZiTEhBMWxCVGViUQ?oc=5",
-          "published": "2026-07-22T02:50:56.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XYlpqcnBMTVhqczAxd3F6MUN1OVhCaktDVkk4VHNrT2NXcG4tVjR0MGpLejMzYmoyaDY2UzNvbmQxOVpUMk50bmR6QkNmdE5FMTJnQkZ2VkRyT1djRUdxNw?oc=5",
+          "published": "2026-07-24T04:18:42.000Z"
         }
       ],
       "insight": null,
