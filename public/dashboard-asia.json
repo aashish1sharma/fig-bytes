@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T04:46:10.600Z",
+  "generatedAt": "2026-07-26T05:00:34.103Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,40 +33,10 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Japan Plans to Launch Bitcoin ETF by 2028 - ababnews.com",
-          "source": "ababnews.com",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5laGxNRmkxdF92cUxxWjlXMVFYZU1qRGVPMWRnUTM2SkN2Y2l4T191SEVLWmYxa3VyckFxWDV6RHdOQkN5elRDaXpCMkl2V1Azdzh0WktuM0VnZlBmazgtUXh1RXpBczJrQ2F6S0w0RmpTYmxP?oc=5",
-          "published": "2026-07-23T04:25:50.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Asset management AUM hits record $42.2t - Hong Kong Business",
-          "source": "Hong Kong Business",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hyT01qWkVuLXhRVzVqNzhHZ1N2Vm8xQ3JIWTFDeElJTmJMNnFXTXcwVnBONVpfaGdYaDNja1ltQjJ0VHdwdEg0SUI3a3lsWkNMaVdFVkJ5NWNBa2l0SEVFbnBFMzdtZVlvVzlCbzB5czIwSzRocUNOd2YtcWFERmU2MGs?oc=5",
-          "published": "2026-07-23T00:17:28.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "US investment firm Starwood Capital opens office in Jeonju, where Korea’s NPS has its headquarters - Asia Asset Management",
-          "source": "Asia Asset Management",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUYta3lueWpuNXhfc1dodEZHZWphcE9Kal81ZG9RVUtiQmJQZDdQazNYRkFoc1NzYmU2WTBjUnFyMF9sVllFcXA3RWpEWEYtYUVxUUNWenBwSnJhdVBpV3lPNEtuMkRJWWs4MWJYZ3JxRU5ldV9INVRVd1FybFpVNi1ybUtiTEI1UHEtb09LanNOWkVZLW9qVDNKWTN0ZVI2NmVlVXRkVVp5d2xrMm15TkthR3BHUXNlYl9oMkhKN1RkbW0zNVRHMndmdnduU2l0ZDJF?oc=5",
-          "published": "2026-07-23T16:18:46.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Japan Plans to Launch Bitcoin ETF by 2028 - ababnews.com",
-          "source": "ababnews.com",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5laGxNRmkxdF92cUxxWjlXMVFYZU1qRGVPMWRnUTM2SkN2Y2l4T191SEVLWmYxa3VyckFxWDV6RHdOQkN5elRDaXpCMkl2V1Azdzh0WktuM0VnZlBmazgtUXh1RXpBczJrQ2F6S0w0RmpTYmxP?oc=5",
-          "published": "2026-07-23T04:25:50.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Asset management AUM hits record $42.2t - Hong Kong Business",
-          "source": "Hong Kong Business",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hyT01qWkVuLXhRVzVqNzhHZ1N2Vm8xQ3JIWTFDeElJTmJMNnFXTXcwVnBONVpfaGdYaDNja1ltQjJ0VHdwdEg0SUI3a3lsWkNMaVdFVkJ5NWNBa2l0SEVFbnBFMzdtZVlvVzlCbzB5czIwSzRocUNOd2YtcWFERmU2MGs?oc=5",
-          "published": "2026-07-23T00:17:28.000Z"
+          "headline": "Amundi MSCI AC Asia Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0tFTm4tdEpOQTZ5S1ZDQXd2ZFlhamdxMFo5bExLY21wNzQ5MkdIVTBVRkduUEIxMl8zcC1pYVBqdU01OEZBanplMDZqM2RkczVqUHNuTGRGc3paZEpoS3pad3JqRGgwVGU1N0NKaVJrZ3c2eG9HakRKX2pacWFNUjdyY2ludnU3VjZscnBzekFYZWxycFk3WFJXSlVwNmdWdHVLY0xpc01wbWM?oc=5",
+          "published": "2026-07-24T07:09:00.000Z"
         },
         {
           "tag": "Press",
@@ -81,27 +51,29 @@
           "source": "The Manila Times",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ1Y4c0NacU1ZLW9DaHVpY2Zqa1ZxSndIWGVfVGozcnFEOUpTclpHc25weWx1UDA3VjEwRDdyRS1lZ0hhUWVSX3Q3WmtGRVM3emUwQ1QxVkpuVlFtdXU4TjBnZ1NzMkRkVFpPOVl4YUdnaHVpa01KYTV3akN1em50c2RpeENtWjdhX3A2U2x4NmlZcWlnOERjNVFOMWJ0bXBjdW14YkkwWjVwQUs2eDN0M0tFbDFnY3M4YU93d0hwc0xBempaS3JYajFjc0o5NzBxUk4tcmQ3T0p0SllZYlFyc1FXMVAzWFFBa2xGMEZMNy1xZ9IB8gFBVV95cUxOZ1Y4c0NacU1ZLW9DaHVpY2Zqa1ZxSndIWGVfVGozcnFEOUpTclpHc25weWx1UDA3VjEwRDdyRS1lZ0hhUWVSX3Q3WmtGRVM3emUwQ1QxVkpuVlFtdXU4TjBnZ1NzMkRkVFpPOVl4YUdnaHVpa01KYTV3akN1em50c2RpeENtWjdhX3A2U2x4NmlZcWlnOERjNVFOMWJ0bXBjdW14YkkwWjVwQUs2eDN0M0tFbDFnY3M4YU93d0hwc0xBempaS3JYajFjc0o5NzBxUk4tcmQ3T0p0SllZYlFyc1FXMVAzWFFBa2xGMEZMNy1xZw?oc=5",
           "published": "2026-07-23T08:13:31.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0tFTm4tdEpOQTZ5S1ZDQXd2ZFlhamdxMFo5bExLY21wNzQ5MkdIVTBVRkduUEIxMl8zcC1pYVBqdU01OEZBanplMDZqM2RkczVqUHNuTGRGc3paZEpoS3pad3JqRGgwVGU1N0NKaVJrZ3c2eG9HakRKX2pacWFNUjdyY2ludnU3VjZscnBzekFYZWxycFk3WFJXSlVwNmdWdHVLY0xpc01wbWM?oc=5",
+          "published": "2026-07-24T07:09:00.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Indonesia passes law to form international financial centres, eyes 500 trillion rupiah foreign investments - Asia Asset Management",
+          "headline": "US investment firm Starwood Capital opens office in Jeonju, where Korea’s NPS has its headquarters - Asia Asset Management",
           "source": "Asia Asset Management",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNnF1cEtGTFRzWkJ5aUdsQXZtVmptN3RvLVhMZmlhMDAtby1tOEE5bl9pS1d6dU5oUHl6dng4SHZYMHlMNHUwRmlZZFl0N0NNZWFfMzB2eWFyQ2RIZ2hlaV9sc3JIN1FMdmZaQ2k2bVI0Zi1kcHdoVHZsM2R2UGV2VUJZRDd3THNkTGRGOXpIbnNIbThIN0hnX18xNzYxRXJjQkRPcXhTOGgySUFYSkxFU0w5elhRZjZJRXEzY202dmY5SHkxaVMwZnpnTlpiWFpLRzhHbWQxR3Nob0hScGNieA?oc=5",
-          "published": "2026-07-22T17:01:20.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUYta3lueWpuNXhfc1dodEZHZWphcE9Kal81ZG9RVUtiQmJQZDdQazNYRkFoc1NzYmU2WTBjUnFyMF9sVllFcXA3RWpEWEYtYUVxUUNWenBwSnJhdVBpV3lPNEtuMkRJWWs4MWJYZ3JxRU5ldV9INVRVd1FybFpVNi1ybUtiTEI1UHEtb09LanNOWkVZLW9qVDNKWTN0ZVI2NmVlVXRkVVp5d2xrMm15TkthR3BHUXNlYl9oMkhKN1RkbW0zNVRHMndmdnduU2l0ZDJF?oc=5",
+          "published": "2026-07-23T16:18:46.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "CITIC Securities Q2 Public Mutual Fund Quarterly Report Analysis: Active Equity Funds See Significant Increase in Concentration of Top Ho…",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV84Qk1qWE00bDgxbUdtTDdiVVZ2MlhjLVFldEZ6SXRtX212dk1qZDc5bWJpUGNSTmRzZG5ubVZsSDk0R3hfYXBRcWcxSTUtRkVHVC0xS3EwUnFrNFZvS0Y1Z2FWSWxnaFJfcXpCWHQ4VlVOclJvNlNnRUhHd0FKOWFoTFg1MUdnYldBdmRjb3NKellaZzlmUHJXNTMtT19PSjVWUUk5UXZfWDFsazM4M0NR?oc=5",
-          "published": "2026-07-23T09:51:02.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "CICC: How Much Hong Kong Equity Do Mutual Funds Still Hold? — Analysis of Mutual Fund Holdings in 2Q26 - 富途牛牛",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0NPdE1rSlNMblU3SmE3cFQxdnk3Qzl2OW15d0p5Y0lsNGU4Tk5ic2dUZzUyZHlxVENTN1daNVZVSHc3WWk1aG5wbG9MRElaQndVUVpRV1pCdEZyaUdFTzNmQ3NISEZ1WldyTXFYbC16VlNkN0VqbFFPV0NCZlJSdFR1c1NpSE0xakVsZ1ZqTnFRZTBEZFVvdQ?oc=5",
-          "published": "2026-07-23T03:02:26.000Z"
+          "tag": "Press",
+          "headline": "Go Global, Go Systemic: China Asset Management Unveils Active Investment Research 5.0 - The Manila Times",
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ1Y4c0NacU1ZLW9DaHVpY2Zqa1ZxSndIWGVfVGozcnFEOUpTclpHc25weWx1UDA3VjEwRDdyRS1lZ0hhUWVSX3Q3WmtGRVM3emUwQ1QxVkpuVlFtdXU4TjBnZ1NzMkRkVFpPOVl4YUdnaHVpa01KYTV3akN1em50c2RpeENtWjdhX3A2U2x4NmlZcWlnOERjNVFOMWJ0bXBjdW14YkkwWjVwQUs2eDN0M0tFbDFnY3M4YU93d0hwc0xBempaS3JYajFjc0o5NzBxUk4tcmQ3T0p0SllZYlFyc1FXMVAzWFFBa2xGMEZMNy1xZ9IB8gFBVV95cUxOZ1Y4c0NacU1ZLW9DaHVpY2Zqa1ZxSndIWGVfVGozcnFEOUpTclpHc25weWx1UDA3VjEwRDdyRS1lZ0hhUWVSX3Q3WmtGRVM3emUwQ1QxVkpuVlFtdXU4TjBnZ1NzMkRkVFpPOVl4YUdnaHVpa01KYTV3akN1em50c2RpeENtWjdhX3A2U2x4NmlZcWlnOERjNVFOMWJ0bXBjdW14YkkwWjVwQUs2eDN0M0tFbDFnY3M4YU93d0hwc0xBempaS3JYajFjc0o5NzBxUk4tcmQ3T0p0SllZYlFyc1FXMVAzWFFBa2xGMEZMNy1xZw?oc=5",
+          "published": "2026-07-23T08:13:31.000Z"
         }
       ],
       "insight": {
@@ -156,12 +128,20 @@
       "insight": null,
       "companyUpdates": [
         {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "Canara HSBC Life Q4 Results: Analyst meet transcript filed for June quarter - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGZxSldfbVFWZUdPblI1aUJTWWlKUFY0NjROcEdGTDZYWFJkczhLZFJsODVKY3lWU2pDNVV5Q3d4TzlKNzZvSXFrMDNQR0QyekpRVV84MUVCYzExYXo4ZTUwR2RPOGtnN0k4Y0ZsMXA3SEIzYThGSzZDMmZjek5SS19kaWdWc1R4UnNUdG9SUzdiT1p6bmhIUVN5QlNWNmlHREtwMmtjWVo2a1BJcWVtZjU3WUttSjhnWjYxMUhHai1mb0pPVkoyRHhyQQ?oc=5",
+          "published": "2026-07-25T03:58:26.000Z"
+        },
+        {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
-          "published": "2026-07-18T14:45:47.000Z"
+          "headline": "PulteGroup (PHM) Q2 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WQUtHcmJRczNXemp5ZXI1a2JNQnN2dWtmRjgwOHZMUmVBUzZHNDIxdEhXOERYR045ekUyQjR4bU9lMEtBWlh2OTdDQ0ZaN1dHQ3Z0OE1CVjExVENuX01vc3hwMF9GWGc?oc=5",
+          "published": "2026-07-22T19:30:00.000Z"
         }
       ]
     },
@@ -170,6 +150,13 @@
       "name": "Insurance",
       "bullets": [
         {
+          "tag": "Strategy",
+          "headline": "Allianz Eyes Singapore Expansion with SG$2.7 Billion Deal for HSBC's Life Insurance Business - Yahoo Finance UK",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVhfWFVwN0dSbzFOZkdLellTZGlnaXFUN2ZoT09mWnQ1dlFnYkxQYTBSTXRBTG9XcnEtVDhlWHhtbVRBNzJNWmdNWk1kWXJZNlQ3UlJWeVBGU2dWaXdiRzNFR0tXYVpWdjYxd1NQRnJPTWwtY2dKbm9RVlotd2hWLVhPLUwtY0RhWnd2Tw?oc=5",
+          "published": "2026-07-24T08:54:20.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "HSBC Holdings (NYSE: HSBC) to sell Singapore life insurance arm to Allianz in S$2.7b deal - Stock Titan",
           "source": "Stock Titan",
@@ -182,17 +169,17 @@
           "source": "AskTraders",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUtfY0FDNFhxRVJ4N0VnRG1jNkhrZ1dOaU1qUE8yVkhsbXk5ZkZyZEFGWnNoRy1OT2FHQmttdWRGT19yNE1zUFN1SWg1WG1nNV9Hb0lodnFtRHczQm1vaFFkS21wYUU1MHlmdEI0NnoxUE92c3VjM252YjVBUkVzeVVLMGVCVXFBU1d1cGE1VnJMNkNLMVZCSG5SV204WHVJS1ZQRy02aDF2S3FuY2VGWTR4Yw?oc=5",
           "published": "2026-07-24T08:32:47.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "HSBC to sell Singapore life insurance unit to Allianz for $2.1bn By Investing.com - Investing.com South Africa",
-          "source": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdzJIejNhWC1DQnVZbm9nVGRuZlRvVzJCX1pPQWdCZkp5TUg3Z2taeFpBZ3NSLUE0UWdoMlhSbm1NUDQ2dWZZdWtOcEhFbnRsOGU5LXJvS0J4ZzBjWjZwSHhYdE5ITlBydERFekx6ZGthYVhSVHRsYUhHUl9UbDgzTkxYbDBNcDhKVFNBRC1kNjVJcE5nckwySHI0LTYzUmpfV25ISUp3OTN1QkVvd3h6LUlJaDhJQ2oyNjhUZ1BzSFMzNEtVRE5kZ21kUUJIWFU4?oc=5",
-          "published": "2026-07-24T08:14:07.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Strategy",
+          "headline": "Allianz Eyes Singapore Expansion with SG$2.7 Billion Deal for HSBC's Life Insurance Business - Yahoo Finance UK",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVhfWFVwN0dSbzFOZkdLellTZGlnaXFUN2ZoT09mWnQ1dlFnYkxQYTBSTXRBTG9XcnEtVDhlWHhtbVRBNzJNWmdNWk1kWXJZNlQ3UlJWeVBGU2dWaXdiRzNFR0tXYVpWdjYxd1NQRnJPTWwtY2dKbm9RVlotd2hWLVhPLUwtY0RhWnd2Tw?oc=5",
+          "published": "2026-07-24T08:54:20.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "HSBC Holdings (NYSE: HSBC) to sell Singapore life insurance arm to Allianz in S$2.7b deal - Stock Titan",
           "source": "Stock Titan",
@@ -215,17 +202,10 @@
         },
         {
           "tag": "Press",
-          "headline": "The future of private health insurance in Australia - Bupa",
-          "source": "Bupa",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2pQMmFZb2Y4Q015Z2pyYll6djk2eDd6Z2hCcXNfTEstSi1LYzJ4UFFxYk9ZeUkyT3FIVnMteTZGN00xcDlaN0tGUzNsblVkZ0FNSDZuUTNkRFc0RU9yci1HVUlSdTQwcmF3UExTRFBxdnROenA2aWMtVzU5Unl4cmNRXy0?oc=5",
-          "published": "2026-07-23T02:35:53.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Taiwan: New rules bar insurance sales practices that frame interest-sensitive life insurance plans as bank deposits - Asia Insurance Review",
-          "source": "Asia Insurance Review",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSGhrazB2TUNvdEtNUk9nMjNRNGFFUm9IdTVlV0hibE1BSkRUWkFQSndkOW04d19iaTRtR2FjN3FWVDNzNGM0R2d0UHlSdW1Vdk5XVF95S3JMOWg4akRLcXpWODdWenVjbFNqbjQxMlZpV3FMUjhaZnU3eUhsSkM0cFJ2TjVXX2xsRHFOdmV3VERwUFoyRzVKdHF2TTNtOWIyanV0SVZtenFVZ29Pdmw5dy1sb0NFaUZJcldGWnEyV0IxQVRXZTFFMjlNblE4RzZ3OWJzMHNfU0lDY0pQTUdGaW9qVFdoQk9qMlZvcUFaS3RwbDlZX1VOS1IyemxvNjh2Z2Zub3ZEMWl0cVo4RUhobjl4SzVpeFE0WERWVVp5NmNodDBHMWc?oc=5",
-          "published": "2026-07-22T08:47:21.000Z"
+          "headline": "HSBC To Sell Singapore Life Insurance Business To Allianz For S$2.7 Billion - DirectorsTalk Interviews",
+          "source": "DirectorsTalk Interviews",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWExGZ2p4eUVnSThSd2lwUGNVVFlPZ3p4ZkdLM1JzWGVxQkRSOEIySGZTX01yUlItaDF5LVpoMmtsZlV2b0N5bFNocXROd3JDVlEtMzVPcTU5MEkwLUY5aWZtcmtGUnJuazVkV2M4QV94X0s4RFR1WnQ2NExCTTFqY2R0Vlk5QjJHS3BZRkFqZW1tMDJKR2RIWUt2cXRweU9EV0xqY3FQUDluUS0wWnBpLTBYVFRTOGpwQ2JvNDdpVG5mOU0?oc=5",
+          "published": "2026-07-24T06:50:38.000Z"
         }
       ],
       "insight": {
@@ -252,9 +232,9 @@
         },
         {
           "tag": "Earnings",
-          "headline": "Singapore banks to post loan growth but margins to dip in Q2 - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXpKSHpYQnV6V0doQ3ktUFBLMjY5TnRzTncwOVpMYUNEbjY2WHZKNk56R05mYkk2N3JaZDltQXdEb2dpQjBlUy01djJsUm9yRXhPYkp3aHQ1TUgtd3ZwMWtLOE15b1otam44RC1XN0tYR1pFX0VqRm1hSk9reUE1cmZGeFY?oc=5",
+          "headline": "Singapore banks to post loan growth but margins to dip in Q2 - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeE1MNXB6a2xGMVZwZW1xRjZGMV9ZN3g3NnJyVkoybDVjRzFqbEhJUHY5b2MybEliUnFrd1piYU04blpMNHVrcWxjaEtwWXNSYUhlaUFMc3hVa1p0N3FfM0tJTkI4UnJybDQ3aGhRM3BFc0hWTHpSaUc5WkhmelRrWGxzdkR4LXRTRlJfRWZNakJ1V3lSVFV5ZDZn?oc=5",
           "published": "2026-07-23T21:55:00.000Z"
         },
         {
@@ -275,9 +255,9 @@
         },
         {
           "tag": "Earnings",
-          "headline": "Singapore banks to post loan growth but margins to dip in Q2 - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXpKSHpYQnV6V0doQ3ktUFBLMjY5TnRzTncwOVpMYUNEbjY2WHZKNk56R05mYkk2N3JaZDltQXdEb2dpQjBlUy01djJsUm9yRXhPYkp3aHQ1TUgtd3ZwMWtLOE15b1otam44RC1XN0tYR1pFX0VqRm1hSk9reUE1cmZGeFY?oc=5",
+          "headline": "Singapore banks to post loan growth but margins to dip in Q2 - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeE1MNXB6a2xGMVZwZW1xRjZGMV9ZN3g3NnJyVkoybDVjRzFqbEhJUHY5b2MybEliUnFrd1piYU04blpMNHVrcWxjaEtwWXNSYUhlaUFMc3hVa1p0N3FfM0tJTkI4UnJybDQ3aGhRM3BFc0hWTHpSaUc5WkhmelRrWGxzdkR4LXRTRlJfRWZNakJ1V3lSVFV5ZDZn?oc=5",
           "published": "2026-07-23T21:55:00.000Z"
         },
         {
@@ -289,7 +269,16 @@
         }
       ],
       "insight": null,
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "Canara HSBC Life Q4 Results: Analyst meet transcript filed for June quarter - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGZxSldfbVFWZUdPblI1aUJTWWlKUFY0NjROcEdGTDZYWFJkczhLZFJsODVKY3lWU2pDNVV5Q3d4TzlKNzZvSXFrMDNQR0QyekpRVV84MUVCYzExYXo4ZTUwR2RPOGtnN0k4Y0ZsMXA3SEIzYThGSzZDMmZjek5SS19kaWdWc1R4UnNUdG9SUzdiT1p6bmhIUVN5QlNWNmlHREtwMmtjWVo2a1BJcWVtZjU3WUttSjhnWjYxMUhHai1mb0pPVkoyRHhyQQ?oc=5",
+          "published": "2026-07-25T03:58:26.000Z"
+        }
+      ]
     }
   ]
 }
