@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T04:44:53.259Z",
+  "generatedAt": "2026-07-29T04:49:13.202Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,62 +32,41 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "China Memory Giant CXMT Becomes a Top Holding in Tema Memory ETF (DISK) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHZsMWR3SzlnMXJHWktrTTkyaHpDb2JvRnRBNjR2cmc2WnFqakQzc3J4dlk1TUhoSUU0UzBZWmxLNkZMcnB0ZVl6SUJZa0ViTWRsa1c4aXhpQWlLWS1RSW04aXp4RWNyZzJCTGE4LUNDbEVrUzhlNF9IUm53cWgtVDA1d0RpS3ZLWVJsa3RpMnRuVjZuUEZUUWVNMGZpaXFBOTVwcHhB?oc=5",
-          "published": "2026-07-27T14:55:00.000Z"
+          "tag": "Earnings",
+          "headline": "Singapore AUM up 10.1% at S$6.7 trillion as MAS eyes competitiveness push - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWxiLVFDeEExNXNybmxqZWN6bjJLQ1VrQUdaN2dWWEp5dE9UNEVVS2NHQU8wVU52M1RLZW5uMFZnWU9fb0loMXJCdHBWQ0lhRE1LVWxNaXlFVVl4cWJJNnBwM1hURUlKMFowN01SUDNDN3k5OXF1U0lINkRSNUJKYkdOUXJaSTFrb3BfSE1BaDZYdUpZWUxuZzhYZERIVHpsWVhMdkhaM0Ezb25tc2J3YWxQdw?oc=5",
+          "published": "2026-07-28T09:30:00.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGstbXBKWmlNdWQxS1N1V21iaXZ0OFNjcmFhMlVDbUx2RHpXcnVBbWtOM0NxN2p0dWpxZVMtaEpjbXBSOTVTWGd0QzJtNDNwOG9HSkg2enluVFRuUWtNMlNQY2pWNjBIOEtrWi1vdm40cWM4b0VSN0pJTlhlQXVmelBXTXNrcjBjT255TE5rRzJSNmNxRFZ1Y0FZVGp3V284c3pIVERaMUNORDg?oc=5",
-          "published": "2026-07-27T07:09:00.000Z"
+          "tag": "Earnings",
+          "headline": "Singapore's AUM grew 10% in 2025 to $6.7 trillion - The Edge Singapore",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVA3MHkwRXFudHZETHRlalJvWmhGU2VCR0RWWXU1VGFFdk50M2JET3ZBem00NWJrTVE0eGlaOHI4N2s2R3czeGhlLThlMG9zV3p2c0VPU253QjhZTUI4aUdGQnNXckhhbXd5MmhrOHlDU01zRGpyYnpkSjBXTk05NzNzdVpoOHZMdE9tRHg3ZUFVOXd1U01waDlZM2JIVUXSAZ8BQVVfeXFMUElQNzB5MEVxbnR2REx0ZWpSb1poRlNlQkdEVll1NVRhRXZOdDNiRE92QXptNDVia01RNHhpWjhyODdrNkd3M3hoZS04ZTBvc1d6dnNFT1Nud0I4WU1COGlHRkJzV3JIYW13eTJoazh5Q1NNc0RqcmJ6ZEowV05NOTczc3VaaDh2THRPbUR4N2VBVTl3dVNNcGg5WTNiSFVF?oc=5",
+          "published": "2026-07-28T09:30:00.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUtla3l6SHVza3hsak9Pb2plbHk5UzVGZENIOGNYOFFuZUt0ZGxmUDRPdUlpMTJ3S0pVX3FCeHpxd3M5R25jR0JHYUxBdGpYQlNkeXJCb0dnRkNMcGM1Ujk0Qm0zV3otNWpKd2szMlFtN2RoN3FUU2xIcDZDdHRiM0FYOGtHVVdQdVBLTmtlOGYydThv?oc=5",
-          "published": "2026-07-27T06:03:00.000Z"
+          "tag": "Press",
+          "headline": "Malaysia and Hong Kong regulators ink pact for cross-listing ETFs and REITs, dual listings of IPOs - Asia Asset Management",
+          "source": "Asia Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON3NTM3JMZ1dhSkVDalRnTjh3Q3l3QldoNTA4UlRtMnpNbHlJY2o4ZlVwTGY2SkROUUJDQWNvOTlCQnRiUkU1Nm5TNy1EWC10X1ZXeVhjODRsVHBkMlJWd3dDN1ZVVlE3b1lXdjk2V2RQMWZtS1M2NzZzS3p1M01FQ3pIUl93cVNEVDU1XzBqQ1NpOTBhaDJfbWpjTlR2bUJvcXY4OXpqalpVNGhXVFRXUHlvbEp3ZkNTOWhEZTVvR2E2SklnSmZWcVBNSFk1MWtGS0dMY0RCMGJ4RlNzV1o0?oc=5",
+          "published": "2026-07-26T16:49:59.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "China Memory Giant CXMT Becomes a Top Holding in Tema Memory ETF (DISK) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHZsMWR3SzlnMXJHWktrTTkyaHpDb2JvRnRBNjR2cmc2WnFqakQzc3J4dlk1TUhoSUU0UzBZWmxLNkZMcnB0ZVl6SUJZa0ViTWRsa1c4aXhpQWlLWS1RSW04aXp4RWNyZzJCTGE4LUNDbEVrUzhlNF9IUm53cWgtVDA1d0RpS3ZLWVJsa3RpMnRuVjZuUEZUUWVNMGZpaXFBOTVwcHhB?oc=5",
-          "published": "2026-07-27T14:55:00.000Z"
+          "tag": "Earnings",
+          "headline": "Singapore AUM up 10.1% at S$6.7 trillion as MAS eyes competitiveness push - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWxiLVFDeEExNXNybmxqZWN6bjJLQ1VrQUdaN2dWWEp5dE9UNEVVS2NHQU8wVU52M1RLZW5uMFZnWU9fb0loMXJCdHBWQ0lhRE1LVWxNaXlFVVl4cWJJNnBwM1hURUlKMFowN01SUDNDN3k5OXF1U0lINkRSNUJKYkdOUXJaSTFrb3BfSE1BaDZYdUpZWUxuZzhYZERIVHpsWVhMdkhaM0Ezb25tc2J3YWxQdw?oc=5",
+          "published": "2026-07-28T09:30:00.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGstbXBKWmlNdWQxS1N1V21iaXZ0OFNjcmFhMlVDbUx2RHpXcnVBbWtOM0NxN2p0dWpxZVMtaEpjbXBSOTVTWGd0QzJtNDNwOG9HSkg2enluVFRuUWtNMlNQY2pWNjBIOEtrWi1vdm40cWM4b0VSN0pJTlhlQXVmelBXTXNrcjBjT255TE5rRzJSNmNxRFZ1Y0FZVGp3V284c3pIVERaMUNORDg?oc=5",
-          "published": "2026-07-27T07:09:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUtla3l6SHVza3hsak9Pb2plbHk5UzVGZENIOGNYOFFuZUt0ZGxmUDRPdUlpMTJ3S0pVX3FCeHpxd3M5R25jR0JHYUxBdGpYQlNkeXJCb0dnRkNMcGM1Ujk0Qm0zV3otNWpKd2szMlFtN2RoN3FUU2xIcDZDdHRiM0FYOGtHVVdQdVBLTmtlOGYydThv?oc=5",
-          "published": "2026-07-27T06:03:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Japan and the Bitcoin Spot ETF: An Analysis of the $18.4 Billion Projection - Crypto Economy",
-          "source": "Crypto Economy",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObE0wZUhKeWFrbjlZTVN4Mld6ZmNFYTdkSGRLOU5uZ2tkZEdnY1JKUFU3dXMzY1hNcnRfZnpMZWk5UHp2cUhaMDUzSldTZ1VPWDdxbjFmXzZaV3FVb3dzU0FUNUN4TzlQWEw4RTMxVFVwX3BGZEpBNFozQUM0RkRaWVlXWkttMUZ2ekF3SkRXN2xTcUU0amhINlAxTkY4OEc2ZWRz?oc=5",
-          "published": "2026-07-27T21:46:21.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong Approves Solana ETF Ahead of United States - CoinMarketCap",
-          "source": "CoinMarketCap",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHh2SFRXWldFclNuUVl1M0xhT3gtU1o3alFVbzZqeWJIc1ZPTThhLWRjTDZCSUp0SzloSjVJemh1VmdqMkNyTDVwVlBTbWJJd1loSXFwZzBwSzA1bF9hUjVtREszX1pjSmhuSGdKX0JhVE02SEpxNHNFaUZEQXFkNmVnMEFDSGtDTy1oVXM4b1BTOHRpUGpaeFhn?oc=5",
-          "published": "2026-07-25T18:37:24.000Z"
+          "tag": "Earnings",
+          "headline": "Singapore's AUM grew 10% in 2025 to $6.7 trillion - The Edge Singapore",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVA3MHkwRXFudHZETHRlalJvWmhGU2VCR0RWWXU1VGFFdk50M2JET3ZBem00NWJrTVE0eGlaOHI4N2s2R3czeGhlLThlMG9zV3p2c0VPU253QjhZTUI4aUdGQnNXckhhbXd5MmhrOHlDU01zRGpyYnpkSjBXTk05NzNzdVpoOHZMdE9tRHg3ZUFVOXd1U01waDlZM2JIVUXSAZ8BQVVfeXFMUElQNzB5MEVxbnR2REx0ZWpSb1poRlNlQkdEVll1NVRhRXZOdDNiRE92QXptNDVia01RNHhpWjhyODdrNkd3M3hoZS04ZTBvc1d6dnNFT1Nud0I4WU1COGlHRkJzV3JIYW13eTJoazh5Q1NNc0RqcmJ6ZEowV05NOTczc3VaaDh2THRPbUR4N2VBVTl3dVNNcGg5WTNiSFVF?oc=5",
+          "published": "2026-07-28T09:30:00.000Z"
         },
         {
           "tag": "Press",
@@ -122,6 +101,14 @@
           "headline": "Investor Presentation - mybrand.schroders.com",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
           "published": "2026-07-21T17:02:43.000Z"
+        },
+        {
+          "company": "Fidelity International",
+          "ticker": "FIL",
+          "tag": "Analyst Report",
+          "headline": "Fidelity Emerging Markets Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZZb0U5a1dzdGhvLXVHajRicl9qdDJmYnMxUjI3dmNINUV5N0JmeVpBMkNjOTFuYjF1cVVCdVAtZUVyNjhlUFhfZXdYbzRkRlJ6WHNST19wdFBscV9sSUVIbGh1TksxRUVXVktXOElqcGZUWU9hb3A2bVpHNnZaVzRlYUlCX1ZCTzdMNlRoUlhfTW9mX3BUTWM4OGFyWk1oZ3lJanpybUlwYVlISThYenNDLVVKR0JRNWlCZ3c0aHlnRXQyWGlMUUhCMHhiTWFtXzNWRmtYRFJGTzV6a21tT01ycEI?oc=5",
+          "published": "2026-07-28T07:03:00.000Z"
         }
       ]
     },
@@ -131,20 +118,6 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Hana Securities Partners with Singapore's KSMC to Boost Global Wealth Management - Seoul Economic Daily",
-          "source": "Seoul Economic Daily",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0FXR0JPckx4V2hOT090T0ctUmptVk5vY3VrSUhmaEZwYXZtU05XR1pkcHk5clRqYlpVMVUwVjBJWUV2eENpTXBfdDJiYXlKemV0WlZqTmp6ZXdVZm5keWVhVDhqWHVrQ3AzUVJvRGxpM2U5OGxlWTdvNWFfRXNZU0NTVmZfbVBtbGJ1R3BHc0FWVG5DV1FNLU02ajY?oc=5",
-          "published": "2026-07-28T02:01:03.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Hong Kong's second-richest billionaire Peter Lee's family office fast-tracks $1B Central Asia green energy push - VnExpress International",
-          "source": "VnExpress International",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR21za0RWSVg3RURRYnF6UlEyVldldjBFcVV3ZzlCZFExUjhsMWxhMF9aaUx1RlpuNUlTMUcwbC1rTkF3d2lXUDBDcWR1ZWd6NloyclFVZTdYZ2JMMVhfOHk1Njkzczhycm9nQm1nc1A3T1lOaDcwQlg0dlk1WnFyMEtObmF0eXoyTVFyeDNqb205WndqTlJ2ZTRQSERLVGw0YjdfMG9UZ3ZtblBIcHRSLTFYVms0a2NEQUhQLWlVQXFOcTl0ODZqUDlfSjBScG94Mlh2c1V0T2tYVXNMTkhQOGdrdTQyanhvUVVnUEI2SWVDWlVYWi1BZ1FIMA?oc=5",
-          "published": "2026-07-27T08:54:45.000Z"
-        },
-        {
-          "tag": "Press",
           "headline": "HSBC plans to hire 100 AI specialists and 100 more RMs for wealth management - The Edge Singapore",
           "source": "The Edge Singapore",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOGtJTjlxSWRPaWMtRnZ2ZDNlWmMzR0tsN2otSUpGbDJCZU9lVHRDUXhoQXBLSGliYlhoSjhmWEgwbU0yalNlaVFET21HYXNFanBORVp2SFpnRkN2a1hxT3ZnR256bVVydC0tRXVmY2ZXZlRpQXhEbGhOS1BsTU5UQkd2U3pqNE5waXB6QkhDYzQtZjBCSkZzcmJjUkNJUkVId3RSY1N6VUVVbnZ5eXRYSDBVU2tKWWk2UHNyMW9sczbSAcYBQVVfeXFMTVQxQWthYmtDMmIyaXNMQ3diS09Cd1FCbWI5SlI5MFJCWktvMk96TmVpMExPdUVXRWNOeTRpa1E0bVpBOXNwRHdySlpCZTVfLW9qNVFnYTIxeks0bm5TRzZkQ2Z1bWEtOHR2WUZ5NkZoYmw1SlowdXk4ZE92VU81QUR1MUYwWDVJMFN0YUtIVFhIMUtjOExQOExtdEN6d2RmMm5yejdjZkV2a2VJY0wtbFdPWXJ1MGxQcnk1Z0ZaRmp4ZENtVG5n?oc=5",
@@ -152,20 +125,6 @@
         }
       ],
       "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Hana Securities Partners with Singapore's KSMC to Boost Global Wealth Management - Seoul Economic Daily",
-          "source": "Seoul Economic Daily",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0FXR0JPckx4V2hOT090T0ctUmptVk5vY3VrSUhmaEZwYXZtU05XR1pkcHk5clRqYlpVMVUwVjBJWUV2eENpTXBfdDJiYXlKemV0WlZqTmp6ZXdVZm5keWVhVDhqWHVrQ3AzUVJvRGxpM2U5OGxlWTdvNWFfRXNZU0NTVmZfbVBtbGJ1R3BHc0FWVG5DV1FNLU02ajY?oc=5",
-          "published": "2026-07-28T02:01:03.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Hong Kong's second-richest billionaire Peter Lee's family office fast-tracks $1B Central Asia green energy push - VnExpress International",
-          "source": "VnExpress International",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR21za0RWSVg3RURRYnF6UlEyVldldjBFcVV3ZzlCZFExUjhsMWxhMF9aaUx1RlpuNUlTMUcwbC1rTkF3d2lXUDBDcWR1ZWd6NloyclFVZTdYZ2JMMVhfOHk1Njkzczhycm9nQm1nc1A3T1lOaDcwQlg0dlk1WnFyMEtObmF0eXoyTVFyeDNqb205WndqTlJ2ZTRQSERLVGw0YjdfMG9UZ3ZtblBIcHRSLTFYVms0a2NEQUhQLWlVQXFOcTl0ODZqUDlfSjBScG94Mlh2c1V0T2tYVXNMTkhQOGdrdTQyanhvUVVnUEI2SWVDWlVYWi1BZ1FIMA?oc=5",
-          "published": "2026-07-27T08:54:45.000Z"
-        },
         {
           "tag": "Press",
           "headline": "HSBC plans to hire 100 AI specialists and 100 more RMs for wealth management - The Edge Singapore",
@@ -180,9 +139,9 @@
           "company": "iFAST Corporation",
           "ticker": "AIY.SI",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: iFAST beats Q2 2026 estimates, but shares fall - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON01xdTJBZ0w1VHQwMFBYeUZKS093bkp1UHI3Zmh4MnpKd0NBRDNmd2hacEp3aEhhY0VNT0hyMzNXWk5wNnZkOVE3cVZHanJ0dkxXWUJJSG1GTXFGdkpZQXQ0Y3dzTVIyWXBZcktZcXdfaEM4ZmFpbHVrbHNtc2tERkJNb0RvQy1jeVNTUkVWd0p3dExXYmdpNmF5SmZpaDU4U2l4UEJOaEotY2xoNGY5ek1TQWQwbU9FcWJTcF9tblAwc28?oc=5",
-          "published": "2026-07-27T14:52:44.000Z"
+          "headline": "Earnings call transcript: iFAST beats Q2 2026 estimates, but shares fall - Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeXlTLU1fQnBPeFJTYXAweTlNV1hFdEFJQW85aEkwVklweElVOXRTVU8xRHhGUHhvN1EwYTNDcjF4d1FFVnNnU3hINTZudXozakprdzdZcUE1WXMySGE0ZnJPcEdFaG9Cc0F5WUpmUlJ2b3Z3NV9KMFM3c1d3NU0wbno4NXduQ01GRFY4LXpIcjU1bEdBYUUtaE9vcmJaWDZVX3ZDTFpwX3dCbVItNVNhSVRVckV3c2N2OFFSVkVSZW50c1R2MDNhNEFtZjJ1NVNUSzQ0?oc=5",
+          "published": "2026-07-27T15:02:48.000Z"
         },
         {
           "company": "UBS Group",
@@ -215,9 +174,9 @@
         },
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Vietnam’s Non-Life Insurance Segment - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRlFZWjZGSFc4YVNvUFRaNDZmUmo1SWlIbzh3UWFhdlFFc2pqY2ZTZjlSWXdOMVdrV3pWeHlrVHNKV2hObktFeVdkMkNWZmhQYmljYUhJWTZBOWlZbEw2SGhUR01ZbjlESmxfckVhaDRVY21peDdjLU1XU2FTSnJQQzVxVnBlZzBMdmpFTkJSVDJENXZN?oc=5",
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Vietnam’s Non-Life Insurance Segment - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc1BtODBTTWxGak5vNEdyUDJlakJrTGwyU0FfWmJ2djVWZWJvV1JzeTNHM1pEb2MtRFNUdHIxWHlfTG1mTExraWVxQW9qdUFOUlNKZ3o5SlhFbmx0Sk9HR1JINENSZWlRS3p6WVZ0Wmh0bzlKTVhRVE9pX2YwcVE5MkVRSUF0YzQtdU1rN0tpU21SS2tDRFFxTFBMMmd6WjBKRi1PbGo1bDRLSDJ3cjY4bUUtTFQ1V3V0Y1R3aXZnaVNTTE9sa011bVZWdk95NFlmTjFVN09KOXdJN29SWkZaaVlFUnZySjNDaUIxag?oc=5",
           "published": "2026-07-27T00:00:00.000Z"
         }
       ],
@@ -231,9 +190,9 @@
         },
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Vietnam’s Non-Life Insurance Segment - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRlFZWjZGSFc4YVNvUFRaNDZmUmo1SWlIbzh3UWFhdlFFc2pqY2ZTZjlSWXdOMVdrV3pWeHlrVHNKV2hObktFeVdkMkNWZmhQYmljYUhJWTZBOWlZbEw2SGhUR01ZbjlESmxfckVhaDRVY21peDdjLU1XU2FTSnJQQzVxVnBlZzBMdmpFTkJSVDJENXZN?oc=5",
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Vietnam’s Non-Life Insurance Segment - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc1BtODBTTWxGak5vNEdyUDJlakJrTGwyU0FfWmJ2djVWZWJvV1JzeTNHM1pEb2MtRFNUdHIxWHlfTG1mTExraWVxQW9qdUFOUlNKZ3o5SlhFbmx0Sk9HR1JINENSZWlRS3p6WVZ0Wmh0bzlKTVhRVE9pX2YwcVE5MkVRSUF0YzQtdU1rN0tpU21SS2tDRFFxTFBMMmd6WjBKRi1PbGo1bDRLSDJ3cjY4bUUtTFQ1V3V0Y1R3aXZnaVNTTE9sa011bVZWdk95NFlmTjFVN09KOXdJN29SWkZaaVlFUnZySjNDaUIxag?oc=5",
           "published": "2026-07-27T00:00:00.000Z"
         }
       ],
@@ -253,7 +212,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-27T07:01:49.000Z"
+          "published": "2026-07-26T23:22:59.000Z"
         }
       ]
     },
@@ -261,6 +220,13 @@
       "id": "retail-banking",
       "name": "Retail Banking",
       "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Ally Financial Earns National Recognition for Digital Banking, Workplace Culture and Innovation - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWW5DeEdrc1VRaFl2Uk9yeFNnVjBYdHRMc2ZUdzlIemxCRW1Fc0Y1QW50aVVVSDRzS3VtZWx4a2hSYVBfQnpzV0lsbWVUQ1lReWlGVll4TUdQeV92bzJkTWViNE1YQkFQaFBoX2hmRHZrYmNjb3dPTDlGQ2FXekJhSWdsaXN6ZXJHMTFyQ2I5S0pjOEIw?oc=5",
+          "published": "2026-07-28T15:32:00.000Z"
+        },
         {
           "tag": "Press",
           "headline": "UOB wins Health and Wellness Initiative of the Year - Singapore at Asian Banking & Finance Retail Banking Awards 2026 - Asian Banking & F…",
@@ -270,19 +236,33 @@
         },
         {
           "tag": "Press",
-          "headline": "Indonesia’s banks need faster fraud decisions as digital payments grow - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3BvMkZ2WVFmSWc1cENwaW5OVFFVN1JsYkpYb2FDWmE2eGpUdkU3c3RzUXJFaExGeVloWXl6aUZ0OHRUMkhuTFFDd19qbk54S3dIeXBuLXkya0FrOGVCaURaVFlIeUNUd3FvRjRHemwzT3VJRE9ENHpWRFNqTFZKeS1nanZ5dGdrUHdBRVFDZVBMd2NqM0UzSEp0N1huWEhpVnVMSmZ6amk4dzBOZDBzNGYycDBIbDNjY1NPX05tSW5qQzNRM1E?oc=5",
-          "published": "2026-07-28T01:00:00.000Z"
+          "headline": "Best Online Casinos Australia 2026: Trusted Sites for Bonuses, Fast Payments & Real Money Play - Ocean Road Magazine",
+          "source": "Ocean Road Magazine",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0V0d05ITTBzX1NkUnk0d3hKeG1GdDFHdWNEemNPV1pHdi0tUHZ5NEsxVms5SVQyUS1NOTJaN1Q2dkNpNFROaTFHanBQMkFDUU9PVnB0amE5a21ZZlViVFFKbWltdlRSTzI1QS0wd19Kd1haQjRmYmpJcGVJWU9Xc1hmdGpCeDlHZ0pKeXo0czVKb1BUblJuUVROT0c4aU4zZmtKU1hEZDhjeVd5SkFnUXJnTGM0SGVXQzN4SzJCN21uTlh6a0g0?oc=5",
+          "published": "2026-07-28T21:47:57.000Z"
         }
       ],
       "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Ally Financial Earns National Recognition for Digital Banking, Workplace Culture and Innovation - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWW5DeEdrc1VRaFl2Uk9yeFNnVjBYdHRMc2ZUdzlIemxCRW1Fc0Y1QW50aVVVSDRzS3VtZWx4a2hSYVBfQnpzV0lsbWVUQ1lReWlGVll4TUdQeV92bzJkTWViNE1YQkFQaFBoX2hmRHZrYmNjb3dPTDlGQ2FXekJhSWdsaXN6ZXJHMTFyQ2I5S0pjOEIw?oc=5",
+          "published": "2026-07-28T15:32:00.000Z"
+        },
         {
           "tag": "Press",
           "headline": "UOB wins Health and Wellness Initiative of the Year - Singapore at Asian Banking & Finance Retail Banking Awards 2026 - Asian Banking & F…",
           "source": "Asian Banking & Finance",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTlNjVzV3RktfTFJxbzVudVRUZHF6YTliMFozb3I4bDlsUk1ScExHRXhia3JCQjR5U2cyTGtCM05CR0Y0d01ILVNwMk56WE9WQzQwczFzaTg2YU9CaE9XY3FKNVhqd3Y5TllSa1hVc0tJTERib1llLWxWYV9TaGlMQWxKQVExaUFOdnB6dzh4UWZGQV9aTXBybFBQMkhLb09aLVdDcm5WSk8wS0RrSXRjNGVtai1WYTg1NWxMc2F6aGFuVFJDN242ZGhnOUlhN2wtRlNJaENRWm50VUZhSUpwY0o4UnBmVDlSUFNLX3haLV9MQkVienFBN0gzSUw?oc=5",
           "published": "2026-07-28T01:15:36.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Best Online Casinos Australia 2026: Trusted Sites for Bonuses, Fast Payments & Real Money Play - Ocean Road Magazine",
+          "source": "Ocean Road Magazine",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0V0d05ITTBzX1NkUnk0d3hKeG1GdDFHdWNEemNPV1pHdi0tUHZ5NEsxVms5SVQyUS1NOTJaN1Q2dkNpNFROaTFHanBQMkFDUU9PVnB0amE5a21ZZlViVFFKbWltdlRSTzI1QS0wd19Kd1haQjRmYmpJcGVJWU9Xc1hmdGpCeDlHZ0pKeXo0czVKb1BUblJuUVROT0c4aU4zZmtKU1hEZDhjeVd5SkFnUXJnTGM0SGVXQzN4SzJCN21uTlh6a0g0?oc=5",
+          "published": "2026-07-28T21:47:57.000Z"
         },
         {
           "tag": "Press",
