@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T05:03:02.836Z",
+  "generatedAt": "2026-08-01T04:54:56.977Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,47 +33,19 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "The Myth of the Trillion-Dollar ETF Collapses: SK Hynix Plunges, Hong Kong's \"2x Leveraged Long\" Switches to \"Flexible Leverage,\" and Sou…",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTRGQkdqRFFBSTBocFF6ejRFS3l0bXZrS2NGQl9JTm0zQzl4LWpnd2ROU005NlVIT2VlTlRZZUpnZk0wZkdQTlpiU01IV29Dano5RnpDRmlIME1Kb0R4QTR4Q25MWV81STMxOVpzbFlNVWVQSHVnX1k3RFMwUDRJT0hmQTgwUXhIcU5neWNmZ0pQOEZTNUJjVWtHMmQ?oc=5",
-          "published": "2026-07-29T18:41:08.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Singapore AUM up 10.1% at S$6.7 trillion as MAS eyes competitiveness push - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWxiLVFDeEExNXNybmxqZWN6bjJLQ1VrQUdaN2dWWEp5dE9UNEVVS2NHQU8wVU52M1RLZW5uMFZnWU9fb0loMXJCdHBWQ0lhRE1LVWxNaXlFVVl4cWJJNnBwM1hURUlKMFowN01SUDNDN3k5OXF1U0lINkRSNUJKYkdOUXJaSTFrb3BfSE1BaDZYdUpZWUxuZzhYZERIVHpsWVhMdkhaM0Ezb25tc2J3YWxQdw?oc=5",
-          "published": "2026-07-28T09:30:00.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Singapore's AUM grew 10% in 2025 to $6.7 trillion - The Edge Singapore",
-          "source": "The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVA3MHkwRXFudHZETHRlalJvWmhGU2VCR0RWWXU1VGFFdk50M2JET3ZBem00NWJrTVE0eGlaOHI4N2s2R3czeGhlLThlMG9zV3p2c0VPU253QjhZTUI4aUdGQnNXckhhbXd5MmhrOHlDU01zRGpyYnpkSjBXTk05NzNzdVpoOHZMdE9tRHg3ZUFVOXd1U01waDlZM2JIVUXSAZ8BQVVfeXFMUElQNzB5MEVxbnR2REx0ZWpSb1poRlNlQkdEVll1NVRhRXZOdDNiRE92QXptNDVia01RNHhpWjhyODdrNkd3M3hoZS04ZTBvc1d6dnNFT1Nud0I4WU1COGlHRkJzV3JIYW13eTJoazh5Q1NNc0RqcmJ6ZEowV05NOTczc3VaaDh2THRPbUR4N2VBVTl3dVNNcGg5WTNiSFVF?oc=5",
-          "published": "2026-07-28T09:30:00.000Z"
+          "headline": "Hong Kong and South Korea Jointly Tighten Leveraged ETF Rules; SK Hynix 2x Product Sheds Over HK$100 Billion in One Month - finance.biggo…",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnhma2czay14MnJOVlk5MUNMM0gyUkpFYjlvT3lNZnBwRDdvRkVYeTcyQWN5T3l4RlIwVnpHeGVCdEZIZkRhOFBaN05iQUc5cS1KdkpRbjl1Zmp6UXZWMzZfeFBwYm4wZmZneVhVc21ZMVlwVVE?oc=5",
+          "published": "2026-07-31T07:05:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "The Myth of the Trillion-Dollar ETF Collapses: SK Hynix Plunges, Hong Kong's \"2x Leveraged Long\" Switches to \"Flexible Leverage,\" and Sou…",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTRGQkdqRFFBSTBocFF6ejRFS3l0bXZrS2NGQl9JTm0zQzl4LWpnd2ROU005NlVIT2VlTlRZZUpnZk0wZkdQTlpiU01IV29Dano5RnpDRmlIME1Kb0R4QTR4Q25MWV81STMxOVpzbFlNVWVQSHVnX1k3RFMwUDRJT0hmQTgwUXhIcU5neWNmZ0pQOEZTNUJjVWtHMmQ?oc=5",
-          "published": "2026-07-29T18:41:08.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Singapore AUM up 10.1% at S$6.7 trillion as MAS eyes competitiveness push - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWxiLVFDeEExNXNybmxqZWN6bjJLQ1VrQUdaN2dWWEp5dE9UNEVVS2NHQU8wVU52M1RLZW5uMFZnWU9fb0loMXJCdHBWQ0lhRE1LVWxNaXlFVVl4cWJJNnBwM1hURUlKMFowN01SUDNDN3k5OXF1U0lINkRSNUJKYkdOUXJaSTFrb3BfSE1BaDZYdUpZWUxuZzhYZERIVHpsWVhMdkhaM0Ezb25tc2J3YWxQdw?oc=5",
-          "published": "2026-07-28T09:30:00.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Singapore's AUM grew 10% in 2025 to $6.7 trillion - The Edge Singapore",
-          "source": "The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVA3MHkwRXFudHZETHRlalJvWmhGU2VCR0RWWXU1VGFFdk50M2JET3ZBem00NWJrTVE0eGlaOHI4N2s2R3czeGhlLThlMG9zV3p2c0VPU253QjhZTUI4aUdGQnNXckhhbXd5MmhrOHlDU01zRGpyYnpkSjBXTk05NzNzdVpoOHZMdE9tRHg3ZUFVOXd1U01waDlZM2JIVUXSAZ8BQVVfeXFMUElQNzB5MEVxbnR2REx0ZWpSb1poRlNlQkdEVll1NVRhRXZOdDNiRE92QXptNDVia01RNHhpWjhyODdrNkd3M3hoZS04ZTBvc1d6dnNFT1Nud0I4WU1COGlHRkJzV3JIYW13eTJoazh5Q1NNc0RqcmJ6ZEowV05NOTczc3VaaDh2THRPbUR4N2VBVTl3dVNNcGg5WTNiSFVF?oc=5",
-          "published": "2026-07-28T09:30:00.000Z"
+          "headline": "Hong Kong and South Korea Jointly Tighten Leveraged ETF Rules; SK Hynix 2x Product Sheds Over HK$100 Billion in One Month - finance.biggo…",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnhma2czay14MnJOVlk5MUNMM0gyUkpFYjlvT3lNZnBwRDdvRkVYeTcyQWN5T3l4RlIwVnpHeGVCdEZIZkRhOFBaN05iQUc5cS1KdkpRbjl1Zmp6UXZWMzZfeFBwYm4wZmZneVhVc21ZMVlwVVE?oc=5",
+          "published": "2026-07-31T07:05:00.000Z"
         }
       ],
       "insight": {
@@ -90,17 +62,17 @@
           "company": "Nikko Asset Management",
           "ticker": "NOMURA",
           "tag": "Transcript",
-          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOWN3QUNpbWJ4RzFKaFZwdDhzZ2hKSjc0eE1HM0hrOERDb2NRcHR3RUF3UjloQ2dQTmJISnpzQXBJOUtwRUVXZUJtNVMtb2x3WXRraVlNMmdWZlljMHQwQWNkazV5TVRCRTNqbl9SczFabEE0Y3JJcG9OYnRacDJzenVCYzNnMmYtajhoWUFOQVpid0ZiVmRKUG1TN25JUy01VWNyUg?oc=5",
-          "published": "2026-07-30T01:32:27.000Z"
+          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV2lIcTh1ejBWVWVEZ2k0MC1KVTJpRWdsdEZCWVNzcy1KM3Fta3RNbUhISGtUU2diLVZxX1RHa2I4YUZpc2VfeE1Kdmg5bkdYUDBMa2ZWTnVvME9Tb0pGYzVyRXJKQTcwbVRVTy1ZNEtKZnR5RnNkR2VNd3M4UVJrWmV3Z3lTb243NUVaVUVDSFV6dlZ1amhDNGNhMjJkQkNONGgxZTdROFVVYUVmQ0xybV9GeXNMaVYzYkxFN2hDOA?oc=5",
+          "published": "2026-07-30T01:29:08.000Z"
         },
         {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
-          "published": "2026-07-15T18:30:00.000Z"
+          "headline": "BlackRock Inc. R (UU2.F) Q2 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWV5Rm5iQnFydFRnUEY0XzBjUjJLWFJTei1hTk5PWl9WUFM1UHhoTUVBaDU2Y3lTLTJQa19QN1drWHdNY2FuU3BaTHp6NEh5STd2OXNvbkdEMlhrbFdUUFp3V3FLdVV4YTNDRWEyZXdILUlWUlBKRjRmQWZxNlM0RG4zOWkxZTF4N0t6elFOQQ?oc=5",
+          "published": "2026-07-15T07:00:00.000Z"
         },
         {
           "company": "Schroders",
@@ -182,7 +154,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-26T23:22:59.000Z"
+          "published": "2026-07-29T23:29:19.000Z"
         }
       ]
     },
@@ -191,48 +163,34 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Press",
-          "headline": "HSBC sells $25bn Australia loan book to Blackstone - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjlDb0VMRHY2SnYxb2s5NEpYMlA2Wmx5bHd2anZ3SHluaWJPdG1pT1VmeURyYkVQZEViMU1MOWtVQkF1VFRnUnB4QWxFc1NnVjc0N3o3SUpLZUlsRTJ2U1RxZ1lHOWdaVVJkaS04RzBLcUU1OXpEM0pNaWp2NFNNdVBGVVI?oc=5",
-          "published": "2026-07-31T01:46:05.000Z"
+          "tag": "Product",
+          "headline": "Trust Bank to Take Over Selected StanChart Credit Card, Loan Customers - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9taDRRbXlBeUlvZ3c2dUs3TUR6VzROXy12TkN5MXlxZ2tMQ0FqWWs4Y093NVcwMGN2TWFQLWpWRWFWOVVhcmNSb2RnenBLdjQ3S3JSREp3dW0wbEF0OG84VHlxYXhOZktQdml6SUt5UTkxdDQtaEE?oc=5",
+          "published": "2026-07-31T07:25:59.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Best Online Casinos Australia 2026: Trusted Sites for Bonuses, Fast Payments & Real Money Play - Ocean Road Magazine",
-          "source": "Ocean Road Magazine",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0V0d05ITTBzX1NkUnk0d3hKeG1GdDFHdWNEemNPV1pHdi0tUHZ5NEsxVms5SVQyUS1NOTJaN1Q2dkNpNFROaTFHanBQMkFDUU9PVnB0amE5a21ZZlViVFFKbWltdlRSTzI1QS0wd19Kd1haQjRmYmpJcGVJWU9Xc1hmdGpCeDlHZ0pKeXo0czVKb1BUblJuUVROT0c4aU4zZmtKU1hEZDhjeVd5SkFnUXJnTGM0SGVXQzN4SzJCN21uTlh6a0g0?oc=5",
-          "published": "2026-07-28T21:47:57.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "How FinTech, AI, and Cryptocurrency Are Shaping the Future of Digital Payments in Australia - techguide.com.au",
-          "source": "techguide.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNelYtWEczdU9BdkpwREFzbmVPRnB5VS04WjJUZ3hYQTF2VTFkX2NqVTAxaFhzeFlHZ0ZLWDZXbWhCbzlPWjNKXzYzNjdBMlJNeVRnbHJkaVhyaktOWF8zaGpvVWgyTURxZnQ4STNxWHdQSWV6bW5kSmxubkRwcy1sN3FEMEJ2RzJ0QzZRcVZSYW1rb3ZFR1JRV3d4Rm5UclZ3UG9KaUQyaUNBaWR3cXNmcGpZbzBZVE9JOWNISmlSc0cwUVFZUUlQWGZLMU04ZDR5SVNXSld3?oc=5",
-          "published": "2026-07-28T07:10:43.000Z"
+          "headline": "The Bank of Thailand is developing a baht-backed stablecoin to facilitate payments and support financial efficiency. - PressReader",
+          "source": "PressReader",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q3Vrdkw4elFmYktJdm8xRXhiY2RIUU04UmQzNjdKZEN1a203NFppUkM0VzRUWDZwQjBCUGJWWFR6bEd1SXBQbmtTeEF6YUVRRE9LeEhCc2MtRHJTUmFRRXRsU3JVallNUVRlbUYwaGVUbVB6QWhhZXJIdzRhZlE?oc=5",
+          "published": "2026-07-31T19:57:05.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Press",
-          "headline": "HSBC sells $25bn Australia loan book to Blackstone - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjlDb0VMRHY2SnYxb2s5NEpYMlA2Wmx5bHd2anZ3SHluaWJPdG1pT1VmeURyYkVQZEViMU1MOWtVQkF1VFRnUnB4QWxFc1NnVjc0N3o3SUpLZUlsRTJ2U1RxZ1lHOWdaVVJkaS04RzBLcUU1OXpEM0pNaWp2NFNNdVBGVVI?oc=5",
-          "published": "2026-07-31T01:46:05.000Z"
+          "tag": "Product",
+          "headline": "Trust Bank to Take Over Selected StanChart Credit Card, Loan Customers - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9taDRRbXlBeUlvZ3c2dUs3TUR6VzROXy12TkN5MXlxZ2tMQ0FqWWs4Y093NVcwMGN2TWFQLWpWRWFWOVVhcmNSb2RnenBLdjQ3S3JSREp3dW0wbEF0OG84VHlxYXhOZktQdml6SUt5UTkxdDQtaEE?oc=5",
+          "published": "2026-07-31T07:25:59.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Best Online Casinos Australia 2026: Trusted Sites for Bonuses, Fast Payments & Real Money Play - Ocean Road Magazine",
-          "source": "Ocean Road Magazine",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0V0d05ITTBzX1NkUnk0d3hKeG1GdDFHdWNEemNPV1pHdi0tUHZ5NEsxVms5SVQyUS1NOTJaN1Q2dkNpNFROaTFHanBQMkFDUU9PVnB0amE5a21ZZlViVFFKbWltdlRSTzI1QS0wd19Kd1haQjRmYmpJcGVJWU9Xc1hmdGpCeDlHZ0pKeXo0czVKb1BUblJuUVROT0c4aU4zZmtKU1hEZDhjeVd5SkFnUXJnTGM0SGVXQzN4SzJCN21uTlh6a0g0?oc=5",
-          "published": "2026-07-28T21:47:57.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "How FinTech, AI, and Cryptocurrency Are Shaping the Future of Digital Payments in Australia - techguide.com.au",
-          "source": "techguide.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNelYtWEczdU9BdkpwREFzbmVPRnB5VS04WjJUZ3hYQTF2VTFkX2NqVTAxaFhzeFlHZ0ZLWDZXbWhCbzlPWjNKXzYzNjdBMlJNeVRnbHJkaVhyaktOWF8zaGpvVWgyTURxZnQ4STNxWHdQSWV6bW5kSmxubkRwcy1sN3FEMEJ2RzJ0QzZRcVZSYW1rb3ZFR1JRV3d4Rm5UclZ3UG9KaUQyaUNBaWR3cXNmcGpZbzBZVE9JOWNISmlSc0cwUVFZUUlQWGZLMU04ZDR5SVNXSld3?oc=5",
-          "published": "2026-07-28T07:10:43.000Z"
+          "headline": "The Bank of Thailand is developing a baht-backed stablecoin to facilitate payments and support financial efficiency. - PressReader",
+          "source": "PressReader",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q3Vrdkw4elFmYktJdm8xRXhiY2RIUU04UmQzNjdKZEN1a203NFppUkM0VzRUWDZwQjBCUGJWWFR6bEd1SXBQbmtTeEF6YUVRRE9LeEhCc2MtRHJTUmFRRXRsU3JVallNUVRlbUYwaGVUbVB6QWhhZXJIdzRhZlE?oc=5",
+          "published": "2026-07-31T19:57:05.000Z"
         }
       ],
       "insight": {
@@ -241,7 +199,7 @@
         "teaser": null,
         "source": "Morningstar",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkJiVXNwd1Vvbm53cEM4Sm9yYkkyOFBKUHprQ1h1UmhySG9TUUhHRE5SNUU1S2VsaW5ESGUwNnBpVTNoWU5oYUZ1VC11dU5pbzJFWmZiMmFjTUg4WVNtMzRIS3NycUNyYzFxRWZ6Z1FyeDBnUk1ldDVZVVltaUVTdkMwaXFta0xaWTNSb2gwc0gwcW50UHZYX1Z1RnRjZ25xY3R5bWdfcWpjRUFmbkVpTDdZZ3RwTVhGXzZRbTg4dnJfNXdyemYyYThTUXlteFF1Z052bVVjam9HaGRn?oc=5",
-        "published": "2026-07-31T04:23:38.000Z",
+        "published": "2026-07-31T09:23:38.000Z",
         "paywalled": false
       },
       "companyUpdates": [
