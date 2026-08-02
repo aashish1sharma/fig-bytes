@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T04:54:56.977Z",
+  "generatedAt": "2026-08-02T04:56:46.026Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,7 +33,21 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Hong Kong and South Korea Jointly Tighten Leveraged ETF Rules; SK Hynix 2x Product Sheds Over HK$100 Billion in One Month - finance.biggo…",
+          "headline": "CSOP Launches Hong Kong's First KOSPI 200 Covered Call ETF, Targeting High-Volatility Niche - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QZkQ5MllpOFpaWnB2VnhhTmVwSXMtQmItRmZEaUlfZzd2MWJpUzB6b3ZoZFBoaHZOSm5ocVFUQ1Z2eW56dFo5RDR2eVE1X0ZDcnc4ZF9PTExkdlhCdU1QVU42M3UyMkFVNFBqUmhudk1fdk0yaHc?oc=5",
+          "published": "2026-08-01T12:05:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "CSOP Lists First KOSPI 200 Covered-Call ETF in Hong Kong - bloomingbit",
+          "source": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9scjd1WE55OG5YemVFX2VTZjFRLTlZUDNEeTRWUUJFcU54X2x0TS1YeXBPTmc2T2U1RGg3bXR3TWVNdE10TnZ3QnBTWHRWZzhQM0U4MA?oc=5",
+          "published": "2026-08-01T11:46:15.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong and South Korea Jointly Tighten Leveraged ETF Regulations; SK Hynix 2x Product Evaporates HK$100 Billion in One Month - finance…",
           "source": "finance.biggo.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnhma2czay14MnJOVlk5MUNMM0gyUkpFYjlvT3lNZnBwRDdvRkVYeTcyQWN5T3l4RlIwVnpHeGVCdEZIZkRhOFBaN05iQUc5cS1KdkpRbjl1Zmp6UXZWMzZfeFBwYm4wZmZneVhVc21ZMVlwVVE?oc=5",
           "published": "2026-07-31T07:05:00.000Z"
@@ -42,7 +56,21 @@
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Hong Kong and South Korea Jointly Tighten Leveraged ETF Rules; SK Hynix 2x Product Sheds Over HK$100 Billion in One Month - finance.biggo…",
+          "headline": "CSOP Launches Hong Kong's First KOSPI 200 Covered Call ETF, Targeting High-Volatility Niche - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QZkQ5MllpOFpaWnB2VnhhTmVwSXMtQmItRmZEaUlfZzd2MWJpUzB6b3ZoZFBoaHZOSm5ocVFUQ1Z2eW56dFo5RDR2eVE1X0ZDcnc4ZF9PTExkdlhCdU1QVU42M3UyMkFVNFBqUmhudk1fdk0yaHc?oc=5",
+          "published": "2026-08-01T12:05:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "CSOP Lists First KOSPI 200 Covered-Call ETF in Hong Kong - bloomingbit",
+          "source": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9scjd1WE55OG5YemVFX2VTZjFRLTlZUDNEeTRWUUJFcU54X2x0TS1YeXBPTmc2T2U1RGg3bXR3TWVNdE10TnZ3QnBTWHRWZzhQM0U4MA?oc=5",
+          "published": "2026-08-01T11:46:15.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong and South Korea Jointly Tighten Leveraged ETF Regulations; SK Hynix 2x Product Evaporates HK$100 Billion in One Month - finance…",
           "source": "finance.biggo.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnhma2czay14MnJOVlk5MUNMM0gyUkpFYjlvT3lNZnBwRDdvRkVYeTcyQWN5T3l4RlIwVnpHeGVCdEZIZkRhOFBaN05iQUc5cS1KdkpRbjl1Zmp6UXZWMzZfeFBwYm4wZmZneVhVc21ZMVlwVVE?oc=5",
           "published": "2026-07-31T07:05:00.000Z"
@@ -62,9 +90,9 @@
           "company": "Nikko Asset Management",
           "ticker": "NOMURA",
           "tag": "Transcript",
-          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV2lIcTh1ejBWVWVEZ2k0MC1KVTJpRWdsdEZCWVNzcy1KM3Fta3RNbUhISGtUU2diLVZxX1RHa2I4YUZpc2VfeE1Kdmg5bkdYUDBMa2ZWTnVvME9Tb0pGYzVyRXJKQTcwbVRVTy1ZNEtKZnR5RnNkR2VNd3M4UVJrWmV3Z3lTb243NUVaVUVDSFV6dlZ1amhDNGNhMjJkQkNONGgxZTdROFVVYUVmQ0xybV9GeXNMaVYzYkxFN2hDOA?oc=5",
-          "published": "2026-07-30T01:29:08.000Z"
+          "headline": "Transcript : Nomura Real Estate Holdings, Inc., Q1 2027 Earnings Call, Jul 30, 2026 - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDRTX3VwNEh3NnRPMFRqQ3ZnZ2FQNTI5a2pqLTZnNXdBXzViYnF4RUZZUUhhQlJpQ1hfeGtRYU43OGQzdFhiUjhlTzJKaHRvUld1Ul9hSVgtcDUzSHVSUXRnbHBkUjRrTXFsYTl1SDVrcGxadjh0aHItcFpYb0tXVkhWN1A2N1hNbXF0WldsNmdPcjBNSlNKbGo5djZSeXpJWF9aUXZ2WUtqMlVQT0JMc1RKRWVOSUdaLWJWdWltRUJUeE13NXRYZg?oc=5",
+          "published": "2026-08-01T17:55:26.000Z"
         },
         {
           "company": "BlackRock",
@@ -95,9 +123,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "UBS (UBS) Q2 2026 Earnings Call Transcript - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVNkWXY3cVdBa2tJRlpVN0t5WnFReFhvRzZlQnZGZEFWc1d0LUZ3bUNCTzFGb0p2cE5mNEdweFF3MGNwemo4VTdlWTEwVS02ekNvMFBUT1RWX2NtRWxydFlseERDRzNEc1lRdl8zOUFOLWI2ZkVmYW4xS2E2RlFTQTJYRHgyME5IYlRwTUNFWG9XcVFnRE5sZWdEUFVyMkN3Q0N0LXZTWkZ2SVg4TkNrcWVVYjYteFZScDNR?oc=5",
-          "published": "2026-07-30T00:59:53.000Z"
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-07-31T22:28:58.000Z"
         },
         {
           "company": "iFAST Corporation",
@@ -120,24 +148,8 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Japan Life Insurance Body Exposed 37,000 Bereaved Families via Broken Access Control Flaw - Tech Times",
-          "source": "Tech Times",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWC11TU4weGx2dDBWT3VtSmlIVGwtOTJGcjB2WmhaUWJnd1FhVlpGWllhNXRUb3QwR05MUkNwRjdPTnVNcHBKbW9iOWlCM2hjNFBNVVNaZXNYUG1tN1FGYjRabXViU3JfTktGdG9NWndvZTBDZHpaR2J1XzJuQk0zRFQzU0pPOElsRE01VUNzTmdZanhDNlBlcnRDTm5Gd0hnQXBLMHh1M2k5Z08xazYzOHJObFpTaDRZVElfcUxqUkRlUlJnMWtrYl9wUldqSEdwajF6VjBKOG5maGM?oc=5",
-          "published": "2026-07-29T14:47:42.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Japan Life Insurance Body Exposed 37,000 Bereaved Families via Broken Access Control Flaw - Tech Times",
-          "source": "Tech Times",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWC11TU4weGx2dDBWT3VtSmlIVGwtOTJGcjB2WmhaUWJnd1FhVlpGWllhNXRUb3QwR05MUkNwRjdPTnVNcHBKbW9iOWlCM2hjNFBNVVNaZXNYUG1tN1FGYjRabXViU3JfTktGdG9NWndvZTBDZHpaR2J1XzJuQk0zRFQzU0pPOElsRE01VUNzTmdZanhDNlBlcnRDTm5Gd0hnQXBLMHh1M2k5Z08xazYzOHJObFpTaDRZVElfcUxqUkRlUlJnMWtrYl9wUldqSEdwajF6VjBKOG5maGM?oc=5",
-          "published": "2026-07-29T14:47:42.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Vietnam’s Non-Life Insurance Segment - Morningstar",
@@ -154,7 +166,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-07-29T23:29:19.000Z"
+          "published": "2026-08-01T08:35:42.000Z"
         }
       ]
     },
@@ -171,10 +183,10 @@
         },
         {
           "tag": "Press",
-          "headline": "The Bank of Thailand is developing a baht-backed stablecoin to facilitate payments and support financial efficiency. - PressReader",
-          "source": "PressReader",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q3Vrdkw4elFmYktJdm8xRXhiY2RIUU04UmQzNjdKZEN1a203NFppUkM0VzRUWDZwQjBCUGJWWFR6bEd1SXBQbmtTeEF6YUVRRE9LeEhCc2MtRHJTUmFRRXRsU3JVallNUVRlbUYwaGVUbVB6QWhhZXJIdzRhZlE?oc=5",
-          "published": "2026-07-31T19:57:05.000Z"
+          "headline": "Blackstone To Acquire HSBC Australia's $25B Loan Portfolio - Law360",
+          "source": "Law360",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTcxQmw0LU9JZlBnR1FqWG9qdWVOLVhmMWhkcER5djBfZnJLTlFMQU9LUThVckF3UXBIX1pjQ2RfVF9ka1EwaC14M3lOSUI4MXNuWjRlaTBJSjBjV3Z5TjBIRUx6dWg0WmZ6NDBaejIyOHkyWlAyLVBSRnFWVGk4V0VUTUVXT1BCZzFISktIZDV1ZkVvV29KWTdGVUp3UdIBWEFVX3lxTE5YdHB6alVMQ0lmak13d0FwSDEyTDZGZU55RlZ6S05hSDJubldTYS15YnNjSE02ZmRZWGFvQ0FReVBvZjNwcXRYS1BIT0tXYlZMT0tXNUx4QU0?oc=5",
+          "published": "2026-07-31T07:58:00.000Z"
         }
       ],
       "candidates": [
@@ -187,10 +199,10 @@
         },
         {
           "tag": "Press",
-          "headline": "The Bank of Thailand is developing a baht-backed stablecoin to facilitate payments and support financial efficiency. - PressReader",
-          "source": "PressReader",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q3Vrdkw4elFmYktJdm8xRXhiY2RIUU04UmQzNjdKZEN1a203NFppUkM0VzRUWDZwQjBCUGJWWFR6bEd1SXBQbmtTeEF6YUVRRE9LeEhCc2MtRHJTUmFRRXRsU3JVallNUVRlbUYwaGVUbVB6QWhhZXJIdzRhZlE?oc=5",
-          "published": "2026-07-31T19:57:05.000Z"
+          "headline": "Blackstone To Acquire HSBC Australia's $25B Loan Portfolio - Law360",
+          "source": "Law360",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTcxQmw0LU9JZlBnR1FqWG9qdWVOLVhmMWhkcER5djBfZnJLTlFMQU9LUThVckF3UXBIX1pjQ2RfVF9ka1EwaC14M3lOSUI4MXNuWjRlaTBJSjBjV3Z5TjBIRUx6dWg0WmZ6NDBaejIyOHkyWlAyLVBSRnFWVGk4V0VUTUVXT1BCZzFISktIZDV1ZkVvV29KWTdGVUp3UdIBWEFVX3lxTE5YdHB6alVMQ0lmak13d0FwSDEyTDZGZU55RlZ6S05hSDJubldTYS15YnNjSE02ZmRZWGFvQ0FReVBvZjNwcXRYS1BIT0tXYlZMT0tXNUx4QU0?oc=5",
+          "published": "2026-07-31T07:58:00.000Z"
         }
       ],
       "insight": {
