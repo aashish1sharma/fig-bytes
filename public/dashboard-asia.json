@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T04:56:46.026Z",
+  "generatedAt": "2026-08-03T05:06:14.194Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -90,16 +90,16 @@
           "company": "Nikko Asset Management",
           "ticker": "NOMURA",
           "tag": "Transcript",
-          "headline": "Transcript : Nomura Real Estate Holdings, Inc., Q1 2027 Earnings Call, Jul 30, 2026 - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDRTX3VwNEh3NnRPMFRqQ3ZnZ2FQNTI5a2pqLTZnNXdBXzViYnF4RUZZUUhhQlJpQ1hfeGtRYU43OGQzdFhiUjhlTzJKaHRvUld1Ul9hSVgtcDUzSHVSUXRnbHBkUjRrTXFsYTl1SDVrcGxadjh0aHItcFpYb0tXVkhWN1A2N1hNbXF0WldsNmdPcjBNSlNKbGo5djZSeXpJWF9aUXZ2WUtqMlVQT0JMc1RKRWVOSUdaLWJWdWltRUJUeE13NXRYZg?oc=5",
-          "published": "2026-08-01T17:55:26.000Z"
+          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV2lIcTh1ejBWVWVEZ2k0MC1KVTJpRWdsdEZCWVNzcy1KM3Fta3RNbUhISGtUU2diLVZxX1RHa2I4YUZpc2VfeE1Kdmg5bkdYUDBMa2ZWTnVvME9Tb0pGYzVyRXJKQTcwbVRVTy1ZNEtKZnR5RnNkR2VNd3M4UVJrWmV3Z3lTb243NUVaVUVDSFV6dlZ1amhDNGNhMjJkQkNONGgxZTdROFVVYUVmQ0xybV9GeXNMaVYzYkxFN2hDOA?oc=5",
+          "published": "2026-07-30T01:29:08.000Z"
         },
         {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock Inc. R (UU2.F) Q2 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWV5Rm5iQnFydFRnUEY0XzBjUjJLWFJTei1hTk5PWl9WUFM1UHhoTUVBaDU2Y3lTLTJQa19QN1drWHdNY2FuU3BaTHp6NEh5STd2OXNvbkdEMlhrbFdUUFp3V3FLdVV4YTNDRWEyZXdILUlWUlBKRjRmQWZxNlM0RG4zOWkxZTF4N0t6elFOQQ?oc=5",
+          "headline": "BLACKROCK FUNDING, INC. BLACKRO (0QZZ.L) Q2 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGNWZ08zblJXaFhuemtxc050dW1fNGxTTWhINVg4ZWFQY3NBT3BmVmJ1ZlNQZkJKQWU1aTZtcl9vd3UxejlackU3YWt4Zk12WFdocTZSTUZGcF8zamJIS3pmMXdSdWN2Z2k1cC1JNTZQQUpfSkRBLWRPY0syZmdUcVZQVF9KODdKbE10X1lXanBRUQ?oc=5",
           "published": "2026-07-15T07:00:00.000Z"
         },
         {
@@ -108,7 +108,7 @@
           "tag": "Presentation",
           "headline": "Investor Presentation - mybrand.schroders.com",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
-          "published": "2026-07-21T17:02:43.000Z"
+          "published": "2026-08-02T07:49:30.000Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - fortune.com",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
           "published": "2026-07-31T22:28:58.000Z"
         },
@@ -150,23 +150,15 @@
       "name": "Insurance",
       "bullets": [],
       "candidates": [],
-      "insight": {
-        "tag": "Research",
-        "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Vietnam’s Non-Life Insurance Segment - Morningstar",
-        "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXRZTHBrMWFrZXM4YWxRS1FFRlVVaEx6Tjk5R041T1lqTXVyMG5zVGd0M3JIbVE2LVQzaUFlQVVFZHY4eEhQQldjb2dVTUxyZ0d4SS1vZlBMZF9qdHRVWkFabDMxS19ZamdNbDJaLUdDQ0xnak5oWlBCdWF0ZkVpQXNUWGloVTNzc1pWSFV4alF1TndXZ2lTZk5XaUkwbjRhbXhCcmFpUU0wdXJVNzhjZ2VvemhTN19uUWdCNFNtcld4OS04bk5Bd1J0WGtRY1dQbTEyYnR6R1VfdjBCN19iZF9jZU1yVWszYXNnXzJmeGRPTFU?oc=5",
-        "published": "2026-07-27T01:01:46.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - fortune.com",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-01T08:35:42.000Z"
+          "published": "2026-08-02T10:04:54.000Z"
         }
       ]
     },
@@ -174,6 +166,13 @@
       "id": "retail-banking",
       "name": "Retail Banking",
       "bullets": [
+        {
+          "tag": "Product",
+          "headline": "A subsidiary of Southeast Asia’s largest tech firm is looking to build a ‘regional digital banking group’ out of Singapore - fortune.com",
+          "source": "fortune.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVE5QdWNIOUZlcWxaSl8yRnZxUGxtSWJONmNyWTViSHZpOUJDSU9VNGQwVVFNLS1SbzFNcHM3OEtmNUdjUjl1VDBITXQwVEhlMlFxNUt4blpmdUNtSWNybEFKMXdaa1V2azJlVW51MmY1N1g1OHFkdjY1a09MX0dSZ2I0X19OSXE2NEhlc2d4NkNTaDRuclppWFA1UGo2Z3A3UXVpZ1YyRFdsY1dWSnc1cjBMOEd4SEtCQy16cXNXMnJjdXM2Q0xmTGlhRGxzYW4wbEFEREdVSm9BTi1vUGRTYnBtY0JSUQ?oc=5",
+          "published": "2026-08-03T01:30:00.000Z"
+        },
         {
           "tag": "Product",
           "headline": "Trust Bank to Take Over Selected StanChart Credit Card, Loan Customers - Fintech Singapore",
@@ -192,6 +191,13 @@
       "candidates": [
         {
           "tag": "Product",
+          "headline": "A subsidiary of Southeast Asia’s largest tech firm is looking to build a ‘regional digital banking group’ out of Singapore - fortune.com",
+          "source": "fortune.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVE5QdWNIOUZlcWxaSl8yRnZxUGxtSWJONmNyWTViSHZpOUJDSU9VNGQwVVFNLS1SbzFNcHM3OEtmNUdjUjl1VDBITXQwVEhlMlFxNUt4blpmdUNtSWNybEFKMXdaa1V2azJlVW51MmY1N1g1OHFkdjY1a09MX0dSZ2I0X19OSXE2NEhlc2d4NkNTaDRuclppWFA1UGo2Z3A3UXVpZ1YyRFdsY1dWSnc1cjBMOEd4SEtCQy16cXNXMnJjdXM2Q0xmTGlhRGxzYW4wbEFEREdVSm9BTi1vUGRTYnBtY0JSUQ?oc=5",
+          "published": "2026-08-03T01:30:00.000Z"
+        },
+        {
+          "tag": "Product",
           "headline": "Trust Bank to Take Over Selected StanChart Credit Card, Loan Customers - Fintech Singapore",
           "source": "Fintech Singapore",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9taDRRbXlBeUlvZ3c2dUs3TUR6VzROXy12TkN5MXlxZ2tMQ0FqWWs4Y093NVcwMGN2TWFQLWpWRWFWOVVhcmNSb2RnenBLdjQ3S3JSREp3dW0wbEF0OG84VHlxYXhOZktQdml6SUt5UTkxdDQtaEE?oc=5",
@@ -203,11 +209,18 @@
           "source": "Law360",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTcxQmw0LU9JZlBnR1FqWG9qdWVOLVhmMWhkcER5djBfZnJLTlFMQU9LUThVckF3UXBIX1pjQ2RfVF9ka1EwaC14M3lOSUI4MXNuWjRlaTBJSjBjV3Z5TjBIRUx6dWg0WmZ6NDBaejIyOHkyWlAyLVBSRnFWVGk4V0VUTUVXT1BCZzFISktIZDV1ZkVvV29KWTdGVUp3UdIBWEFVX3lxTE5YdHB6alVMQ0lmak13d0FwSDEyTDZGZU55RlZ6S05hSDJubldTYS15YnNjSE02ZmRZWGFvQ0FReVBvZjNwcXRYS1BIT0tXYlZMT0tXNUx4QU0?oc=5",
           "published": "2026-07-31T07:58:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "AIIB explores digital payments, eyes Hong Kong hub as it raises record funds - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVljbTVHdk5RS2N4Rk5uY29XREJpRnlxRkJpMGZGV0REdjlRSHc2ZmI4ZmZNZnZTM3k2VVY2OFJzMVdzQVl0SjJxeE5fVUJ3Smk0X3k0ajdLWW5XaW9ZYkRsRE9rLUh0bTNzZC1GSjBqby1aNzhNc014MFdLQUJqZGVMM0hpMG9TTWZrbkJjSXBMSTVoV0FmYzNBeUJkak1PRnFfLXVNajJPRGVZNGJVUXBaR1F0bXQ4QlhvYmdsTlZVM1hZUU1QTG52RG9INnPSAc8BQVVfeXFMUERkd1FfcTIwRmV0cHFEMEkteHZPU25lWDBXR2tHUks0c2RlS1Z6Z3N5Y0ZKMkJ1cjJ0WjVLRGVnc1hTVFZSVjdkajVMNkhXaEdPT2VsTHNxa1pGS2h5RHFNdV9BY0VKWC1ucmZlQmMwOHA3WmtiNmhKVTk1M2ZwVU95Zjdlby1YTUl0SFBrUjBaYWZWOWVQYXBKZElYMTdLcUVzdlNIUWM1N1pLam1iNFVwQkJBS1pocERxSk9pMjVZMHZDUFN1NHpZSnVrQ3NF?oc=5",
+          "published": "2026-08-02T13:00:13.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "HSBC to sell Australia loan portfolio to Blackstone‑owned Virgo BidCo - Morningstar",
+        "headline": "HSBC to sell Australia loan portfolio to Blackstone‑owned Virgo BidCo - global.morningstar.com",
         "teaser": null,
         "source": "Morningstar",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkJiVXNwd1Vvbm53cEM4Sm9yYkkyOFBKUHprQ1h1UmhySG9TUUhHRE5SNUU1S2VsaW5ESGUwNnBpVTNoWU5oYUZ1VC11dU5pbzJFWmZiMmFjTUg4WVNtMzRIS3NycUNyYzFxRWZ6Z1FyeDBnUk1ldDVZVVltaUVTdkMwaXFta0xaWTNSb2gwc0gwcW50UHZYX1Z1RnRjZ25xY3R5bWdfcWpjRUFmbkVpTDdZZ3RwTVhGXzZRbTg4dnJfNXdyemYyYThTUXlteFF1Z052bVVjam9HaGRn?oc=5",
