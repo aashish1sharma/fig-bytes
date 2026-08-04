@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T05:06:14.194Z",
+  "generatedAt": "2026-08-04T04:45:08.294Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,29 +33,43 @@
       "bullets": [
         {
           "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1ZoTUY2S1pEN0h4c0oxX3R1MkRzNGE5cUYyOENJelBKTkMtaktpUHN5SDFQZW1mQVNyYWdORGxIMFRtV0VlMm8ybktZZnpYQTFCRS04VlV4MWpueTVnQURuVnJCMTNUMmZRWDhSOTNZenNIZU5EVjlkdVF4d29Bai1mcXNDNDNOZDRfaHI1VEdxRm5XT3JTUzkwZ0dNd1B6QUkxUG9MVTJhblk?oc=5",
+          "published": "2026-08-03T07:09:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa3hFM3M2SlplTjE3cEZtRVRwREZCTk5PVnNfRTVlblVEQk9tSzQ5M3Nla0lhSkNXbG5FWWkyR2RKYlZWeTlWNXp4c3NwMm44a2M5bnY0SmxtellUNV81SE42ZjZoNlBCY2hlMXNTUF8yamR0YlpBR3A1MzZqYkp0cGwyNVZ2NC14aUhfYWd5ekRRRE9k?oc=5",
+          "published": "2026-08-03T06:22:00.000Z"
+        },
+        {
+          "tag": "Product",
           "headline": "CSOP Launches Hong Kong's First KOSPI 200 Covered Call ETF, Targeting High-Volatility Niche - finance.biggo.com",
           "source": "finance.biggo.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QZkQ5MllpOFpaWnB2VnhhTmVwSXMtQmItRmZEaUlfZzd2MWJpUzB6b3ZoZFBoaHZOSm5ocVFUQ1Z2eW56dFo5RDR2eVE1X0ZDcnc4ZF9PTExkdlhCdU1QVU42M3UyMkFVNFBqUmhudk1fdk0yaHc?oc=5",
           "published": "2026-08-01T12:05:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "CSOP Lists First KOSPI 200 Covered-Call ETF in Hong Kong - bloomingbit",
-          "source": "bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9scjd1WE55OG5YemVFX2VTZjFRLTlZUDNEeTRWUUJFcU54X2x0TS1YeXBPTmc2T2U1RGg3bXR3TWVNdE10TnZ3QnBTWHRWZzhQM0U4MA?oc=5",
-          "published": "2026-08-01T11:46:15.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong and South Korea Jointly Tighten Leveraged ETF Regulations; SK Hynix 2x Product Evaporates HK$100 Billion in One Month - finance…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnhma2czay14MnJOVlk5MUNMM0gyUkpFYjlvT3lNZnBwRDdvRkVYeTcyQWN5T3l4RlIwVnpHeGVCdEZIZkRhOFBaN05iQUc5cS1KdkpRbjl1Zmp6UXZWMzZfeFBwYm4wZmZneVhVc21ZMVlwVVE?oc=5",
-          "published": "2026-07-31T07:05:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1ZoTUY2S1pEN0h4c0oxX3R1MkRzNGE5cUYyOENJelBKTkMtaktpUHN5SDFQZW1mQVNyYWdORGxIMFRtV0VlMm8ybktZZnpYQTFCRS04VlV4MWpueTVnQURuVnJCMTNUMmZRWDhSOTNZenNIZU5EVjlkdVF4d29Bai1mcXNDNDNOZDRfaHI1VEdxRm5XT3JTUzkwZ0dNd1B6QUkxUG9MVTJhblk?oc=5",
+          "published": "2026-08-03T07:09:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa3hFM3M2SlplTjE3cEZtRVRwREZCTk5PVnNfRTVlblVEQk9tSzQ5M3Nla0lhSkNXbG5FWWkyR2RKYlZWeTlWNXp4c3NwMm44a2M5bnY0SmxtellUNV81SE42ZjZoNlBCY2hlMXNTUF8yamR0YlpBR3A1MzZqYkp0cGwyNVZ2NC14aUhfYWd5ekRRRE9k?oc=5",
+          "published": "2026-08-03T06:22:00.000Z"
+        },
+        {
+          "tag": "Product",
           "headline": "CSOP Launches Hong Kong's First KOSPI 200 Covered Call ETF, Targeting High-Volatility Niche - finance.biggo.com",
           "source": "finance.biggo.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QZkQ5MllpOFpaWnB2VnhhTmVwSXMtQmItRmZEaUlfZzd2MWJpUzB6b3ZoZFBoaHZOSm5ocVFUQ1Z2eW56dFo5RDR2eVE1X0ZDcnc4ZF9PTExkdlhCdU1QVU42M3UyMkFVNFBqUmhudk1fdk0yaHc?oc=5",
@@ -67,13 +81,6 @@
           "source": "bloomingbit",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9scjd1WE55OG5YemVFX2VTZjFRLTlZUDNEeTRWUUJFcU54X2x0TS1YeXBPTmc2T2U1RGg3bXR3TWVNdE10TnZ3QnBTWHRWZzhQM0U4MA?oc=5",
           "published": "2026-08-01T11:46:15.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong and South Korea Jointly Tighten Leveraged ETF Regulations; SK Hynix 2x Product Evaporates HK$100 Billion in One Month - finance…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnhma2czay14MnJOVlk5MUNMM0gyUkpFYjlvT3lNZnBwRDdvRkVYeTcyQWN5T3l4RlIwVnpHeGVCdEZIZkRhOFBaN05iQUc5cS1KdkpRbjl1Zmp6UXZWMzZfeFBwYm4wZmZneVhVc21ZMVlwVVE?oc=5",
-          "published": "2026-07-31T07:05:00.000Z"
         }
       ],
       "insight": {
@@ -90,9 +97,9 @@
           "company": "Nikko Asset Management",
           "ticker": "NOMURA",
           "tag": "Transcript",
-          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV2lIcTh1ejBWVWVEZ2k0MC1KVTJpRWdsdEZCWVNzcy1KM3Fta3RNbUhISGtUU2diLVZxX1RHa2I4YUZpc2VfeE1Kdmg5bkdYUDBMa2ZWTnVvME9Tb0pGYzVyRXJKQTcwbVRVTy1ZNEtKZnR5RnNkR2VNd3M4UVJrWmV3Z3lTb243NUVaVUVDSFV6dlZ1amhDNGNhMjJkQkNONGgxZTdROFVVYUVmQ0xybV9GeXNMaVYzYkxFN2hDOA?oc=5",
-          "published": "2026-07-30T01:29:08.000Z"
+          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGpBNTFkS3BPTmNwQWZVdWVPUXVSbERfdVozYThnbHNLYmZmQ3d6UmIyUTJ3VENtTHBqSDMyazRSYlFob0E5NWpVZDY4ZGpLRFFjRldkNkxQY1BTZGM0VVpLVE5sMjVJZnkzQ1dQc283UjNyQ2dNRC0zb1F1RTlLUlFmTWlfd2EyMjFISXZMT0NoNlVlcWhqZ0xURDlCOVdtcVZIMA?oc=5",
+          "published": "2026-08-04T00:56:00.000Z"
         },
         {
           "company": "BlackRock",
@@ -123,7 +130,7 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - fortune.com",
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
           "published": "2026-07-31T22:28:58.000Z"
         },
@@ -141,7 +148,7 @@
           "tag": "Transcript",
           "headline": "Canara HSBC Life Q4 Results: Analyst meet transcript filed for June quarter - scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGZxSldfbVFWZUdPblI1aUJTWWlKUFY0NjROcEdGTDZYWFJkczhLZFJsODVKY3lWU2pDNVV5Q3d4TzlKNzZvSXFrMDNQR0QyekpRVV84MUVCYzExYXo4ZTUwR2RPOGtnN0k4Y0ZsMXA3SEIzYThGSzZDMmZjek5SS19kaWdWc1R4UnNUdG9SUzdiT1p6bmhIUVN5QlNWNmlHREtwMmtjWVo2a1BJcWVtZjU3WUttSjhnWjYxMUhHai1mb0pPVkoyRHhyQQ?oc=5",
-          "published": "2026-07-25T03:58:26.000Z"
+          "published": "2026-07-24T07:00:00.000Z"
         }
       ]
     },
@@ -156,9 +163,9 @@
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - fortune.com",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-02T10:04:54.000Z"
+          "published": "2026-08-01T12:02:58.000Z"
         }
       ]
     },
@@ -168,47 +175,10 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "A subsidiary of Southeast Asia’s largest tech firm is looking to build a ‘regional digital banking group’ out of Singapore - fortune.com",
-          "source": "fortune.com",
+          "headline": "A subsidiary of Southeast Asia’s largest tech firm is looking to build a ‘regional digital banking group’ out of Singapore - Fortune",
+          "source": "Fortune",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVE5QdWNIOUZlcWxaSl8yRnZxUGxtSWJONmNyWTViSHZpOUJDSU9VNGQwVVFNLS1SbzFNcHM3OEtmNUdjUjl1VDBITXQwVEhlMlFxNUt4blpmdUNtSWNybEFKMXdaa1V2azJlVW51MmY1N1g1OHFkdjY1a09MX0dSZ2I0X19OSXE2NEhlc2d4NkNTaDRuclppWFA1UGo2Z3A3UXVpZ1YyRFdsY1dWSnc1cjBMOEd4SEtCQy16cXNXMnJjdXM2Q0xmTGlhRGxzYW4wbEFEREdVSm9BTi1vUGRTYnBtY0JSUQ?oc=5",
           "published": "2026-08-03T01:30:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Trust Bank to Take Over Selected StanChart Credit Card, Loan Customers - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9taDRRbXlBeUlvZ3c2dUs3TUR6VzROXy12TkN5MXlxZ2tMQ0FqWWs4Y093NVcwMGN2TWFQLWpWRWFWOVVhcmNSb2RnenBLdjQ3S3JSREp3dW0wbEF0OG84VHlxYXhOZktQdml6SUt5UTkxdDQtaEE?oc=5",
-          "published": "2026-07-31T07:25:59.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Blackstone To Acquire HSBC Australia's $25B Loan Portfolio - Law360",
-          "source": "Law360",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTcxQmw0LU9JZlBnR1FqWG9qdWVOLVhmMWhkcER5djBfZnJLTlFMQU9LUThVckF3UXBIX1pjQ2RfVF9ka1EwaC14M3lOSUI4MXNuWjRlaTBJSjBjV3Z5TjBIRUx6dWg0WmZ6NDBaejIyOHkyWlAyLVBSRnFWVGk4V0VUTUVXT1BCZzFISktIZDV1ZkVvV29KWTdGVUp3UdIBWEFVX3lxTE5YdHB6alVMQ0lmak13d0FwSDEyTDZGZU55RlZ6S05hSDJubldTYS15YnNjSE02ZmRZWGFvQ0FReVBvZjNwcXRYS1BIT0tXYlZMT0tXNUx4QU0?oc=5",
-          "published": "2026-07-31T07:58:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "A subsidiary of Southeast Asia’s largest tech firm is looking to build a ‘regional digital banking group’ out of Singapore - fortune.com",
-          "source": "fortune.com",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVE5QdWNIOUZlcWxaSl8yRnZxUGxtSWJONmNyWTViSHZpOUJDSU9VNGQwVVFNLS1SbzFNcHM3OEtmNUdjUjl1VDBITXQwVEhlMlFxNUt4blpmdUNtSWNybEFKMXdaa1V2azJlVW51MmY1N1g1OHFkdjY1a09MX0dSZ2I0X19OSXE2NEhlc2d4NkNTaDRuclppWFA1UGo2Z3A3UXVpZ1YyRFdsY1dWSnc1cjBMOEd4SEtCQy16cXNXMnJjdXM2Q0xmTGlhRGxzYW4wbEFEREdVSm9BTi1vUGRTYnBtY0JSUQ?oc=5",
-          "published": "2026-08-03T01:30:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Trust Bank to Take Over Selected StanChart Credit Card, Loan Customers - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9taDRRbXlBeUlvZ3c2dUs3TUR6VzROXy12TkN5MXlxZ2tMQ0FqWWs4Y093NVcwMGN2TWFQLWpWRWFWOVVhcmNSb2RnenBLdjQ3S3JSREp3dW0wbEF0OG84VHlxYXhOZktQdml6SUt5UTkxdDQtaEE?oc=5",
-          "published": "2026-07-31T07:25:59.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Blackstone To Acquire HSBC Australia's $25B Loan Portfolio - Law360",
-          "source": "Law360",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTcxQmw0LU9JZlBnR1FqWG9qdWVOLVhmMWhkcER5djBfZnJLTlFMQU9LUThVckF3UXBIX1pjQ2RfVF9ka1EwaC14M3lOSUI4MXNuWjRlaTBJSjBjV3Z5TjBIRUx6dWg0WmZ6NDBaejIyOHkyWlAyLVBSRnFWVGk4V0VUTUVXT1BCZzFISktIZDV1ZkVvV29KWTdGVUp3UdIBWEFVX3lxTE5YdHB6alVMQ0lmak13d0FwSDEyTDZGZU55RlZ6S05hSDJubldTYS15YnNjSE02ZmRZWGFvQ0FReVBvZjNwcXRYS1BIT0tXYlZMT0tXNUx4QU0?oc=5",
-          "published": "2026-07-31T07:58:00.000Z"
         },
         {
           "tag": "Press",
@@ -216,11 +186,41 @@
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVljbTVHdk5RS2N4Rk5uY29XREJpRnlxRkJpMGZGV0REdjlRSHc2ZmI4ZmZNZnZTM3k2VVY2OFJzMVdzQVl0SjJxeE5fVUJ3Smk0X3k0ajdLWW5XaW9ZYkRsRE9rLUh0bTNzZC1GSjBqby1aNzhNc014MFdLQUJqZGVMM0hpMG9TTWZrbkJjSXBMSTVoV0FmYzNBeUJkak1PRnFfLXVNajJPRGVZNGJVUXBaR1F0bXQ4QlhvYmdsTlZVM1hZUU1QTG52RG9INnPSAc8BQVVfeXFMUERkd1FfcTIwRmV0cHFEMEkteHZPU25lWDBXR2tHUks0c2RlS1Z6Z3N5Y0ZKMkJ1cjJ0WjVLRGVnc1hTVFZSVjdkajVMNkhXaEdPT2VsTHNxa1pGS2h5RHFNdV9BY0VKWC1ucmZlQmMwOHA3WmtiNmhKVTk1M2ZwVU95Zjdlby1YTUl0SFBrUjBaYWZWOWVQYXBKZElYMTdLcUVzdlNIUWM1N1pLam1iNFVwQkJBS1pocERxSk9pMjVZMHZDUFN1NHpZSnVrQ3NF?oc=5",
           "published": "2026-08-02T13:00:13.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore Payments Code Bans Drip Pricing, Forces FX Markup Disclosure Before Transfer - Tech Times",
+          "source": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQenB0RUhULTJYZjhFU2sxeWlWbXFfcnpTWjJNVVdaUUFMVWZRbWd1WUFYby16MGdfT0Njcm1naFB1MjkxOUZkOHM2djhmRmhmM3dVY3Q1SUZnM3h2Ul9NN1YzZ09vMzJfWnpnejh0U0dQQTZpUjBobU5sMEFyZGo3Y1VaX0JKVjg0VUlKMzJLU2pqTWhoWUxrVkRWbkdvVGhZdHRzb3hsb0hOTGN5S29ieEpBMUhUMWFsSW9TVXpYVWNwblNscWpGOFg2QVcydUhIUWFfcE5lZw?oc=5",
+          "published": "2026-08-03T14:08:03.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "A subsidiary of Southeast Asia’s largest tech firm is looking to build a ‘regional digital banking group’ out of Singapore - Fortune",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVE5QdWNIOUZlcWxaSl8yRnZxUGxtSWJONmNyWTViSHZpOUJDSU9VNGQwVVFNLS1SbzFNcHM3OEtmNUdjUjl1VDBITXQwVEhlMlFxNUt4blpmdUNtSWNybEFKMXdaa1V2azJlVW51MmY1N1g1OHFkdjY1a09MX0dSZ2I0X19OSXE2NEhlc2d4NkNTaDRuclppWFA1UGo2Z3A3UXVpZ1YyRFdsY1dWSnc1cjBMOEd4SEtCQy16cXNXMnJjdXM2Q0xmTGlhRGxzYW4wbEFEREdVSm9BTi1vUGRTYnBtY0JSUQ?oc=5",
+          "published": "2026-08-03T01:30:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "AIIB explores digital payments, eyes Hong Kong hub as it raises record funds - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVljbTVHdk5RS2N4Rk5uY29XREJpRnlxRkJpMGZGV0REdjlRSHc2ZmI4ZmZNZnZTM3k2VVY2OFJzMVdzQVl0SjJxeE5fVUJ3Smk0X3k0ajdLWW5XaW9ZYkRsRE9rLUh0bTNzZC1GSjBqby1aNzhNc014MFdLQUJqZGVMM0hpMG9TTWZrbkJjSXBMSTVoV0FmYzNBeUJkak1PRnFfLXVNajJPRGVZNGJVUXBaR1F0bXQ4QlhvYmdsTlZVM1hZUU1QTG52RG9INnPSAc8BQVVfeXFMUERkd1FfcTIwRmV0cHFEMEkteHZPU25lWDBXR2tHUks0c2RlS1Z6Z3N5Y0ZKMkJ1cjJ0WjVLRGVnc1hTVFZSVjdkajVMNkhXaEdPT2VsTHNxa1pGS2h5RHFNdV9BY0VKWC1ucmZlQmMwOHA3WmtiNmhKVTk1M2ZwVU95Zjdlby1YTUl0SFBrUjBaYWZWOWVQYXBKZElYMTdLcUVzdlNIUWM1N1pLam1iNFVwQkJBS1pocERxSk9pMjVZMHZDUFN1NHpZSnVrQ3NF?oc=5",
+          "published": "2026-08-02T13:00:13.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore Payments Code Bans Drip Pricing, Forces FX Markup Disclosure Before Transfer - Tech Times",
+          "source": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQenB0RUhULTJYZjhFU2sxeWlWbXFfcnpTWjJNVVdaUUFMVWZRbWd1WUFYby16MGdfT0Njcm1naFB1MjkxOUZkOHM2djhmRmhmM3dVY3Q1SUZnM3h2Ul9NN1YzZ09vMzJfWnpnejh0U0dQQTZpUjBobU5sMEFyZGo3Y1VaX0JKVjg0VUlKMzJLU2pqTWhoWUxrVkRWbkdvVGhZdHRzb3hsb0hOTGN5S29ieEpBMUhUMWFsSW9TVXpYVWNwblNscWpGOFg2QVcydUhIUWFfcE5lZw?oc=5",
+          "published": "2026-08-03T14:08:03.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "HSBC to sell Australia loan portfolio to Blackstone‑owned Virgo BidCo - global.morningstar.com",
+        "headline": "HSBC to sell Australia loan portfolio to Blackstone‑owned Virgo BidCo - Morningstar",
         "teaser": null,
         "source": "Morningstar",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkJiVXNwd1Vvbm53cEM4Sm9yYkkyOFBKUHprQ1h1UmhySG9TUUhHRE5SNUU1S2VsaW5ESGUwNnBpVTNoWU5oYUZ1VC11dU5pbzJFWmZiMmFjTUg4WVNtMzRIS3NycUNyYzFxRWZ6Z1FyeDBnUk1ldDVZVVltaUVTdkMwaXFta0xaWTNSb2gwc0gwcW50UHZYX1Z1RnRjZ25xY3R5bWdfcWpjRUFmbkVpTDdZZ3RwTVhGXzZRbTg4dnJfNXdyemYyYThTUXlteFF1Z052bVVjam9HaGRn?oc=5",
@@ -242,7 +242,7 @@
           "tag": "Transcript",
           "headline": "Canara HSBC Life Q4 Results: Analyst meet transcript filed for June quarter - scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGZxSldfbVFWZUdPblI1aUJTWWlKUFY0NjROcEdGTDZYWFJkczhLZFJsODVKY3lWU2pDNVV5Q3d4TzlKNzZvSXFrMDNQR0QyekpRVV84MUVCYzExYXo4ZTUwR2RPOGtnN0k4Y0ZsMXA3SEIzYThGSzZDMmZjek5SS19kaWdWc1R4UnNUdG9SUzdiT1p6bmhIUVN5QlNWNmlHREtwMmtjWVo2a1BJcWVtZjU3WUttSjhnWjYxMUhHai1mb0pPVkoyRHhyQQ?oc=5",
-          "published": "2026-07-25T03:58:26.000Z"
+          "published": "2026-07-24T07:00:00.000Z"
         }
       ]
     }
