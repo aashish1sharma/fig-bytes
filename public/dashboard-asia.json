@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:45:01.162Z",
+  "generatedAt": "2026-08-06T04:45:54.813Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,8 +30,38 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Strategy",
+          "headline": "Hong Kong and Singapore defy regional outflows to attract sustainable funds - AsianInvestor Wealth",
+          "source": "AsianInvestor Wealth",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjBIVV9mbXlEa1hmdUpUeVB5eTlMeWpsR2l3cnM2c3BBZXBGQ2phdzRqSnRidTlIQmhIWkM4eGpKc20wVkZqeVJEYlRkYWszVUVnRXU0WnVDWFNQNklnV2w1YVA4WENiQVNvSzYtVVhZbmF0eXVMS0MyTTJTSmRPZmJxYVRrNDNJcG5Wa0M0NDNCeFNsRXl5YU9hQmxPVVNDVWloWjMtM3FIOW8xTi1TOWRRLUNlaHFDek9hbV9KVXZCOWt5?oc=5",
+          "published": "2026-08-05T17:11:46.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore's UOB to sell asset management business to Allianz unit for $556m, Money News - AsiaOne",
+          "source": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSnNhSXpJSG05RXNKdy1wVkRScl9UQ05aZjRYM3BJMExoWExOM193N2QyUFJOVExfcklxeDVOOTNEQ2pZWWg4YTNjYy1EUkhrRGZCdTY0TV94cVJNcm8wR0E4TmhVNE5mZWtWRnpLeFVrUmhBR1lGcVVJRnVjaFhmMDd6YkFuZmhOYTU0VjVRZTZqNW5NME9EUw?oc=5",
+          "published": "2026-08-05T10:00:37.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Strategy",
+          "headline": "Hong Kong and Singapore defy regional outflows to attract sustainable funds - AsianInvestor Wealth",
+          "source": "AsianInvestor Wealth",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjBIVV9mbXlEa1hmdUpUeVB5eTlMeWpsR2l3cnM2c3BBZXBGQ2phdzRqSnRidTlIQmhIWkM4eGpKc20wVkZqeVJEYlRkYWszVUVnRXU0WnVDWFNQNklnV2w1YVA4WENiQVNvSzYtVVhZbmF0eXVMS0MyTTJTSmRPZmJxYVRrNDNJcG5Wa0M0NDNCeFNsRXl5YU9hQmxPVVNDVWloWjMtM3FIOW8xTi1TOWRRLUNlaHFDek9hbV9KVXZCOWt5?oc=5",
+          "published": "2026-08-05T17:11:46.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore's UOB to sell asset management business to Allianz unit for $556m, Money News - AsiaOne",
+          "source": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSnNhSXpJSG05RXNKdy1wVkRScl9UQ05aZjRYM3BJMExoWExOM193N2QyUFJOVExfcklxeDVOOTNEQ2pZWWg4YTNjYy1EUkhrRGZCdTY0TV94cVJNcm8wR0E4TmhVNE5mZWtWRnpLeFVrUmhBR1lGcVVJRnVjaFhmMDd6YkFuZmhOYTU0VjVRZTZqNW5NME9EUw?oc=5",
+          "published": "2026-08-05T10:00:37.000Z"
+        }
+      ],
       "insight": null,
       "companyUpdates": [
         {
@@ -46,9 +76,9 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BLACKROCK FUNDING, INC. BLACKRO (0QZZ.L) Q2 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGNWZ08zblJXaFhuemtxc050dW1fNGxTTWhINVg4ZWFQY3NBT3BmVmJ1ZlNQZkJKQWU1aTZtcl9vd3UxejlackU3YWt4Zk12WFdocTZSTUZGcF8zamJIS3pmMXdSdWN2Z2k1cC1JNTZQQUpfSkRBLWRPY0syZmdUcVZQVF9KODdKbE10X1lXanBRUQ?oc=5",
-          "published": "2026-07-15T07:00:00.000Z"
+          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORTd3QnRDMEFrR2dfYXNIaUdaZll2MXcwWkpmNFNaM2ppTEJjQkF5WC04V0ZYN2VLTC1yX3N5ZUNhbV9UZVRrb1FvanBydEh4QWxIVmZucFFOVHFvQzBPRDFPWnB5OUZfNXZkOGJrN3NzLXV4REJQaFRETUpzbkFMb2QyV1p6S1FtVlFjY1dWZjBraXhrS0p3STdrdXU3aHRqSUgyT0liazZPeHBCa1N6d21mVmhEUUUwTm9qVWs5Tm5pd29UWlFyeDVvUUs?oc=5",
+          "published": "2026-07-15T11:30:00.000Z"
         },
         {
           "company": "Schroders",
@@ -87,9 +117,9 @@
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYy1WZnBONENDZnVPWHdETVRvd2lUejZEc2RVbm5Ialh5bUdOX2pTUEdCcEJjUVM3MFllQjRINDNTRnBVNjJmeDJ6NExLNFVNaVpleVBtU0x6bVk4OW03ZVZMOGN0MTZkMENxM0lDM3FJTXd0SmdGZTByMmVZckRCUld6b0JwUGJPb0ZrTTdEak8wUC1sOHc?oc=5",
-          "published": "2026-08-05T00:27:00.000Z"
+          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGs2aV9kQjZyWnJrTmhVVG1raW9UX0FudkI0OHdwRldrVFg0dE5UV0I4WEhmM3dUNnpFc3kzOVVYMVFYX1VLem80Uzg2R0UxVjJfUy1fNC16YlpWWEx1TERFNUpXVzdKSVFDcmpDbzlRWV9CdmF1SHdOY3hJblhvd0huYWZmTnpkUlB6NWNKMTNRLWZidVhpSTMzbkh1S01OZTJR?oc=5",
+          "published": "2026-08-05T01:07:00.000Z"
         },
         {
           "company": "UBS Group",
@@ -120,9 +150,9 @@
           "company": "Great Eastern",
           "ticker": "GEL",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Great Eastern Shipping posts record Q1 2026 profit - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU3RuR2dYd2YtQkpISV83NmNmVHR4N1pMWEk0RWVWSlRvdW80ZDZWMk5oUW1EamdmWE9BX3RKSmtGQ2cxWFlqTGhncGtIYm5JWWZJRzg4WnF0XzFsZEE0SXVNU3pIMjZIcngxSFZtdnJldFZtSjV6OU41LTZhR3p1cGFKLUlSWDBNTVpHb1VjSXFMNTZjMXpkdUVuTG9jZjhCX2tsWTFqamFxV0l0Y1g0RkdUQ0hGQnBjeFFpWkxNTkxjRG1haDZxWU5n?oc=5",
-          "published": "2026-08-04T12:26:00.000Z"
+          "headline": "Transcript : The Great Eastern Shipping Company Limited, Q1 2027 Earnings Call, Aug 04, 2026 - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemhMMEJ2NUhHYnl3VWJBWWp1S3VxVEZ4WVNMQ0o3bjRDRXhfWWUzTkd6N2VWT0tXN1AwTkdaWDhUX1dqRUt1UzZtaEd5ZjZOeFE5T3pVUXhLUnhRM0JYV0xyclRMRThEMk8zdDNOVnpGMXdOeFF6djUyWEYya3ZxYUtBV1QxRlNLZEs3TnpZVFFRNzdTeGJTYWxUdFB0M004YkZmZlpEMEJCdGZHREpWaUlGUkgtNkFlVUlfZWJXaXpQbWxKVFN4TXB4RExzSDhDSFpUY2pQQQ?oc=5",
+          "published": "2026-08-04T17:21:17.000Z"
         },
         {
           "company": "Prudential plc",
@@ -146,18 +176,18 @@
           "published": "2026-08-05T01:27:13.000Z"
         },
         {
+          "tag": "Press",
+          "headline": "25 arrested as Hong Kong police bust loan shark ring charging up to 282% interest rate",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363126/25-arrested-hong-kong-police-bust-loan-shark-ring-charging-282-interest-rate?utm_source=rss_feed",
+          "published": "2026-08-06T04:45:37.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Credit card perks boost entertainment spending in Singapore - The Straits Times",
           "source": "The Straits Times",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEFFVnlwY2tXclJ5cmlyNjY4NTFWTUlDMVg5RC1NSHVPTUJmRHNIUk1fSFZ5c084NHhVanFfN1ZRaEpueS1wcVB1MXl3NmZMRFhlWDNDT1p1d3AxNlFSdkxHYk83LWpMdlZmdGVOUm9velJJTUtHTDNIQ1ZJTEN2elZYVDNOQTR1WlJURWFzSVpaUmFVczRWdE9nT3pGWjh5UVBCR0FQR0pOZnVHNzRSRGF5X1A0ckNKWUFoMkpSdVVpNlEzalNKQ1JfWFI?oc=5",
           "published": "2026-08-05T02:30:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "AIIB explores digital payments, eyes Hong Kong hub as it raises record funds - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVljbTVHdk5RS2N4Rk5uY29XREJpRnlxRkJpMGZGV0REdjlRSHc2ZmI4ZmZNZnZTM3k2VVY2OFJzMVdzQVl0SjJxeE5fVUJ3Smk0X3k0ajdLWW5XaW9ZYkRsRE9rLUh0bTNzZC1GSjBqby1aNzhNc014MFdLQUJqZGVMM0hpMG9TTWZrbkJjSXBMSTVoV0FmYzNBeUJkak1PRnFfLXVNajJPRGVZNGJVUXBaR1F0bXQ4QlhvYmdsTlZVM1hZUU1QTG52RG9INnPSAc8BQVVfeXFMUERkd1FfcTIwRmV0cHFEMEkteHZPU25lWDBXR2tHUks0c2RlS1Z6Z3N5Y0ZKMkJ1cjJ0WjVLRGVnc1hTVFZSVjdkajVMNkhXaEdPT2VsTHNxa1pGS2h5RHFNdV9BY0VKWC1ucmZlQmMwOHA3WmtiNmhKVTk1M2ZwVU95Zjdlby1YTUl0SFBrUjBaYWZWOWVQYXBKZElYMTdLcUVzdlNIUWM1N1pLam1iNFVwQkJBS1pocERxSk9pMjVZMHZDUFN1NHpZSnVrQ3NF?oc=5",
-          "published": "2026-08-02T13:00:13.000Z"
         }
       ],
       "candidates": [
@@ -169,6 +199,13 @@
           "published": "2026-08-05T01:27:13.000Z"
         },
         {
+          "tag": "Press",
+          "headline": "25 arrested as Hong Kong police bust loan shark ring charging up to 282% interest rate",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363126/25-arrested-hong-kong-police-bust-loan-shark-ring-charging-282-interest-rate?utm_source=rss_feed",
+          "published": "2026-08-06T04:45:37.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Credit card perks boost entertainment spending in Singapore - The Straits Times",
           "source": "The Straits Times",
@@ -177,22 +214,15 @@
         },
         {
           "tag": "Press",
-          "headline": "AIIB explores digital payments, eyes Hong Kong hub as it raises record funds - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVljbTVHdk5RS2N4Rk5uY29XREJpRnlxRkJpMGZGV0REdjlRSHc2ZmI4ZmZNZnZTM3k2VVY2OFJzMVdzQVl0SjJxeE5fVUJ3Smk0X3k0ajdLWW5XaW9ZYkRsRE9rLUh0bTNzZC1GSjBqby1aNzhNc014MFdLQUJqZGVMM0hpMG9TTWZrbkJjSXBMSTVoV0FmYzNBeUJkak1PRnFfLXVNajJPRGVZNGJVUXBaR1F0bXQ4QlhvYmdsTlZVM1hZUU1QTG52RG9INnPSAc8BQVVfeXFMUERkd1FfcTIwRmV0cHFEMEkteHZPU25lWDBXR2tHUks0c2RlS1Z6Z3N5Y0ZKMkJ1cjJ0WjVLRGVnc1hTVFZSVjdkajVMNkhXaEdPT2VsTHNxa1pGS2h5RHFNdV9BY0VKWC1ucmZlQmMwOHA3WmtiNmhKVTk1M2ZwVU95Zjdlby1YTUl0SFBrUjBaYWZWOWVQYXBKZElYMTdLcUVzdlNIUWM1N1pLam1iNFVwQkJBS1pocERxSk9pMjVZMHZDUFN1NHpZSnVrQ3NF?oc=5",
-          "published": "2026-08-02T13:00:13.000Z"
+          "headline": "Maybank Singapore joins MAS’ BLOOM initiative to strengthen cross-border payments - The Edge Malaysia",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RMnAzY1RxZ1BudnBhejU1QnJlRUFqUzVtOFAtVWFDSnZzTEhYVi1XRnhCY2NBWVZESlNKWjl0Zk9mbHB6WGpaTWZ6bkQ4djNR?oc=5",
+          "published": "2026-08-06T03:36:18.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Digital wallets overtake cards in Singapore payments - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUs0TnA1MWdUYTlmUlBxRU0tQ3g5RXRqQUFqVjNCRG50bUt0UnE2b2RQMVE0Z0hVNnZlb3NHaUpMX29iOGpjWElxenJRd3lrTEljM1dGVkwxNGd2b3E4NW92a0tnYmhmeEZXR1hKZkRxMG5qMnhGSE13ZjlGMTNfU3NPOFA0cG1vRHpDZkZqMHdYQTZONDZqalRQSjlSU3FLSEJLejY3QXFoSFVzejM1Wg?oc=5",
-          "published": "2026-08-04T21:00:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore Payments Code Bans Drip Pricing, Forces FX Markup Disclosure Before Transfer - techtimes.com",
-          "source": "techtimes.com",
+          "headline": "Singapore Payments Code Bans Drip Pricing, Forces FX Markup Disclosure Before Transfer - Tech Times",
+          "source": "Tech Times",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQenB0RUhULTJYZjhFU2sxeWlWbXFfcnpTWjJNVVdaUUFMVWZRbWd1WUFYby16MGdfT0Njcm1naFB1MjkxOUZkOHM2djhmRmhmM3dVY3Q1SUZnM3h2Ul9NN1YzZ09vMzJfWnpnejh0U0dQQTZpUjBobU5sMEFyZGo3Y1VaX0JKVjg0VUlKMzJLU2pqTWhoWUxrVkRWbkdvVGhZdHRzb3hsb0hOTGN5S29ieEpBMUhUMWFsSW9TVXpYVWNwblNscWpGOFg2QVcydUhIUWFfcE5lZw?oc=5",
           "published": "2026-08-03T14:08:03.000Z"
         }
@@ -211,17 +241,17 @@
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYy1WZnBONENDZnVPWHdETVRvd2lUejZEc2RVbm5Ialh5bUdOX2pTUEdCcEJjUVM3MFllQjRINDNTRnBVNjJmeDJ6NExLNFVNaVpleVBtU0x6bVk4OW03ZVZMOGN0MTZkMENxM0lDM3FJTXd0SmdGZTByMmVZckRCUld6b0JwUGJPb0ZrTTdEak8wUC1sOHc?oc=5",
-          "published": "2026-08-05T00:27:00.000Z"
+          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGs2aV9kQjZyWnJrTmhVVG1raW9UX0FudkI0OHdwRldrVFg0dE5UV0I4WEhmM3dUNnpFc3kzOVVYMVFYX1VLem80Uzg2R0UxVjJfUy1fNC16YlpWWEx1TERFNUpXVzdKSVFDcmpDbzlRWV9CdmF1SHdOY3hJblhvd0huYWZmTnpkUlB6NWNKMTNRLWZidVhpSTMzbkh1S01OZTJR?oc=5",
+          "published": "2026-08-05T01:07:00.000Z"
         },
         {
           "company": "Standard Chartered",
           "ticker": "STAN",
           "tag": "Transcript",
-          "headline": "Transcript : Standard Chartered PLC, Q2 2026 Earnings Call, Jul 29, 2026 - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWXVQeDQ1R3dxOHdjTjZfRzE0aHNVbWhxYnk0RTdqWWJHSkxZUkJlWWtWYVJrOG5rdFkwRTBueXhiQzRXd1Q5enZIQy13cUl3bENlR1QzZml3alRzZi1NaXVvYzdoVTJlVFdIb3h6RnBhOUZ5M2xvbUxVSjIxb1dSSElEWkQ3OWpyS1hwYy0wMnl6VlRqRmsxRTU3LUx4N3JDYy1jaUdZNUM3RENPenBxajlNcVZOSWR3VGoxaA?oc=5",
-          "published": "2026-07-29T09:05:59.000Z"
+          "headline": "Earnings call transcript: Standard Chartered beats Q2 2026 estimates, shares rise - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOTVTeU9zMngxNUtzSXRSc3NVVE5lbVEwdVZnRFdRWmJmYlVncnFCMi02UmEzb2lNUnNCUG9XV0lodldFNGlHWUdTMkQ0NkFfUE10UzVzbWdMcjZRSG85VHBQR18xMndwT1F1UWlNSnIxdzdfTmk1YkxFTFJvVjd2YkhrR25OZ2NwSDRHLU5fWkV3T1lBcTA2X2VIdV9qTXpHamo2a09GMjdIcGdDMF9zUWY5YktLSVdrSFVZcTVYRFNmdW9FamZCdTVlbVpLbG8?oc=5",
+          "published": "2026-07-29T08:52:28.000Z"
         }
       ]
     }
