@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T04:45:54.813Z",
+  "generatedAt": "2026-08-07T04:12:36.187Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,22 +32,43 @@
       "name": "Asset Management",
       "bullets": [
         {
+          "tag": "Product",
+          "headline": "Amundi MSCI China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXZ0bEpfekJCUEt5TmpPekptdXRVaVpUcHhfdUJqbDZiMVBPeDNRZW9mNmI3QUNfYUQ1b29kN2ZCWFBZNkpmVlYwZEoyVE93YUVjSE1sMHpjcW9hd1JRS2lmUXIyOFFWYUlRbG9RNUo2ZFpFd01zdGtEU2FtMV95RUhWUUZPXzNsSTBwZTk0czBjbldDVGdwNkZXLW9GNGl1WHFuUk1oZFhGVUU?oc=5",
+          "published": "2026-08-06T07:08:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmhxd2hUbC0xaU84TWhJSVNQaGFvcW5oRHJRQ0hIOWlCeDA3X1ZtTGl1dExRaWdScGw1QmpHZkc5djhlYWxwWDhPd3NoaG9nSlVid3NFX1JoQUFIUE5YX2JOd3VQYXRucm9mMTVpRUd2ckZuZmozNGF0bnZMWmdxOUFsdGM1ejBBVmwzMGFSX1BMODFf?oc=5",
+          "published": "2026-08-06T06:15:00.000Z"
+        },
+        {
           "tag": "Strategy",
           "headline": "Hong Kong and Singapore defy regional outflows to attract sustainable funds - AsianInvestor Wealth",
           "source": "AsianInvestor Wealth",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjBIVV9mbXlEa1hmdUpUeVB5eTlMeWpsR2l3cnM2c3BBZXBGQ2phdzRqSnRidTlIQmhIWkM4eGpKc20wVkZqeVJEYlRkYWszVUVnRXU0WnVDWFNQNklnV2w1YVA4WENiQVNvSzYtVVhZbmF0eXVMS0MyTTJTSmRPZmJxYVRrNDNJcG5Wa0M0NDNCeFNsRXl5YU9hQmxPVVNDVWloWjMtM3FIOW8xTi1TOWRRLUNlaHFDek9hbV9KVXZCOWt5?oc=5",
           "published": "2026-08-05T17:11:46.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore's UOB to sell asset management business to Allianz unit for $556m, Money News - AsiaOne",
-          "source": "AsiaOne",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSnNhSXpJSG05RXNKdy1wVkRScl9UQ05aZjRYM3BJMExoWExOM193N2QyUFJOVExfcklxeDVOOTNEQ2pZWWg4YTNjYy1EUkhrRGZCdTY0TV94cVJNcm8wR0E4TmhVNE5mZWtWRnpLeFVrUmhBR1lGcVVJRnVjaFhmMDd6YkFuZmhOYTU0VjVRZTZqNW5NME9EUw?oc=5",
-          "published": "2026-08-05T10:00:37.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Product",
+          "headline": "Amundi MSCI China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXZ0bEpfekJCUEt5TmpPekptdXRVaVpUcHhfdUJqbDZiMVBPeDNRZW9mNmI3QUNfYUQ1b29kN2ZCWFBZNkpmVlYwZEoyVE93YUVjSE1sMHpjcW9hd1JRS2lmUXIyOFFWYUlRbG9RNUo2ZFpFd01zdGtEU2FtMV95RUhWUUZPXzNsSTBwZTk0czBjbldDVGdwNkZXLW9GNGl1WHFuUk1oZFhGVUU?oc=5",
+          "published": "2026-08-06T07:08:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmhxd2hUbC0xaU84TWhJSVNQaGFvcW5oRHJRQ0hIOWlCeDA3X1ZtTGl1dExRaWdScGw1QmpHZkc5djhlYWxwWDhPd3NoaG9nSlVid3NFX1JoQUFIUE5YX2JOd3VQYXRucm9mMTVpRUd2ckZuZmozNGF0bnZMWmdxOUFsdGM1ejBBVmwzMGFSX1BMODFf?oc=5",
+          "published": "2026-08-06T06:15:00.000Z"
+        },
+        {
           "tag": "Strategy",
           "headline": "Hong Kong and Singapore defy regional outflows to attract sustainable funds - AsianInvestor Wealth",
           "source": "AsianInvestor Wealth",
@@ -55,30 +76,45 @@
           "published": "2026-08-05T17:11:46.000Z"
         },
         {
+          "tag": "Product",
+          "headline": "CGS International debuts first ETF tracking Singapore Next 50 Index - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUQtZ1duWGxMXzNfUzNrMFlJUGMzUmdjMFI2T3lmUlIxN0JNczd0THF0aU1iM0U4MEUzMVI3QWxoLW9xZmd1aDJjVDdtb3h0SG0wSDAxcWg2bU1IQTlfbks4eGp5RmlHUThnLUFxNkJrOVRDLUxBRVZBbWZhaU9Lb1dJQmpxaEtYc3NIZDVZNm0xUFRRTUpPVlZGRUg0LUlyYTdiZ3RNVkYzZTRWLVE?oc=5",
+          "published": "2026-08-06T04:52:34.000Z"
+        },
+        {
           "tag": "Press",
-          "headline": "Singapore's UOB to sell asset management business to Allianz unit for $556m, Money News - AsiaOne",
-          "source": "AsiaOne",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSnNhSXpJSG05RXNKdy1wVkRScl9UQ05aZjRYM3BJMExoWExOM193N2QyUFJOVExfcklxeDVOOTNEQ2pZWWg4YTNjYy1EUkhrRGZCdTY0TV94cVJNcm8wR0E4TmhVNE5mZWtWRnpLeFVrUmhBR1lGcVVJRnVjaFhmMDd6YkFuZmhOYTU0VjVRZTZqNW5NME9EUw?oc=5",
-          "published": "2026-08-05T10:00:37.000Z"
+          "headline": "Singapore's UOB to sell asset management business to Allianz unit for US$434 million - The Edge Malaysia",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NNDE2TEtGZnlVdEtDZmZoc2ZNd192cFVmRDVDM2IxUUJtUThaZk5zNTAxTnhpcEVnbjBqUTJ3YlRvR1hjbDVlMjlqcjBJdW00?oc=5",
+          "published": "2026-08-05T05:45:40.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+        "teaser": null,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3M0RUl4M0U0c2ZZaHlBSjNmak5RUHA0dFRpT2lRR3R3VmxxQ1hYdDByVEs0YnAyaDFYb0RweVFrb2FCcmZ5dFZadUYtN3pBd19FZkJVTXNfX1JncjlxdndHZTRucEdCS0gxWmd2elR6MDkwRDNnUWNKd1dNZEp0bmZwcHpwZWFuRWZQelZOcEVlZUNFQXIwcEstZnVBQWF1TXlYbGl2REtNU1k?oc=5",
+        "published": "2026-08-05T07:03:00.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
-        {
-          "company": "Nikko Asset Management",
-          "ticker": "NOMURA",
-          "tag": "Transcript",
-          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGpBNTFkS3BPTmNwQWZVdWVPUXVSbERfdVozYThnbHNLYmZmQ3d6UmIyUTJ3VENtTHBqSDMyazRSYlFob0E5NWpVZDY4ZGpLRFFjRldkNkxQY1BTZGM0VVpLVE5sMjVJZnkzQ1dQc283UjNyQ2dNRC0zb1F1RTlLUlFmTWlfd2EyMjFISXZMT0NoNlVlcWhqZ0xURDlCOVdtcVZIMA?oc=5",
-          "published": "2026-08-04T00:56:00.000Z"
-        },
         {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORTd3QnRDMEFrR2dfYXNIaUdaZll2MXcwWkpmNFNaM2ppTEJjQkF5WC04V0ZYN2VLTC1yX3N5ZUNhbV9UZVRrb1FvanBydEh4QWxIVmZucFFOVHFvQzBPRDFPWnB5OUZfNXZkOGJrN3NzLXV4REJQaFRETUpzbkFMb2QyV1p6S1FtVlFjY1dWZjBraXhrS0p3STdrdXU3aHRqSUgyT0liazZPeHBCa1N6d21mVmhEUUUwTm9qVWs5Tm5pd29UWlFyeDVvUUs?oc=5",
-          "published": "2026-07-15T11:30:00.000Z"
+          "headline": "Earnings call transcript: BlackRock TCP Capital posts mixed Q2 2026 results - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmhNV0MyaUY1dTBSNEhoV0xjUTJ0YVk5cG5aS0JfRFlfTm0zR2pUd1pHeHc5UnY5OU1LbTA2MU5wOGMzME0xcnBJR1NsSWU3UXhHblFKOWF6Vl9kSlBBbFcxc1QzRXVrYzJpd0hyaFQ1akt0Z3ZReDc4Sk9ZZDJUTXVSdzg4LXdUc19mOElPQjZGRUJLb2JCa0k5LXBvNkhxZzhVQnY5b3JiTDlkNDZkRXdIRUVKV2UyTnBmaG8ySG55T2NpVl9FZXVR?oc=5",
+          "published": "2026-08-06T18:30:07.000Z"
+        },
+        {
+          "company": "Nikko Asset Management",
+          "ticker": "NOMURA",
+          "tag": "Transcript",
+          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - fool.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGpBNTFkS3BPTmNwQWZVdWVPUXVSbERfdVozYThnbHNLYmZmQ3d6UmIyUTJ3VENtTHBqSDMyazRSYlFob0E5NWpVZDY4ZGpLRFFjRldkNkxQY1BTZGM0VVpLVE5sMjVJZnkzQ1dQc283UjNyQ2dNRC0zb1F1RTlLUlFmTWlfd2EyMjFISXZMT0NoNlVlcWhqZ0xURDlCOVdtcVZIMA?oc=5",
+          "published": "2026-08-04T00:56:00.000Z"
         },
         {
           "company": "Schroders",
@@ -95,6 +131,13 @@
       "name": "Wealth Management",
       "bullets": [
         {
+          "tag": "Earnings",
+          "headline": "UOB's Quarterly Net Profit Rises 10% as Wealth Management Fees Hit Record - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2U0ZWtSNUVxN3Z4aWYwU2I0ZjkteDdwUzNURGdUV2ExWjZUNDFsWlBzSGtla0tZcWF2Z2VBWE9lVUZVcmJmZmRNeUZOekFlLU16SGtaUU5BTjRiT3cyZFpOV3BVMG5PcGVISjJZS2FZVzFEam56YWdtbHJxX2hSMkUyWnc?oc=5",
+          "published": "2026-08-07T00:45:00.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "UK Ranks Behind Singapore, US, UAE In New Wealth Management Index - Wealth Briefing Asia",
           "source": "Wealth Briefing Asia",
@@ -103,6 +146,13 @@
         }
       ],
       "candidates": [
+        {
+          "tag": "Earnings",
+          "headline": "UOB's Quarterly Net Profit Rises 10% as Wealth Management Fees Hit Record - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2U0ZWtSNUVxN3Z4aWYwU2I0ZjkteDdwUzNURGdUV2ExWjZUNDFsWlBzSGtla0tZcWF2Z2VBWE9lVUZVcmJmZmRNeUZOekFlLU16SGtaUU5BTjRiT3cyZFpOV3BVMG5PcGVISjJZS2FZVzFEam56YWdtbHJxX2hSMkUyWnc?oc=5",
+          "published": "2026-08-07T00:45:00.000Z"
+        },
         {
           "tag": "Press",
           "headline": "UK Ranks Behind Singapore, US, UAE In New Wealth Management Index - Wealth Briefing Asia",
@@ -114,28 +164,28 @@
       "insight": null,
       "companyUpdates": [
         {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGs2aV9kQjZyWnJrTmhVVG1raW9UX0FudkI0OHdwRldrVFg0dE5UV0I4WEhmM3dUNnpFc3kzOVVYMVFYX1VLem80Uzg2R0UxVjJfUy1fNC16YlpWWEx1TERFNUpXVzdKSVFDcmpDbzlRWV9CdmF1SHdOY3hJblhvd0huYWZmTnpkUlB6NWNKMTNRLWZidVhpSTMzbkh1S01OZTJR?oc=5",
-          "published": "2026-08-05T01:07:00.000Z"
-        },
-        {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Citigroup Inc at UBS Financial Services Conference Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SMFZMWUthSTNFc1c2M0RlVWs4Z1VjcFhyVi1IaC1FcUtBemFZa3pmZ19UT3RQMGZSV0NHUFdZTkdlMGFFS3hmTzNpRHVZVEZUb3VPcW1LWEktZE5zZlotRmo1NURVakNfWlE?oc=5",
-          "published": "2026-08-02T18:44:31.000Z"
+          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
+          "published": "2026-08-06T17:20:52.000Z"
         },
         {
-          "company": "iFAST Corporation",
-          "ticker": "AIY.SI",
+          "company": "DBS Group",
+          "ticker": "D05.SI",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: iFAST beats Q2 2026 estimates, but shares fall - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVkNLdkIzZVg1eDlJZ0MwbXJqcDFTQkpCQkRDS2MySjhmOTFCTjAzdXlZR245eElUWTFKX2w5VUdKemk1ZW1haVVGMEltZkc4N29CNW9TeTFfRjE0aVFkSGIyNjNuQ195Rm1NTlAyQVU5TFhOem9Sc2U3bE9QY0ZsLWdWZjFpX2VtQklhdkZlUGNZM0RNMVJscUphcnVJdGVOUGtJUXpaaDA4S3VadFhaUEtMdXgxa2JPZlN3eUFycFhRZWEy?oc=5",
-          "published": "2026-07-27T07:00:00.000Z"
+          "headline": "Earnings call transcript: DBS Group Q2 2026 wealth gains lift outlook - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2JWZmJzSUplR25YYTA0cmZxSDJKZ01qWXJtUjZoVEtiOHVvYXVqTUpydG9YUWMyLUNaN2NLU3FGZENsVm5qR2ZTSTVmUDNtbmFRNng4d2ktU2M4X3IzWTZ3RlA3QVlEVzFfWlFOT2N4TWl5VWNRdC1IQmtNaHVrMzBPZnROT25iTGRJa3l6cTF1bkYzWkJCRG9Od29YbC1GQ3Fod01iMnV6dUxMR3Vkem9iWUszWklYcDFoaFBmLV84dw?oc=5",
+          "published": "2026-08-06T05:55:16.000Z"
+        },
+        {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - fool.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGs2aV9kQjZyWnJrTmhVVG1raW9UX0FudkI0OHdwRldrVFg0dE5UV0I4WEhmM3dUNnpFc3kzOVVYMVFYX1VLem80Uzg2R0UxVjJfUy1fNC16YlpWWEx1TERFNUpXVzdKSVFDcmpDbzlRWV9CdmF1SHdOY3hJblhvd0huYWZmTnpkUlB6NWNKMTNRLWZidVhpSTMzbkh1S01OZTJR?oc=5",
+          "published": "2026-08-05T01:07:00.000Z"
         }
       ]
     },
@@ -147,20 +197,20 @@
       "insight": null,
       "companyUpdates": [
         {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-08-06T04:59:20.000Z"
+        },
+        {
           "company": "Great Eastern",
           "ticker": "GEL",
           "tag": "Transcript",
           "headline": "Transcript : The Great Eastern Shipping Company Limited, Q1 2027 Earnings Call, Aug 04, 2026 - marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemhMMEJ2NUhHYnl3VWJBWWp1S3VxVEZ4WVNMQ0o3bjRDRXhfWWUzTkd6N2VWT0tXN1AwTkdaWDhUX1dqRUt1UzZtaEd5ZjZOeFE5T3pVUXhLUnhRM0JYV0xyclRMRThEMk8zdDNOVnpGMXdOeFF6djUyWEYya3ZxYUtBV1QxRlNLZEs3TnpZVFFRNzdTeGJTYWxUdFB0M004YkZmZlpEMEJCdGZHREpWaUlGUkgtNkFlVUlfZWJXaXpQbWxKVFN4TXB4RExzSDhDSFpUY2pQQQ?oc=5",
           "published": "2026-08-04T17:21:17.000Z"
-        },
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-01T11:27:15.000Z"
         }
       ]
     },
@@ -177,16 +227,16 @@
         },
         {
           "tag": "Press",
-          "headline": "25 arrested as Hong Kong police bust loan shark ring charging up to 282% interest rate",
+          "headline": "25 arrested as police bust loan shark ring charging up to 282% interest rate - South China Morning Post",
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363126/25-arrested-hong-kong-police-bust-loan-shark-ring-charging-282-interest-rate?utm_source=rss_feed",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHZwcVRuN2dMSXRZM1ZlUExYTXBvUjNxcTFaM3VSdGhWNVpHTzBiQk5KNk1GMVRmWTExOU9LYjNtMjlQNFdzNUxNSW1yT0diYlBSUkUtSGlvcW9aVm1aYjcwWnZVTEVRUVJCWk13Mi1fN3FvUjAwdWVWZWEtSVRCLTdsMjFmZXhjRmtqQVZNWGludzNUUGZvTG9kVVRZcTA0RzdaMk5OTU9WTjdTWlVGNHRVYVlRQlBzbG1sWVRqbmRXU2hfM0IwcjZxVHdhMWhpYlZKbTRCNUpEd9IB2gFBVV95cUxPdHZwcVRuN2dMSXRZM1ZlUExYTXBvUjNxcTFaM3VSdGhWNVpHTzBiQk5KNk1GMVRmWTExOU9LYjNtMjlQNFdzNUxNSW1yT0diYlBSUkUtSGlvcW9aVm1aYjcwWnZVTEVRUVJCWk13Mi1fN3FvUjAwdWVWZWEtSVRCLTdsMjFmZXhjRmtqQVZNWGludzNUUGZvTG9kVVRZcTA0RzdaMk5OTU9WTjdTWlVGNHRVYVlRQlBzbG1sWVRqbmRXU2hfM0IwcjZxVHdhMWhpYlZKbTRCNUpEdw?oc=5",
           "published": "2026-08-06T04:45:37.000Z"
         },
         {
           "tag": "Product",
           "headline": "Credit card perks boost entertainment spending in Singapore - The Straits Times",
           "source": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEFFVnlwY2tXclJ5cmlyNjY4NTFWTUlDMVg5RC1NSHVPTUJmRHNIUk1fSFZ5c084NHhVanFfN1ZRaEpueS1wcVB1MXl3NmZMRFhlWDNDT1p1d3AxNlFSdkxHYk83LWpMdlZmdGVOUm9velJJTUtHTDNIQ1ZJTEN2elZYVDNOQTR1WlJURWFzSVpaUmFVczRWdE9nT3pGWjh5UVBCR0FQR0pOZnVHNzRSRGF5X1A0ckNKWUFoMkpSdVVpNlEzalNKQ1JfWFI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUG05aUZQakhlVHlXdTJkd3BrZUxfaHlVQjB4UXkxd2R3NlpaXy11YXNCX1BVNC1GWnJYQ1RQc3kyU2tTV1pELThZLXZNRXp1TjE4Y2t0SUhyZ2NfWEY1MW1ycHlSTFVtbDNMdGJDTFI3b2paazRjdnRfMkJMS0s4eFNIMmZGQWVSVm5HLW9vdjZCTWxEeEg3ZDhCU2VHMnNIcVpnTHl6X3N4T21ldDkyZg?oc=5",
           "published": "2026-08-05T02:30:00.000Z"
         }
       ],
@@ -200,31 +250,31 @@
         },
         {
           "tag": "Press",
-          "headline": "25 arrested as Hong Kong police bust loan shark ring charging up to 282% interest rate",
+          "headline": "25 arrested as police bust loan shark ring charging up to 282% interest rate - South China Morning Post",
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363126/25-arrested-hong-kong-police-bust-loan-shark-ring-charging-282-interest-rate?utm_source=rss_feed",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHZwcVRuN2dMSXRZM1ZlUExYTXBvUjNxcTFaM3VSdGhWNVpHTzBiQk5KNk1GMVRmWTExOU9LYjNtMjlQNFdzNUxNSW1yT0diYlBSUkUtSGlvcW9aVm1aYjcwWnZVTEVRUVJCWk13Mi1fN3FvUjAwdWVWZWEtSVRCLTdsMjFmZXhjRmtqQVZNWGludzNUUGZvTG9kVVRZcTA0RzdaMk5OTU9WTjdTWlVGNHRVYVlRQlBzbG1sWVRqbmRXU2hfM0IwcjZxVHdhMWhpYlZKbTRCNUpEd9IB2gFBVV95cUxPdHZwcVRuN2dMSXRZM1ZlUExYTXBvUjNxcTFaM3VSdGhWNVpHTzBiQk5KNk1GMVRmWTExOU9LYjNtMjlQNFdzNUxNSW1yT0diYlBSUkUtSGlvcW9aVm1aYjcwWnZVTEVRUVJCWk13Mi1fN3FvUjAwdWVWZWEtSVRCLTdsMjFmZXhjRmtqQVZNWGludzNUUGZvTG9kVVRZcTA0RzdaMk5OTU9WTjdTWlVGNHRVYVlRQlBzbG1sWVRqbmRXU2hfM0IwcjZxVHdhMWhpYlZKbTRCNUpEdw?oc=5",
           "published": "2026-08-06T04:45:37.000Z"
         },
         {
           "tag": "Product",
           "headline": "Credit card perks boost entertainment spending in Singapore - The Straits Times",
           "source": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEFFVnlwY2tXclJ5cmlyNjY4NTFWTUlDMVg5RC1NSHVPTUJmRHNIUk1fSFZ5c084NHhVanFfN1ZRaEpueS1wcVB1MXl3NmZMRFhlWDNDT1p1d3AxNlFSdkxHYk83LWpMdlZmdGVOUm9velJJTUtHTDNIQ1ZJTEN2elZYVDNOQTR1WlJURWFzSVpaUmFVczRWdE9nT3pGWjh5UVBCR0FQR0pOZnVHNzRSRGF5X1A0ckNKWUFoMkpSdVVpNlEzalNKQ1JfWFI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUG05aUZQakhlVHlXdTJkd3BrZUxfaHlVQjB4UXkxd2R3NlpaXy11YXNCX1BVNC1GWnJYQ1RQc3kyU2tTV1pELThZLXZNRXp1TjE4Y2t0SUhyZ2NfWEY1MW1ycHlSTFVtbDNMdGJDTFI3b2paazRjdnRfMkJMS0s4eFNIMmZGQWVSVm5HLW9vdjZCTWxEeEg3ZDhCU2VHMnNIcVpnTHl6X3N4T21ldDkyZg?oc=5",
           "published": "2026-08-05T02:30:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Best Term Deposit Rates Australia 2026 - Compare & Lock In - Mozo.com.au",
+          "source": "Mozo.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xZFBZMHNyc2otejlYWGpLYkpmdk8zZjJHQWJvSUZFdVN3b2VPUzNjWXJLcHdqMFR3X3lXSHo2ZE9hdjlnTUp6YmUtQ2xrUQ?oc=5",
+          "published": "2026-08-04T07:00:00.000Z"
         },
         {
           "tag": "Press",
           "headline": "Maybank Singapore joins MAS’ BLOOM initiative to strengthen cross-border payments - The Edge Malaysia",
           "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RMnAzY1RxZ1BudnBhejU1QnJlRUFqUzVtOFAtVWFDSnZzTEhYVi1XRnhCY2NBWVZESlNKWjl0Zk9mbHB6WGpaTWZ6bkQ4djNR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KYUNHdlB4OHZmLVUzWmF2aHdjanlvTDVSemFPVV9YUm95eEl2dHMtUUtWTVEwZHJ2aE5hNkJxYzRsOWFkS2NUdFNKYlJBZnJrTUM0?oc=5",
           "published": "2026-08-06T03:36:18.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore Payments Code Bans Drip Pricing, Forces FX Markup Disclosure Before Transfer - Tech Times",
-          "source": "Tech Times",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQenB0RUhULTJYZjhFU2sxeWlWbXFfcnpTWjJNVVdaUUFMVWZRbWd1WUFYby16MGdfT0Njcm1naFB1MjkxOUZkOHM2djhmRmhmM3dVY3Q1SUZnM3h2Ul9NN1YzZ09vMzJfWnpnejh0U0dQQTZpUjBobU5sMEFyZGo3Y1VaX0JKVjg0VUlKMzJLU2pqTWhoWUxrVkRWbkdvVGhZdHRzb3hsb0hOTGN5S29ieEpBMUhUMWFsSW9TVXpYVWNwblNscWpGOFg2QVcydUhIUWFfcE5lZw?oc=5",
-          "published": "2026-08-03T14:08:03.000Z"
         }
       ],
       "insight": {
@@ -238,10 +288,18 @@
       },
       "companyUpdates": [
         {
+          "company": "DBS Group",
+          "ticker": "D05.SI",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: DBS Group Q2 2026 wealth gains lift outlook - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2JWZmJzSUplR25YYTA0cmZxSDJKZ01qWXJtUjZoVEtiOHVvYXVqTUpydG9YUWMyLUNaN2NLU3FGZENsVm5qR2ZTSTVmUDNtbmFRNng4d2ktU2M4X3IzWTZ3RlA3QVlEVzFfWlFOT2N4TWl5VWNRdC1IQmtNaHVrMzBPZnROT25iTGRJa3l6cTF1bkYzWkJCRG9Od29YbC1GQ3Fod01iMnV6dUxMR3Vkem9iWUszWklYcDFoaFBmLV84dw?oc=5",
+          "published": "2026-08-06T05:55:16.000Z"
+        },
+        {
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - The Motley Fool",
+          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - fool.com",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGs2aV9kQjZyWnJrTmhVVG1raW9UX0FudkI0OHdwRldrVFg0dE5UV0I4WEhmM3dUNnpFc3kzOVVYMVFYX1VLem80Uzg2R0UxVjJfUy1fNC16YlpWWEx1TERFNUpXVzdKSVFDcmpDbzlRWV9CdmF1SHdOY3hJblhvd0huYWZmTnpkUlB6NWNKMTNRLWZidVhpSTMzbkh1S01OZTJR?oc=5",
           "published": "2026-08-05T01:07:00.000Z"
         },
