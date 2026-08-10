@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T03:18:21.139Z",
+  "generatedAt": "2026-08-10T03:28:18.455Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,33 +30,17 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "CGS International debuts first ETF tracking Singapore Next 50 Index - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUQtZ1duWGxMXzNfUzNrMFlJUGMzUmdjMFI2T3lmUlIxN0JNczd0THF0aU1iM0U4MEUzMVI3QWxoLW9xZmd1aDJjVDdtb3h0SG0wSDAxcWg2bU1IQTlfbks4eGp5RmlHUThnLUFxNkJrOVRDLUxBRVZBbWZhaU9Lb1dJQmpxaEtYc3NIZDVZNm0xUFRRTUpPVlZGRUg0LUlyYTdiZ3RNVkYzZTRWLVE?oc=5",
-          "published": "2026-08-06T04:52:34.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "CGS International debuts first ETF tracking Singapore Next 50 Index - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUQtZ1duWGxMXzNfUzNrMFlJUGMzUmdjMFI2T3lmUlIxN0JNczd0THF0aU1iM0U4MEUzMVI3QWxoLW9xZmd1aDJjVDdtb3h0SG0wSDAxcWg2bU1IQTlfbks4eGp5RmlHUThnLUFxNkJrOVRDLUxBRVZBbWZhaU9Lb1dJQmpxaEtYc3NIZDVZNm0xUFRRTUpPVlZGRUg0LUlyYTdiZ3RNVkYzZTRWLVE?oc=5",
-          "published": "2026-08-06T04:52:34.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: BlackRock TCP Capital posts mixed Q2 2026 results - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmhNV0MyaUY1dTBSNEhoV0xjUTJ0YVk5cG5aS0JfRFlfTm0zR2pUd1pHeHc5UnY5OU1LbTA2MU5wOGMzME0xcnBJR1NsSWU3UXhHblFKOWF6Vl9kSlBBbFcxc1QzRXVrYzJpd0hyaFQ1akt0Z3ZReDc4Sk9ZZDJUTXVSdzg4LXdUc19mOElPQjZGRUJLb2JCa0k5LXBvNkhxZzhVQnY5b3JiTDlkNDZkRXdIRUVKV2UyTnBmaG8ySG55T2NpVl9FZXVR?oc=5",
-          "published": "2026-08-06T18:30:07.000Z"
+          "headline": "Earnings call transcript: BlackRock TCP Capital posts mixed Q2 2026 results - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObzhCSzAyRHZ1amRRZ1ZxTkVlNWd5QkJHV01FTk9mclFzeXlHc3VCamNGV1dxS2pTR3JNaHdKWXZSTUV0R1o4WGIyMnJjMnBlenZOTEVwLWFBZjduSDZlZWVmSmJleWRFbl8zUzdNRS16ZXhYa2R4NUc2bTU2OS1zUml5YW9wN2lfclEtamI0RmI5OEs0YTY1UHMxNV9IcVRhUURoMDViVUJ0UDFiM1lYMkVjZG5PYzZCTHpTT2UzcVV4NXhZSjF5cA?oc=5",
+          "published": "2026-08-08T02:31:51.000Z"
         },
         {
           "company": "Nikko Asset Management",
@@ -81,7 +65,15 @@
       "name": "Wealth Management",
       "bullets": [],
       "candidates": [],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "DBS Group Remains Singapore's Leading Bank With Wealth Management Driving Growth - Morningstar",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNelE0dGYzWHpreFhzbloyVG9CZ25YRG9NYWpGY29teVEyVDRJNlNtRFBoTldyVTNDSEd6cUpqUjdScW1mSmI5ZHV3TzRIc25KVGpYYVVGUFRiYW1FcExDZDFPN1NHUWhDdVlZMXpFdjRuT192U3BKNnhjZENBUWw0NVA0b2dZRnBieUZ3dFUycHNDY2tqY3VXV1VHTU5pbnpudTVGYnk2U2lERkRQUVpmakxFWVpXQmt3LVlyTGZIUXNpS3NKUG8xT0R4cw?oc=5",
+        "published": "2026-08-06T09:52:46.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "OCBC Bank",
@@ -117,8 +109,8 @@
           "tag": "Press",
           "headline": "Cancer is reshaping Australia's life insurance claims – and insurers are investing accordingly - Insurance Business",
           "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMV9GeEZIa3VZTmFVeldFSzVvdHZTMjJlZHk1OGlJaGlvY3ZHSjQ4c21QQ1FJQUZsTm9TRnhRbXdmU2xJU2RFWC1aMkU5eGNZVHJhbl9ZVEZmNWRaMmZyT2pEbTY1RUtDNldCY3luRlpWdUt5eFo3U1ZvSjdqd01wWThISnR6dE9iWHJYZVNQbVNuVFp3NlJma29aZS1zNHMzMXZaME5tSVB2SGpmVGxNRTJQN3RXQjlzTWRCWjBGczVMM3prS2JEV1MwdEVqb3pnaUJta2JtYUI0MDd1d2Fha2hudm5rb0ZnR01pY1EzSWxrNTBpUURJMU4xeGNDZw?oc=5",
-          "published": "2026-08-07T15:46:54.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdnpUa1ZFLXhlNlNacXdqTTFxMzhrdnhWcjlzWHVHTGtHaVBJZHRneW4xbnh1U1ZqenlnLVdldFN0cGF0b2RUM01aMV82Q0gzS2ZaVkZZaEZLY3dsMlRXWVZzQUlKTm9hODhDSnhIVUp6NzFSalVWTEo2bjZ6akY2eDZZeTNwVnRrN1JVZDdwX0ZyM2JaVXIzaUFQeWR5RGV3ZXpVaFRHeWFUYjRfTzRQMHI1UmdUXzdxNWIycmtmQ19fbTRPeUxyT0pOd0d4c0tkUTZTNG5BUENDd2ZfazJfbGJBN25DXzdLdG55T2Y2dzRscERIT2xV?oc=5",
+          "published": "2026-08-07T15:45:57.000Z"
         }
       ],
       "candidates": [
@@ -126,19 +118,27 @@
           "tag": "Press",
           "headline": "Cancer is reshaping Australia's life insurance claims – and insurers are investing accordingly - Insurance Business",
           "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMV9GeEZIa3VZTmFVeldFSzVvdHZTMjJlZHk1OGlJaGlvY3ZHSjQ4c21QQ1FJQUZsTm9TRnhRbXdmU2xJU2RFWC1aMkU5eGNZVHJhbl9ZVEZmNWRaMmZyT2pEbTY1RUtDNldCY3luRlpWdUt5eFo3U1ZvSjdqd01wWThISnR6dE9iWHJYZVNQbVNuVFp3NlJma29aZS1zNHMzMXZaME5tSVB2SGpmVGxNRTJQN3RXQjlzTWRCWjBGczVMM3prS2JEV1MwdEVqb3pnaUJta2JtYUI0MDd1d2Fha2hudm5rb0ZnR01pY1EzSWxrNTBpUURJMU4xeGNDZw?oc=5",
-          "published": "2026-08-07T15:46:54.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdnpUa1ZFLXhlNlNacXdqTTFxMzhrdnhWcjlzWHVHTGtHaVBJZHRneW4xbnh1U1ZqenlnLVdldFN0cGF0b2RUM01aMV82Q0gzS2ZaVkZZaEZLY3dsMlRXWVZzQUlKTm9hODhDSnhIVUp6NzFSalVWTEo2bjZ6akY2eDZZeTNwVnRrN1JVZDdwX0ZyM2JaVXIzaUFQeWR5RGV3ZXpVaFRHeWFUYjRfTzRQMHI1UmdUXzdxNWIycmtmQ19fbTRPeUxyT0pOd0d4c0tkUTZTNG5BUENDd2ZfazJfbGJBN25DXzdLdG55T2Y2dzRscERIT2xV?oc=5",
+          "published": "2026-08-07T15:45:57.000Z"
         }
       ],
       "insight": null,
       "companyUpdates": [
+        {
+          "company": "AIA Group",
+          "ticker": "AIA",
+          "tag": "Transcript",
+          "headline": "AUCK AIRPT FPO NZX [AIA] (AIA.XA) H1 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnByUHVHenRjMGRqZVlWbDhXZWdoMnJjVDZ5bUJwb1pfdlRJYkFhVFhZZEdiV2dHaGJnaFBQVC1oZFN2RmpyWDc3MjJaSjd3T05iMEhMbk5KV2V1THJ4Si1NTC1zQXo1MWEtdVFRUHg2WVV6NGtlV2ptQXlrUEJvbDBkdnMtNUYxcHJBSkNqSUV5dw?oc=5",
+          "published": "2026-08-09T14:11:30.000Z"
+        },
         {
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-06T16:52:39.000Z"
+          "published": "2026-08-09T09:30:57.000Z"
         },
         {
           "company": "Great Eastern",
@@ -166,7 +166,7 @@
           "headline": "An overview: Best credit card promotions in Singapore (August 2026) - MoneySmart",
           "source": "MoneySmart",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-08-08T04:59:58.000Z"
+          "published": "2026-08-07T07:00:00.000Z"
         },
         {
           "tag": "Product",
@@ -189,7 +189,7 @@
           "headline": "An overview: Best credit card promotions in Singapore (August 2026) - MoneySmart",
           "source": "MoneySmart",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-08-08T04:59:58.000Z"
+          "published": "2026-08-07T07:00:00.000Z"
         },
         {
           "tag": "Product",
@@ -197,38 +197,9 @@
           "source": "Tech in Asia",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTUycjZyZjZEdzJCX3pFLUcyZnJlYkVrazR0YzRJV1FYUTUxOTFEYk5VVnNGdkU4aW9IUFI5N09CSENZbE1DZkZ5TEMxQmdmZ0hEakRHSVZmMVF5ajJYVjg3d2lINTJUUWRZc0NoRnNNNEMxWUY5RWppNlJjcm1RVDJPYV9hRjZ4Y1E?oc=5",
           "published": "2026-08-07T04:15:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "25 arrested as police bust loan shark ring charging up to 282% interest rate - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYkNJdHZsR0pxLVFJa3pGaDE4ZUR1eTFQR1ZUejJLNTBVOGRNSkFsNlFNaGNOR0JRb1cwemZnS0JjRGFmTmlMWHFSdTBhZzlNRWdvMFo2bUIzZFZBWndpSzctSm0tR3hmNGNTSVBjZGpFR21rX19hMzNPb3BpR2VBSU1NcnZMRE5sWlVDT0tSZFItWExfY21TdXRhNDB6SkJuRnZ1TXFQMWZzZS1EbWNFZE1oaHFHbjdzRmRnZWJHY3N6aF91MlpTdF9CNktScnhOZzN4cmtwNHdvQdIB2gFBVV95cUxPdHZwcVRuN2dMSXRZM1ZlUExYTXBvUjNxcTFaM3VSdGhWNVpHTzBiQk5KNk1GMVRmWTExOU9LYjNtMjlQNFdzNUxNSW1yT0diYlBSUkUtSGlvcW9aVm1aYjcwWnZVTEVRUVJCWk13Mi1fN3FvUjAwdWVWZWEtSVRCLTdsMjFmZXhjRmtqQVZNWGludzNUUGZvTG9kVVRZcTA0RzdaMk5OTU9WTjdTWlVGNHRVYVlRQlBzbG1sWVRqbmRXU2hfM0IwcjZxVHdhMWhpYlZKbTRCNUpEdw?oc=5",
-          "published": "2026-08-06T04:45:37.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Singapore's OCBC raises 2026 loan growth outlook, Q2 profit jumps 22pct to quarterly record - NST Online",
-          "source": "NST Online",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRVJobkszdHVyNzMtY2JZV1VNSUUxOFVDa1pEdVJzSFdaUUZ6bkpCQjZZRElNNW1wSlJtaHNKQlVtLTFUZzQzb3o2YW9teHV2Tk9Zek5POHp0VW5FVXlMRFBiTW1Vbk5LSFZ0WVJVT0djTzdZRzZlQ2REalFQX2RoWVFGR1ZaSW5LUFFqTzc5RHFpT1Y3OTgzNjFGbllVUXhxX3hFS0tqUkstekVDV29wUktLNEFxd1Zxb3Q0UnBVZmtBMXPSAcMBQVVfeXFMUEVSaG5LM3R1cjczLWNiWVdVTUlFMThVQ2taRHVSc0hXWlFGem5KQkI2WURJTTVtcEpSbWhzSkJVbS0xVGc0M296NmFvbXh1dk5PWXpOTzh6dFVuRVV5TERQYk1tVW5OS0hWdFlSVU9HY083WUc2ZUNkRGpRUF9kaFlRRkdWWkluS1BRak83OURxaU9WNzk4MzYxRm5ZVVF4cV94RUtLalJLLXpFQ1dvcFJLSzRBcXdWcW90NFJwVWZrQTFz?oc=5",
-          "published": "2026-08-07T00:59:57.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Maybank Singapore joins MAS’ BLOOM Initiative to modernise cross-border payments - The Edge Malaysia",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RMnAzY1RxZ1BudnBhejU1QnJlRUFqUzVtOFAtVWFDSnZzTEhYVi1XRnhCY2NBWVZESlNKWjl0Zk9mbHB6WGpaTWZ6bkQ4djNR?oc=5",
-          "published": "2026-08-06T03:36:18.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "China’s Africa loan pivot turns it into a debt collector - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVdhZUxCTnBrZUtTNVJCMm9CMGhaWm1sN3pmZERMNWxWYXo4Zjg3bjhFeHZsbzJHSUx5cUxnaG9YVjlTdmNiWTRnbG9NSlpiUU0weHZ3UjdYVFIydDA1bzRKNk9vRTBxTng3TzlSbU42YTNrZzliMWoxUXFPeUhlSVQ1RkFoc2t2VTN1OHZycGdubTZGZU5ybDZOWjdTRVNhck5lSXBTcjJUWlJGY3FjQU5ONEg5ZDDSAbcBQVVfeXFMUEVXYWVMQk5wa2VLUzVSQjJvQjBoWlptbDd6ZmRETDVsVmF6OGY4N244RXh2bG8yR0lMeXFMZ2hvWFY5U3ZjYlk0Z2xvTUpaYlFNMHh2d1I3WFRSMnQwNW80SjZPb0UwcU54N085Um1ONmEza2c5YjFqMVFxT3lIZUlUNUZBaHNrdlUzdTh2cnBnbm02RmVOcmw2Tlo3U0VTYXJOZUlwU3IyVFpSRmNxY0FOTjRIOWQw?oc=5",
-        "published": "2026-08-07T09:05:01.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "UOB",
