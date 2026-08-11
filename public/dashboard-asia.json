@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:28:18.455Z",
+  "generatedAt": "2026-08-11T03:21:08.883Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,8 +30,38 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Strategy",
+          "headline": "How CXMT’s MSCI China index entry may lure fund inflows, cement its top ranking - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSXZFLUZCNDdkM0hMUnZrQVJNWTB1ZVViSVYwX19sRUdmWUhNTTVldkhWbmNzSjVqRGZ2TmFpSkdiLXNETmgtTC1yTzI2bDRFSks1Nzk4NTBrdGNiUzNrcHFkb3JDbnp1bU1ZM21JcldqR1Bib3Q1Q0RZcGJsMHZmRGJyTGctQkc4cG56dXo2MTdwTndxXzdqS3ZNVWtoUEUwYkt0bzZUMVRrYm5VQ2xXOUpqbGpBd0VNa1BxWEQ4OENRdU4tcndoaHdNZEFDVTNLMmxpMXNvN05GN3BWeUhNNHVR0gHiAUFVX3lxTFBJdkUtRkI0N2QzSExSdmtBUk1ZMHVlVWJJVjBfX2xFR2ZZSE1NNWV2SFZuY3NKNWpEZnZOYWlKR2Itc0ROaC1MLXJPMjZsNEVKSzU3OTg1MGt0Y2JTM2twcWRvckNuenVtTVkzbUlyV2pHUGJvdDVDRFlwYmwwdmZEYnJMZy1CRzhwbnp1ejYxN3BOd3FfN2pLdk1Va2hQRTBiS3RvNlQxVGtiblVDbFc5SmpsakF3RU1rUHFYRDg4Q1F1Ti1yd2hod01kQUNVM0sybGkxc283TkY3cFZ5SE00dVE?oc=5",
+          "published": "2026-08-10T05:00:21.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTV5akRIeGNiSE5VZ2JtNlRveVdINV9yWVZ2VkVqeWZoU0F6SXpLdFdnMkZaenl5Y3FHR0ZPNlNVZTBDTVljTlA5U2ZXMnRzc1pvejdzd1dveC1VNkg4Tzh4aEF0cVoyaTVqaHlSMjZaOEFBcHpnNzJyQVlXaDQyOUo4Zzl5R0p6VE1sTVZ6XzEzbzBYXzZGdFF1NEpPR3dTVHRxRkVUZm14Tnc?oc=5",
+          "published": "2026-08-10T07:09:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Strategy",
+          "headline": "How CXMT’s MSCI China index entry may lure fund inflows, cement its top ranking - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSXZFLUZCNDdkM0hMUnZrQVJNWTB1ZVViSVYwX19sRUdmWUhNTTVldkhWbmNzSjVqRGZ2TmFpSkdiLXNETmgtTC1yTzI2bDRFSks1Nzk4NTBrdGNiUzNrcHFkb3JDbnp1bU1ZM21JcldqR1Bib3Q1Q0RZcGJsMHZmRGJyTGctQkc4cG56dXo2MTdwTndxXzdqS3ZNVWtoUEUwYkt0bzZUMVRrYm5VQ2xXOUpqbGpBd0VNa1BxWEQ4OENRdU4tcndoaHdNZEFDVTNLMmxpMXNvN05GN3BWeUhNNHVR0gHiAUFVX3lxTFBJdkUtRkI0N2QzSExSdmtBUk1ZMHVlVWJJVjBfX2xFR2ZZSE1NNWV2SFZuY3NKNWpEZnZOYWlKR2Itc0ROaC1MLXJPMjZsNEVKSzU3OTg1MGt0Y2JTM2twcWRvckNuenVtTVkzbUlyV2pHUGJvdDVDRFlwYmwwdmZEYnJMZy1CRzhwbnp1ejYxN3BOd3FfN2pLdk1Va2hQRTBiS3RvNlQxVGtiblVDbFc5SmpsakF3RU1rUHFYRDg4Q1F1Ti1yd2hod01kQUNVM0sybGkxc283TkY3cFZ5SE00dVE?oc=5",
+          "published": "2026-08-10T05:00:21.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTV5akRIeGNiSE5VZ2JtNlRveVdINV9yWVZ2VkVqeWZoU0F6SXpLdFdnMkZaenl5Y3FHR0ZPNlNVZTBDTVljTlA5U2ZXMnRzc1pvejdzd1dveC1VNkg4Tzh4aEF0cVoyaTVqaHlSMjZaOEFBcHpnNzJyQVlXaDQyOUo4Zzl5R0p6VE1sTVZ6XzEzbzBYXzZGdFF1NEpPR3dTVHRxRkVUZm14Tnc?oc=5",
+          "published": "2026-08-10T07:09:00.000Z"
+        }
+      ],
       "insight": null,
       "companyUpdates": [
         {
@@ -107,19 +137,19 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Cancer is reshaping Australia's life insurance claims – and insurers are investing accordingly - Insurance Business",
-          "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdnpUa1ZFLXhlNlNacXdqTTFxMzhrdnhWcjlzWHVHTGtHaVBJZHRneW4xbnh1U1ZqenlnLVdldFN0cGF0b2RUM01aMV82Q0gzS2ZaVkZZaEZLY3dsMlRXWVZzQUlKTm9hODhDSnhIVUp6NzFSalVWTEo2bjZ6akY2eDZZeTNwVnRrN1JVZDdwX0ZyM2JaVXIzaUFQeWR5RGV3ZXpVaFRHeWFUYjRfTzRQMHI1UmdUXzdxNWIycmtmQ19fbTRPeUxyT0pOd0d4c0tkUTZTNG5BUENDd2ZfazJfbGJBN25DXzdLdG55T2Y2dzRscERIT2xV?oc=5",
-          "published": "2026-08-07T15:45:57.000Z"
+          "headline": "UBS Group: State Taxation Administration Clarifies That Taxation of Offshore Insurance Policies Is Not a New Rule; Hong Kong Participatin…",
+          "source": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXBNNXJqci1JM1lRWEdQV2JUcEpVV0daazdNVWNIQlZLLV9ySTZUY0lhNTVZT2kzbnFWR3ZwbkRMLXhkaW5WZTl3SnNFcnV3SkJoc3kzSUNXSXd1OXBWMFI3cTlZVTJJLURxYzhlOHI3ZXhpWDl6aUc4dzBVbVJZN0pMZHBaV0FuTWdMWjZ4ZXZsejk2dDExTzVOZ1FHWUtIaDFjLUwwb0ROQlNoVlFUa01VTm5vSG8?oc=5",
+          "published": "2026-08-10T04:47:06.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Cancer is reshaping Australia's life insurance claims – and insurers are investing accordingly - Insurance Business",
-          "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdnpUa1ZFLXhlNlNacXdqTTFxMzhrdnhWcjlzWHVHTGtHaVBJZHRneW4xbnh1U1ZqenlnLVdldFN0cGF0b2RUM01aMV82Q0gzS2ZaVkZZaEZLY3dsMlRXWVZzQUlKTm9hODhDSnhIVUp6NzFSalVWTEo2bjZ6akY2eDZZeTNwVnRrN1JVZDdwX0ZyM2JaVXIzaUFQeWR5RGV3ZXpVaFRHeWFUYjRfTzRQMHI1UmdUXzdxNWIycmtmQ19fbTRPeUxyT0pOd0d4c0tkUTZTNG5BUENDd2ZfazJfbGJBN25DXzdLdG55T2Y2dzRscERIT2xV?oc=5",
-          "published": "2026-08-07T15:45:57.000Z"
+          "headline": "UBS Group: State Taxation Administration Clarifies That Taxation of Offshore Insurance Policies Is Not a New Rule; Hong Kong Participatin…",
+          "source": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXBNNXJqci1JM1lRWEdQV2JUcEpVV0daazdNVWNIQlZLLV9ySTZUY0lhNTVZT2kzbnFWR3ZwbkRMLXhkaW5WZTl3SnNFcnV3SkJoc3kzSUNXSXd1OXBWMFI3cTlZVTJJLURxYzhlOHI3ZXhpWDl6aUc4dzBVbVJZN0pMZHBaV0FuTWdMWjZ4ZXZsejk2dDExTzVOZ1FHWUtIaDFjLUwwb0ROQlNoVlFUa01VTm5vSG8?oc=5",
+          "published": "2026-08-10T04:47:06.000Z"
         }
       ],
       "insight": null,
@@ -138,7 +168,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-09T09:30:57.000Z"
+          "published": "2026-08-08T05:03:14.000Z"
         },
         {
           "company": "Great Eastern",
@@ -153,52 +183,8 @@
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [
-        {
-          "tag": "Strategy",
-          "headline": "China’s Africa loan pivot turns it into a debt collector - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTgzbTNXWTVsM19sMF80S3o5NUVLS0hwRS03cDhfSmZXdzlSQkRseGpoS0Q4YkVQNXd4OEZNMXFiSXdrMGN3Mzk4bDh5NWp3SWR0ODlkZnlrbWc0Z2hDTU0wWFh5dzc2REZtTS1XRlNOTUZCOHBRSkZwbzEzYW5KWlpsVVM1Zk9rWC00OTBXZG0zUjV3UmxVUXhkRjBVbnA1YVZKY2swOUxhbUNOZTFVQXRmWXI1MEHSAbcBQVVfeXFMUEVXYWVMQk5wa2VLUzVSQjJvQjBoWlptbDd6ZmRETDVsVmF6OGY4N244RXh2bG8yR0lMeXFMZ2hvWFY5U3ZjYlk0Z2xvTUpaYlFNMHh2d1I3WFRSMnQwNW80SjZPb0UwcU54N085Um1ONmEza2c5YjFqMVFxT3lIZUlUNUZBaHNrdlUzdTh2cnBnbm02RmVOcmw2Tlo3U0VTYXJOZUlwU3IyVFpSRmNxY0FOTjRIOWQw?oc=5",
-          "published": "2026-08-07T09:05:01.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "An overview: Best credit card promotions in Singapore (August 2026) - MoneySmart",
-          "source": "MoneySmart",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-08-07T07:00:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Singapore’s digital banking battle in 6 charts - Tech in Asia",
-          "source": "Tech in Asia",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTUycjZyZjZEdzJCX3pFLUcyZnJlYkVrazR0YzRJV1FYUTUxOTFEYk5VVnNGdkU4aW9IUFI5N09CSENZbE1DZkZ5TEMxQmdmZ0hEakRHSVZmMVF5ajJYVjg3d2lINTJUUWRZc0NoRnNNNEMxWUY5RWppNlJjcm1RVDJPYV9hRjZ4Y1E?oc=5",
-          "published": "2026-08-07T04:15:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Strategy",
-          "headline": "China’s Africa loan pivot turns it into a debt collector - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTgzbTNXWTVsM19sMF80S3o5NUVLS0hwRS03cDhfSmZXdzlSQkRseGpoS0Q4YkVQNXd4OEZNMXFiSXdrMGN3Mzk4bDh5NWp3SWR0ODlkZnlrbWc0Z2hDTU0wWFh5dzc2REZtTS1XRlNOTUZCOHBRSkZwbzEzYW5KWlpsVVM1Zk9rWC00OTBXZG0zUjV3UmxVUXhkRjBVbnA1YVZKY2swOUxhbUNOZTFVQXRmWXI1MEHSAbcBQVVfeXFMUEVXYWVMQk5wa2VLUzVSQjJvQjBoWlptbDd6ZmRETDVsVmF6OGY4N244RXh2bG8yR0lMeXFMZ2hvWFY5U3ZjYlk0Z2xvTUpaYlFNMHh2d1I3WFRSMnQwNW80SjZPb0UwcU54N085Um1ONmEza2c5YjFqMVFxT3lIZUlUNUZBaHNrdlUzdTh2cnBnbm02RmVOcmw2Tlo3U0VTYXJOZUlwU3IyVFpSRmNxY0FOTjRIOWQw?oc=5",
-          "published": "2026-08-07T09:05:01.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "An overview: Best credit card promotions in Singapore (August 2026) - MoneySmart",
-          "source": "MoneySmart",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-08-07T07:00:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Singapore’s digital banking battle in 6 charts - Tech in Asia",
-          "source": "Tech in Asia",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTUycjZyZjZEdzJCX3pFLUcyZnJlYkVrazR0YzRJV1FYUTUxOTFEYk5VVnNGdkU4aW9IUFI5N09CSENZbE1DZkZ5TEMxQmdmZ0hEakRHSVZmMVF5ajJYVjg3d2lINTJUUWRZc0NoRnNNNEMxWUY5RWppNlJjcm1RVDJPYV9hRjZ4Y1E?oc=5",
-          "published": "2026-08-07T04:15:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
