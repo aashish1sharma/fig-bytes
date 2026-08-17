@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T02:44:31.465Z",
+  "generatedAt": "2026-08-17T02:54:59.773Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,299 +30,34 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Strategy",
-          "headline": "Financial Employment Gold Cards Surpass 1,000 Issued; Hong Kong and U.S. Talent Account for Nearly Half; Growth of Nearly 30% After Asset…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUTVTRWZuUnFiX3pQSnJucGJCc19WcXpjc0JrRDllN2ZNMzVUNGtSSE5ZZmlFZHNpTWt4ZjJ2bDBwLUdpeDVuM3RvQV9kMllScXhCbndzWmdLZC1JM0pNRjlYQnc0NldUZEQxSWxrZHJ2MTVKRHc?oc=5",
-          "published": "2026-08-13T17:05:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Honorary Award for Best Fund of the Year 2569 in the Property and Infrastructure Fund category, Eastspring Asset Management (Thailand) Co…",
-          "source": "วารสารการเงินธนาคาร",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96cTd3R1pzaUNmXzBmTEZZQ1F2SXIxb0NnS1JsaE5kV3VQU3k3bGJzWDRhZnI1X1NPMW4wYXNqdVJkRVBYVC05R3ZDTmpfWGQ2TVZfaXVfOUw?oc=5",
-          "published": "2026-08-13T05:07:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "SF Reit reports 7.3% drop in distributable income for first half of 2026 - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXQ0WlpBRkVYNy1pNGRHQkF2dmpUQ0k1eWc2MkhTUVgxcWxPRnlvZ2JHLUZJeWROTENlaWJIQnBqaTVRTUVTbnQzajJ4S2NWZnRYUWNIRmdnMjNTUk9iRGdRNlZtY2lQbS1NQVR4ZXN5b2xUYkx2cXo4N0xqcFBMQi1MYjE4eUZBZExaaGh2MVQ0LVNmbWRMLVROX1lIN0duZExUc0NXYjBIT25JLXB1TGgyMDFGNXdqZnVCOF9ycWUtc3BBUDZR0gHHAUFVX3lxTE1YamcyMzRCV29PQjczUjJDOE1EZkZsdHBERFpOd28wdHN5UEhOODdqTElkaUFLR0RnUWs5YThDbm5hX0ViM2Zlcmd6aENlS1JRNTZKeTNNOGtXSFlINjhzUE15YkctNGRJZ21JSGpKX2dhS2xYY0ROOENkU3g2UmtkQjliRWh2UlZZWmxVMncwY2NsbnpadGJtRHN2YU95QU9XazlwVGxtSDhLRndtWWtJR05TTDVMcEF1Ty1EdDZWLUNmX0ZvckE?oc=5",
-          "published": "2026-08-13T13:16:18.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Strategy",
-          "headline": "Financial Employment Gold Cards Surpass 1,000 Issued; Hong Kong and U.S. Talent Account for Nearly Half; Growth of Nearly 30% After Asset…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUTVTRWZuUnFiX3pQSnJucGJCc19WcXpjc0JrRDllN2ZNMzVUNGtSSE5ZZmlFZHNpTWt4ZjJ2bDBwLUdpeDVuM3RvQV9kMllScXhCbndzWmdLZC1JM0pNRjlYQnc0NldUZEQxSWxrZHJ2MTVKRHc?oc=5",
-          "published": "2026-08-13T17:05:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Honorary Award for Best Fund of the Year 2569 in the Property and Infrastructure Fund category, Eastspring Asset Management (Thailand) Co…",
-          "source": "วารสารการเงินธนาคาร",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96cTd3R1pzaUNmXzBmTEZZQ1F2SXIxb0NnS1JsaE5kV3VQU3k3bGJzWDRhZnI1X1NPMW4wYXNqdVJkRVBYVC05R3ZDTmpfWGQ2TVZfaXVfOUw?oc=5",
-          "published": "2026-08-13T05:07:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "SF Reit reports 7.3% drop in distributable income for first half of 2026 - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXQ0WlpBRkVYNy1pNGRHQkF2dmpUQ0k1eWc2MkhTUVgxcWxPRnlvZ2JHLUZJeWROTENlaWJIQnBqaTVRTUVTbnQzajJ4S2NWZnRYUWNIRmdnMjNTUk9iRGdRNlZtY2lQbS1NQVR4ZXN5b2xUYkx2cXo4N0xqcFBMQi1MYjE4eUZBZExaaGh2MVQ0LVNmbWRMLVROX1lIN0duZExUc0NXYjBIT25JLXB1TGgyMDFGNXdqZnVCOF9ycWUtc3BBUDZR0gHHAUFVX3lxTE1YamcyMzRCV29PQjczUjJDOE1EZkZsdHBERFpOd28wdHN5UEhOODdqTElkaUFLR0RnUWs5YThDbm5hX0ViM2Zlcmd6aENlS1JRNTZKeTNNOGtXSFlINjhzUE15YkctNGRJZ21JSGpKX2dhS2xYY0ROOENkU3g2UmtkQjliRWh2UlZZWmxVMncwY2NsbnpadGJtRHN2YU95QU9XazlwVGxtSDhLRndtWWtJR05TTDVMcEF1Ty1EdDZWLUNmX0ZvckE?oc=5",
-          "published": "2026-08-13T13:16:18.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "SF Reit reports 7.3% drop in distributable income for first half of 2026 - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXQ0WlpBRkVYNy1pNGRHQkF2dmpUQ0k1eWc2MkhTUVgxcWxPRnlvZ2JHLUZJeWROTENlaWJIQnBqaTVRTUVTbnQzajJ4S2NWZnRYUWNIRmdnMjNTUk9iRGdRNlZtY2lQbS1NQVR4ZXN5b2xUYkx2cXo4N0xqcFBMQi1MYjE4eUZBZExaaGh2MVQ0LVNmbWRMLVROX1lIN0duZExUc0NXYjBIT25JLXB1TGgyMDFGNXdqZnVCOF9ycWUtc3BBUDZR0gHHAUFVX3lxTE1YamcyMzRCV29PQjczUjJDOE1EZkZsdHBERFpOd28wdHN5UEhOODdqTElkaUFLR0RnUWs5YThDbm5hX0ViM2Zlcmd6aENlS1JRNTZKeTNNOGtXSFlINjhzUE15YkctNGRJZ21JSGpKX2dhS2xYY0ROOENkU3g2UmtkQjliRWh2UlZZWmxVMncwY2NsbnpadGJtRHN2YU95QU9XazlwVGxtSDhLRndtWWtJR05TTDVMcEF1Ty1EdDZWLUNmX0ZvckE?oc=5",
-        "published": "2026-08-13T13:16:18.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "BlackRock",
-          "ticker": "BLK",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: BlackRock TCP Capital posts mixed Q2 2026 results - Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObzhCSzAyRHZ1amRRZ1ZxTkVlNWd5QkJHV01FTk9mclFzeXlHc3VCamNGV1dxS2pTR3JNaHdKWXZSTUV0R1o4WGIyMnJjMnBlenZOTEVwLWFBZjduSDZlZWVmSmJleWRFbl8zUzdNRS16ZXhYa2R4NUc2bTU2OS1zUml5YW9wN2lfclEtamI0RmI5OEs0YTY1UHMxNV9IcVRhUURoMDViVUJ0UDFiM1lYMkVjZG5PYzZCTHpTT2UzcVV4NXhZSjF5cA?oc=5",
-          "published": "2026-08-08T02:31:51.000Z"
-        },
-        {
-          "company": "Nikko Asset Management",
-          "ticker": "NOMURA",
-          "tag": "Transcript",
-          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaDdGTEs5RTBsRmtudl9fSHBHdk9UQ0hhRVludzVNY191RmNBNlRCT0ZSYWVUZ1JaT2UtaGJielFjSUZlU0VGZWJqeVRmTXVvZGQ1OFRBR3hEWUZCTFUyMTBpWmhlMmNHNmlNY3hRbHUwZFFpWUFBako4OA?oc=5",
-          "published": "2026-08-04T00:32:24.000Z"
-        },
-        {
-          "company": "Schroders",
-          "ticker": "SDR",
-          "tag": "Presentation",
-          "headline": "Investor Presentation - mybrand.schroders.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
-          "published": "2026-08-12T09:02:39.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Opinion | Beijing’s offshore insurance tax tests Hong Kong wealth management - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2FyWUUxVFlWNXlha1pOOEJHTjFVNkIwS0ZZTkJFZllFUGg5Q3pDYUZrYmhyNEdUa2dXamRKeEVialVVazNOYk9yZ0x2M251TU45YlZPOFltUGo2cEh3UHhNdnZBUUgwc2o2R0dlSDh1NW96ZkozY3RRamhqZ1JyT0laRUtXN2dWZW84cEthOWFKUEFhN2pjUFVWY3NtZ3p5ZjFKYm4taGExNk5WM0RKNDF0WlhYYTV1SGJjMDNCakl5QjdpbERF0gHHAUFVX3lxTE1yTHh2SUU5YTR1bW1zZU9BaFhya0pjNUtQNFM1SC1yd3E2YXBXOVB2ZHY5UUJ6dFlWZHp3UXE0LXFFR0NkeGhNR2tSYWd5MklhcTZMNlFuNkF1WnB4SXc4elRpLTZ0Ml9YRmk1X3FTVE1jdVpUenQ4OWk2V3FHRl85RHpDbFVHQl9Qb1lhX2J0LWJRLV9LSjJiVUFwLWtqRmlrRjlzclFZQXJ1NFFSbXl6clNWQ1Z5NVhqbUhkcmt6eDV3dzA5OWc?oc=5",
-          "published": "2026-08-13T08:30:07.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Opinion | Beijing’s offshore insurance tax tests Hong Kong wealth management - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2FyWUUxVFlWNXlha1pOOEJHTjFVNkIwS0ZZTkJFZllFUGg5Q3pDYUZrYmhyNEdUa2dXamRKeEVialVVazNOYk9yZ0x2M251TU45YlZPOFltUGo2cEh3UHhNdnZBUUgwc2o2R0dlSDh1NW96ZkozY3RRamhqZ1JyT0laRUtXN2dWZW84cEthOWFKUEFhN2pjUFVWY3NtZ3p5ZjFKYm4taGExNk5WM0RKNDF0WlhYYTV1SGJjMDNCakl5QjdpbERF0gHHAUFVX3lxTE1yTHh2SUU5YTR1bW1zZU9BaFhya0pjNUtQNFM1SC1yd3E2YXBXOVB2ZHY5UUJ6dFlWZHp3UXE0LXFFR0NkeGhNR2tSYWd5MklhcTZMNlFuNkF1WnB4SXc4elRpLTZ0Ml9YRmk1X3FTVE1jdVpUenQ4OWk2V3FHRl85RHpDbFVHQl9Qb1lhX2J0LWJRLV9LSjJiVUFwLWtqRmlrRjlzclFZQXJ1NFFSbXl6clNWQ1Z5NVhqbUhkcmt6eDV3dzA5OWc?oc=5",
-          "published": "2026-08-13T08:30:07.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Op-ed",
-        "headline": "Opinion | Beijing’s offshore insurance tax tests Hong Kong wealth management - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2FyWUUxVFlWNXlha1pOOEJHTjFVNkIwS0ZZTkJFZllFUGg5Q3pDYUZrYmhyNEdUa2dXamRKeEVialVVazNOYk9yZ0x2M251TU45YlZPOFltUGo2cEh3UHhNdnZBUUgwc2o2R0dlSDh1NW96ZkozY3RRamhqZ1JyT0laRUtXN2dWZW84cEthOWFKUEFhN2pjUFVWY3NtZ3p5ZjFKYm4taGExNk5WM0RKNDF0WlhYYTV1SGJjMDNCakl5QjdpbERF0gHHAUFVX3lxTE1yTHh2SUU5YTR1bW1zZU9BaFhya0pjNUtQNFM1SC1yd3E2YXBXOVB2ZHY5UUJ6dFlWZHp3UXE0LXFFR0NkeGhNR2tSYWd5MklhcTZMNlFuNkF1WnB4SXc4elRpLTZ0Ml9YRmk1X3FTVE1jdVpUenQ4OWk2V3FHRl85RHpDbFVHQl9Qb1lhX2J0LWJRLV9LSjJiVUFwLWtqRmlrRjlzclFZQXJ1NFFSbXl6clNWQ1Z5NVhqbUhkcmt6eDV3dzA5OWc?oc=5",
-        "published": "2026-08-13T08:30:07.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "Unum Group (UNM) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WNmlZYlNzOHluU0VOa25PSHlVOXpWUXVIUUZydVU3eFZ5YUptQ3lxZkJFeXB4YWh0SFNZaUZNcUprc1g1ZV90UUU3WU9LTUJWX2liQjNlaHZUUmNKM2R4MEFHMVdlNFk?oc=5",
-          "published": "2026-08-13T07:26:45.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1idnF1MTl6M2VSNkxKRWpidkFfSUVSanpQTUJacTN4YnhkOUZxaFpGck44bmkza2RqR1prSVZOUmNOX2tIbUliT3NMbXQ0TlpwcnFQdTBPSThucEN3RGVsSzUwTHI5WDI0d2Nr?oc=5",
-          "published": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: HSBC beats Q2 2026 estimates as buybacks resume - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHRLV1VhMmtJSjFvaE11TzE4OVlGa1VDcXVtZUdRZlQxNlRLOWx1N2hQZWFROXdxbzZ6ZTJWeEg1YTBET281bXNOaFZDUm5fbENWN1NVTS16NlV3UlBpTXp2bVJLWjBjdC16ajhYZ3hmMEQ4RXhNQ0l5NWRIR3FxcHRXVG03eEV6ZU5IVXJFUWRXNUp0M2pRdlhEUzBKMTBEUnZBVmJhd3gya2VLVW9qY3ZwMndqZngwbzQwWUJlNEVFNzJyVHZz?oc=5",
-          "published": "2026-08-04T07:00:00.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Exclusive | Hong Kong to reappoint insurance regulator as industry braces for tough period - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdElyVXhTTWhyNGkzVEZ2Qk1MMGI3Unp5UDhXSUN1dUhUTjNsYmZweG8xNzN1dXo2SE1MV2FNU193MmRaZ2RYQ1ZUaWEzT0pOMHZPRGhaQmtoTmdsZDdOSV9Ma1FJYXNEbFhvTFV5cjY2bUZIZmYtSG1tdVJpd0JIaVg3LW9wUFJ6V21GQnFPV3JSV0U5TFNPYUROTThPVGpwSngxMExzRDJYbGZWcHltZ1Vvb1IxOFpkQVdfM0lEOGxDdEhQRmh5clVRZURzLVJ0S0F3ddIB1AFBVV95cUxQenBVUmY4dmdpRmtOSTJrRGdpcDNKUXVPcDdvaWc5bFBPOFBVc2RSOXVWczVsQ3lJZ2lGbnFZVmtVTWxEZDZSaWNpRFpsaTBLM2JJdktSTDFaekt3SmljVEdGOW41MmlZRzI1bXNSN0ZyRWVjYksxdUpaQzAyUDloYzFTM2swUVFmRmNmLWY0OUoxSWlrdzQtakwwcGRLMzFhWkV6S1pFWEZMOUtqOER3V1BybkhkSjNsR2RzMkowVndxekJDR2NPek04X0V2LThLRVo1Yw?oc=5",
-          "published": "2026-08-13T23:30:07.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Exclusive | Hong Kong to reappoint insurance regulator as industry braces for tough period - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdElyVXhTTWhyNGkzVEZ2Qk1MMGI3Unp5UDhXSUN1dUhUTjNsYmZweG8xNzN1dXo2SE1MV2FNU193MmRaZ2RYQ1ZUaWEzT0pOMHZPRGhaQmtoTmdsZDdOSV9Ma1FJYXNEbFhvTFV5cjY2bUZIZmYtSG1tdVJpd0JIaVg3LW9wUFJ6V21GQnFPV3JSV0U5TFNPYUROTThPVGpwSngxMExzRDJYbGZWcHltZ1Vvb1IxOFpkQVdfM0lEOGxDdEhQRmh5clVRZURzLVJ0S0F3ddIB1AFBVV95cUxQenBVUmY4dmdpRmtOSTJrRGdpcDNKUXVPcDdvaWc5bFBPOFBVc2RSOXVWczVsQ3lJZ2lGbnFZVmtVTWxEZDZSaWNpRFpsaTBLM2JJdktSTDFaekt3SmljVEdGOW41MmlZRzI1bXNSN0ZyRWVjYksxdUpaQzAyUDloYzFTM2swUVFmRmNmLWY0OUoxSWlrdzQtakwwcGRLMzFhWkV6S1pFWEZMOUtqOER3V1BybkhkSjNsR2RzMkowVndxekJDR2NPek04X0V2LThLRVo1Yw?oc=5",
-          "published": "2026-08-13T23:30:07.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Hong Kong insurers to weather Beijing’s tax shift with 8-10% premium growth: S&P - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3FINzF2Vm81bDFWU0hEY1RqdlhtblljYjNEa2NHNndXb3RLQS0xdDVoOWdXZWhHOGNBRHFwZDhGaWVSV0dsYjdJVjNzUTdUeVRMWU5zUHdEZHNsdGtOUGZGZm9ZSm9hbF9BSTlNZ1lJNWFsbHdReUlqSVB2VHRibWxyNXBwTmhfczFlYVZKX1VfQVliVGJIckhsYzNNNjN3UkswcVF6YnRfYUhwNVhiSkdLRkZNX19RalFkd2ZHT1c1THFuRkRSY09n0gHKAUFVX3lxTE9XcUg3MXZWbzVsMVZTSERjVGp2WG1uWWNiM0RrY0c2d1dvdEtBLTF0NWg5Z1dlaEc4Y0FEcXBkOEZpZVJXR2xiN0lWM3NRN1R5VExZTnNQd0Rkc2x0a05QZkZmb1lKb2FsX0FJOU1nWUk1YWxsd1F5SWpJUHZUdGJtbHI1cHBOaF9zMWVhVkpfVV9BWWJUYkhySGxjM002M3dSSzBxUXpidF9hSHA1WGJKR0tGRk1fX1FqUWR3ZkdPVzVMcW5GRFJjT2c?oc=5",
-        "published": "2026-08-14T02:00:17.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "QBE Insurance",
-          "ticker": "QBE.AX",
-          "tag": "Transcript",
-          "headline": "Transcript : QBE Insurance Group Limited, H1 2026 Earnings Call, Aug 14, 2026 - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUI4MU1OVXZJZlowMzB2R3lHcmFaUi1TMlpTQTMtM2dWWmtvSjNpNllYTmJWaElBSjJwNzhYUFJZaXdJWkZicWI2YnpVMWhKTXhBLTN4Mm94Q1NhUWx5dHBKbXNyT0ExS2FELWRNNWFfY1M4Vm1TYURWYjFEUXo0dWlCZ24wVDdoTjI2LTAyX3U1ODl1UEoyb2dQZTRKVnNjTXVNbUFldXpQX19KNExKbVk4U3Q0cmJPSVRVbUZyd0ZndFE?oc=5",
-          "published": "2026-08-14T06:50:28.000Z"
-        },
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-13T23:48:03.000Z"
-        },
-        {
-          "company": "AIA Group",
-          "ticker": "AIA",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: AIA Engineering Q1 2026 shares fall as margins ease - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHh5clU3R2s0ci1TY3ZVdTRLcEIzd1RGWmw2eGpXdkd4Q3h2RzJ1a2lFSmZQUW9jaDhIQ3Azd3dOaV9LaktqTWxxQ1B4YzNWYkg4S3Q1eFpFVlR5WTAwTG1MQjM2QjVJSFJMbFZ1TFNYeWNZaFByWE5PaGo2LVIzZWo2Rm1ld2YyVHJVMlllaWlvNUF0blhnVWhDVUR6X0pacTZMRmUxNXFnRksxNEtwZkFPLWZnTlFGTzd3MjlXLU5vVExBT1hCQUZPQlk?oc=5",
-          "published": "2026-08-12T13:04:51.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "The Ultimate List of Credit Card Reviews in Singapore (2026) - MoneySmart",
-          "source": "MoneySmart",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJRlNRY2hndzhIb0lvcl9kejBGem10b1dYdFZLQVVsbFhfcHhKbHU4cjZWSUY1YjVPV3hDNmN4WHFPMnRta2pIQTk3eEU5dFZkb2pKMDM1MkRxekVEQUduU1lFVHBJUVhaNGVDNEVOYkpGRzg?oc=5",
-          "published": "2026-08-14T22:34:48.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Strata Credit Union Partners with Alkami to Deliver a Seamless, Personalized Digital Banking Experience - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzYxdXVfN0FuOS12ZW5jeEE1RXh4Q0t2ZGpJSklfUjZRRzNsOTNfZFpWb3hFdGhhdzByd1ktTFJ2N3o3MmxsQy12VDdheHU3R0xlMVh3MUdTS2RiUVBjcXYyd0JKN1h3bXJhdkN1VDJnUFpMMXlDd1o1T2d3R2YzOHN6endod1M0THljVA?oc=5",
-          "published": "2026-08-14T14:00:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Trust Bank Launches Freedom as Singapore’s First Stockback Credit Card - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVyeTdtMy1YSWxENzlkTmdaZUlWM3NESElTc0tuZDUwOWVkWFZYUlZaVzVfUnd1b05zTU9WOWtoYUpDTkwzd0JCV2VxQ0RCSFBlUlBJVlpweTNwSWlaaGFTb1VBT09MM3R4SkNqZjVhSWdFdFRSellFMHZDaXliMTgwd0hBWTg?oc=5",
-          "published": "2026-08-13T06:27:44.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "The Ultimate List of Credit Card Reviews in Singapore (2026) - MoneySmart",
-          "source": "MoneySmart",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJRlNRY2hndzhIb0lvcl9kejBGem10b1dYdFZLQVVsbFhfcHhKbHU4cjZWSUY1YjVPV3hDNmN4WHFPMnRta2pIQTk3eEU5dFZkb2pKMDM1MkRxekVEQUduU1lFVHBJUVhaNGVDNEVOYkpGRzg?oc=5",
-          "published": "2026-08-14T22:34:48.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Strata Credit Union Partners with Alkami to Deliver a Seamless, Personalized Digital Banking Experience - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzYxdXVfN0FuOS12ZW5jeEE1RXh4Q0t2ZGpJSklfUjZRRzNsOTNfZFpWb3hFdGhhdzByd1ktTFJ2N3o3MmxsQy12VDdheHU3R0xlMVh3MUdTS2RiUVBjcXYyd0JKN1h3bXJhdkN1VDJnUFpMMXlDd1o1T2d3R2YzOHN6endod1M0THljVA?oc=5",
-          "published": "2026-08-14T14:00:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Trust Bank Launches Freedom as Singapore’s First Stockback Credit Card - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVyeTdtMy1YSWxENzlkTmdaZUlWM3NESElTc0tuZDUwOWVkWFZYUlZaVzVfUnd1b05zTU9WOWtoYUpDTkwzd0JCV2VxQ0RCSFBlUlBJVlpweTNwSWlaaGFTb1VBT09MM3R4SkNqZjVhSWdFdFRSellFMHZDaXliMTgwd0hBWTg?oc=5",
-          "published": "2026-08-13T06:27:44.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Mastercard Payments Being Declined in Australia, Bank Says - Bloomberg.com",
-          "source": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMjVYQk9uVFZ6MDlJelRMQzRtWHJ1WEhfbC1MNDg2WDhiQ215Q2ZwMG9sWTdKQVF5bHBYdE9yaVp6LV8ta3R3ZWpiNkxzdE1qMVI5NWQxQ20yOFJEQW5lU1lrejUxWUlzbVJkYjd5bGZ1SzlLQklWMzNQWnNnRy1iam5wR3h6MHlqZ3ZKTWZ4STIwa0tFbzRiSTFhODFES1hFZFdueXBzZm0wb2dwZVdXWjVlV3NxMUlTZFJjZ3lwQkM4UTM0SGFR?oc=5",
-          "published": "2026-08-15T06:55:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Best Term Deposit Rates Australia 2026 - Compare & Lock In - Mozo.com.au",
-          "source": "Mozo.com.au",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zUWRTX01FSlJWUmRhVFNHb3RaU3I2cWdRdXpwcnZ1cVJNUGpzZWw0aGNCbExoNEZSeUY3bWZuUm04NlVROERjMzRwUk1HR3N5Uy1SYg?oc=5",
-          "published": "2026-08-14T07:00:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Verifone Brings Facial And Palm-Vein Biometric Payments To Australia - SMBtech",
-          "source": "SMBtech",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeC1HVmV2VmdWQWhRLXBJQzJHVkQ4Q0RCRENZNGc4Nlo3aHJPdmtkemtqenFjVGhzOWNuSUdOVE5XMzRhTERNcXJReHJzd3pEaDdGWkNhdVFQdFVvNXhmMVpLNHR4SWRWUC16eUp0NTh2ZnZ5ZjROZE4zSlB4d1JvV3BBa2hjRlFkZzRYSUZKcDdMSDVyR1MyTA?oc=5",
-          "published": "2026-08-13T10:17:39.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
-      "companyUpdates": [
-        {
-          "company": "Commonwealth Bank",
-          "ticker": "CBA.AX",
-          "tag": "Transcript",
-          "headline": "CBA 2026 Full Year Results Transcript - CommBank",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkwtcVdhWVpzTld3QUpQLVdycG5iLXM1dEExT0xTa0lmZGw4VHBPSHBKb3A4ZW5fLTcyMkNzeU9RTkJpcUFvbXJlRHcwMDA5RU8zYkV3aXpkVEFBbUpISE9xOEhjaDg5WjVKYzFDbGc1WDVnZkpXQnluREJSbk1iNW13SXBpcC1uU2tHaFFvX185ZDlQZVZ1OTFoSnBUUmU0TF94VV9WRkY4R1g3QnNNWFZR?oc=5",
-          "published": "2026-08-12T07:07:01.000Z"
-        },
-        {
-          "company": "UOB",
-          "ticker": "U11.SI",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: UOB posts steady Q2 2026 results as revenue beats forecasts - Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcHdlU09tQ2F0QTVDandGVzNCT0VHSi1vSG4xWFFvUUE4VGJUYzhEYXB1QTNiRFEwRERaNHBDd2pJckpJZXdHYVl0MXNydGk2bUlyMEhLamVIZHIwM002WFIxZzVFWlJJZnFuU2VwVVlfMldYQng2X1ZZQjJFMkZiOEVQZ2dzMXltNnR6V0xDQ2paQ2dQY2d6aWtUZC1YOGJ6cDhFdjBfbnI5X1VySDJLZWhEMTBEcEZGWlpCWkhQQUMtYldCNXF3Z1RkTnlIbll0dGI5QkFB?oc=5",
-          "published": "2026-08-07T19:21:57.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1idnF1MTl6M2VSNkxKRWpidkFfSUVSanpQTUJacTN4YnhkOUZxaFpGck44bmkza2RqR1prSVZOUmNOX2tIbUliT3NMbXQ0TlpwcnFQdTBPSThucEN3RGVsSzUwTHI5WDI0d2Nr?oc=5",
-          "published": "2026-08-06T07:00:00.000Z"
-        }
-      ]
+      "companyUpdates": []
     }
   ]
 }

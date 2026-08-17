@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T02:44:04.511Z",
+  "generatedAt": "2026-08-17T02:43:34.583Z",
   "region": "India",
   "title": "India FIG Bytes",
   "regionId": "india",
@@ -32,381 +32,34 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Strategy",
-          "headline": "Equity inflows power ₹9.5 lakh crore jump in mutual fund AUM since last Independence Day - livemint.com",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaHEtcnRvdzJTVXhJbjZ3TXFVcm9QT0VtWGRQbHQ1M0VlT0w3X0tndnp2TFBKWlFOZ2VjenQ4QVZYb2tTcGUwNWd3c3VWMXFwRXlBZDlzdXhSZ0t0bk1MZUMxaEdRNElZaHpZOU94Mi1TWURPVnVhXzlTSGVLWGlyYjVldjk5WTJ4LUZVdjNZMUlWdEpfMjlKalk1bHBzbjdUc0pZRDFlOWg5bWhvNVhRV2tMWVFWeG9zYmlGY0lBOGNCR1dSdks1OHZWeVhlY2w5RGlpcGdPb3lTYVNjR0RMajZ1OWNYVUFHRmlHRTZVM3lrVU1Yc2530gH3AUFVX3lxTFBocS1ydG93MlNVeEluNndNcVVyb1BPRW1YZFBsdDUzRWVPTDdfS2d2enZMUEpaUU5nZWN6dDhBVlhva1NwZTA1Z3dzdVYxcXBFeUFkOXN1eFJnS3RuTUxlQzFoR1E0SVloelk5T3gyLVNZRE9WdWFfOVNIZUtYaXJiNWV2OTlZMngtRlV2M1kxSVZ0Sl8yOUpqWTVscHNuN1RzSllEMWU5aDltaG81WFFXa0xZUVZ4b3NiaUZjSUE4Y0JHV1J2SzU4dlZ5WGVjbDlEaWlwZ09veVNhU2NHRExqNnU5Y1hVQUdGaUdFNlUzeWtVTVhzbnc?oc=5",
-          "published": "2026-08-15T11:00:53.000Z"
-        },
-        {
-          "tag": "Leadership",
-          "headline": "₹2.52-lakh crore fraud: HC strikes down FIR against former chief dealer at Axis Mutual Fund | Mumbai news - Hindustan Times",
-          "source": "Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNajlnYW1PaGk4MnhEWmFJakVnNGM4N1N3TUo4ZzduUkp0djlsQXlBc1hjckRIWGNHdEZOaWlNbGNnY0tvWGwzakZ6ZWNzSmtvdGlYaXlBV2dsS2FPUzdzZnFIaGVibWp1dzJ1YzhxSlhibVlVWHNqZTRRUl9JOVB5alN1S1JHWVdvYXRfUXd1T2lINFFGQlFkT0k1XzB3aUpySWUtbUpqVy15WVdPZk05OWJqUjNfYzhOUUJjVWszVUMzYnpCN1d3b0Z4LWgyU1BvSjVHd1lEZ002d1ZWaDlYc3c3QmE0LUlBNFItZUVuNNIB9AFBVV95cUxOWmF0dC1MV3ZFYUVZSURpRjltRm9xS2dwVGtYaEJ5OC1SdEctY0tDVzhmdEFTVFlScVpabmo4U1RiQnE1Y0NRWDBNXzBNQzJyRk90YWFGMXpaNDQ3Rms2aWo3aGFyWS1aVnJQS2ZrVUY1ajJ6UG9abU9xdzB5WTFlN2VoLTVYaHdRSFZQSmpZamdHV0MyZVB6RWxjVVVrMjhTV0oxT3hlSXJTMTV6MGlhMVFMV1dDdy1Yd2dlN1pYZUZSMTJvMURmbnVGOHQzT1J2SEhINGpDVEFyZHhuS2JtVW1vM3R1OUR0RlNhZnhRTWRXdE4x?oc=5",
-          "published": "2026-08-16T02:35:10.000Z"
-        },
-        {
-          "tag": "Leadership",
-          "headline": "Bombay HC Quashes FIR Against Former Axis Mutual Fund Chief Dealer In Alleged Front-Running Case - freepressjournal.in",
-          "source": "freepressjournal.in",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNko4bVpseHZWdlNVZkstdmdRQTh6c3RaSjRNTTlHZmtpYUVjSi0wUDZRWVJlSTdxRDRWY3ZYWWY5TVR0aVdRTTkyRHNUaE9iRy01dTJoUW5yem9UdGx0QnppSFFHMlhjdmNjaUpCWTV2U3Z3aVdlXzEyN0wyNnNQclNtZEg3dTQtYUhqQWQ5ajB5U0RzdDhyalRCbGtFS2E0ZVpFVUVwcmJTTkV2TEFVU0RNZE9sUXh2UkhVZFNXOXFwUE9BdFF5aElndlFiZkM50gHWAUFVX3lxTFBVS09BSlFfbGo0MTFJS3dObExJckppYVBVaWdLYW1OalJhcTVSU2hURmo1ZmVjWHNob2VxZDZBUGpQY0ZqQWphSkZSYTV2VXQxU3pXengtbG9MMjRaWlBsemFJZnc2MnU4RC1Kd2l1ZjlEQzVMYVgzakVhMWtXNUM0dHRQa2xXNVh5TWZEQzJ5YS1xbS04NU5tOEswTHlabjhKc1RGM3R1UVdoQzZfakk1QmNJZXRpVkMxeUFGZHp1S2x2aGVLcDc1b1pUcmdHZDNfSk5QT3c?oc=5",
-          "published": "2026-08-15T21:30:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Strategy",
-          "headline": "Equity inflows power ₹9.5 lakh crore jump in mutual fund AUM since last Independence Day - livemint.com",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaHEtcnRvdzJTVXhJbjZ3TXFVcm9QT0VtWGRQbHQ1M0VlT0w3X0tndnp2TFBKWlFOZ2VjenQ4QVZYb2tTcGUwNWd3c3VWMXFwRXlBZDlzdXhSZ0t0bk1MZUMxaEdRNElZaHpZOU94Mi1TWURPVnVhXzlTSGVLWGlyYjVldjk5WTJ4LUZVdjNZMUlWdEpfMjlKalk1bHBzbjdUc0pZRDFlOWg5bWhvNVhRV2tMWVFWeG9zYmlGY0lBOGNCR1dSdks1OHZWeVhlY2w5RGlpcGdPb3lTYVNjR0RMajZ1OWNYVUFHRmlHRTZVM3lrVU1Yc2530gH3AUFVX3lxTFBocS1ydG93MlNVeEluNndNcVVyb1BPRW1YZFBsdDUzRWVPTDdfS2d2enZMUEpaUU5nZWN6dDhBVlhva1NwZTA1Z3dzdVYxcXBFeUFkOXN1eFJnS3RuTUxlQzFoR1E0SVloelk5T3gyLVNZRE9WdWFfOVNIZUtYaXJiNWV2OTlZMngtRlV2M1kxSVZ0Sl8yOUpqWTVscHNuN1RzSllEMWU5aDltaG81WFFXa0xZUVZ4b3NiaUZjSUE4Y0JHV1J2SzU4dlZ5WGVjbDlEaWlwZ09veVNhU2NHRExqNnU5Y1hVQUdGaUdFNlUzeWtVTVhzbnc?oc=5",
-          "published": "2026-08-15T11:00:53.000Z"
-        },
-        {
-          "tag": "Leadership",
-          "headline": "₹2.52-lakh crore fraud: HC strikes down FIR against former chief dealer at Axis Mutual Fund | Mumbai news - Hindustan Times",
-          "source": "Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNajlnYW1PaGk4MnhEWmFJakVnNGM4N1N3TUo4ZzduUkp0djlsQXlBc1hjckRIWGNHdEZOaWlNbGNnY0tvWGwzakZ6ZWNzSmtvdGlYaXlBV2dsS2FPUzdzZnFIaGVibWp1dzJ1YzhxSlhibVlVWHNqZTRRUl9JOVB5alN1S1JHWVdvYXRfUXd1T2lINFFGQlFkT0k1XzB3aUpySWUtbUpqVy15WVdPZk05OWJqUjNfYzhOUUJjVWszVUMzYnpCN1d3b0Z4LWgyU1BvSjVHd1lEZ002d1ZWaDlYc3c3QmE0LUlBNFItZUVuNNIB9AFBVV95cUxOWmF0dC1MV3ZFYUVZSURpRjltRm9xS2dwVGtYaEJ5OC1SdEctY0tDVzhmdEFTVFlScVpabmo4U1RiQnE1Y0NRWDBNXzBNQzJyRk90YWFGMXpaNDQ3Rms2aWo3aGFyWS1aVnJQS2ZrVUY1ajJ6UG9abU9xdzB5WTFlN2VoLTVYaHdRSFZQSmpZamdHV0MyZVB6RWxjVVVrMjhTV0oxT3hlSXJTMTV6MGlhMVFMV1dDdy1Yd2dlN1pYZUZSMTJvMURmbnVGOHQzT1J2SEhINGpDVEFyZHhuS2JtVW1vM3R1OUR0RlNhZnhRTWRXdE4x?oc=5",
-          "published": "2026-08-16T02:35:10.000Z"
-        },
-        {
-          "tag": "Leadership",
-          "headline": "Bombay HC Quashes FIR Against Former Axis Mutual Fund Chief Dealer In Alleged Front-Running Case - freepressjournal.in",
-          "source": "freepressjournal.in",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNko4bVpseHZWdlNVZkstdmdRQTh6c3RaSjRNTTlHZmtpYUVjSi0wUDZRWVJlSTdxRDRWY3ZYWWY5TVR0aVdRTTkyRHNUaE9iRy01dTJoUW5yem9UdGx0QnppSFFHMlhjdmNjaUpCWTV2U3Z3aVdlXzEyN0wyNnNQclNtZEg3dTQtYUhqQWQ5ajB5U0RzdDhyalRCbGtFS2E0ZVpFVUVwcmJTTkV2TEFVU0RNZE9sUXh2UkhVZFNXOXFwUE9BdFF5aElndlFiZkM50gHWAUFVX3lxTFBVS09BSlFfbGo0MTFJS3dObExJckppYVBVaWdLYW1OalJhcTVSU2hURmo1ZmVjWHNob2VxZDZBUGpQY0ZqQWphSkZSYTV2VXQxU3pXengtbG9MMjRaWlBsemFJZnc2MnU4RC1Kd2l1ZjlEQzVMYVgzakVhMWtXNUM0dHRQa2xXNVh5TWZEQzJ5YS1xbS04NU5tOEswTHlabjhKc1RGM3R1UVdoQzZfakk1QmNJZXRpVkMxeUFGZHp1S2x2aGVLcDc1b1pUcmdHZDNfSk5QT3c?oc=5",
-          "published": "2026-08-15T21:30:00.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Debt mutual funds attracted Rs 1.87 lakh crore in July after two months of outflows. Is the trend set to continue? - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oZEdxcm1MZ3BjYW9WdEN0eTB5bVVyMVh1RmtIWDNCQjVQdHpZU18xZlQ5VnRMc2JvN0RIM1pnT2dfanFfZ25pQzA0RWo4TmZKQ2gxZFlnU0J5V2liUWR5bzBrbjQ3NlpvWUJCNWpETTVmTUV6?oc=5",
-          "published": "2026-08-15T18:20:05.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Monarch Mutual Fund set to enter MF space with maiden overnight fund; files draft with Sebi - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLWtRajZ5UjNaQVZZeFRVWkRmYmtGTkpsWmI4eUxzeTd6TGdxbmwyRC1hVXhqV04zaFdWYU1zemdwSWpydHlGOFI4VlFZRW5uQ2x4THFIZnFfQWpJSVFrZHVDVC1QWmp6VXpwRExycVZnbXNXUTBzY2hlWTdPUlltUTNDdlVPLU5QMlNBNllMcnpGWWtEVTFGY1pzN1hROG9fSmZmTmxlY3Btc09zUTVJN1BsdE5SUVRVcE9UNWxlMTB6azBXU0RTbWlObHMySUhVZ3MyVGYycG1IRlhSWTlqa2hnaWpWRGdXbTAtb2ZNWVBoWm1id0JV0gHwAUFVX3lxTE9BUjFTUDgxVGdnSmh0RzBnWldVS3BGbWdwMGo4TG1LZ1F6Z0NZS1VlQUNJY3NMZC1iYUxRMjBzMUtuLUt6OWdzM1daX2pha1ZQX0ttYTBDU0hqaTdKalgtTEhzd1Q3YjhHMWZoUGd2SGlOcF83cFo3d2l0THVVMlhHb29WUThLNFYtOHFRdWRlR0hZMjM5Y05fM19wQUtDajhrbGxMVjVLV09FOUVFVWFxQ1RjRmsyVWFjTUdFT09wdl9fMGR2NEJleGNzNnJGLU4wYTdfbElsNUpoaFRXdUZVbWtMWGZiS2IwTUFrNWlRVg?oc=5",
-          "published": "2026-08-15T08:52:41.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Adani Enterprises, HDFC Bank among 10 stocks with highest increase in mutual fund holdings in value terms - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOGpGV1FtR2dvYkFXWmsxN2UxSXVMakk0VlVEaWY2R1VCM2YwTUVEV2c4R21WRFdsQXFjY2h6ZnM4U1gySzgza2VwaDFzVy1leGZOZDczTnBPSXpsdXFiX3RXN0dWa3p2X2F2UlhRM3k0Q2J2U0ZLWVNWd2JsMHFnMlJZS01XbkxYUWRLRy1sMEx3MmRQZGN6aXZNZTN3THVrYmV3T0M0NEhJMDNyX3pfYl8yd1h6WWxZMVBwX1JTUkpFRUdiUkN1dklia25fMmtHSzhvTDZUdzh0ZjI2VHhPc3kybG9Qdnd0bi12bW5xU2dQUWNUZlJNMGRlQ3lQN3puTjhmTWVOVElYY1h6cDBXZXczNA?oc=5",
-          "published": "2026-08-15T06:47:10.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Mutual Fund Unclaimed Money Rises 153% to Rs 3,811 Crore in FY26 - insights.dsij.in",
-          "source": "insights.dsij.in",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWJnc0tienFwZlA5ajZOSFlSb2FEZUI4ZkgtZ3JwZUVEelZ4MzVSUjBYMUhrZUpocVc4Uk9MVUdybUJWU2NJWUFrNVdMUUtuMEpBTy1Na3VDVzd4VEJIN05uazVkU2JwMnFhSktfT21aM3hoUkN3dkR4TmE1dXFIUElPR0l3RENsVlEySS1qbjF0LWwzYS1FRVI5aFE1a1l0T2pBV1JmdmpZRmpxYUhENw?oc=5",
-          "published": "2026-08-15T10:34:10.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "The Wealth Company Launches Gift City Fund to Give NRIs a Single, Dollar-Denominated Route into India's Mutual Fund Market - The Manila T…",
-          "source": "The Manila Times",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQdzdyNnVpcFE4a211Tm5YdlEyOEVsNGZUSTRDWmVraEUzR1FHMFprUW1BZlhYY1doa3A5NUJQRU4yY1FyWWNTb2hBN0dVRGVyN2I0cl9NdWFkU052LThNc0R0aDdUeklidF9uTlIwdjZweUhHTzhCVktZRUdhTmprYk5xY3VDNm9MUHo5d1RaY2ZxNkF4WEM4dnBGb05yU3MzSVNEb3NDTVdkVU5KaDZXQVhLcUVvbTBCeDFZM1BEMmdvdmR4Nlh6aGRNczdtd2dHQVhzMkU3WEZpZmRrZ3l3cFctSWdMVnVTdG1zQWNGRVN6ZjdPWXpXeFRNOVFpUUExYWlld2tKdDRaYzdsa3FXNy1PbFN3Y3c3ZHNXedIBogJBVV95cUxNR05xLWhxR3dRSkFKZUNibDZTZFkzbjd6RExiSUlxN211T0dMeXJSYW5LX3hxSzVHWHlTMEpvZGs3cFVvRVRhX2F4azg0SVVvRWhyU3BJZ0U2Ml9uUUdIZWZORWFJSlBlTXJhMkM3a3U1Mzh0N3dFbUxMa2w3ZVVoSnhsOGdwZ0ZVcXRxSEUwUHdmY0wwallWc1o5Yl9UaVdkUzJncjdCdjFQRE9qd0ZZWmtFMzFhejF5VEJkR2tmOXZQVGR6SzZqRlZpekRMa0tRMzhJemFjSlp0UlQ0ckhqR0Z6c29QTFlHdGJGVG5RLTdmRTdtRXFEbEF0M0IyUndfWFh0Ry1iYjRIaFFpRURWNGxzSDdKLUowVWwxeWZzWmtpdw?oc=5",
-          "published": "2026-08-15T04:19:06.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Equity inflows power ₹9.5 lakh crore jump in mutual fund AUM since last Independence Day - livemint.com",
-        "teaser": null,
-        "source": "Livemint",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRDRYZV96czBYa1JDWHREYmJJeXU5NUFDaXQ3MVpkZjZZTExyZGg5WTlJczZHaUhHSy1zTmFWU2NoSFp3eTRXUWdmT1psbXRLYWJmckxWUEdqdjBkOE1HZzMwc3FxZTNWcHlwcFQ0MlpoX1lRUk1NY2dsS3hLZzNMRVplbmpTYzlveDdrRkVYVnZKdGFldW1OekE4VVZIbXVQTGUxX1dqaHliOXJPcmxrX29JaEVGdXU0bFNyR1NRdDRVcDN4dXJ1SjBlZlpnTktXWE5WOU85OFdDTkdMdDdNNDhuNl81MVhaWXdQT2dhbzFwQdIB9wFBVV95cUxQaHEtcnRvdzJTVXhJbjZ3TXFVcm9QT0VtWGRQbHQ1M0VlT0w3X0tndnp2TFBKWlFOZ2VjenQ4QVZYb2tTcGUwNWd3c3VWMXFwRXlBZDlzdXhSZ0t0bk1MZUMxaEdRNElZaHpZOU94Mi1TWURPVnVhXzlTSGVLWGlyYjVldjk5WTJ4LUZVdjNZMUlWdEpfMjlKalk1bHBzbjdUc0pZRDFlOWg5bWhvNVhRV2tMWVFWeG9zYmlGY0lBOGNCR1dSdks1OHZWeVhlY2w5RGlpcGdPb3lTYVNjR0RMajZ1OWNYVUFHRmlHRTZVM3lrVU1Yc253?oc=5",
-        "published": "2026-08-15T11:00:53.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "UTI AMC",
-          "ticker": "UTIAMC",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: UTI AMC Q1 2026 misses estimates as stock slips - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWtEUHFWUGlHbGx6bnlTNW5mdHB6ZklySHd5Q0owTnVhbHQwdlZpd3haUHE1ZmZYSzJodmxMTEpoVTNVUjlQNlphdjRreGZpYzRPdkV5OGVxV2JtUnczWjJwRXhsazQ4SkRDT1BsUGJid0xoSlZJbzdpeGFvamVsNF8wZU1KM2YtRU9aSUEzajMzeVRway12OS1VaFM3TmNUZldyd2dDTVRqTEc1cERuNGdRckFvME5lM0lPeklhX1Zjci1SLWdz?oc=5",
-          "published": "2026-07-23T07:00:00.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "Centricity Raises ₹280 Crore to Expand Wealth Management Platform - smestreet.in",
-          "source": "smestreet.in",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkxtSmwzZTBBSEl5OGJLMGllTWJHLWNEVWNPcXJqREFadlY0T3RMLThQODRHdFlHYlJ3NlVVQWJxbmFYTUMzOExOSENpN1piX0UzUXBMSzFHSHZiRkZsS2dtcFVESXY5em5OMWQxeFVKZGpremZkNkdsYV9zRVVaVmpoU0RPcjNPYzk0WjIzNGs1Z21icm9HN0FrblM1SHZMNWF1VNIBpAFBVV95cUxNWkxtSmwzZTBBSEl5OGJLMGllTWJHLWNEVWNPcXJqREFadlY0T3RMLThQODRHdFlHYlJ3NlVVQWJxbmFYTUMzOExOSENpN1piX0UzUXBMSzFHSHZiRkZsS2dtcFVESXY5em5OMWQxeFVKZGpremZkNkdsYV9zRVVaVmpoU0RPcjNPYzk0WjIzNGs1Z21icm9HN0FrblM1SHZMNWF1VA?oc=5",
-          "published": "2026-08-15T05:44:37.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Centricity Raises ₹280 Crore to Expand Wealth Management Platform - smestreet.in",
-          "source": "smestreet.in",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkxtSmwzZTBBSEl5OGJLMGllTWJHLWNEVWNPcXJqREFadlY0T3RMLThQODRHdFlHYlJ3NlVVQWJxbmFYTUMzOExOSENpN1piX0UzUXBMSzFHSHZiRkZsS2dtcFVESXY5em5OMWQxeFVKZGpremZkNkdsYV9zRVVaVmpoU0RPcjNPYzk0WjIzNGs1Z21icm9HN0FrblM1SHZMNWF1VNIBpAFBVV95cUxNWkxtSmwzZTBBSEl5OGJLMGllTWJHLWNEVWNPcXJqREFadlY0T3RMLThQODRHdFlHYlJ3NlVVQWJxbmFYTUMzOExOSENpN1piX0UzUXBMSzFHSHZiRkZsS2dtcFVESXY5em5OMWQxeFVKZGpremZkNkdsYV9zRVVaVmpoU0RPcjNPYzk0WjIzNGs1Z21icm9HN0FrblM1SHZMNWF1VA?oc=5",
-          "published": "2026-08-15T05:44:37.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "PMS Bazaar Collaborates with NSDL Database Management Limited (NDML Accreditation Agency) to Expand Access to SEBI Accredited Investor Cert…",
-        "teaser": null,
-        "source": "Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPNW5HQWdBajY0NWtkNWtpVEhCOE8tSDBPbFA5WVZIM3Rmc0VfdjR6WVRNZmJlbnpzM0lBMTctVFI1a3A4MXlpWXRBMWJrMHQzOHc3YWhTQW5POXExQzRsbmpOWko2Tnk5N1hHSk5vTjdURkFKMGpZOUNFSENfelpEc3NRZDNHbklWQ1FBQVNzR2xZb0NXS0t6TE81OEpSNUpyVXkxYzQ4OFAtcW5rR3pFRUhacGdBYmxmaVN6U1MwQVgwaXhLdno0TF9hMWVoV2Zzb0xXTnBaOTBqMFEyWWpFMHhwVm5xcEFkeGRmU1pGMUdzNUtQenUyYm16WjdzOGlVWmpvbGVQWFNsMUtweG40LTA2ajhUMGt1RWZ1M25DZGU1b0dfVW5oYjZYRG81UGhZaHVYbXFmMG9QRzdYSXpQQzFwcjUtMFYxTnVn0gHQAkFVX3lxTFBnc2xDblBLZ0xlYlI5a2ZyRmRESUU1R2djYTFzMFZjWDNxRVVHWVRkUFdzRWIxMTlKOFY5T294dEI1ajdRdlI0RjliZ1U2THBta3JvMXllWXRFNDN4V0JXcGdiQnFWYjhNSjU5R2JCWEMxRWQ5YmNVemlpbTQ1UHZlVlFrWWhXdkNwR3VVaVB6T0ZyaGdCbklPNDN6YmJhWWdvM3A2cFJnd2hvX2J5eVlzSUJLOHNCN3JGd3hzRHhqVnBQWkhiQ0tFVEI0M21samZRZ3FxUURLaFl3bkd0bXhzcDZ4OUFNRGpRUk5fZlVhMmRqQWpyQjVWcjFuVVFwSjJKdXlraGtBRU5HVWVfMEVtZHZ3NkJqdWtlVVhlUGJrWUhIdHEtSnRmYVVMTElzWE5FZlQ5Vl82cEVZcElBZ0dzLUJmb05CMEc4aGpVcXlldw?oc=5",
-        "published": "2026-08-12T18:55:00.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "IIFL Securities",
-          "ticker": "IIFLSEC",
-          "tag": "Transcript",
-          "headline": "Q1FY27 Call Transcript | IIFL Finance - IIFL Finance",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10TU02YjdxdzZTQllFdmdnNWVLQk1IY3lydGdjWG0xYTQyT1VvV0xJQ2dvV040ZEZYcThOS3RHR1FRQTBQcXBlRw?oc=5",
-          "published": "2026-07-28T07:00:00.000Z"
-        },
-        {
-          "company": "Motilal Oswal",
-          "ticker": "MOTILALOFS",
-          "tag": "Presentation",
-          "headline": "Manappuram Finance to host analyst meet at Motilal Oswal conference - scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVMzZGdGbnB5R2otTGx5MW1FaXdVX1ZHNFYzWTFOY3llRDB1ZDJJZ0tuN3JVRnE1TFZGQm9nV09RUk1XdDlTcHZ1QmNiYkVicUcyQXY0ZkVUcWtydjI1NWt1a19TUlItd0ZZMlFqSjR4eHBzcjBkU0pSdmtMVllKVmlpWEJTd0Q1TVNSdkExYTdKVFNHQ2VPdUdadTB4TXZNVWwxajNLRFJQTHhQWlVnN0RPcmNWbURXMVE?oc=5",
-          "published": "2026-08-12T19:54:50.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Regulatory",
-          "headline": "Policyholders can approach insurer, IRDAI for redress of insurance-related grievances: Govt - Social News XYZ",
-          "source": "Social News XYZ",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSllYcU9oZUhQcVM4SWJmbjZ5c0MzRUl4clFzUmktVUl1bG1YbjdGTTVGWEFuVXpLcU40b3JGY2NqSUhFcHZOd2NDYzdZY1BlTzZBRGJDdkZ5U04tNkw0dmtlc3ZjREhSREN3dlpwMVhVQ054MWc2N2FjV29GeVdjdGhjeHJHSGRmeXlDLW5Ra0tVQlFQdjkzNzNQR2NmR3lCckExbmN1TUtmSHl4VE52MWlaRFprd2lfSVNwTFN2b0FTQlhnb19J0gHHAUFVX3lxTE1KWVhxT2hlSFBxUzhJYmZuNnlzQzNFSXhyUXNSaS1VSXVsbVhuN0ZNNUZYQW5VektxTjRvckZjY2pJSEVwdk53Y0NjN1ljUGVPNkFEYkN2RnlTTi02TDR2a2VzdmNESFJEQ3d2WnAxWFVDTngxZzY3YWNXb0Z5V2N0aGN4ckdIZGZ5eUMtblFrS1VCUVB2OTM3M1BHY2ZHeUJyQTFuY3VNS2ZIeXhUTnYxaVpEWmt3aV9JU3BMU3ZvQVNCWGdvX0k?oc=5",
-          "published": "2026-08-15T13:52:09.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "No proposal before GST Council to reduce 18% GST on livestock insurance; IRDAI has not assessed impact of GST rate on insurance uptake am…",
-          "source": "A2Z Taxcorp LLP",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOekg5Nkl0RTU4SFBLSXhxR3FfM0Z6Vmh3b2ZxYjgxR2ZkOFZ6MnlkekItbnAxSV9OeWdlVzhEajdOTTM0MjNIaGM0SGlPeHgtaFB3ZkZXQVZhWTdOWGhrOUNhVDAzbzNDRUJOT1h3ZnhlT1NGNkxtdjQ1bmZaRFdJQ2dMZHZ5UFpoS2RLY2lfcFhwblBhcG1NMUtWX1J4cWVial84WVNtT3ZpWlZ3bVVNc2tVVVdnM2tJMmxYbEFKbVk4Q21mSnlwSngtalBnZjlWWHcxak9xNHFobUctZVR4aWhidlVlTUlWeGhoX1ZnY0ZrVnNPd00zX19MQzVKNUQ0ZnhHT29JQUhwbHlSb2MzTGQ2S0tmeDRWbE1aM1Z1ZWpVZk5WRk1seHpocVVENGM?oc=5",
-          "published": "2026-08-15T04:24:16.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "IRDAI Tightens Insurance Grievance Rules: Why It Matters for Investors - Whalesbook",
-          "source": "Whalesbook",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVC1jYVVVbUFOTXIxTUVTdklJaDIxa1MwdG5HdHR3alBKMC1yeWZaSm9FVElHckZMSzI5amtnVXBIUjlKS0p6ZktOSGJNSUktaHdjYi1ZdGo0aE9CZWNlWGpuQzhXTm14aTJZZmlXckQ1VjJSWTdNNVlZSEJfRXAydTZJWXI5ZnE0SnA0ejI4ZVhVRmNDQkZ3XzFiVkl3amRZd2V6VElmQzV4Ni1QNnQwT0poZDJUcEFNU243RWlNTHM2Q0ZPSUVaOG10c0VUcENLOG03S1Ntaw?oc=5",
-          "published": "2026-08-15T02:47:56.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Regulatory",
-          "headline": "Policyholders can approach insurer, IRDAI for redress of insurance-related grievances: Govt - Social News XYZ",
-          "source": "Social News XYZ",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSllYcU9oZUhQcVM4SWJmbjZ5c0MzRUl4clFzUmktVUl1bG1YbjdGTTVGWEFuVXpLcU40b3JGY2NqSUhFcHZOd2NDYzdZY1BlTzZBRGJDdkZ5U04tNkw0dmtlc3ZjREhSREN3dlpwMVhVQ054MWc2N2FjV29GeVdjdGhjeHJHSGRmeXlDLW5Ra0tVQlFQdjkzNzNQR2NmR3lCckExbmN1TUtmSHl4VE52MWlaRFprd2lfSVNwTFN2b0FTQlhnb19J0gHHAUFVX3lxTE1KWVhxT2hlSFBxUzhJYmZuNnlzQzNFSXhyUXNSaS1VSXVsbVhuN0ZNNUZYQW5VektxTjRvckZjY2pJSEVwdk53Y0NjN1ljUGVPNkFEYkN2RnlTTi02TDR2a2VzdmNESFJEQ3d2WnAxWFVDTngxZzY3YWNXb0Z5V2N0aGN4ckdIZGZ5eUMtblFrS1VCUVB2OTM3M1BHY2ZHeUJyQTFuY3VNS2ZIeXhUTnYxaVpEWmt3aV9JU3BMU3ZvQVNCWGdvX0k?oc=5",
-          "published": "2026-08-15T13:52:09.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "No proposal before GST Council to reduce 18% GST on livestock insurance; IRDAI has not assessed impact of GST rate on insurance uptake am…",
-          "source": "A2Z Taxcorp LLP",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOekg5Nkl0RTU4SFBLSXhxR3FfM0Z6Vmh3b2ZxYjgxR2ZkOFZ6MnlkekItbnAxSV9OeWdlVzhEajdOTTM0MjNIaGM0SGlPeHgtaFB3ZkZXQVZhWTdOWGhrOUNhVDAzbzNDRUJOT1h3ZnhlT1NGNkxtdjQ1bmZaRFdJQ2dMZHZ5UFpoS2RLY2lfcFhwblBhcG1NMUtWX1J4cWVial84WVNtT3ZpWlZ3bVVNc2tVVVdnM2tJMmxYbEFKbVk4Q21mSnlwSngtalBnZjlWWHcxak9xNHFobUctZVR4aWhidlVlTUlWeGhoX1ZnY0ZrVnNPd00zX19MQzVKNUQ0ZnhHT29JQUhwbHlSb2MzTGQ2S0tmeDRWbE1aM1Z1ZWpVZk5WRk1seHpocVVENGM?oc=5",
-          "published": "2026-08-15T04:24:16.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "IRDAI Tightens Insurance Grievance Rules: Why It Matters for Investors - Whalesbook",
-          "source": "Whalesbook",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVC1jYVVVbUFOTXIxTUVTdklJaDIxa1MwdG5HdHR3alBKMC1yeWZaSm9FVElHckZMSzI5amtnVXBIUjlKS0p6ZktOSGJNSUktaHdjYi1ZdGo0aE9CZWNlWGpuQzhXTm14aTJZZmlXckQ1VjJSWTdNNVlZSEJfRXAydTZJWXI5ZnE0SnA0ejI4ZVhVRmNDQkZ3XzFiVkl3amRZd2V6VElmQzV4Ni1QNnQwT0poZDJUcEFNU243RWlNTHM2Q0ZPSUVaOG10c0VUcENLOG03S1Ntaw?oc=5",
-          "published": "2026-08-15T02:47:56.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Why life insurance should be part of your financial freedom plan, not an afterthought - livemint.com",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbkU0SVV3cS1Ca1BzRGFnZ3lRZTNHS20yMTJwWTlod1FfQjlsek5WR2h5THFBVGZPRy1lY19jWnVRcmlOR3B6N3ZhLVhITXpCY3k3R0VQTVBPa01zU3RSemcyTHFONllsUjBpUkpyTDhSOXB3NmpILW1heV83SVFZeml6Tzg0X1g1NXVWbzBKYUZXZHZyU1ktWlM5cExWYTIxVUcwUUttYkp5WkJkdjhOejRTSUpkRTlaRjNGdzFuaVEzaE82TV9WYkswa0oyMFJyMl9WTndXUURBeGU4Mm9ubm9sZV9qVWvSAewBQVVfeXFMUEpkQmJJMDE3Mkc1YkhURmU5MDlEaU1uT3NST2NjUjUwUEV6Vml5MXNVc2EtWkg3dVdsRVJWbl9FV0t2NnJxV1JONFZzbmF5V2FoeUpTaHA3R2hHR3dtOWp4UDctdHpvbHJORGlpaWZTMG9nNG9ZOTY1QWU2T3pUcVlOajlGNFlZc2tBaWFqUW1RZjlNWDFaWEJKY0JLVGR2dlJTenNDRGFOaWRyQ1NkeE9mQzNqNWprd1ItdjJBX2kyRXFodnNwZWJXeVcwLTdGTDluN1R6Mi1yT3pDOXFmNDBETHhaTXdrVmJaX0Q?oc=5",
-          "published": "2026-08-15T08:50:11.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Life insurance claim denied over non-disclosure? Why family won ₹1 crore after insurer failed to prove concealment - livemint.com",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaF9tdkhHQTRIMkpPcFoxMGNwQlMzY3VVVXk2Ny1naC1ON1ZnYWJoM3pEcGt3ZHlORVU1VlNkM211Ty1pT3dEaHFvTGppa1dMQWlTZE13XzV0dGMwb0RoQkl5LXJwMU5IVEVQNTdybWRIajB5ajRzX0VvUDhBZ3FoMWk4bUJleVJIUlEwRDF6aFBVc3NVNnFiSGlwZTc2NUMyNlFndEZnQnRvbUpWSENHRG4yczdOUXF2MmtiVFhxa0QzQ09ibFJDRVYwMUdvSkZjcFpjcno5Tm42Wjc2ZS1hbjEyYUoxNGlTNHV5UTNLVTRDeFI0RkVJa1JTNzlsRVFpRnB3aEVFYW51TnJQ0gGSAkFVX3lxTE1odXZKY2xYRUZPbWVoWnkwaFZ6djFoYXZqQ1lRUXlwT25oTVEyYWcxZHl5VkJiaWt2S1A5cm1mY2liQTZxbFJJdGpmdng4S3R4ZzdvRjJnUnp5RDFvN25uRk5zdEExdDBuRS1JdG1MZ3VoZXZTS25sbW9hRXFyR29vQXNJYmhPSEtybkdfMFo4TzJ6VDBFTzhJSGpZTXk5ZGprTmNmY3lSZFlQemdGLVFfZ095V2hnZW0yTnQ0RncyNEZwd0tBRjdmWF9jZjlxd3ZrbkY4SDFHM0h5UWp5ZnZCbkE4eEJBUjBOWTlsclRGaFdVdi1uR1FIWnd6QTVxUE9MX3VGZnl3MnRsYmhfN2xMYXc?oc=5",
-          "published": "2026-08-15T07:59:45.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Government Weighs Health Insurance Reforms to Tackle Rising Medical Costs - boldnewsonline.com",
-          "source": "boldnewsonline.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDBrZExobHdtQzZ2R2Vxd09JbHBXU2YyVE0yVlROU3Y0N185NGlXRXVnWTE2TmJMOHlBZmphSTZyVy1uZFE0ckdGQnFXVzFDVmtqdVB6bWx6LUhvc2NtaEZPODJXVlVnSTZyTTVrdFVFQjFpaXF0VnZpRGU5X2pmM2dyTERkWFFpYUhzdDBoM1dON0tEdWhneHdrYWFKSUkybEJz0gGoAUFVX3lxTE1kd25MMnEtNzhfaWJkQzNPSkI3SVM3TUphNERqV2Jab3phVlZmc1hVMU5pWFM4dktXMXJOX2dmU3FOQ0Y0ckZMQmljcTZKYVFoU3dnaHVsSG5ELWFwSWUwcVhYX0FQUzhLeUxMUmtLWnNxMm5hTTRJaHMzZWhYNkJxUThGS0VYM3ltNmxzR2ZYRVRQaHI3a1p1WElfZDM0MUdLWkkzdERFdA?oc=5",
-          "published": "2026-08-15T06:49:53.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Life insurance claim denied over non-disclosure? Why family won ₹1 crore after insurer failed to prove concealment - livemint.com",
-        "teaser": null,
-        "source": "Livemint",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaF9tdkhHQTRIMkpPcFoxMGNwQlMzY3VVVXk2Ny1naC1ON1ZnYWJoM3pEcGt3ZHlORVU1VlNkM211Ty1pT3dEaHFvTGppa1dMQWlTZE13XzV0dGMwb0RoQkl5LXJwMU5IVEVQNTdybWRIajB5ajRzX0VvUDhBZ3FoMWk4bUJleVJIUlEwRDF6aFBVc3NVNnFiSGlwZTc2NUMyNlFndEZnQnRvbUpWSENHRG4yczdOUXF2MmtiVFhxa0QzQ09ibFJDRVYwMUdvSkZjcFpjcno5Tm42Wjc2ZS1hbjEyYUoxNGlTNHV5UTNLVTRDeFI0RkVJa1JTNzlsRVFpRnB3aEVFYW51TnJQ0gGSAkFVX3lxTE1odXZKY2xYRUZPbWVoWnkwaFZ6djFoYXZqQ1lRUXlwT25oTVEyYWcxZHl5VkJiaWt2S1A5cm1mY2liQTZxbFJJdGpmdng4S3R4ZzdvRjJnUnp5RDFvN25uRk5zdEExdDBuRS1JdG1MZ3VoZXZTS25sbW9hRXFyR29vQXNJYmhPSEtybkdfMFo4TzJ6VDBFTzhJSGpZTXk5ZGprTmNmY3lSZFlQemdGLVFfZ095V2hnZW0yTnQ0RncyNEZwd0tBRjdmWF9jZjlxd3ZrbkY4SDFHM0h5UWp5ZnZCbkE4eEJBUjBOWTlsclRGaFdVdi1uR1FIWnd6QTVxUE9MX3VGZnl3MnRsYmhfN2xMYXc?oc=5",
-        "published": "2026-08-15T07:59:45.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "Max Financial",
-          "ticker": "MFSL",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Max Financial posts strong q1 2026 growth, stock flat - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEZQUFFZTGVnWXNHa2R0V1owc1kwU2x3YzhYdEtYaEFLNm1qNXB6R2xRQXpuX1NVeV93YmpFdl9zOWpxZ3RrbnVrdzItOU84NEdFNDJyeWNRTkJsb2lGUzQtaUhtM1JEVVFNcGEtS2N1b1cxMUpWN0ZXbWlmRjcwQm9KSm0tYTJRUkhpQm5aUXNhNEwzR2Zvc2tVQjJlSFpYOS1zZTg0VkNpZV9XbkxkQTFuWEJhTFFYWkt2TTdyS0g1Ujc0cDQ5NUlSSVZDdw?oc=5",
-          "published": "2026-08-13T16:20:26.000Z"
-        },
-        {
-          "company": "LIC",
-          "ticker": "LICI",
-          "tag": "Transcript",
-          "headline": "LIC Housing Finance Q1 Results: Earnings Call Transcript Uploaded - scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDhROGVpYUpjRkpxbjZuc0JCLXkwdnBJSFptekEtVk01MW5sSU9aVXNQdVkwS09Xd3lFR1c3WVJxRU5qMDQzN2c5YzJnYjRXTWdsWEx0eHFpbW5NTElnUzBGX3dEUDVjUXZZWUNRTlVpWVhJQnRzSm5vUU85Tm10UE82ZHI1blExZjdfa2t5OTNlRUR4cVVYV1hOY0ZnWWF5ZTNTSWY2XzgtMkJTOHFmQm5rakxDSlJXdmFIYjF3?oc=5",
-          "published": "2026-08-04T07:00:00.000Z"
-        },
-        {
-          "company": "SBI Life",
-          "ticker": "SBILIFE",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: SBI Life posts strong q1 2027 growth, shares little changed - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNzJNWHJRcXhJeHQ0OHZza0E1bGZJS2V6dmdTMnJoT0cweXBvaGFtM2JEeG5HbFJFUHRCVElPdm5EVjZiS3dQdDRNQmFFUFRWQnFiVjdreEdTR2t6Yzk4d1MwNHlYSS1LN1RHaGx0RUwyZmo0Z1JxQjJmakNPb3lZcXFjMnFSdF9nTlFEQnJ5eWdPd2pIbUN4ODk5RE1FVnF0X2haWXplZWp3RG9SaXRhOTZtU2dvcWw0ZWFkYkZXZ0c3N1Boa1lGZnJDc2dvSWJucWZtOXlB?oc=5",
-          "published": "2026-07-24T07:00:00.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [
-        {
-          "tag": "Regulatory",
-          "headline": "Bank holidays this week: SBI, HDFC, ICICI, PNB to remain closed for upto 3 days — Bank holiday dates as per RBI calendar - livemint.com",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSHRES1Vtb21UbnU5em1xSHpWTGd5aHJaQXlybUE2SVYtQW5kRVRpS2s3T2V6YzJRVGVGQk9TT3Z0RFY1bUhYbmJCUTY4VDk2eHJCd3lMSl9tc0RqNDhmblZQTXRxc1hBSUlraWVjOEJmaUVHMlVhRGY3NnFiR0JIZms0YVdNUVhTWUU5TE1LRVpxTGd1ckpBRkYtMU45c0FHZVpoSGZaMDc2WjRzb0tvVHd0VzZZYW1CUGxiQWtURi1KTlc3SG5lV1ZBLVU1bGZOOVI0Z004UkRHU2Fzd0VRY25qMTRRQnBmMDJ2Wm8zQ2JVaTNPci1yZmhTNGZISXFMNGZ4XzV1QkNtSndwUlZv0gGUAkFVX3lxTE1FWTdOSHpnUU5ER3JTNGNIakMweVFBYjlkX05mQ3VqV3pUbzZqU2pHS2FDU2xLNTB0VjVWYTJmYU5tbk1RNHB6cUFlZWtuaGlfdm85UzVCaGJMbElaWmRjMFVxVlBkRnRIVm1mc1lMQ2tEYTVZZGhxT1lZUktCUHhvZUpzdmJzbTQxUEtHdHZseXFwSUJzc3NqT1AzdGZ1OTM5SGFJZGJiR1RackNOckJtMXNMLTc2U1pDblIzVU96OHJlMEdkMEZpRWhEU3FFbUNDeUk3OVRLUEszNWhOalZnang5WWdYc0lwVG1kYl9VeGZyRG8wWmltX3VUdEgwLVlpZzF4Sm9nSkg3cHZwQlNrc015Sw?oc=5",
-          "published": "2026-08-16T01:19:00.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "RBI to close FCNR(B) swaps a month earlier due to gush - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOWTR2d3BBbnhFbXdSS1REVW5nSXJtVzFvN2tRaGxtS0dxcUtzcXRWZkFndVVHWlRVU2d4bjl6MkVEU0lfMWN5MWxDN1dMMUI4TlZhZjJ3X0tMcEVPcGxUY29EeWl1SUZLbmRLS3lSVURIMU9MR0RHb043WElvMUh4WXVxYm9NcWU1MWtOZDVHSmV3dklFOFlXT0k5b3NHME80YU8yUmUxam82TVp3UWluRWc3eWNyVHZ6ZEd1a0J5QXJUTHdObmFDRGh5Rzk4dEs1S185UWpGMkEtSWJkYno1dGxGankwaEZjOWxFemN0ZWFSNTRpUkx2REU0cUY1eUNuQ2hpWEdtY1d1SkV3SWN3XzdsbW1sZkNZTnBwckNZV3U3ZTEyZ2c?oc=5",
-          "published": "2026-08-15T03:56:17.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "Current account deficit widens to USD 6.2 bn in Jun: RBI data - bfsi.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ01aNU8zanlpLVZKdFlhZ1llS2VUWFRmTGgwZTVwblAtUFZpTHhUU2xVZ1I0c2FqT2lfYXpnWk9qd3gzMDFoN1Nmc3JMOUJPX09PaUZQdHdQZFlncUx1RU1TcVZqbjVTeHpLcFpudmkzQzJGLW1YZW1uREFQMHdGSXhCWngxV01ubVNTd0VvOXRLNnVabTR4dXhqTTAxa2xhWll3ZVJzOEdXcEh0SUxrZ3NBVS1qZ2U2bGVKM1BSYjQ1ZnfSAcMBQVVfeXFMTkNNWjVPM2p5aS1WSnRZYWdZZUtlVFhUZkxoMGU1cG5QLVBWaUx4VFNsVWdSNHNhak9pX2F6Z1pPand4MzAxaDdTZnNyTDlCT19PT2lGUHR3UGRZZ3FMdUVNU3FWam41U3h6S3BabnZpM0MyRi1tWGVtbkRBUDB3Rkl4Qlp4MVdNbm1TU3dFbzl0SzZ1Wm00eHV4ak0wMWtsYVpZd2VSczhHV3BIdElMa2dzQVUtamdlNmxlSjNQUmI0NWZ3?oc=5",
-          "published": "2026-08-15T02:46:42.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Regulatory",
-          "headline": "Bank holidays this week: SBI, HDFC, ICICI, PNB to remain closed for upto 3 days — Bank holiday dates as per RBI calendar - livemint.com",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSHRES1Vtb21UbnU5em1xSHpWTGd5aHJaQXlybUE2SVYtQW5kRVRpS2s3T2V6YzJRVGVGQk9TT3Z0RFY1bUhYbmJCUTY4VDk2eHJCd3lMSl9tc0RqNDhmblZQTXRxc1hBSUlraWVjOEJmaUVHMlVhRGY3NnFiR0JIZms0YVdNUVhTWUU5TE1LRVpxTGd1ckpBRkYtMU45c0FHZVpoSGZaMDc2WjRzb0tvVHd0VzZZYW1CUGxiQWtURi1KTlc3SG5lV1ZBLVU1bGZOOVI0Z004UkRHU2Fzd0VRY25qMTRRQnBmMDJ2Wm8zQ2JVaTNPci1yZmhTNGZISXFMNGZ4XzV1QkNtSndwUlZv0gGUAkFVX3lxTE1FWTdOSHpnUU5ER3JTNGNIakMweVFBYjlkX05mQ3VqV3pUbzZqU2pHS2FDU2xLNTB0VjVWYTJmYU5tbk1RNHB6cUFlZWtuaGlfdm85UzVCaGJMbElaWmRjMFVxVlBkRnRIVm1mc1lMQ2tEYTVZZGhxT1lZUktCUHhvZUpzdmJzbTQxUEtHdHZseXFwSUJzc3NqT1AzdGZ1OTM5SGFJZGJiR1RackNOckJtMXNMLTc2U1pDblIzVU96OHJlMEdkMEZpRWhEU3FFbUNDeUk3OVRLUEszNWhOalZnang5WWdYc0lwVG1kYl9VeGZyRG8wWmltX3VUdEgwLVlpZzF4Sm9nSkg3cHZwQlNrc015Sw?oc=5",
-          "published": "2026-08-16T01:19:00.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "RBI to close FCNR(B) swaps a month earlier due to gush - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOWTR2d3BBbnhFbXdSS1REVW5nSXJtVzFvN2tRaGxtS0dxcUtzcXRWZkFndVVHWlRVU2d4bjl6MkVEU0lfMWN5MWxDN1dMMUI4TlZhZjJ3X0tMcEVPcGxUY29EeWl1SUZLbmRLS3lSVURIMU9MR0RHb043WElvMUh4WXVxYm9NcWU1MWtOZDVHSmV3dklFOFlXT0k5b3NHME80YU8yUmUxam82TVp3UWluRWc3eWNyVHZ6ZEd1a0J5QXJUTHdObmFDRGh5Rzk4dEs1S185UWpGMkEtSWJkYno1dGxGankwaEZjOWxFemN0ZWFSNTRpUkx2REU0cUY1eUNuQ2hpWEdtY1d1SkV3SWN3XzdsbW1sZkNZTnBwckNZV3U3ZTEyZ2c?oc=5",
-          "published": "2026-08-15T03:56:17.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "Current account deficit widens to USD 6.2 bn in Jun: RBI data - bfsi.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ01aNU8zanlpLVZKdFlhZ1llS2VUWFRmTGgwZTVwblAtUFZpTHhUU2xVZ1I0c2FqT2lfYXpnWk9qd3gzMDFoN1Nmc3JMOUJPX09PaUZQdHdQZFlncUx1RU1TcVZqbjVTeHpLcFpudmkzQzJGLW1YZW1uREFQMHdGSXhCWngxV01ubVNTd0VvOXRLNnVabTR4dXhqTTAxa2xhWll3ZVJzOEdXcEh0SUxrZ3NBVS1qZ2U2bGVKM1BSYjQ1ZnfSAcMBQVVfeXFMTkNNWjVPM2p5aS1WSnRZYWdZZUtlVFhUZkxoMGU1cG5QLVBWaUx4VFNsVWdSNHNhak9pX2F6Z1pPand4MzAxaDdTZnNyTDlCT19PT2lGUHR3UGRZZ3FMdUVNU3FWam41U3h6S3BabnZpM0MyRi1tWGVtbkRBUDB3Rkl4Qlp4MVdNbm1TU3dFbzl0SzZ1Wm00eHV4ak0wMWtsYVpZd2VSczhHV3BIdElMa2dzQVUtamdlNmxlSjNQUmI0NWZ3?oc=5",
-          "published": "2026-08-15T02:46:42.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "Loan framework: RBI proposes new MCLR formula based on 3-month moving average of funding costs - Business Today",
-          "source": "Business Today",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZjVWaXQ0NHpPb0c1Zm15MEtBbmlqMFFKMW5QRnl0NGk3ZUE2anUxOUdMY1hLek5fRjdULWlnaVJVVVY1TFBxVjRiQ1Rhc3UyYkFZUHR1UE9nWll1dlVmNVlFNVBqUjh4LXlneHgyTGNvejRvbHZLMDdjRy1yTnNVN2p1MHFGQzVjS0djY01XTmNyUnBvc3ZLNnY4eU1QTnMtZzN6QjUzQ1lqdnJBanRnc0pZaDhyZjREODZuajNvbmdWQUs2MWx5QzFlZTVyWEcwWGxTV1AxblMyMXBiZHBNRXo2UGJSVGM5ZEtwTlBIemRpQ1JJdlHSAfsBQVVfeXFMT0xvRzdmU3BMaTg2Uzlpd2VvbTYxTnRTalRWbi04NnVXZS1ZN29LWEZYSDlwbDJmVXlMOFFUcGRfejVmY3B6SGJfdUVnLXdIdlZ2ZUkwcUtUemVOTDRUcGUwaFJBMnR3TGNjYWtLM0pSMzlpSXVxMXE3THN2bE9tVVQtcG9SaEpGM3ZhYVh5eHNUYnVveWctQmd3NXFQcF9PSVRWbTlNYkZHaG5pNEFJbWlsRWx0dGYyaHliRlRmTkNuM3BNbURKaGYyYTJwU3p0dlRxVG5vYkI5M1BDb3BpUUdmcFg5aV9EZjctdjRROEc1TFBQME15dUczRzA?oc=5",
-          "published": "2026-08-15T08:10:38.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Independence Day 2026: The road to UPI — India’s payments revolution was centuries in the making - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNdVR3bGZBSmp6LTJmbDFXcklMdko3MGpVVWh3NjR5dDJfMnNJcXpjVXNqdDE1MVlfZGpONGtTcXpLNVdDdWt4M19qUGttVnd6Wk1vM2pQOU9wMWhGMms2VTRPWHhMWkRncHBQVERPaFVWVVoteWMxUkZHX21weW43VWVnZHJDTHlXWmNGMkpXYVh4dndYNUNZUHdxYlB3a1YwejZROE1GX0pKRHlzWXM3UmNWZXd4RlhNS09wRzRMR1ZWYXQ4NW0wQ2lRWVY1RVpFX2dFOUNGM0o5VVI2WVNwYmlpeFc1T2ZLTS13WGFOZTFfT1FoODdXN2RkN21GUV9GZHZpQWFVeG0zUXlXT2E5aEZsMmt4Rm4zei1RcWpVQVlaYm1yb3U2Q3Q1dkpvOEljMm5rQ0toMzIzUFk3R2pRZGFydFI5VmYtaURNUTVTbGdWLVk3ODRr0gHzAUFVX3lxTE95aVVqNmhGOHpyaDg5cHZOSmdKZEF5SVM2OWtTT2dId080R1cxWEkxVGZ6YkJhZmpvZE4wU25Oa0ZHckJVSVhrbG9UZ3lKLVZnUXh0YWhPdzY1TTdKQXVmdjhDaXNtWEJkSF9Kbm40TkhMMHYzQnBFanF3LTdUUE83Vk9yRFNYeXBiek9OLUk1M2M2QkdhSEhlSlBidVp2ZTlpei1wakZOQkdnQzVvVEMzWTNxOXptSk1mNm1hRHVkcmM0QTB2MmdqSkVuc1BqTEpUQnNwdmlCMG5BcWsxY3NJbVRfWjViTW9QT2gxUmY5VldzYw?oc=5",
-          "published": "2026-08-15T04:28:52.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "'India was, is and will be one of fastest-growing economies': SBI Research - bfsi.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUlk4QUFuZ2RneFExZlJKRWtuelJWRTEzbmlfT3hHVzAyR2xNeDY3VmFjYloxTTREQ1JkY2VDUURLa2lmdk54cE5CbVcwSzd1a3QxaV9MVGI5OEtNWGs3RHlIdUJ1eVJ1elZSc0Y3OVZ0RnpvbzI2bk4ybktkM2xJaDBtMW9XV0JZTnRNdFpMQ3FaRTE2LTB2OVBvamY2RVA5NTBvZFctNm9iR2hvdnFOd0w0Zld4TUJEcmp0T3NGYTh4TWNhX2cwQzJBem1wOG1L0gHQAUFVX3lxTE9SWThBQW5nZGd4UTFmUkpFa256UlZFMTNuaV9PeEdXMDJHbE14NjdWYWNiWjFNNERDUmRjZUNRREtraWZ2TnhwTkJtVzBLN3VrdDFpX0xUYjk4S01YazdEeUh1QnV5UnV6VlJzRjc5VnRGem9vMjZuTjJuS2QzbEloMG0xb1dXQllOdE10WkxDcVpFMTYtMHY5UG9qZjZFUDk1MG9kVy02b2JHaG92cU53TDRmV3hNQkRyanRPc0ZhOHhNY2FfZzBDMkF6bXA4bUs?oc=5",
-          "published": "2026-08-15T07:21:01.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "AI era to reshape banking operations, unlock productivity beyond digitisation: Report - bfsi.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY0R3QTlJUDRiQlp4VUZUNElWa1pwbWluQWVMN191b0hodDJFYTQ4MzBUQVpkYW5KR0lGLWdWU1lWWUFNUWFFOTVEOHlLQ1ZOZzkxbjFRbmFmSFpmTEtnZ3dzVTFSUDFhNm15SEFpZkFKcFk5TjVwTUJJVDdmeHdFX2hkVmI4TWxEVjRIN2ltS1pYc0ZvRVlNX1F3ZzNZeDJrc05pU0h4SHMtZW1lYWhVOW80WDVPNlJhaFFkbXBMZGx3U0xpdTdGeHJwQUZ4RVlxVTNsU0FUSGlaTWpQbktlVVpR0gHiAUFVX3lxTE5jRHdBOUlQNGJCWnhVRlQ0SVZrWnBtaW5BZUw3X3VvSGh0MkVhNDgzMFRBWmRhbkpHSUYtZ1ZTWVZZQU1RYUU5NUQ4eUtDVk5nOTFuMVFuYWZIWmZMS2dnd3NVMVJQMWE2bXlIQWlmQUpwWTlONXBNQklUN2Z4d0VfaGRWYjhNbERWNEg3aW1LWlhzRm9FWU1fUXdnM1l4MmtzTmlTSHhIcy1lbWVhaFU5bzRYNU82UmFoUWRtcExkbHdTTGl1N0Z4cnBBRnhFWXFVM2xTQVRIaVpNalBuS2VVWlE?oc=5",
-          "published": "2026-08-15T07:18:36.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "SBI FD vs Small Finance Bank FD: How much more can you earn on ₹5 lakh? - Business Today",
-          "source": "Business Today",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORG9KOUZDdXVIVkRTQmxMY090bVB3RWJXR01VZ0dJS28zQXVLRjAxRkRBZ0JtUUpaYjllWUdtYnhwaUNaSXktYTgxbzlDX0ttNE5TcFAxRDRIS282SFRqd0E2U2l4azVZMGVmV1ItMV9rQ0Vta3ctLUFTRkdJTVkwNXQ0WlJpbVBUOEFoYm1wNDNqSWRYdzJ3WVdiR2sxX3BYdUNkY1RLRDlGc1g1ZEthcXgtZjNNYlVCdVQwbzVQMExXYmdYdU9TT1VPYUpDOGhpVUgwMzVOa9IB3AFBVV95cUxNejhHd3NQV19IOVE5MXZrU0h5VXRPV3lXWkFiN08yaUp6cXh0ZWZBaDRTUjhUMWFNQmM5QmpqNG9wY2RZdVJtdFhVTUNQWWg5VUNzeTBlNEFvaDRwblN6RWIxUnpHeVJiUU1hbEdwTUttTzgwdHpjSmdmbU1Ka3E5MEpWYjZFeE5SVXN4NERPNXJnRXRaYTVLTzNtS2RjX1FLbDVINlNWdG1INFlzbS1lSFVOdk1zcENqNUVnRDlLOVhQRUMtS2h3SkhEVnNOaTZSanVxWkpvRllISXhl?oc=5",
-          "published": "2026-08-16T00:40:02.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Bank holidays this week: SBI, HDFC, ICICI, PNB to remain closed for upto 3 days — Bank holiday dates as per RBI calendar - livemint.com",
-        "teaser": null,
-        "source": "Livemint",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSHRES1Vtb21UbnU5em1xSHpWTGd5aHJaQXlybUE2SVYtQW5kRVRpS2s3T2V6YzJRVGVGQk9TT3Z0RFY1bUhYbmJCUTY4VDk2eHJCd3lMSl9tc0RqNDhmblZQTXRxc1hBSUlraWVjOEJmaUVHMlVhRGY3NnFiR0JIZms0YVdNUVhTWUU5TE1LRVpxTGd1ckpBRkYtMU45c0FHZVpoSGZaMDc2WjRzb0tvVHd0VzZZYW1CUGxiQWtURi1KTlc3SG5lV1ZBLVU1bGZOOVI0Z004UkRHU2Fzd0VRY25qMTRRQnBmMDJ2Wm8zQ2JVaTNPci1yZmhTNGZISXFMNGZ4XzV1QkNtSndwUlZv0gGUAkFVX3lxTE1FWTdOSHpnUU5ER3JTNGNIakMweVFBYjlkX05mQ3VqV3pUbzZqU2pHS2FDU2xLNTB0VjVWYTJmYU5tbk1RNHB6cUFlZWtuaGlfdm85UzVCaGJMbElaWmRjMFVxVlBkRnRIVm1mc1lMQ2tEYTVZZGhxT1lZUktCUHhvZUpzdmJzbTQxUEtHdHZseXFwSUJzc3NqT1AzdGZ1OTM5SGFJZGJiR1RackNOckJtMXNMLTc2U1pDblIzVU96OHJlMEdkMEZpRWhEU3FFbUNDeUk3OVRLUEszNWhOalZnang5WWdYc0lwVG1kYl9VeGZyRG8wWmltX3VUdEgwLVlpZzF4Sm9nSkg3cHZwQlNrc015Sw?oc=5",
-        "published": "2026-08-16T01:19:00.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "ICICI Bank",
-          "ticker": "ICICIBANK",
-          "tag": "Transcript",
-          "headline": "Q1 2027 ICICI Bank Ltd Earnings Call Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VTDRDQllyQWJuODdwN3BSRFlmVDBJTk5zRDFfdmJyMVRqLVRkdjZ6WTRHZmFTYzdMU3RSSDc4LWVUbGFFdjV0TUk4d2RUUXVGUkZFSTZxRUxpS2gwZUdaME1GZHJiX1FvU0NNWmhxOGk?oc=5",
-          "published": "2026-08-13T04:54:02.000Z"
-        },
-        {
-          "company": "Axis Bank",
-          "ticker": "AXISBANK",
-          "tag": "Transcript",
-          "headline": "Axis Bank Ltd. (GDRs) (UZC.SG) Q4 25/26 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZXZQRFhOUUFGb2c2Z3lSaXVVRTA3ZWE4MG1nMzVDdlVwcDlCTjZMSUZvQVZJMEhCZ1psbEVVRU1UX3JSOExDZ0szc1RhdHFJaVpYZmExMUMzbUJFS2Zrd3NZN1JEbFluX01vQ0RvazBLTlpXcm9CRlpzSXVFVE14RU9adzZWRnFyVGVUTU5NTmEyUQ?oc=5",
-          "published": "2026-08-10T20:23:38.000Z"
-        },
-        {
-          "company": "State Bank of India",
-          "ticker": "SBIN",
-          "tag": "Transcript",
-          "headline": "Transcript : State Bank of India, Q1 2027 Earnings Call, Aug 07, 2026 - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDRMN3NyRHoyeGdPZVg1bWtKRlRhM1U4UVJXMjdmMUpUeUdybUw2T3l6MDRuOFcxOHg2TjVPUFJ0dURUWmx3QW5OUHBGU3JEY3hsMkNDUDRSSjNoNnZhbENLTlZGWVE4OEU4eDlraW1XMm0zLW1vTFZSd3BXQmRjb19rQ1FGYUVBWGpzZ2pUc09yNHg0Q3Z6ZVZFaklLRVk3dWFxOWJDREh5bDhZdDhKMjBhNWVOUTUt?oc=5",
-          "published": "2026-08-07T15:50:18.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     }
   ]
 }
