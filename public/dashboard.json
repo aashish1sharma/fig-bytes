@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:43:34.583Z",
+  "generatedAt": "2026-08-18T02:37:44.767Z",
   "region": "India",
   "title": "India FIG Bytes",
   "regionId": "india",
@@ -32,34 +32,408 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Quant Mutual Fund launches Silver ETF, Income Plus Arbitrage Active FOF - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEx5MDctNDBqR2gtNUpqa0owRzl2ZldvQUQzYzlzbVlwanh2aDZJTHV0OE8xejBJZ1oyTFQ1VnRBRHBIMDVCSjJRcXRmd25XR050bTlTYi1mR0c1YzVrbTc1SENnZkhIb1BvV1Q0Y3JBQXFpWlprNHdFdG9qRWNzMUtfNUZWc3dhNkg3YkQzMC1zVF93aUFiaFRGVmFmdkJXMXJvNDlXdFpXREdGTlphdWRzQkFqU1lRbkZGOHZmY1RaU2d3a2dLek5ja3FHR0p20gHWAUFVX3lxTFBJWVBxelJIVk1iN0p2VGEzVGdWTERfS0llMXVadlNYbHR2clZmOFRFRzZ6Um9Ybjh3Z2lkcGpjQy0yMEZPbTJTM25XSkxBQ05IT09maWgtbTc5aGVfMWFqaUJWN3YxU1MxWnEyenRCTWpHNGFzaVJhbUZER1k2MlQ4X2lvTDhpYVM2ZFcwSENZTW5BZWpDXzBISzhpOUVBUmgwdnFVYi10U0VSVEtqcHJrX25leDBCaW9QOXUtZTRVMkZKZlVsbmFJa3ZOYlJXeEtWZTBLVUE?oc=5",
+          "published": "2026-08-17T15:15:19.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "SEBI simplifies mutual fund registration, replaces three forms with single application - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMF95bk1iMzZyZUFXWVVTS2tsbE5ha2VCNmJDQjJHLUFBZ1BzX2J3bkp5Qk4xRnp6MWZ3REEyQzFEWDlacVA3Wnp5Z2N6dWY4dmd0QjZ1Vk0zcW9BRFhMSEJQZXROWFdEM2M0Q3U1TGV5YzlWaU9CVEpBamowUzc1VnBuNXZQTFlSOUQxNjc3bkJ6cnBnLUFLM3RlRUJsN2U4d2k0RjIzellSM2YybkZSOS1TREd4MVVQVVlVTTRJODFTNG1CMkxtT25uVmMzdmpQNWlNSV8yd3NNVUhZMzJxajVMOXlTMDBENXfSAeoBQVVfeXFMTzBfeW5NYjM2cmVBV1lVU0trbGxOYWtlQjZiQ0IyRy1BQWdQc19id25KeUJOMUZ6ejFmd0RBMkMxRFg5WnFQN1p6eWdjenVmOHZndEI2dVZNM3FvQURYTEhCUGV0TlhXRDNjNEN1NUxleWM5VmlPQlRKQWpqMFM3NVZwbjV2UExZUjlEMTY3N25CenJwZy1BSzN0ZUVCbDdlOHdpNEYyM3pZUjNmMm5GUjktU0RHeDFVUFVZVU00STgxUzRtQjJMbU9ublZjM3ZqUDVpTUlfMndzTVVIWTMycWo1TDl5UzAwRDV3?oc=5",
+          "published": "2026-08-17T13:38:25.000Z"
+        },
+        {
+          "tag": "Strategy",
+          "headline": "Sunil Singhania-led Abakkus Mutual Fund crosses Rs 10,000 crore in AUM with nearly 2 lakh investors - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQVRIOVp5QTdNUEtOMnNqRjdsWlF1c0sxX1FUMjZKcWU1eDJDSGMxVTN6ZlNuZC0yMnNPenNHRzhlTHBCZjlQanlBd3NHQ3NNQzBPal9DaUh3ODZGSWtibWQzdzUyVDZUbEgxX1FRTXQ5dnlOSThsYmNZNlVlVV9oZ050Y0l5MjZNRUZHZjJmTnRrTXV2MjFURkI1ckp0bDQwc1ltU3BUeEU1TzVlVnNRM0d5UU84cVA2Qnlic0prLVdiQVl3aVQ0WmNUWXRSbkNPY1FyYWstQkM2VzZtdXg3eExrSm8zVzl5X1Fjd3NmWVJGR3Q0SlHSAfsBQVVfeXFMTWR6VTYwODNINHNhZldZaFFia2FpUTFFQUxIRlNVQWNJNVFRN3dpUmk1TTdVcHJtTUJRZks5UHlpY2xkWGdPemJzVUFlVF9Va191US1Oam5BMkZyVVJUU1VySEp3NEs4ODAtRGE1ckgwd2xOb3BULTBGUlBoRWhkQ0JtMjZHN2lrNnVCeGMwU2YtSnhTLUxZOFdlZ1hFVkd5RzVYaS0tSlIxS2UzR29fNnppM0l6Tjh3Z0FoeWYtVzVMT1c0azFCeHYxYWl5aEdvRlFlSVRMdXR5UmFGSHZHX2I1S28tenJZQXhLZ29uaFpjYjBJOTV4aGNYOFE?oc=5",
+          "published": "2026-08-17T09:05:54.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Quant Mutual Fund launches Silver ETF, Income Plus Arbitrage Active FOF - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEx5MDctNDBqR2gtNUpqa0owRzl2ZldvQUQzYzlzbVlwanh2aDZJTHV0OE8xejBJZ1oyTFQ1VnRBRHBIMDVCSjJRcXRmd25XR050bTlTYi1mR0c1YzVrbTc1SENnZkhIb1BvV1Q0Y3JBQXFpWlprNHdFdG9qRWNzMUtfNUZWc3dhNkg3YkQzMC1zVF93aUFiaFRGVmFmdkJXMXJvNDlXdFpXREdGTlphdWRzQkFqU1lRbkZGOHZmY1RaU2d3a2dLek5ja3FHR0p20gHWAUFVX3lxTFBJWVBxelJIVk1iN0p2VGEzVGdWTERfS0llMXVadlNYbHR2clZmOFRFRzZ6Um9Ybjh3Z2lkcGpjQy0yMEZPbTJTM25XSkxBQ05IT09maWgtbTc5aGVfMWFqaUJWN3YxU1MxWnEyenRCTWpHNGFzaVJhbUZER1k2MlQ4X2lvTDhpYVM2ZFcwSENZTW5BZWpDXzBISzhpOUVBUmgwdnFVYi10U0VSVEtqcHJrX25leDBCaW9QOXUtZTRVMkZKZlVsbmFJa3ZOYlJXeEtWZTBLVUE?oc=5",
+          "published": "2026-08-17T15:15:19.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "SEBI simplifies mutual fund registration, replaces three forms with single application - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMF95bk1iMzZyZUFXWVVTS2tsbE5ha2VCNmJDQjJHLUFBZ1BzX2J3bkp5Qk4xRnp6MWZ3REEyQzFEWDlacVA3Wnp5Z2N6dWY4dmd0QjZ1Vk0zcW9BRFhMSEJQZXROWFdEM2M0Q3U1TGV5YzlWaU9CVEpBamowUzc1VnBuNXZQTFlSOUQxNjc3bkJ6cnBnLUFLM3RlRUJsN2U4d2k0RjIzellSM2YybkZSOS1TREd4MVVQVVlVTTRJODFTNG1CMkxtT25uVmMzdmpQNWlNSV8yd3NNVUhZMzJxajVMOXlTMDBENXfSAeoBQVVfeXFMTzBfeW5NYjM2cmVBV1lVU0trbGxOYWtlQjZiQ0IyRy1BQWdQc19id25KeUJOMUZ6ejFmd0RBMkMxRFg5WnFQN1p6eWdjenVmOHZndEI2dVZNM3FvQURYTEhCUGV0TlhXRDNjNEN1NUxleWM5VmlPQlRKQWpqMFM3NVZwbjV2UExZUjlEMTY3N25CenJwZy1BSzN0ZUVCbDdlOHdpNEYyM3pZUjNmMm5GUjktU0RHeDFVUFVZVU00STgxUzRtQjJMbU9ublZjM3ZqUDVpTUlfMndzTVVIWTMycWo1TDl5UzAwRDV3?oc=5",
+          "published": "2026-08-17T13:38:25.000Z"
+        },
+        {
+          "tag": "Strategy",
+          "headline": "Sunil Singhania-led Abakkus Mutual Fund crosses Rs 10,000 crore in AUM with nearly 2 lakh investors - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQVRIOVp5QTdNUEtOMnNqRjdsWlF1c0sxX1FUMjZKcWU1eDJDSGMxVTN6ZlNuZC0yMnNPenNHRzhlTHBCZjlQanlBd3NHQ3NNQzBPal9DaUh3ODZGSWtibWQzdzUyVDZUbEgxX1FRTXQ5dnlOSThsYmNZNlVlVV9oZ050Y0l5MjZNRUZHZjJmTnRrTXV2MjFURkI1ckp0bDQwc1ltU3BUeEU1TzVlVnNRM0d5UU84cVA2Qnlic0prLVdiQVl3aVQ0WmNUWXRSbkNPY1FyYWstQkM2VzZtdXg3eExrSm8zVzl5X1Fjd3NmWVJGR3Q0SlHSAfsBQVVfeXFMTWR6VTYwODNINHNhZldZaFFia2FpUTFFQUxIRlNVQWNJNVFRN3dpUmk1TTdVcHJtTUJRZks5UHlpY2xkWGdPemJzVUFlVF9Va191US1Oam5BMkZyVVJUU1VySEp3NEs4ODAtRGE1ckgwd2xOb3BULTBGUlBoRWhkQ0JtMjZHN2lrNnVCeGMwU2YtSnhTLUxZOFdlZ1hFVkd5RzVYaS0tSlIxS2UzR29fNnppM0l6Tjh3Z0FoeWYtVzVMT1c0azFCeHYxYWl5aEdvRlFlSVRMdXR5UmFGSHZHX2I1S28tenJZQXhLZ29uaFpjYjBJOTV4aGNYOFE?oc=5",
+          "published": "2026-08-17T09:05:54.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Jio BlackRock AMC launches regular mutual fund plans available via distributors - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00N2syUDFpWVhYTU1vSThYMlAzUUI3dUhRQTU4Q1Bremk5RU1qQ05Rd0RCUkJGUWJ5NUtjX3N0dmYya0d3VDVqNnBYdi1vV0Q5RnJoRUFFWWctNDljTDhHSk1fLThKNFlmRE11ZGw1cHFvMkh0N3lXdg?oc=5",
+          "published": "2026-08-18T01:22:35.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Sebi tightens mutual fund sponsor disclosure norms - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFB3UjFXbzdid2ltRGJqU2tBaFhMcS11NURJcHJJdVZHdElnRktCQ0p5WGE4amtZWTlHMUZ1ZEZPMVo1Z09VandEaFBvc1RSeDBDcWF4Z2NZOS1zbjVRMVBneVFEZkQxX1hkUWxvMmJHcEtDa2h5NTkwaldlNzNJbjk3b0lwc3RWYUF4U1VyR3plWmdKNHFpWGgtV0FmLWpTUVN5aElBNE5zalFzdkZJYWJEMm1Rb1ppY2F3ONIBvAFBVV95cUxPUFB3UjFXbzdid2ltRGJqU2tBaFhMcS11NURJcHJJdVZHdElnRktCQ0p5WGE4amtZWTlHMUZ1ZEZPMVo1Z09VandEaFBvc1RSeDBDcWF4Z2NZOS1zbjVRMVBneVFEZkQxX1hkUWxvMmJHcEtDa2h5NTkwaldlNzNJbjk3b0lwc3RWYUF4U1VyR3plWmdKNHFpWGgtV0FmLWpTUVN5aElBNE5zalFzdkZJYWJEMm1Rb1ppY2F3OA?oc=5",
+          "published": "2026-08-18T00:20:53.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Mutual Fund Ownership - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEtjR2U5THJwUDBndUdPSTBtVi1NZFRSbUZlTFNGbWxJNG5BU3NLTlgxMW5KMGFCMVdPSGpUQWc2MjB1anRndzVaY3Z4bGx5dXNrU1EwSHJqZWw2a3JJV0JyM0VFbTNDT0RaVWlKdHo2VHo5Sk45alBTWWFCeTU4QU1ONUEzYW1iY0hhc0QyTXF4Z3lGR0hsb1Njb1FEamVaQzlXY0txaw?oc=5",
+          "published": "2026-08-17T19:37:53.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Discretionary PMS clients can pledge securities for personal loans; pledged assets can remain part of AUM,... - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWEI3Q1hQMVROWDBRNExCVnF4YzdjdS13eXB2SGNLWVVqY0s2MW9kZVlFV3pZSTVMc0x0T0ZrM1pHTFkxRUg3VEFtdjc2TksybzhfSDFYbHlwSU5kVHh5VV9EanV0RTdFd2JRRUJDT1pIVlMybGlxZVlRMVh4STFGUnItLXAwcjc1R2trMjU2OEtsNjZ3RHRzZTJpeHlTMm5mUWg1NEN2cjFBLVA0QTlTY1BiYVRqMmVNcDRlTTQxejhMYmtqN2Y3TG11Vk5MOE9zeG82aHRnc2F4b2hUanBjR1J4Tko3WmVkS3lKTE1FMXh3b1Nsb1FkMUxYbHhHdWx5WXN4cnkybFp3Y0tnYnE5MzdtazllOUpMYW9RZ1laR2VvWkR2Y0JJbmxMMXnSAawCQVVfeXFMUFhCN0NYUDFUTlgwUTRMQlZxeGM3Y3Utd3lwdkhjS1lVamNLNjFvZGVZRVd6WUk1THNMdE9GazNaR0xZMUVIN1RBbXY3Nk5LMm84X0gxWGx5cElOZFR4eVVfRGp1dEU3RXdiUUVCQ09aSFZTMmxpcWVZUTFYeEkxRlJyLS1wMHI3NUdrazI1NjhLbDY2d0R0c2UyaXh5UzJuZlFoNTRDdnIxQS1QNEE5U2NQYmFUajJlTXA0ZU00MXo4TGJrajdmN0xtdVZOTDhPc3hvNmh0Z3NheG9oVGpwY0dSeE5KN1plZEt5SkxNRTF4d29TbG9RZDFMWGx4R3VseVlzeHJ5Mmxad2NLZ2JxOTM3bWs5ZTlKTGFvUWdZWkdlb1pEdmNCSW5sTDF5?oc=5",
+          "published": "2026-08-17T16:25:10.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Sebi revamps mutual fund registration process, sets out eligibility norms - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSnFhS19zRXpHeHVZZXF4QXlRQ0pxcXBXODZJSnF3bktwS3QxVVVIQjhicnJhcktyOS1kdEt4Q1J2OWg0eGNpNWR3UmxoMmxzczFCWXc1ZFM5dm9pQ3p0WnZ2cWRKN2xvWDk4cE5sNGtHSEdlalQ4SU53ZmhvMWYtSXRyY3pqdnczOWRLbmdFYlNtZy1BWlY1ZkNZb3FpczNtc1pQQ24wSmU4MDI3TUgzMGdGbk13aGhoT0hWZlFaQnZWaWF1bFNoN2VYUmtfRjQ2bVlqQlZ30gHbAUFVX3lxTFBQMjdDV1EyWU10MWxPazdEd1NVLS1aOERfTGJwTWVyakRPSjlpdURHaVFwcXg0Z3hkdTd0T0swOGNIOEZlVk1pLXN4V2lrQ255dDdqZ0dPNlUtV0JMMURuWXgxN015VG9HT1VIdU5FcTVIQlpWRUczV2lmQ2VMcWtId2RwY2V1X0Uzd1NSYkxvUGFkQlBJNHlXdHZLdFd6alhQZ0VOYWdVdUhfWUdOM05IeGFuMU1PanNaZmlHZkcyVUJWZWR0dXBma1VUV3NRanlBMG9iWEhadlBHVQ?oc=5",
+          "published": "2026-08-17T13:18:21.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Sebi slams social media 'experts' for unregistered live trading tips, risking investor losses - The Economic Times",
+        "teaser": null,
+        "source": "Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOVUdlQ2dIeFczZVRQOU1od2IxVWJ4NWVuaWo4XzVRSWFpX0gzZzBrcU5rdnRoZW50TC1ITVNOMEFnbVp0YzUtQmNRWlN0MFlxeUNIajMxQU1qa3Foa0pDTW5RdW5fSXp4UEFCLXBUSDVHSl8wbzU3bkFleV9CU2g4Vm9pOFZqcTN2VDY0ZmFZZ01lZEJvbHBBYThHc1o5SGl2ZVdqaFdFT3haa2xVSEhBcl9tM1BhY3pJaklGLUpBd1dWdy1IRlF6b0FpdlJUWVpKb2RzakVWVVktWUxWN3ZkZV8tazNpdW5BY2o3RWRqSjJlYW9SZkg2a3VVcXl0blF4LXpudmpMVUxabmRYNkJXYlFudG45Q3JvMjBObnZ0WWwyMVZ0eXZBWTdnU2hraDE2WXVScEtqTEQ3WlIxMHYwVk5IakdxYWNWcWR0RmZDc3lCUkctXzRhakxVNjZRcE9n0gH8AUFVX3lxTE9XZy1LcUI4cjkwR0I2WE1ZUE5Pclk4enVFbExtNEpMd0xZOUotcGFBZ1I1Q3hUQzllOWt0RUdrS2JaV0JkdUN3OHJDcks4dldzODZCVTdTVG1oWThycFNhSkljdFFRa1haSzZkMjc2MUZaWGtxRzFRWTBxMzBfa3ZCeW5ScHExWFVrdV85YWJ6Tl95NGhxWkZRbkRxX0o0SW0ydGUxQ2kxSFQ3QUQyc2FGcnotVl84bG40Tklpei1RZUwwMm9uOFhrelg0SWJlV09FRXRWQWtMd1EyMFVTX0lzcFIwSENQeTNJUFd6elBiTUtDMG11UlZ5VDVEVA?oc=5",
+        "published": "2026-08-18T01:10:58.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "Aditya Birla Sun Life AMC",
+          "ticker": "ABSLAMC",
+          "tag": "Transcript",
+          "headline": "Transcript of the 19th (Nineteenth) Annual General Meeting (“Meeting/ AGM”) of Aditya Birla Capital Limited held on Fri…",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVBjMDRpUk8zR0c5Y1lYRG5SN19ob0YwekczODVsLTJMX2x2cHJVS05ydE9KZ25Da2prRnZPU1pWWWtXd01TdXdIc1pNbmtiMTJHN2p2SDUtd19uUVJrMlhmOEJ1MWFvaFhGNHlPLTlIMWs5SDZtMnVSNEV4Z3hyenF6RERld1NKQWtXVWFHemJSdGxrMUtLRE1pRFlNS2N3aWM3TnpodmE4dHFuWTFyb0N4eWxtRFExSG1wLQ?oc=5",
+          "published": "2026-08-14T07:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "bullets": [
+        {
+          "tag": "Regulatory",
+          "headline": "Sebi clarifies rules on pledging securities for discretionary PMS clients to raise loans - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZkZ2WXU5bWxJZHJ0UWFQSVpySGdHUkp2V0tZQUVLUms5enRiRXFZMFhLSktSclowLTRNbGdrQ2IzM29QRFRYQklCWlhCREw0ak5PWXVFd0h0VTl1bjRXTkU5dVFlUnRkWDMyUUlkS29vYVVPNTRuWXFQbzVnQy0xNDlNdk96WTE4aFdnbGI5dGxtUnREMzhVUTFyWGdJd281UHVFUGc1SFJyVWNDNUtQWDM0dk5xNmpqa3FseGhkcldUTnB0ZGQ1R1FMZXpkbmJIMElLQ09GX0Q0Vjg5ZWJLcVczLWNZZGdST0h4V1VxVXoydGJfbE5DXzRYX0lzTlV5U3Y5VjU2dHFjRzB6b1kzbDR5YVhnc1BJSUV0SkxaSHFfMlo5S2RnczFUeHJLbHR4MXVVYWF2MGs3Sl9CNzFUSUIzcENXZUEtYTgwNjlrMHc5OFNFc0w0V20xci1kUdIB-gFBVV95cUxNTTVtZ3VGUXZWRXVwQ0ZHbTRxaFVhUGxfazZ6ZFF0UmtvOVJqb0tfLVZDelV0eVFkNlNpdEZQZ1FSeHR6LWlxQ2NiV3FMMjlocDRTQUV4Z2tzU1JoQlpDZ1ZVOEtOaHVkX2dSSVhqT1VJWWZHOF9hbWlGem1YMzdPbFpVelVIREhRa3Y4Rlg2ODB6U3Jid3hQYnFxY0NzY0dxMk5wV3ltZHdqMlRraVBxT2ZzdEpmYnNPNFVUb0VMTl8wYjJWMnVMT1JlSTFvRF9sWGJPVTlxRml4QzlUbm9oemRmMGlheG9JU1llSWZYN2RjaXNQNHJCNXZn?oc=5",
+          "published": "2026-08-18T01:04:46.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Discretionary PMS clients can pledge securities for personal loans; pledged assets can remain part of AUM,... - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPV1VINzZKazIydy11aVp5OG93MEVpVERBamxaQjRmZVQ2TENjM2xvOU10b21WMmx4M2lSMUw2MnlsQkM1aWxlNWpuUUgtQzdhU21FZVdCS3dsSFJPNFhLZ2llQklBRFhFYVlhY3d2ZEl6d1ppV1BkUlFVQnVPclVaS1FEYUFTQm8zSTZaRUJxUGw3M3dNT2g1UHVVUC1BWUp6TTg3NjVHSk83ZEI0V3JWZFVFNThaV2JXQzZkRnFMTkYtTVQ2aHFFXzl0ZWh4VXBjUE5UWVRmbzdYYll4N1JmWnQ4Q3hhSG5WQ1lTX1BCUHdwcy1oUy1scHJIeF9KY1dUMlhqM0xJZlJUUmdEUWpMckg5WVdVLW1WdUVRY3VXMkxlNzM5S0I40gGsAkFVX3lxTFBYQjdDWFAxVE5YMFE0TEJWcXhjN2N1LXd5cHZIY0tZVWpjSzYxb2RlWUVXellJNUxzTHRPRmszWkdMWTFFSDdUQW12NzZOSzJvOF9IMVhseXBJTmRUeHlVX0RqdXRFN0V3YlFFQkNPWkhWUzJsaXFlWVExWHhJMUZSci0tcDByNzVHa2syNTY4S2w2NndEdHNlMml4eVMybmZRaDU0Q3ZyMUEtUDRBOVNjUGJhVGoyZU1wNGVNNDF6OExia2o3ZjdMbXVWTkw4T3N4bzZodGdzYXhvaFRqcGNHUnhOSjdaZWRLeUpMTUUxeHdvU2xvUWQxTFhseEd1bHlZc3hyeTJsWndjS2dicTkzN21rOWU5Skxhb1FnWVpHZW9aRHZjQklubEwxeQ?oc=5",
+          "published": "2026-08-17T16:25:10.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Top portfolio management strategies for July: Four comeback strategies, one conspicuous no-show - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNHgzTTlKSTFSSHFEdk1Pc0F6Qnl4dGgxYXpFZHZwSGxDamxybXA2eUlGNkNfSE9JZ1ZDV25QQklCMjdCLTA2MkFpZDBMX0QzTVROSEhHTDRHY2R0bncxR2JwMGFQMzZ1Rmh6UzZhY0JYZ04xLW5qeEEwVHdMLTVQc0RCUHNzdjR6WGVQZDdXR19Pbm9UOXhLekJObEVOcEVzQ09sOWhWa29BWE1WZ1JnWUZHSVNZa19nZmdmaUhqTUw3dE9VVENnNGQxemg3V0RjUWcxZmhORVg3bkt5cDEyeGtDbknSAeoBQVVfeXFMUEJtSUxzbDBqTHBvQlVma1F6bFNodkRGTkFTLXhQUnFPVXNJM2N6U19ncEQzVnJpRGl4N1lvcnUxak93RGNES2xxWUg4VUNTbHV4M05oOGVDaGowaTdQUWF4R0xUMFRwVXQ3bUQ1U2JXc1dudkxEUnBQS3ZlbFF6UUFrSlM0Y3FncE1xWEx4V3lObXhxQTFHV2hocExodVRsOFNRdF9tLVJYZ2EwcnJfS0IyT3ZPdXEwRkxvWXZTSmFLMlpBV1JIbHNZcXJnLS01R0F1S1h0MWtKaHJvWWlSYUxoczJUcld6aU5R?oc=5",
+          "published": "2026-08-17T10:21:55.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Regulatory",
+          "headline": "Sebi clarifies rules on pledging securities for discretionary PMS clients to raise loans - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZkZ2WXU5bWxJZHJ0UWFQSVpySGdHUkp2V0tZQUVLUms5enRiRXFZMFhLSktSclowLTRNbGdrQ2IzM29QRFRYQklCWlhCREw0ak5PWXVFd0h0VTl1bjRXTkU5dVFlUnRkWDMyUUlkS29vYVVPNTRuWXFQbzVnQy0xNDlNdk96WTE4aFdnbGI5dGxtUnREMzhVUTFyWGdJd281UHVFUGc1SFJyVWNDNUtQWDM0dk5xNmpqa3FseGhkcldUTnB0ZGQ1R1FMZXpkbmJIMElLQ09GX0Q0Vjg5ZWJLcVczLWNZZGdST0h4V1VxVXoydGJfbE5DXzRYX0lzTlV5U3Y5VjU2dHFjRzB6b1kzbDR5YVhnc1BJSUV0SkxaSHFfMlo5S2RnczFUeHJLbHR4MXVVYWF2MGs3Sl9CNzFUSUIzcENXZUEtYTgwNjlrMHc5OFNFc0w0V20xci1kUdIB-gFBVV95cUxNTTVtZ3VGUXZWRXVwQ0ZHbTRxaFVhUGxfazZ6ZFF0UmtvOVJqb0tfLVZDelV0eVFkNlNpdEZQZ1FSeHR6LWlxQ2NiV3FMMjlocDRTQUV4Z2tzU1JoQlpDZ1ZVOEtOaHVkX2dSSVhqT1VJWWZHOF9hbWlGem1YMzdPbFpVelVIREhRa3Y4Rlg2ODB6U3Jid3hQYnFxY0NzY0dxMk5wV3ltZHdqMlRraVBxT2ZzdEpmYnNPNFVUb0VMTl8wYjJWMnVMT1JlSTFvRF9sWGJPVTlxRml4QzlUbm9oemRmMGlheG9JU1llSWZYN2RjaXNQNHJCNXZn?oc=5",
+          "published": "2026-08-18T01:04:46.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Discretionary PMS clients can pledge securities for personal loans; pledged assets can remain part of AUM,... - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPV1VINzZKazIydy11aVp5OG93MEVpVERBamxaQjRmZVQ2TENjM2xvOU10b21WMmx4M2lSMUw2MnlsQkM1aWxlNWpuUUgtQzdhU21FZVdCS3dsSFJPNFhLZ2llQklBRFhFYVlhY3d2ZEl6d1ppV1BkUlFVQnVPclVaS1FEYUFTQm8zSTZaRUJxUGw3M3dNT2g1UHVVUC1BWUp6TTg3NjVHSk83ZEI0V3JWZFVFNThaV2JXQzZkRnFMTkYtTVQ2aHFFXzl0ZWh4VXBjUE5UWVRmbzdYYll4N1JmWnQ4Q3hhSG5WQ1lTX1BCUHdwcy1oUy1scHJIeF9KY1dUMlhqM0xJZlJUUmdEUWpMckg5WVdVLW1WdUVRY3VXMkxlNzM5S0I40gGsAkFVX3lxTFBYQjdDWFAxVE5YMFE0TEJWcXhjN2N1LXd5cHZIY0tZVWpjSzYxb2RlWUVXellJNUxzTHRPRmszWkdMWTFFSDdUQW12NzZOSzJvOF9IMVhseXBJTmRUeHlVX0RqdXRFN0V3YlFFQkNPWkhWUzJsaXFlWVExWHhJMUZSci0tcDByNzVHa2syNTY4S2w2NndEdHNlMml4eVMybmZRaDU0Q3ZyMUEtUDRBOVNjUGJhVGoyZU1wNGVNNDF6OExia2o3ZjdMbXVWTkw4T3N4bzZodGdzYXhvaFRqcGNHUnhOSjdaZWRLeUpMTUUxeHdvU2xvUWQxTFhseEd1bHlZc3hyeTJsWndjS2dicTkzN21rOWU5Skxhb1FnWVpHZW9aRHZjQklubEwxeQ?oc=5",
+          "published": "2026-08-17T16:25:10.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Top portfolio management strategies for July: Four comeback strategies, one conspicuous no-show - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNHgzTTlKSTFSSHFEdk1Pc0F6Qnl4dGgxYXpFZHZwSGxDamxybXA2eUlGNkNfSE9JZ1ZDV25QQklCMjdCLTA2MkFpZDBMX0QzTVROSEhHTDRHY2R0bncxR2JwMGFQMzZ1Rmh6UzZhY0JYZ04xLW5qeEEwVHdMLTVQc0RCUHNzdjR6WGVQZDdXR19Pbm9UOXhLekJObEVOcEVzQ09sOWhWa29BWE1WZ1JnWUZHSVNZa19nZmdmaUhqTUw3dE9VVENnNGQxemg3V0RjUWcxZmhORVg3bkt5cDEyeGtDbknSAeoBQVVfeXFMUEJtSUxzbDBqTHBvQlVma1F6bFNodkRGTkFTLXhQUnFPVXNJM2N6U19ncEQzVnJpRGl4N1lvcnUxak93RGNES2xxWUg4VUNTbHV4M05oOGVDaGowaTdQUWF4R0xUMFRwVXQ3bUQ1U2JXc1dudkxEUnBQS3ZlbFF6UUFrSlM0Y3FncE1xWEx4V3lObXhxQTFHV2hocExodVRsOFNRdF9tLVJYZ2EwcnJfS0IyT3ZPdXEwRkxvWXZTSmFLMlpBV1JIbHNZcXJnLS01R0F1S1h0MWtKaHJvWWlSYUxoczJUcld6aU5R?oc=5",
+          "published": "2026-08-17T10:21:55.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "India's Sanctum hires from Klay for portfolio management head - Citywire",
+          "source": "Citywire",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUdSd0xuT1k2THkzWFVySEJGTUd3Q1FSN3R1aWprQWR6c2N6bzdoUzJVQUtRUzJ1cEFCSmRUem9rY3IwSlFHVXhvMDVjcXhqWGVKYmZsVjVzRHJ1WXlpbkNNZW5FSThDbjhjbHdhTnl5VXlxNUY5YTBmWFZoTGV6YmpBd1Rua2s5d2FXWWR1bGQwQWU5UkQ0WlBCaTRMQUw5emc?oc=5",
+          "published": "2026-08-17T11:06:41.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Building the Talent to Scale India's Private Wealth Management Boom - Hubbis",
+          "source": "Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUU04Q0VlOU95SGtQeTNURHQ5S2s0OXJvTTNPQ1VEOVBncFZBYm96ZThaaXZ1clJPWGdud0xaX25WRFR5Z1plU0tZSWt3S0RpTWlDZWFfUWdKT3lZNF9IUUNPLV92Nk5KT3BTYkIySUpoZFlmWVlXR0dXSDVxUGVLTEphWndZSFIwZVlHQkowV2VWS0hyTlFsSzNFZ1hqWXM?oc=5",
+          "published": "2026-08-17T06:58:53.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "India's Wealth Management Boom, One Year On: Bigger, Richer - But Is It Sustainable? - Hubbis",
+          "source": "Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV25MQkFDLUQ0TFdVTzBsbDVSNGhURGlsNlBXc3l1a083SlIyclFmX3NZUXZQZG5PX2l3RzNPZjZuNE9SVFo1WjlUV3lzd1pQY3NEUERGcnRFWm5xR1B3VFVCY0QzUkhXYjhTWVBzSVBsUkl0YkxjLVNyTzVKdDl2YXA5aGF4T0ZXUDRkZ0F1ZE12Zk8zU05IUUswZ3c0bUhyZ3N2NnFweGxpNG52bVE?oc=5",
+          "published": "2026-08-17T04:26:41.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "PMS Bazaar Collaborates with NSDL Database Management Limited (NDML Accreditation Agency) to Expand Access to SEBI Accredited Investor Cert…",
+        "teaser": null,
+        "source": "Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPNW5HQWdBajY0NWtkNWtpVEhCOE8tSDBPbFA5WVZIM3Rmc0VfdjR6WVRNZmJlbnpzM0lBMTctVFI1a3A4MXlpWXRBMWJrMHQzOHc3YWhTQW5POXExQzRsbmpOWko2Tnk5N1hHSk5vTjdURkFKMGpZOUNFSENfelpEc3NRZDNHbklWQ1FBQVNzR2xZb0NXS0t6TE81OEpSNUpyVXkxYzQ4OFAtcW5rR3pFRUhacGdBYmxmaVN6U1MwQVgwaXhLdno0TF9hMWVoV2Zzb0xXTnBaOTBqMFEyWWpFMHhwVm5xcEFkeGRmU1pGMUdzNUtQenUyYm16WjdzOGlVWmpvbGVQWFNsMUtweG40LTA2ajhUMGt1RWZ1M25DZGU1b0dfVW5oYjZYRG81UGhZaHVYbXFmMG9QRzdYSXpQQzFwcjUtMFYxTnVn0gHQAkFVX3lxTFBnc2xDblBLZ0xlYlI5a2ZyRmRESUU1R2djYTFzMFZjWDNxRVVHWVRkUFdzRWIxMTlKOFY5T294dEI1ajdRdlI0RjliZ1U2THBta3JvMXllWXRFNDN4V0JXcGdiQnFWYjhNSjU5R2JCWEMxRWQ5YmNVemlpbTQ1UHZlVlFrWWhXdkNwR3VVaVB6T0ZyaGdCbklPNDN6YmJhWWdvM3A2cFJnd2hvX2J5eVlzSUJLOHNCN3JGd3hzRHhqVnBQWkhiQ0tFVEI0M21samZRZ3FxUURLaFl3bkd0bXhzcDZ4OUFNRGpRUk5fZlVhMmRqQWpyQjVWcjFuVVFwSjJKdXlraGtBRU5HVWVfMEVtZHZ3NkJqdWtlVVhlUGJrWUhIdHEtSnRmYVVMTElzWE5FZlQ5Vl82cEVZcElBZ0dzLUJmb05CMEc4aGpVcXlldw?oc=5",
+        "published": "2026-08-12T18:55:00.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "Motilal Oswal",
+          "ticker": "MOTILALOFS",
+          "tag": "Presentation",
+          "headline": "Manappuram Finance to host analyst meet at Motilal Oswal conference - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVMzZGdGbnB5R2otTGx5MW1FaXdVX1ZHNFYzWTFOY3llRDB1ZDJJZ0tuN3JVRnE1TFZGQm9nV09RUk1XdDlTcHZ1QmNiYkVicUcyQXY0ZkVUcWtydjI1NWt1a19TUlItd0ZZMlFqSjR4eHBzcjBkU0pSdmtMVllKVmlpWEJTd0Q1TVNSdkExYTdKVFNHQ2VPdUdadTB4TXZNVWwxajNLRFJQTHhQWlVnN0RPcmNWbURXMVE?oc=5",
+          "published": "2026-08-12T19:54:50.000Z"
+        }
+      ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "bullets": [
+        {
+          "tag": "Regulatory",
+          "headline": "PB Fintech’s Policybazaar gets IRDAI show-cause notice following 2024 inspection findings - financialexpress.com",
+          "source": "financialexpress.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSmtHNWtIdDFKMnlEWjlvV0VsQS00SlhmaGVWb0RiMkdXaUFnVUIzbVZxZVlBc3FrM1FMV1lxWlBtVG91WlAwYnhOYXNZbHM3LUFNd1YtVHNDaGlSaVRfWFpnUkh2eUU1LXpJRm1EUzQ4UGh0VkFGbElXM0trQnZWQzZJb3RMQUxxeTNhcm10aGVqcUkzbFJXMEZ3UkI1eVpzYXZrU1hTU3Fzc1YydzJMaGlXd2RKT1ZvRFptME5ydUdoRi1Od3IxTzJZN2NMMmdhZ3lDTkQ5aTZxTnhXUmpidXRB0gHoAUFVX3lxTE1WZUw4emVkNUFyZ2pDTGNJUFlSc1RYU3JvZFRteXFWb1VhdWhhZC1odk83VkM5cGh3Q3dFR1NJS0lza3I2WkQwWkQwelBWMnBMckl3OFpNdlZ1bXNDY0ZKcElTUHNMNC1PN3lSZVYxNVR4anY3dHJ1Rm9zblNrblR2V3M0aHc5YnJfUGVQSFAtZlFFbjFLTExaSVFjS3dQUm5TOE1qenhTeUlUcFFUWXR4REJlN2M5MmZaUFlyMFd3SVRrMGFZVHl4QUpBLVFMOFVuVVhnWV96MXZoTjVNbUlKOVhzbUE2cEk?oc=5",
+          "published": "2026-08-17T04:52:28.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Why Hospital Choice Matters While Buying Health Insurance - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTVyWW5tcmF3QVkxQXF5SnI4dFZXSEI4N2lGZTFfOXYtTndWZjlkVnpoYVBnUGd2clhkN1M1X0VmczBlRGhFZnI3bnpTa1dPSE1XZ0lKWEc4d1FPTGRVNjk3OGNjY1JPclpHWEpXX3E3ZHpQZEpnN1ZGdlpoMGZUeWZ0MmFvajZNU1BiQVF5ekJtcWRlLWltc1hKUU5jNmlNMmowWXVyYmtaV1FBbE9WYUlwSdIBvAFBVV95cUxQdGZpR3p6WkctVXBleElEZjhKQlJicHlRQWxBSWZPX0pTNm9VWVItS1M3VmFJYlRzc3dHX2JjUktFVmlIdmpCcmpFbF9RWUFTNFJBdjBrX0k0ZHlITmFRYzJLcXhYUzJZaHVGVUd0QTljQVRxdjZORlZKNEZxa0FsTDlYYmhPM29ldG4ybnMwTm0wWE94dnNaay1jbThHZ0hKWWdySTlRMExnekNRN3F6MmgwNzdtTjVjR2hlUA?oc=5",
+          "published": "2026-08-17T10:20:55.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "NRI life insurance protection plans can be 50–60% cheaper in India: Should you buy here or in your country - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPS2U1Q3ZnaXEwMVBkMUV3MUE0bkVIcWVxa0FKZ05rdlB5VWpBbzBrWVBPbENtOXdqSXdvX0IwT3YwRTJNQ2daMXBXVkhyVTNNMUVPdkpuWkVrdWVJNkR6SjZSOTV5Zmc5WElheFhndnBtdFAzYkNsZmdya0pTcEtBQXpBejRvaXpaS1BCT3RwMFl5M245SWxhcWlyaHM0aVVlc3o5OUJFazNIamxQVzI2cWUwZGFJdlhmMXdPUTBxZjM5a19aYU5WeHN5enh2WWVWSGJOdmlYeDhvZXpkUE1QWWkzTnJ2bDlORHBsNDNSQUcxRGZmNEgweFRwQUZRSkRWZE9YMmx5blRSSUpJcGxjTEl30gGXAkFVX3lxTE9FaEFHZHg2X1V6ZnF1Z0FKblBHWlE0ZjBjS3ZkRkowLUlIck1IVU81dVlZQWJfVzFfMUdUNzhYdFoyWnNyV1VaTFowMnp1OTNVaGJnYURidWZaVWdmeTZoUW5kdnl6dWd0eDNueExYTVZzbnJtRTJZYXdJYUlkb1pBcXgtZmRFRjZtV2F1dTllNUFiYkhaVjIzZWpadlR4TlBBeEhBWWpjRXBBQmZFVHVjbkthcjQ1LVV3QmlucmdLNF9GS2NQWFRZUmtCb0N2WkJwU1h3VExObGR0dHk2cGNvRldXU0V6MlMzM1dreTU4TWtrWGhIX3hTX3ZZX0hqMmhVRGMzZkRrdl9vZllQeGRCaEI0WUdNVQ?oc=5",
+          "published": "2026-08-17T05:59:32.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Regulatory",
+          "headline": "PB Fintech’s Policybazaar gets IRDAI show-cause notice following 2024 inspection findings - financialexpress.com",
+          "source": "financialexpress.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSmtHNWtIdDFKMnlEWjlvV0VsQS00SlhmaGVWb0RiMkdXaUFnVUIzbVZxZVlBc3FrM1FMV1lxWlBtVG91WlAwYnhOYXNZbHM3LUFNd1YtVHNDaGlSaVRfWFpnUkh2eUU1LXpJRm1EUzQ4UGh0VkFGbElXM0trQnZWQzZJb3RMQUxxeTNhcm10aGVqcUkzbFJXMEZ3UkI1eVpzYXZrU1hTU3Fzc1YydzJMaGlXd2RKT1ZvRFptME5ydUdoRi1Od3IxTzJZN2NMMmdhZ3lDTkQ5aTZxTnhXUmpidXRB0gHoAUFVX3lxTE1WZUw4emVkNUFyZ2pDTGNJUFlSc1RYU3JvZFRteXFWb1VhdWhhZC1odk83VkM5cGh3Q3dFR1NJS0lza3I2WkQwWkQwelBWMnBMckl3OFpNdlZ1bXNDY0ZKcElTUHNMNC1PN3lSZVYxNVR4anY3dHJ1Rm9zblNrblR2V3M0aHc5YnJfUGVQSFAtZlFFbjFLTExaSVFjS3dQUm5TOE1qenhTeUlUcFFUWXR4REJlN2M5MmZaUFlyMFd3SVRrMGFZVHl4QUpBLVFMOFVuVVhnWV96MXZoTjVNbUlKOVhzbUE2cEk?oc=5",
+          "published": "2026-08-17T04:52:28.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Why Hospital Choice Matters While Buying Health Insurance - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTVyWW5tcmF3QVkxQXF5SnI4dFZXSEI4N2lGZTFfOXYtTndWZjlkVnpoYVBnUGd2clhkN1M1X0VmczBlRGhFZnI3bnpTa1dPSE1XZ0lKWEc4d1FPTGRVNjk3OGNjY1JPclpHWEpXX3E3ZHpQZEpnN1ZGdlpoMGZUeWZ0MmFvajZNU1BiQVF5ekJtcWRlLWltc1hKUU5jNmlNMmowWXVyYmtaV1FBbE9WYUlwSdIBvAFBVV95cUxQdGZpR3p6WkctVXBleElEZjhKQlJicHlRQWxBSWZPX0pTNm9VWVItS1M3VmFJYlRzc3dHX2JjUktFVmlIdmpCcmpFbF9RWUFTNFJBdjBrX0k0ZHlITmFRYzJLcXhYUzJZaHVGVUd0QTljQVRxdjZORlZKNEZxa0FsTDlYYmhPM29ldG4ybnMwTm0wWE94dnNaay1jbThHZ0hKWWdySTlRMExnekNRN3F6MmgwNzdtTjVjR2hlUA?oc=5",
+          "published": "2026-08-17T10:20:55.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "NRI life insurance protection plans can be 50–60% cheaper in India: Should you buy here or in your country - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPS2U1Q3ZnaXEwMVBkMUV3MUE0bkVIcWVxa0FKZ05rdlB5VWpBbzBrWVBPbENtOXdqSXdvX0IwT3YwRTJNQ2daMXBXVkhyVTNNMUVPdkpuWkVrdWVJNkR6SjZSOTV5Zmc5WElheFhndnBtdFAzYkNsZmdya0pTcEtBQXpBejRvaXpaS1BCT3RwMFl5M245SWxhcWlyaHM0aVVlc3o5OUJFazNIamxQVzI2cWUwZGFJdlhmMXdPUTBxZjM5a19aYU5WeHN5enh2WWVWSGJOdmlYeDhvZXpkUE1QWWkzTnJ2bDlORHBsNDNSQUcxRGZmNEgweFRwQUZRSkRWZE9YMmx5blRSSUpJcGxjTEl30gGXAkFVX3lxTE9FaEFHZHg2X1V6ZnF1Z0FKblBHWlE0ZjBjS3ZkRkowLUlIck1IVU81dVlZQWJfVzFfMUdUNzhYdFoyWnNyV1VaTFowMnp1OTNVaGJnYURidWZaVWdmeTZoUW5kdnl6dWd0eDNueExYTVZzbnJtRTJZYXdJYUlkb1pBcXgtZmRFRjZtV2F1dTllNUFiYkhaVjIzZWpadlR4TlBBeEhBWWpjRXBBQmZFVHVjbkthcjQ1LVV3QmlucmdLNF9GS2NQWFRZUmtCb0N2WkJwU1h3VExObGR0dHk2cGNvRldXU0V6MlMzM1dreTU4TWtrWGhIX3hTX3ZZX0hqMmhVRGMzZkRrdl9vZllQeGRCaEI0WUdNVQ?oc=5",
+          "published": "2026-08-17T05:59:32.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Best Health Insurance Companies for Parents - Business Upturn",
+          "source": "Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3c2SjBhSW1YcHh3dS11bjdLUENoYW5xR3ZsQTBzb1l5X3hTYjdKY2RiN0pqZjdJdFlJRm16NHdhNGlIcUtwOGlrY2ZVbW9sMm53Y0VzRzExYU5XV2lVLTB1T2ZRWTJqakxuQ3RLMU5PVVUxaldDa3RXOVRKUjRqY1FGZm9aUHFGeWxzS2tjTEIyVlRfRl8tRjE1ZHpIR09GT3c?oc=5",
+          "published": "2026-08-17T17:05:02.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "NRI life insurance protection plans can be 50–60% cheaper in India: Should you buy here or in your country - The Economic Times",
+        "teaser": null,
+        "source": "Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPUDM2Rm9nLWFyQVBaWUZuOFBNOHNoamlfUi1ZalBHSUJvXy04dkdtRk5NdU9yVzlyYVBIbmxDSTIydlVJSTRmaGtLSjM3WlM4ZTIweXcxeWszd29pTEtkNWRZdkljb0RoRk1xQWljMkdHSy1JdzRIQUVmdkUwZmtUU1pJME5jX2VldEVHQTNBUWUtejhhNFFidTJnbzFVcVpIeVVlZ3A0Yk9vRU44a1p4VllsOVdsTFZPUmFEODJqZHc3d2xOZUNLMDZ1V0F3RGlsaFNUOGFhRXlYOVFrWkVza1hKUVZub3MwN1ZZalRDYVNMbXp5b0xHaGlRUE8zRnJDU01QRzFudEhoc2t5NFZITjJTRTFGeUYwZldfbTI4bmtvTVFTY09CSE5NcXhLTVdqeDBCMGpyTUhlODVHZUt0eEtLb2F6b3FHS0NNWUF5Zm0tQkF2XzY4TDZFY2t0NEF0QXFMclBIdTNFY010YzE1R0ZnMERXY1RUbmEw0gGXAkFVX3lxTE9FaEFHZHg2X1V6ZnF1Z0FKblBHWlE0ZjBjS3ZkRkowLUlIck1IVU81dVlZQWJfVzFfMUdUNzhYdFoyWnNyV1VaTFowMnp1OTNVaGJnYURidWZaVWdmeTZoUW5kdnl6dWd0eDNueExYTVZzbnJtRTJZYXdJYUlkb1pBcXgtZmRFRjZtV2F1dTllNUFiYkhaVjIzZWpadlR4TlBBeEhBWWpjRXBBQmZFVHVjbkthcjQ1LVV3QmlucmdLNF9GS2NQWFRZUmtCb0N2WkJwU1h3VExObGR0dHk2cGNvRldXU0V6MlMzM1dreTU4TWtrWGhIX3hTX3ZZX0hqMmhVRGMzZkRrdl9vZllQeGRCaEI0WUdNVQ?oc=5",
+        "published": "2026-08-17T05:59:32.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "Max Financial",
+          "ticker": "MFSL",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: Max Financial posts strong q1 2026 growth, stock flat - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEZQUFFZTGVnWXNHa2R0V1owc1kwU2x3YzhYdEtYaEFLNm1qNXB6R2xRQXpuX1NVeV93YmpFdl9zOWpxZ3RrbnVrdzItOU84NEdFNDJyeWNRTkJsb2lGUzQtaUhtM1JEVVFNcGEtS2N1b1cxMUpWN0ZXbWlmRjcwQm9KSm0tYTJRUkhpQm5aUXNhNEwzR2Zvc2tVQjJlSFpYOS1zZTg0VkNpZV9XbkxkQTFuWEJhTFFYWkt2TTdyS0g1Ujc0cDQ5NUlSSVZDdw?oc=5",
+          "published": "2026-08-13T16:20:26.000Z"
+        },
+        {
+          "company": "LIC",
+          "ticker": "LICI",
+          "tag": "Transcript",
+          "headline": "LIC Housing Finance Q1 Results: Earnings Call Transcript Uploaded - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDhROGVpYUpjRkpxbjZuc0JCLXkwdnBJSFptekEtVk01MW5sSU9aVXNQdVkwS09Xd3lFR1c3WVJxRU5qMDQzN2c5YzJnYjRXTWdsWEx0eHFpbW5NTElnUzBGX3dEUDVjUXZZWUNRTlVpWVhJQnRzSm5vUU85Tm10UE82ZHI1blExZjdfa2t5OTNlRUR4cVVYV1hOY0ZnWWF5ZTNTSWY2XzgtMkJTOHFmQm5rakxDSlJXdmFIYjF3?oc=5",
+          "published": "2026-08-04T07:00:00.000Z"
+        },
+        {
+          "company": "Star Health",
+          "ticker": "STARHEALTH",
+          "tag": "Presentation",
+          "headline": "Star Health Insurance schedules analyst meet in Hong Kong on Aug 5 - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWlCTUd0aGhhRVBJX3VvLWt3TnVyXzNHWmdCb1Y5d3JXeXBMZUlYREdDcndORDNqYkdreFlaelBFeDJySUVyV3czbGExY3ZMRGx2bVg2Njc4OEs3VEVmR2E3dy1kaGs3amdSZFd5SXc0NXRtYk9Sbjc2X1AzdmlNdExjbWEtdWJ4ei05Qmdtb2VmcGszMUpJQWYzSFNNNV8takQwSnJQM3RvUy1RNThUMkFoTGFEMkI0R2pMMjBhZ3g?oc=5",
+          "published": "2026-08-01T07:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "bullets": [
+        {
+          "tag": "Regulatory",
+          "headline": "RBI asks rating agencies to stop naming it as bank deposit regulator: What this means for depositors - livemint.com",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR2tldW1zVTBaRkhfd25ocnhOUkFtUFVMZkZEc3hDeXhuQ2xVTm5wMElkZW41eERlTEVyNk5TV2x1NlZ4T2Fha3BQVlUyb0otNjZnRjZuTEJRZjRjQTd5RVc0aGEyUGhWUEY0RTZLa0wtYTR6ZEZmazVIcGpXX1RZTjEzdFhzdHAyQkMydC1aaFZHbEQ2b1h5Nm1KOFVZUUExWGpYMzdRcFdhYlA5WE5Yemx6c19tUjhHdG94d3I1dExfVWU5azVfYlVKLUN3bzd2N1d4Mm8yTjdjSllwQnp3ejcxTWpHeG15RkJxM2U3S0tDN2NGaWkyS3BkWdIBgAJBVV95cUxPaE9sR2ZpaVByNUJCRDFRTF9TNDVHczl4WlVOYks1bEVRUW10Z2pfNlpTZ09SRTllNk9OcnBRQW5rTlVDWG9QeWxQb0hBVFlrMGozSjJTZnVZRmh5SkRtaXhEVUdtaHVoQUJKWW9Bei1kTlZJcGV0MFMtTG1ITjhHN1p5S0I0SXN4dFVkVEFYMURQZDJoQzVMc2FtME1JZVdzZVk5SXFRQ0lWVkhFQ0dvRG5JYWxKY1ZFVzRuOFN1TDZ1NnV3VER5U3hSb0lELTk0blFTdGlHd2NDM1psZzQ2XzFkNVRZOHc5UzlaMUNneUVpTGhTSS1zY2QtLVNERVIy?oc=5",
+          "published": "2026-08-17T02:50:56.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Bond yields surge after RBI announces early dollar deposit window closure - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTl91N2x0Y3JSd3VDbTJwYlhTOE5XWUU0LUJFSDRTTDJpWjhYbXMzNExubGJYVDVpNU5QakdrQ1BhZHluak5BMTNVUWp0SkZ4U3JNRVl0N3gyS0tfR3dvV3B2UHBUYzhoOGRtYjYtRHJSNl9ZUDVJS1dvYW5yTzZpVV9iMDI1alFBbHFlMWZjUU9kQmlmeGZxVE9LQ3VIdjdUOG8zNjI2X1RCMHpub3FKcE1jSjNqeG5HR25LV214U0pPWnYzSHFab2Vqa2NnNS1HTzY2TW5Vd9IB3AFBVV95cUxNZjU5bEFzT0ZaRkV0Slo0MmJ1bUZ0ZFA2b0U0QzNXc1RsZTZnUWRNWi15TXdhRXEyYkFMTHRoQ1pSVkVzblNRVlRjZUloRW5IeldKNk93UTliSmdsNUY2ajFxeUd3bndWM2hYSVZLejFiWFVFLTFwbzRzRTgtZ0VhWFZIdERpQ0FGXy00YW5Ia2pKem5xRGlLb1RIbWJiaWVOa1NWWm1CcG4tNzVRMmp5STZoYkdMWjRnakRNemVRLVF5VElicVFkRHdVLU9PVkc2MVYzX2liSFZsVng0?oc=5",
+          "published": "2026-08-17T05:47:10.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "INR slips near two-week low as RBI shortens dollar deposit window - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV0RNTXFsNl93WnRWdWE3aDNRYTdTdXV5Y1NtNlpyOHpTQnQ2LUtDTndaMDZWUk1lVXV3VnNmS2R5VUJ2d2dXZ2lNSGFMaW1lRFRxU1VPTXJUdlJiazA4dEF4Z2JhUFBPdVhoaXZRN2VzR210VkZNYlkwUE52UHdXS2d0RERDS2NTSkd3THBWazdPWWplWU5NOFVpYlRjSlJuZExqU05BcEw5SDVZN0h3V1ZxWnZMR0c0Y2ZqUVlIRjV4c0VpTl9icWdoQ1k1c21fTXhJLXlrcFp2elJiNFExVdIB5gFBVV95cUxOR3ZtcDVFd3VROUhuOXBaZWJ0bENYZTFHZHczY3pBMUpCTEI4cWVUbEZISkhJYWVubFBkOG0wUVhNVXYzWURIaTdjZmpqZUZFYjhoSlV1VXBKUzZsRnNTZWpEblRUM0dPejJzWHNMU3FETXhSNjlBNlZsLW1pR0ZXTVNKWlROYW9mWVlFUFNXM05kT205VTBfVG0wcTF1RzAtdk9QNXJuN1BoTmE4M29HNWFFUktHcUZWQXQzMHZoT2dXcnFsQWk4X2xVMWtrakZLcjNZOXBybzlhQ0RMQjNwMDhuLXRmQQ?oc=5",
+          "published": "2026-08-17T04:34:02.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Regulatory",
+          "headline": "RBI asks rating agencies to stop naming it as bank deposit regulator: What this means for depositors - livemint.com",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR2tldW1zVTBaRkhfd25ocnhOUkFtUFVMZkZEc3hDeXhuQ2xVTm5wMElkZW41eERlTEVyNk5TV2x1NlZ4T2Fha3BQVlUyb0otNjZnRjZuTEJRZjRjQTd5RVc0aGEyUGhWUEY0RTZLa0wtYTR6ZEZmazVIcGpXX1RZTjEzdFhzdHAyQkMydC1aaFZHbEQ2b1h5Nm1KOFVZUUExWGpYMzdRcFdhYlA5WE5Yemx6c19tUjhHdG94d3I1dExfVWU5azVfYlVKLUN3bzd2N1d4Mm8yTjdjSllwQnp3ejcxTWpHeG15RkJxM2U3S0tDN2NGaWkyS3BkWdIBgAJBVV95cUxPaE9sR2ZpaVByNUJCRDFRTF9TNDVHczl4WlVOYks1bEVRUW10Z2pfNlpTZ09SRTllNk9OcnBRQW5rTlVDWG9QeWxQb0hBVFlrMGozSjJTZnVZRmh5SkRtaXhEVUdtaHVoQUJKWW9Bei1kTlZJcGV0MFMtTG1ITjhHN1p5S0I0SXN4dFVkVEFYMURQZDJoQzVMc2FtME1JZVdzZVk5SXFRQ0lWVkhFQ0dvRG5JYWxKY1ZFVzRuOFN1TDZ1NnV3VER5U3hSb0lELTk0blFTdGlHd2NDM1psZzQ2XzFkNVRZOHc5UzlaMUNneUVpTGhTSS1zY2QtLVNERVIy?oc=5",
+          "published": "2026-08-17T02:50:56.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Bond yields surge after RBI announces early dollar deposit window closure - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTl91N2x0Y3JSd3VDbTJwYlhTOE5XWUU0LUJFSDRTTDJpWjhYbXMzNExubGJYVDVpNU5QakdrQ1BhZHluak5BMTNVUWp0SkZ4U3JNRVl0N3gyS0tfR3dvV3B2UHBUYzhoOGRtYjYtRHJSNl9ZUDVJS1dvYW5yTzZpVV9iMDI1alFBbHFlMWZjUU9kQmlmeGZxVE9LQ3VIdjdUOG8zNjI2X1RCMHpub3FKcE1jSjNqeG5HR25LV214U0pPWnYzSHFab2Vqa2NnNS1HTzY2TW5Vd9IB3AFBVV95cUxNZjU5bEFzT0ZaRkV0Slo0MmJ1bUZ0ZFA2b0U0QzNXc1RsZTZnUWRNWi15TXdhRXEyYkFMTHRoQ1pSVkVzblNRVlRjZUloRW5IeldKNk93UTliSmdsNUY2ajFxeUd3bndWM2hYSVZLejFiWFVFLTFwbzRzRTgtZ0VhWFZIdERpQ0FGXy00YW5Ia2pKem5xRGlLb1RIbWJiaWVOa1NWWm1CcG4tNzVRMmp5STZoYkdMWjRnakRNemVRLVF5VElicVFkRHdVLU9PVkc2MVYzX2liSFZsVng0?oc=5",
+          "published": "2026-08-17T05:47:10.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "INR slips near two-week low as RBI shortens dollar deposit window - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV0RNTXFsNl93WnRWdWE3aDNRYTdTdXV5Y1NtNlpyOHpTQnQ2LUtDTndaMDZWUk1lVXV3VnNmS2R5VUJ2d2dXZ2lNSGFMaW1lRFRxU1VPTXJUdlJiazA4dEF4Z2JhUFBPdVhoaXZRN2VzR210VkZNYlkwUE52UHdXS2d0RERDS2NTSkd3THBWazdPWWplWU5NOFVpYlRjSlJuZExqU05BcEw5SDVZN0h3V1ZxWnZMR0c0Y2ZqUVlIRjV4c0VpTl9icWdoQ1k1c21fTXhJLXlrcFp2elJiNFExVdIB5gFBVV95cUxOR3ZtcDVFd3VROUhuOXBaZWJ0bENYZTFHZHczY3pBMUpCTEI4cWVUbEZISkhJYWVubFBkOG0wUVhNVXYzWURIaTdjZmpqZUZFYjhoSlV1VXBKUzZsRnNTZWpEblRUM0dPejJzWHNMU3FETXhSNjlBNlZsLW1pR0ZXTVNKWlROYW9mWVlFUFNXM05kT205VTBfVG0wcTF1RzAtdk9QNXJuN1BoTmE4M29HNWFFUktHcUZWQXQzMHZoT2dXcnFsQWk4X2xVMWtrakZLcjNZOXBybzlhQ0RMQjNwMDhuLXRmQQ?oc=5",
+          "published": "2026-08-17T04:34:02.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "CREDIT CARD BUSINESS IN INDIA - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92YXFrekVZZDVkUFoxRkwxVDRaV0ZaZkstbDMtN0dBelJlNmRwYTJLUmdqZldBSTRFWndwQmVnaGozd3Nla1hjYnplREtvRjNtMEdHYzBfbE1rbmRtd01relB6cklZY2xSaWhpZGluQXl6eDU2WklySF9UdjQ?oc=5",
+          "published": "2026-08-17T18:42:06.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Judging the RBI by the wrong rule - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczNDRVBCbzVyVzVmalRHS1BGdnlZSzZaUnV5aUtZQmlvakN2eHFwaXpRNmkxQk80Y3JULVpITUdaUzVvaGo0N0xQbWVWTHNqZVJCSWMtdEt0M1pUbjBxa1NhNWV0bWp5bWxBVnRUSV94RHNnVnc1MDBpOXJ2TW9LV3VRUHRRMjRQMWhwS0ZfSkZoMUtOM2psOFdRTlZfV2ZvRE5rRkRB0gGrAUFVX3lxTFBKdGxCMUhpczFWaVRWMm9RT1prLVVCWjEzajJFbkpIS21PanZhbE1TaTZLV3ZYYVg1RkJub0czRmk2ZWxnYmtuaGwwVi1yYjc4ZjJRdUJzU2s0a2JyWE81eHlaQlB2SjlIemNYWDdvUEN6dUVMZEIwVENQSDNRa082dllhWk1tYXI1WDBac3k0REFNeHFkaG5NYzJtM3NYSmZsa2lHU1BpWlhoQQ?oc=5",
+          "published": "2026-08-17T16:40:59.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Rupee weakens, bond yields harden as RBI shuts FCNR(B) swap window early - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGhOTmNPdUlMVGUxZHBNRkExOTdjN2Y4OFNxUTNqdW85cFpYM2t1cWdsV0pSWXphR3phdXdXZFlkSGNZZFh6UlhQdEtFUzlDR085YTNyeUNMc3k0a19qRklMaDl1QzJBcWZFNm50YUluTDViUUFMUHAtdzV6VkQ0ZDVtckRCVnNrcWV3MXJva08wMlA4RGE0eUszdVFxcDFFNm96akJya0IzaVNsVGVzY21lV0pIdG9jUmNuZU5ON3dsVFFFZEZ1TjBib3hJTmh2?oc=5",
+          "published": "2026-08-17T15:17:33.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "FIDC to flag NBFC concerns over RBI's proposed revolving credit ban - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMVprQkc2aWlEVTFHaWNXcVdtS2l5YzdidEZQLURvVktqOVgzRjNxNWw5OVRLVnRfS1hnT0U2Um4yMHZjaHRISmVRZ191ZF9NMGFhTnp6M3JOY25ad3I5WGI5M0JuLU1BanNxM1RPRXNsZ3pGQWZGTTJnN2VUSFZrQnVHYVRoTm8wejdFQzJwdHFqb0tXeWxKX1FkZGstU3g0NDV5TXZiZXFFN3FtMEhjMS1XQ1E1TDgwb1NqWmppMHZGcFhtZUFKRVdDTVFPQjTSAdQBQVVfeXFMTmctMVlJb2NNV001Z09FQ2VWRHpQRTVGNm5lWm9WeUM0bUFMNENZRXlnQjdzTzMwZGdPTkY5OU9XdGhNblN0RlR6LXotb2t3M0Z4TGZQLXVpYXFMWHdJNl9VZHJmVjJ3UEZUMnJNS3F1dlNUdzlFVjFKV0hTbjVISU83OVR5WWxkMjRHVXUzaDg1ek9iWlk5M1dFc3FLNTNlRXNrcDQ2Mlp6YUxZYTRWZzY1RWo2eXdFYU54SG5pRENpblRoM3N5QTFXbWEya05td2RHWHc?oc=5",
+          "published": "2026-08-17T13:01:11.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "India RBI's heavy FX footprint revives memories of a tightly managed rupee - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbUgtRmJsWUdCVUpMRmF6elNRVDdKTGF2VGpZemlITHh1TWZGVzV2Mm1SSm1xUzBiTTEyRGNUMl9rcjhiYzZOVUtUN1N2dmdfTnJKSVZDM0tfMWJlcVhOa3prZVpTNmlYNlUwRXVNX3dWeHluMkZKa3ZSVEotNXlBWFhFTGpvc2lJc0pJM2VSeS1Ja0cwOTBsRzBmWG51RjliM0hINzZKWmxPektMTGI5RndGVnBYWmJlWWFlLXljTUtZVUE2QW9jMkFZcW1BaUNVV09TNUtYZDJ5Z9IB2gFBVV95cUxPbUgtRmJsWUdCVUpMRmF6elNRVDdKTGF2VGpZemlITHh1TWZGVzV2Mm1SSm1xUzBiTTEyRGNUMl9rcjhiYzZOVUtUN1N2dmdfTnJKSVZDM0tfMWJlcVhOa3prZVpTNmlYNlUwRXVNX3dWeHluMkZKa3ZSVEotNXlBWFhFTGpvc2lJc0pJM2VSeS1Ja0cwOTBsRzBmWG51RjliM0hINzZKWmxPektMTGI5RndGVnBYWmJlWWFlLXljTUtZVUE2QW9jMkFZcW1BaUNVV09TNUtYZDJ5Zw?oc=5",
+          "published": "2026-08-17T11:23:15.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Premium",
+        "headline": "The RBI’s revolving-credit rule treats every NBFC like a bad lender",
+        "teaser": null,
+        "source": "The Ken",
+        "url": "https://the-ken.com/story/the-rbis-revolving-credit-rule-treats-every-nbfc-like-a-bad-lender/",
+        "published": "2026-08-17T05:30:41.000Z",
+        "paywalled": true
+      },
+      "companyUpdates": [
+        {
+          "company": "ICICI Bank",
+          "ticker": "ICICIBANK",
+          "tag": "Transcript",
+          "headline": "Q1 2027 ICICI Bank Ltd Earnings Call Transcript - gurufocus.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VTDRDQllyQWJuODdwN3BSRFlmVDBJTk5zRDFfdmJyMVRqLVRkdjZ6WTRHZmFTYzdMU3RSSDc4LWVUbGFFdjV0TUk4d2RUUXVGUkZFSTZxRUxpS2gwZUdaME1GZHJiX1FvU0NNWmhxOGk?oc=5",
+          "published": "2026-08-13T04:54:02.000Z"
+        },
+        {
+          "company": "Axis Bank",
+          "ticker": "AXISBANK",
+          "tag": "Transcript",
+          "headline": "Axis Bank Ltd. (GDRs) (UZC.SG) Q4 25/26 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZXZQRFhOUUFGb2c2Z3lSaXVVRTA3ZWE4MG1nMzVDdlVwcDlCTjZMSUZvQVZJMEhCZ1psbEVVRU1UX3JSOExDZ0szc1RhdHFJaVpYZmExMUMzbUJFS2Zrd3NZN1JEbFluX01vQ0RvazBLTlpXcm9CRlpzSXVFVE14RU9adzZWRnFyVGVUTU5NTmEyUQ?oc=5",
+          "published": "2026-08-10T20:23:38.000Z"
+        },
+        {
+          "company": "State Bank of India",
+          "ticker": "SBIN",
+          "tag": "Transcript",
+          "headline": "Transcript : State Bank of India, Q1 2027 Earnings Call, Aug 07, 2026 - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDRMN3NyRHoyeGdPZVg1bWtKRlRhM1U4UVJXMjdmMUpUeUdybUw2T3l6MDRuOFcxOHg2TjVPUFJ0dURUWmx3QW5OUHBGU3JEY3hsMkNDUDRSSjNoNnZhbENLTlZGWVE4OEU4eDlraW1XMm0zLW1vTFZSd3BXQmRjb19rQ1FGYUVBWGpzZ2pUc09yNHg0Q3Z6ZVZFaklLRVk3dWFxOWJDREh5bDhZdDhKMjBhNWVOUTUt?oc=5",
+          "published": "2026-08-07T15:50:18.000Z"
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:54:59.773Z",
+  "generatedAt": "2026-08-18T02:38:12.291Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,32 +32,214 @@
       "name": "Asset Management",
       "bullets": [],
       "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "insight": {
+        "tag": "Research",
+        "headline": "SF Reit reports 7.3% drop in distributable income for first half of 2026 - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXQ0WlpBRkVYNy1pNGRHQkF2dmpUQ0k1eWc2MkhTUVgxcWxPRnlvZ2JHLUZJeWROTENlaWJIQnBqaTVRTUVTbnQzajJ4S2NWZnRYUWNIRmdnMjNTUk9iRGdRNlZtY2lQbS1NQVR4ZXN5b2xUYkx2cXo4N0xqcFBMQi1MYjE4eUZBZExaaGh2MVQ0LVNmbWRMLVROX1lIN0duZExUc0NXYjBIT25JLXB1TGgyMDFGNXdqZnVCOF9ycWUtc3BBUDZR0gHHAUFVX3lxTE1YamcyMzRCV29PQjczUjJDOE1EZkZsdHBERFpOd28wdHN5UEhOODdqTElkaUFLR0RnUWs5YThDbm5hX0ViM2Zlcmd6aENlS1JRNTZKeTNNOGtXSFlINjhzUE15YkctNGRJZ21JSGpKX2dhS2xYY0ROOENkU3g2UmtkQjliRWh2UlZZWmxVMncwY2NsbnpadGJtRHN2YU95QU9XazlwVGxtSDhLRndtWWtJR05TTDVMcEF1Ty1EdDZWLUNmX0ZvckE?oc=5",
+        "published": "2026-08-13T13:16:18.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "Nikko Asset Management",
+          "ticker": "NOMURA",
+          "tag": "Transcript",
+          "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaDdGTEs5RTBsRmtudl9fSHBHdk9UQ0hhRVludzVNY191RmNBNlRCT0ZSYWVUZ1JaT2UtaGJielFjSUZlU0VGZWJqeVRmTXVvZGQ1OFRBR3hEWUZCTFUyMTBpWmhlMmNHNmlNY3hRbHUwZFFpWUFBako4OA?oc=5",
+          "published": "2026-08-04T00:32:24.000Z"
+        },
+        {
+          "company": "Schroders",
+          "ticker": "SDR",
+          "tag": "Presentation",
+          "headline": "Investor Presentation - mybrand.schroders.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
+          "published": "2026-08-12T09:02:39.000Z"
+        },
+        {
+          "company": "Fidelity International",
+          "ticker": "FIL",
+          "tag": "Analyst Report",
+          "headline": "Fidelity US Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVGl0UTZPallVWE1uVURiUGVvcHVXMHcySm9iNnlQMEZEUWlySmU2ZTZtLU9pZEZ5cVMwR3Rxd2h5Ny1LdDdkM0xGeVVxb0RYa3VOV0hBTFZMaDAtNTl1bG9PRHZPUTZscXFfdElyZThyMy1GMFNseTF5cFR6RlhDNmU4ZjAzWTBMcGZXVTVuSzJkajg3Si0wcnJnN0drUm1hRW9sbng5NVlwWklhYldPM2JHM0lNanU4VklldmRJQm5VMWlheFlaX3dVUjJLNXVCR0E?oc=5",
+          "published": "2026-08-17T07:03:00.000Z"
+        }
+      ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
       "bullets": [],
       "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "insight": {
+        "tag": "Op-ed",
+        "headline": "Opinion | Beijing’s offshore insurance tax tests Hong Kong wealth management - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2FyWUUxVFlWNXlha1pOOEJHTjFVNkIwS0ZZTkJFZllFUGg5Q3pDYUZrYmhyNEdUa2dXamRKeEVialVVazNOYk9yZ0x2M251TU45YlZPOFltUGo2cEh3UHhNdnZBUUgwc2o2R0dlSDh1NW96ZkozY3RRamhqZ1JyT0laRUtXN2dWZW84cEthOWFKUEFhN2pjUFVWY3NtZ3p5ZjFKYm4taGExNk5WM0RKNDF0WlhYYTV1SGJjMDNCakl5QjdpbERF0gHHAUFVX3lxTE1yTHh2SUU5YTR1bW1zZU9BaFhya0pjNUtQNFM1SC1yd3E2YXBXOVB2ZHY5UUJ6dFlWZHp3UXE0LXFFR0NkeGhNR2tSYWd5MklhcTZMNlFuNkF1WnB4SXc4elRpLTZ0Ml9YRmk1X3FTVE1jdVpUenQ4OWk2V3FHRl85RHpDbFVHQl9Qb1lhX2J0LWJRLV9LSjJiVUFwLWtqRmlrRjlzclFZQXJ1NFFSbXl6clNWQ1Z5NVhqbUhkcmt6eDV3dzA5OWc?oc=5",
+        "published": "2026-08-13T08:30:07.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "Citi Trends Inc at UBS Global Consumer and Retail Conference Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwVTVHSUw0WklEaEEtVUxCbENPRHNZczYzZ0ZGaDBHSGx0Szl2MElzRDNqYmdkdkJxM3Qyd2pSSzJIMHVqekFaWE83VVV1NjNhVmlrQ3NJME9OTEhDS1hzV2pHa3ZXQjZMdnlZ?oc=5",
+          "published": "2026-08-16T13:37:47.000Z"
+        },
+        {
+          "company": "DBS Group",
+          "ticker": "D05.SI",
+          "tag": "Transcript",
+          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1idnF1MTl6M2VSNkxKRWpidkFfSUVSanpQTUJacTN4YnhkOUZxaFpGck44bmkza2RqR1prSVZOUmNOX2tIbUliT3NMbXQ0TlpwcnFQdTBPSThucEN3RGVsSzUwTHI5WDI0d2Nr?oc=5",
+          "published": "2026-08-06T07:00:00.000Z"
+        },
+        {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: HSBC beats Q2 2026 estimates as buybacks resume - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHRLV1VhMmtJSjFvaE11TzE4OVlGa1VDcXVtZUdRZlQxNlRLOWx1N2hQZWFROXdxbzZ6ZTJWeEg1YTBET281bXNOaFZDUm5fbENWN1NVTS16NlV3UlBpTXp2bVJLWjBjdC16ajhYZ3hmMEQ4RXhNQ0l5NWRIR3FxcHRXVG03eEV6ZU5IVXJFUWRXNUp0M2pRdlhEUzBKMTBEUnZBVmJhd3gya2VLVW9qY3ZwMndqZngwbzQwWUJlNEVFNzJyVHZz?oc=5",
+          "published": "2026-08-04T07:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
       "bullets": [],
       "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "insight": {
+        "tag": "Research",
+        "headline": "Hong Kong insurers to weather Beijing’s tax shift with 8-10% premium growth: S&P - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSTVQQV9VaXZWdUgwendSY2VxUWwwQ210MThlakJIZy1hekNvUHNuZlhWM3ZiTzdYRk14UUlVZHp6V3hCeVhBVmVwRUZXMDdZNzVlUXRkYzZlb3EwS295LWVhRXhvMlFTQ1lET2YzX1Q5MGpyTFV1ZFppXzVKM3A4d21rQmxWUU1VcDladTJHVFpCdW9idzZfcFBFOElub2FfM1JRaXpqRGl5QVBHeDBGeTQ2S1RaOF9STlpxSjkzd003MTNZQVJaZ3d30gHKAUFVX3lxTE9XcUg3MXZWbzVsMVZTSERjVGp2WG1uWWNiM0RrY0c2d1dvdEtBLTF0NWg5Z1dlaEc4Y0FEcXBkOEZpZVJXR2xiN0lWM3NRN1R5VExZTnNQd0Rkc2x0a05QZkZmb1lKb2FsX0FJOU1nWUk1YWxsd1F5SWpJUHZUdGJtbHI1cHBOaF9zMWVhVkpfVV9BWWJUYkhySGxjM002M3dSSzBxUXpidF9hSHA1WGJKR0tGRk1fX1FqUWR3ZkdPVzVMcW5GRFJjT2c?oc=5",
+        "published": "2026-08-14T02:00:17.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "QBE Insurance",
+          "ticker": "QBE.AX",
+          "tag": "Transcript",
+          "headline": "Transcript : QBE Insurance Group Limited, H1 2026 Earnings Call, Aug 14, 2026 - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUI4MU1OVXZJZlowMzB2R3lHcmFaUi1TMlpTQTMtM2dWWmtvSjNpNllYTmJWaElBSjJwNzhYUFJZaXdJWkZicWI2YnpVMWhKTXhBLTN4Mm94Q1NhUWx5dHBKbXNyT0ExS2FELWRNNWFfY1M4Vm1TYURWYjFEUXo0dWlCZ24wVDdoTjI2LTAyX3U1ODl1UEoyb2dQZTRKVnNjTXVNbUFldXpQX19KNExKbVk4U3Q0cmJPSVRVbUZyd0ZndFE?oc=5",
+          "published": "2026-08-14T06:50:28.000Z"
+        },
+        {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-08-13T07:44:54.000Z"
+        },
+        {
+          "company": "AIA Group",
+          "ticker": "AIA",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: AIA Engineering Q1 2026 shares fall as margins ease - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHh5clU3R2s0ci1TY3ZVdTRLcEIzd1RGWmw2eGpXdkd4Q3h2RzJ1a2lFSmZQUW9jaDhIQ3Azd3dOaV9LaktqTWxxQ1B4YzNWYkg4S3Q1eFpFVlR5WTAwTG1MQjM2QjVJSFJMbFZ1TFNYeWNZaFByWE5PaGo2LVIzZWo2Rm1ld2YyVHJVMlllaWlvNUF0blhnVWhDVUR6X0pacTZMRmUxNXFnRksxNEtwZkFPLWZnTlFGTzd3MjlXLU5vVExBT1hCQUZPQlk?oc=5",
+          "published": "2026-08-12T13:04:51.000Z"
+        }
+      ]
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "The GXS Credit Card is Singapore's highest unlimited cashback credit card and one of the best for Grab and Singtel customers - The Manila…",
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNeDhrYkhDMEJsZGRzVFJremhmalp3Q0hwVmlBLTF1cG5rM2Vla2VBRnBCTHJqOGp4ejFQRE5fZUZOQTU5dUNzUkcwZERaS3pEZGdpWXdxbTVWaUhMQkNnNExodEhOU3c1MmNlMk9tLUV1MTFTbHQzZlVyclpUeXppel85UW1Hbmltc21MR0hoSE9QYlFmZ3ZZSDFmcGZtSkdqWWQyMC0wRXRGSjhPNkhmNXd3ZVdRREZneEkxa1N0MW15MUhYYUY0aVVLeHBRT2Q1MU9LNEF1anlPTHVWclNiRUYtWGQ2aFoycnMtcHVaVk9PTTY1aHJmY09tV2tGanVGa2dLQzMydG9hSzhKNFBrYzlEQ29JWDhDQWVlcEpfZknSAaYCQVVfeXFMTThiWlF6bXdCRjJmZFo4SUJ1eUxuWm9jc0ZKOTNKaXd2M0NpdTd4UE1Gd2k3WkhpZnpGNTh1NVFGR1FUZVJWZGwxdnQ4eUhnOEkwVmRKTG1ObVVxLS14d291UDJaWVAxbWZUcjdRbE9xQzlBdUVFYkFBdWJNOTlZUHJNRUphcGhZTlpGY0tlaE5PbHRKU1k2czYyTzA5aThEWUFPZkpFRmZmczdzVWVjeWpBX2ZvUGlodU51dlZ3MDNSbWdyemROTDA4enRkUTNZWmk3Zld3enY5endYUTI5akptdTRYTzV1UjdldDAyVmtfeW5hQklNbDdzQ0FubVdpcVRSTzJSb2RDNnJBX3FySWlWQkFLYy1UenpvYS1fZ3RkQktZczJ3?oc=5",
+          "published": "2026-08-17T07:27:36.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "GXS Bank Launches Cashback Credit Card With Grab, Singtel Rewards - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVA3LUZWd3JzWEY3bi0zX3NsdkJ4SzhJUG43SklQT3NfbUF3S0RUVmR1emxUYklCdW9POHV5eUlESjBDcTI4cmVCUHJyVlJVNHBfUjN1dW5laU9vZXdVNEcwSDhJNktkLXFjb3c5WFgtTEJQcUJLTFRKdThCb0xsbWlVaw?oc=5",
+          "published": "2026-08-17T03:27:08.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Personal Loan Stocks Q2 Earnings: SoFi (NASDAQ:SOFI) Best of the Bunch - Yahoo Finance Australia",
+          "source": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTFtMTkzSXNXVjFScDk5ZFNINDF0MTRuVExuNF9JekJVWHpMTmI5aC1GYi1JQmpXeURXUVhUWXJiVUc0V2pFTll5eEswd0s4Q0taMnNaODNsRnZnQm5tbUZhMEJHU0dkbXp0WTFnd0g1R2xzOTBSU3ZoOUltTXNhVV9GRzA0WmhE?oc=5",
+          "published": "2026-08-17T09:02:20.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "The GXS Credit Card is Singapore's highest unlimited cashback credit card and one of the best for Grab and Singtel customers - The Manila…",
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNeDhrYkhDMEJsZGRzVFJremhmalp3Q0hwVmlBLTF1cG5rM2Vla2VBRnBCTHJqOGp4ejFQRE5fZUZOQTU5dUNzUkcwZERaS3pEZGdpWXdxbTVWaUhMQkNnNExodEhOU3c1MmNlMk9tLUV1MTFTbHQzZlVyclpUeXppel85UW1Hbmltc21MR0hoSE9QYlFmZ3ZZSDFmcGZtSkdqWWQyMC0wRXRGSjhPNkhmNXd3ZVdRREZneEkxa1N0MW15MUhYYUY0aVVLeHBRT2Q1MU9LNEF1anlPTHVWclNiRUYtWGQ2aFoycnMtcHVaVk9PTTY1aHJmY09tV2tGanVGa2dLQzMydG9hSzhKNFBrYzlEQ29JWDhDQWVlcEpfZknSAaYCQVVfeXFMTThiWlF6bXdCRjJmZFo4SUJ1eUxuWm9jc0ZKOTNKaXd2M0NpdTd4UE1Gd2k3WkhpZnpGNTh1NVFGR1FUZVJWZGwxdnQ4eUhnOEkwVmRKTG1ObVVxLS14d291UDJaWVAxbWZUcjdRbE9xQzlBdUVFYkFBdWJNOTlZUHJNRUphcGhZTlpGY0tlaE5PbHRKU1k2czYyTzA5aThEWUFPZkpFRmZmczdzVWVjeWpBX2ZvUGlodU51dlZ3MDNSbWdyemROTDA4enRkUTNZWmk3Zld3enY5endYUTI5akptdTRYTzV1UjdldDAyVmtfeW5hQklNbDdzQ0FubVdpcVRSTzJSb2RDNnJBX3FySWlWQkFLYy1UenpvYS1fZ3RkQktZczJ3?oc=5",
+          "published": "2026-08-17T07:27:36.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "GXS Bank Launches Cashback Credit Card With Grab, Singtel Rewards - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVA3LUZWd3JzWEY3bi0zX3NsdkJ4SzhJUG43SklQT3NfbUF3S0RUVmR1emxUYklCdW9POHV5eUlESjBDcTI4cmVCUHJyVlJVNHBfUjN1dW5laU9vZXdVNEcwSDhJNktkLXFjb3c5WFgtTEJQcUJLTFRKdThCb0xsbWlVaw?oc=5",
+          "published": "2026-08-17T03:27:08.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Personal Loan Stocks Q2 Earnings: SoFi (NASDAQ:SOFI) Best of the Bunch - Yahoo Finance Australia",
+          "source": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTFtMTkzSXNXVjFScDk5ZFNINDF0MTRuVExuNF9JekJVWHpMTmI5aC1GYi1JQmpXeURXUVhUWXJiVUc0V2pFTll5eEswd0s4Q0taMnNaODNsRnZnQm5tbUZhMEJHU0dkbXp0WTFnd0g1R2xzOTBSU3ZoOUltTXNhVV9GRzA0WmhE?oc=5",
+          "published": "2026-08-17T09:02:20.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Mastercard took down payments across Australia with a scheduled update - The Next Web",
+          "source": "The Next Web",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlpGaG9TSUF3c0haQXZjNTZkaGZNbzhjRmt2TjFGNGdFMlJWa0prX1pnTjkxc0lvVDNxMVg2QTgtbi1Fek1EbWdWZHJSNjU1dEQ2ODVaeUxhcXhZRUtCZmJqUlBPT3BvY1ZwU05ZbElZb1VtSEZzcW9JOU5sVnc3Qjhyaw?oc=5",
+          "published": "2026-08-16T08:50:42.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Mastercard payments being declined in Australia, bank says - The Straits Times",
+          "source": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlNsdUd2V0VJcVljdjJzNlVXbGlUZ1JrYURTeEFzcld1M243UVdSVXJZUEt2UGF0R2VfMmVJZjVsMkEtUnF4RFM5V2hzOFNkbGJObkt1b1lUQ3BhdE95SnU4MlpXczBZVXpXZVR4d25yZ2lGc19neDhqTGVrUUlmQkFxT0FyMnFldHlOMmZDaW5RMC1xZVJ3am15Wi1XanNwdUZ0Z2Zn?oc=5",
+          "published": "2026-08-15T08:21:02.000Z"
+        }
+      ],
       "insight": null,
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "Commonwealth Bank",
+          "ticker": "CBA.AX",
+          "tag": "Transcript",
+          "headline": "CBA 2026 Full Year Results Transcript - CommBank",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkwtcVdhWVpzTld3QUpQLVdycG5iLXM1dEExT0xTa0lmZGw4VHBPSHBKb3A4ZW5fLTcyMkNzeU9RTkJpcUFvbXJlRHcwMDA5RU8zYkV3aXpkVEFBbUpISE9xOEhjaDg5WjVKYzFDbGc1WDVnZkpXQnluREJSbk1iNW13SXBpcC1uU2tHaFFvX185ZDlQZVZ1OTFoSnBUUmU0TF94VV9WRkY4R1g3QnNNWFZR?oc=5",
+          "published": "2026-08-12T07:07:01.000Z"
+        },
+        {
+          "company": "DBS Group",
+          "ticker": "D05.SI",
+          "tag": "Transcript",
+          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1idnF1MTl6M2VSNkxKRWpidkFfSUVSanpQTUJacTN4YnhkOUZxaFpGck44bmkza2RqR1prSVZOUmNOX2tIbUliT3NMbXQ0TlpwcnFQdTBPSThucEN3RGVsSzUwTHI5WDI0d2Nr?oc=5",
+          "published": "2026-08-06T07:00:00.000Z"
+        },
+        {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: HSBC beats Q2 2026 estimates as buybacks resume - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHRLV1VhMmtJSjFvaE11TzE4OVlGa1VDcXVtZUdRZlQxNlRLOWx1N2hQZWFROXdxbzZ6ZTJWeEg1YTBET281bXNOaFZDUm5fbENWN1NVTS16NlV3UlBpTXp2bVJLWjBjdC16ajhYZ3hmMEQ4RXhNQ0l5NWRIR3FxcHRXVG03eEV6ZU5IVXJFUWRXNUp0M2pRdlhEUzBKMTBEUnZBVmJhd3gya2VLVW9qY3ZwMndqZngwbzQwWUJlNEVFNzJyVHZz?oc=5",
+          "published": "2026-08-04T07:00:00.000Z"
+        }
+      ]
     }
   ]
 }
