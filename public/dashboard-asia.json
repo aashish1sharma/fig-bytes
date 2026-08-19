@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:38:12.291Z",
+  "generatedAt": "2026-08-19T02:41:22.748Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,8 +30,24 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Defiance ETFs Launches CROB, the First US-Listed ETF Dedicated to China's Humanoid Robotics Ecosystem - Macau Business",
+          "source": "Macau Business",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYm1pTHpGcHZZemppUlR6T3VFZ1BkT0dCUGNNRV9IcW1uLVJQUVVUclhkMkNIU24zQS1FdFlEb1NWZ08taDBpTnpHWTZsMU04WVZRNnhuUkhXR0pFbFVoWVE1Q1JhQkRseEVsUlhKOTNpWnEtUk5aaGZVaTVjam9ILVpmSG9oQnNJZGEydzkxdFdHQy1CZVFWZ2cyejdxZ1FIVnJRYy0zNnRuZE1UZkUxSzZ2ejg0aV80UThtd2NsN0VtSksx?oc=5",
+          "published": "2026-08-18T13:43:26.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Defiance ETFs Launches CROB, the First US-Listed ETF Dedicated to China's Humanoid Robotics Ecosystem - Macau Business",
+          "source": "Macau Business",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYm1pTHpGcHZZemppUlR6T3VFZ1BkT0dCUGNNRV9IcW1uLVJQUVVUclhkMkNIU24zQS1FdFlEb1NWZ08taDBpTnpHWTZsMU04WVZRNnhuUkhXR0pFbFVoWVE1Q1JhQkRseEVsUlhKOTNpWnEtUk5aaGZVaTVjam9ILVpmSG9oQnNJZGEydzkxdFdHQy1CZVFWZ2cyejdxZ1FIVnJRYy0zNnRuZE1UZkUxSzZ2ejg0aV80UThtd2NsN0VtSksx?oc=5",
+          "published": "2026-08-18T13:43:26.000Z"
+        }
+      ],
       "insight": {
         "tag": "Research",
         "headline": "SF Reit reports 7.3% drop in distributable income for first half of 2026 - South China Morning Post",
@@ -63,8 +79,8 @@
           "ticker": "FIL",
           "tag": "Analyst Report",
           "headline": "Fidelity US Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVGl0UTZPallVWE1uVURiUGVvcHVXMHcySm9iNnlQMEZEUWlySmU2ZTZtLU9pZEZ5cVMwR3Rxd2h5Ny1LdDdkM0xGeVVxb0RYa3VOV0hBTFZMaDAtNTl1bG9PRHZPUTZscXFfdElyZThyMy1GMFNseTF5cFR6RlhDNmU4ZjAzWTBMcGZXVTVuSzJkajg3Si0wcnJnN0drUm1hRW9sbng5NVlwWklhYldPM2JHM0lNanU4VklldmRJQm5VMWlheFlaX3dVUjJLNXVCR0E?oc=5",
-          "published": "2026-08-17T07:03:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFpXbnFLS0lmWFZoQUY2S3EydUlOcERtTUc4c3BWYjFtRXh3RkVabzE2RmxONEVybFRXN3NBQTM0LTh2VWVSdzN1X0FhWGZrT1lET1BUVnBjNmMyTU9uT2pScGJvNk9MdHVpdkVvNWZ2cE1jUFpHVk5HS0VZR2lOZE95Z2FTZHVkVmJBVm53R0lJWVZQeUdBMktHUzlSeDVfQ3NnbWNmYXR4NGNsVzZ6MmZtR2t2ZVNYSEozd0NwdUhvM0N6LU1uVUJldVhxLVhNeWc?oc=5",
+          "published": "2026-08-18T07:03:00.000Z"
         }
       ]
     },
@@ -90,14 +106,6 @@
           "headline": "Citi Trends Inc at UBS Global Consumer and Retail Conference Transcript - GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwVTVHSUw0WklEaEEtVUxCbENPRHNZczYzZ0ZGaDBHSGx0Szl2MElzRDNqYmdkdkJxM3Qyd2pSSzJIMHVqekFaWE83VVV1NjNhVmlrQ3NJME9OTEhDS1hzV2pHa3ZXQjZMdnlZ?oc=5",
           "published": "2026-08-16T13:37:47.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1idnF1MTl6M2VSNkxKRWpidkFfSUVSanpQTUJacTN4YnhkOUZxaFpGck44bmkza2RqR1prSVZOUmNOX2tIbUliT3NMbXQ0TlpwcnFQdTBPSThucEN3RGVsSzUwTHI5WDI0d2Nr?oc=5",
-          "published": "2026-08-06T07:00:00.000Z"
         },
         {
           "company": "HSBC",
@@ -128,17 +136,9 @@
           "company": "QBE Insurance",
           "ticker": "QBE.AX",
           "tag": "Transcript",
-          "headline": "Transcript : QBE Insurance Group Limited, H1 2026 Earnings Call, Aug 14, 2026 - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUI4MU1OVXZJZlowMzB2R3lHcmFaUi1TMlpTQTMtM2dWWmtvSjNpNllYTmJWaElBSjJwNzhYUFJZaXdJWkZicWI2YnpVMWhKTXhBLTN4Mm94Q1NhUWx5dHBKbXNyT0ExS2FELWRNNWFfY1M4Vm1TYURWYjFEUXo0dWlCZ24wVDdoTjI2LTAyX3U1ODl1UEoyb2dQZTRKVnNjTXVNbUFldXpQX19KNExKbVk4U3Q0cmJPSVRVbUZyd0ZndFE?oc=5",
-          "published": "2026-08-14T06:50:28.000Z"
-        },
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-13T07:44:54.000Z"
+          "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNm5PQ1JfVExFd2o0c0drQzZlZnZ6Z205enNOaXVaUXlBMk5HaTNMZ0MxQ09fZnJybW8yaWVqM2YxSUFrcUZhY0RacXJCRlVIZVFYdHdlWHZ1endVYlUydE9LQWVTd0RZTEdzb2c0QVFZUzRvU1F1anZSVVhJeUNnNHF4eFpaTDlUWmd4N0ExTDZJU1VWczBTQjdIQW5hN2U1QmxGOWhtRmZTd0VrTUhyMEEyNDJ6MWw2aHN6UU5rMklHcHBYTU11Nkh3NA?oc=5",
+          "published": "2026-08-14T00:59:01.000Z"
         },
         {
           "company": "AIA Group",
@@ -147,6 +147,14 @@
           "headline": "Earnings call transcript: AIA Engineering Q1 2026 shares fall as margins ease - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHh5clU3R2s0ci1TY3ZVdTRLcEIzd1RGWmw2eGpXdkd4Q3h2RzJ1a2lFSmZQUW9jaDhIQ3Azd3dOaV9LaktqTWxxQ1B4YzNWYkg4S3Q1eFpFVlR5WTAwTG1MQjM2QjVJSFJMbFZ1TFNYeWNZaFByWE5PaGo2LVIzZWo2Rm1ld2YyVHJVMlllaWlvNUF0blhnVWhDVUR6X0pacTZMRmUxNXFnRksxNEtwZkFPLWZnTlFGTzd3MjlXLU5vVExBT1hCQUZPQlk?oc=5",
           "published": "2026-08-12T13:04:51.000Z"
+        },
+        {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
+          "published": "2026-08-05T07:00:00.000Z"
         }
       ]
     },
@@ -169,11 +177,11 @@
           "published": "2026-08-17T03:27:08.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "Personal Loan Stocks Q2 Earnings: SoFi (NASDAQ:SOFI) Best of the Bunch - Yahoo Finance Australia",
-          "source": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTFtMTkzSXNXVjFScDk5ZFNINDF0MTRuVExuNF9JekJVWHpMTmI5aC1GYi1JQmpXeURXUVhUWXJiVUc0V2pFTll5eEswd0s4Q0taMnNaODNsRnZnQm5tbUZhMEJHU0dkbXp0WTFnd0g1R2xzOTBSU3ZoOUltTXNhVV9GRzA0WmhE?oc=5",
-          "published": "2026-08-17T09:02:20.000Z"
+          "tag": "Press",
+          "headline": "DayOne secures S$530 million green loan from DBS, OCBC and UOB for Singapore data centre - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXZIU3F1cG1iRjlSNnJoTXZRWGtmb3NYUy01RmNGcnZOTXllTWVUd2l0VGJzM2tRNXZNQ19hbS1qU2IxeVlIZ0NxNzk4ektTaUFlV3VuYzM0QjU2QVh0RnJ1YkpEN1JkWjNBYjg4WDBtTTNNc1JPMjJKaHNGMkg3ZVppaDJ1ZGliZXBacTNxblFRRzVoTUhoY0JRZ1pqdldPUGZZUDJrZ1o3OWVCbk5sdzNmWXhJdm82a19rcHYxR29URjlEX0dB?oc=5",
+          "published": "2026-08-18T04:18:00.000Z"
         }
       ],
       "candidates": [
@@ -192,25 +200,18 @@
           "published": "2026-08-17T03:27:08.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "Personal Loan Stocks Q2 Earnings: SoFi (NASDAQ:SOFI) Best of the Bunch - Yahoo Finance Australia",
-          "source": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTFtMTkzSXNXVjFScDk5ZFNINDF0MTRuVExuNF9JekJVWHpMTmI5aC1GYi1JQmpXeURXUVhUWXJiVUc0V2pFTll5eEswd0s4Q0taMnNaODNsRnZnQm5tbUZhMEJHU0dkbXp0WTFnd0g1R2xzOTBSU3ZoOUltTXNhVV9GRzA0WmhE?oc=5",
-          "published": "2026-08-17T09:02:20.000Z"
+          "tag": "Press",
+          "headline": "DayOne secures S$530 million green loan from DBS, OCBC and UOB for Singapore data centre - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXZIU3F1cG1iRjlSNnJoTXZRWGtmb3NYUy01RmNGcnZOTXllTWVUd2l0VGJzM2tRNXZNQ19hbS1qU2IxeVlIZ0NxNzk4ektTaUFlV3VuYzM0QjU2QVh0RnJ1YkpEN1JkWjNBYjg4WDBtTTNNc1JPMjJKaHNGMkg3ZVppaDJ1ZGliZXBacTNxblFRRzVoTUhoY0JRZ1pqdldPUGZZUDJrZ1o3OWVCbk5sdzNmWXhJdm82a19rcHYxR29URjlEX0dB?oc=5",
+          "published": "2026-08-18T04:18:00.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Mastercard took down payments across Australia with a scheduled update - The Next Web",
-          "source": "The Next Web",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlpGaG9TSUF3c0haQXZjNTZkaGZNbzhjRmt2TjFGNGdFMlJWa0prX1pnTjkxc0lvVDNxMVg2QTgtbi1Fek1EbWdWZHJSNjU1dEQ2ODVaeUxhcXhZRUtCZmJqUlBPT3BvY1ZwU05ZbElZb1VtSEZzcW9JOU5sVnc3Qjhyaw?oc=5",
-          "published": "2026-08-16T08:50:42.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Mastercard payments being declined in Australia, bank says - The Straits Times",
-          "source": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlNsdUd2V0VJcVljdjJzNlVXbGlUZ1JrYURTeEFzcld1M243UVdSVXJZUEt2UGF0R2VfMmVJZjVsMkEtUnF4RFM5V2hzOFNkbGJObkt1b1lUQ3BhdE95SnU4MlpXczBZVXpXZVR4d25yZ2lGc19neDhqTGVrUUlmQkFxT0FyMnFldHlOMmZDaW5RMC1xZVJ3am15Wi1XanNwdUZ0Z2Zn?oc=5",
-          "published": "2026-08-15T08:21:02.000Z"
+          "headline": "DayOne gets S$530 million green loan for first data centre in Singapore - Asset Publishing and Research Limited",
+          "source": "Asset Publishing and Research Limited",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0RrNVRJaVZpYlJHa3hiaXNTRU9hcHZPa1RiaEtqdFZlMGJLMkFpa3FEUjBsei1YaWdSMExiamxVdGRvRWJCVVNKOVdjUWVtblI3aFp6dXBoQ2tSQmNqd21od1Izclk4QUY1SG9zNnAySTg2STFuSGs4M0lITmNObjgwRDJqM0lZWFQyWm0zb19ZUnpkMkFFV0pnaGJIWEprcFQ0RDR0cGh6MkJnLVlDUmhXVEo?oc=5",
+          "published": "2026-08-18T04:44:26.000Z"
         }
       ],
       "insight": null,
@@ -222,14 +223,6 @@
           "headline": "CBA 2026 Full Year Results Transcript - CommBank",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkwtcVdhWVpzTld3QUpQLVdycG5iLXM1dEExT0xTa0lmZGw4VHBPSHBKb3A4ZW5fLTcyMkNzeU9RTkJpcUFvbXJlRHcwMDA5RU8zYkV3aXpkVEFBbUpISE9xOEhjaDg5WjVKYzFDbGc1WDVnZkpXQnluREJSbk1iNW13SXBpcC1uU2tHaFFvX185ZDlQZVZ1OTFoSnBUUmU0TF94VV9WRkY4R1g3QnNNWFZR?oc=5",
           "published": "2026-08-12T07:07:01.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1idnF1MTl6M2VSNkxKRWpidkFfSUVSanpQTUJacTN4YnhkOUZxaFpGck44bmkza2RqR1prSVZOUmNOX2tIbUliT3NMbXQ0TlpwcnFQdTBPSThucEN3RGVsSzUwTHI5WDI0d2Nr?oc=5",
-          "published": "2026-08-06T07:00:00.000Z"
         },
         {
           "company": "HSBC",
