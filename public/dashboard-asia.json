@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T02:46:54.421Z",
+  "generatedAt": "2026-08-22T02:37:13.473Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,6 +33,13 @@
       "bullets": [
         {
           "tag": "Product",
+          "headline": "More products, more risks? South Korea's leveraged ETF crisis has lessons for S'pore's retail fund push - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNlM5OU1mVk1GUFN6Wms3bU9kaURfUGZIQndfRDlxcFpfSHpWQ0dlTE41NFJ1ZUM1dWxsQllNeDZnODc5SEtnMjV2c1ZFU3JWYlRCYmZpS1NIOU9GOElPaXpQX3VYS0hHUmFPSVltMlZyVWdmanY5SWlkQUxKSHlYTURLMDhOcmxaU0ozaW9XYjg1VzNIZVo0ajhqdW5uOTRkalh3RzhVQklGanJqaDRPOVo2RDZZN1E4UlFkOG01S3YwNmJ2RjhvemZOak4zWFBYY2F4S2NPYTYyUkZRY2lyek5GM3RBMzQtR0JXVDMyaEhORXFqNDhvYkJJSGFQdzA?oc=5",
+          "published": "2026-08-21T04:29:00.000Z"
+        },
+        {
+          "tag": "Product",
           "headline": "Singapore plans tax breaks for fund managers to grow asset management hub status - S&P Global",
           "source": "S&P Global",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXlNVkpmZ2Z0ZGM1c2pLSnJMSll2cjVoMmQ2ZzU5eDhudjhrOEp6dkRVZERUXzRsbWJocUhPb2RDbHVGSVByVVA2SWJBN3JhcFl5SkNrSnN0dHRuSlMtbEJrUEhnWXowemxvQTRCSlVjR0dIVzdQektfeURHd0xUSVc4RW9xckxod2cxa3JxdklNaXRnSHJqVS1oS2ZNQm1adTNtUkRNSmlmRDdqMW9GQW53U0ZIYWFGQ2pULXAyYUZtdzVSOEM1b19Rd0pIVC0wSXNDMmY2X1ZfR3BCa3c3N0FpWDBubWxmaGhMTnAzRnB5WUNBaldJTUlCbHk?oc=5",
@@ -44,16 +51,16 @@
           "source": "finance.biggo.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sS21HLU9LczlFU3l0d3lnVjc0QzRGcjFGNHhpOGtRSkNXUHlkM3E5bGJrVy11ZnFpX2RHVGlxaFZDamtLelRZSVJwU3VHNU5SZ1FiNC1YekhnZVN4Ty1oQnA4MWJLN2htTmpoU1U4ZjJpckZma3c?oc=5",
           "published": "2026-08-19T09:05:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "MAS introduces 3 new measures to strengthen S'pore's asset management industry - Mothership",
-          "source": "Mothership",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lWkFBVGk5ZVBwdG5aYjhSOFJEZDVWZjVlcUZaU2F6SWFab282ekVHUllSSXhQQS04dmN5dUNWTkZXZEFtRFRZU1MyRjVuMzdlaWppdlpZaFBoRmctZHVsQ3VUTU4yVl9wN3BoSg?oc=5",
-          "published": "2026-08-19T05:04:04.000Z"
         }
       ],
       "candidates": [
+        {
+          "tag": "Product",
+          "headline": "More products, more risks? South Korea's leveraged ETF crisis has lessons for S'pore's retail fund push - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNlM5OU1mVk1GUFN6Wms3bU9kaURfUGZIQndfRDlxcFpfSHpWQ0dlTE41NFJ1ZUM1dWxsQllNeDZnODc5SEtnMjV2c1ZFU3JWYlRCYmZpS1NIOU9GOElPaXpQX3VYS0hHUmFPSVltMlZyVWdmanY5SWlkQUxKSHlYTURLMDhOcmxaU0ozaW9XYjg1VzNIZVo0ajhqdW5uOTRkalh3RzhVQklGanJqaDRPOVo2RDZZN1E4UlFkOG01S3YwNmJ2RjhvemZOak4zWFBYY2F4S2NPYTYyUkZRY2lyek5GM3RBMzQtR0JXVDMyaEhORXFqNDhvYkJJSGFQdzA?oc=5",
+          "published": "2026-08-21T04:29:00.000Z"
+        },
         {
           "tag": "Product",
           "headline": "Singapore plans tax breaks for fund managers to grow asset management hub status - S&P Global",
@@ -91,15 +98,8 @@
         },
         {
           "tag": "Press",
-          "headline": "MAS unveils measures to sharpen Singapore’s asset management competitiveness - SRP Structured Products",
-          "source": "SRP Structured Products",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYTVhS0FHRFI0amFJVUJhUFVlNmNIREV6U3hTY2R3YlAwRzdOdFI5RTNIeFpTLXBvb3UwaTJOZkZURmY4cXlDOWw0NGZfeG0wTFNaajZFWGJ1ZFVqQXZNMjRCY0lMT05GV25ZbXdkLWJ4NUlQdF9tSUhBdm1ONmpyU2tsUnhaQWxKTl9DaEtIZ0pZOGwwU0RKNURUWm9JUTRUeE80UGJvZW1fNnpURWtUNThJa2ZhS0p1Vms0a2ZETWJzOUl5MDZtNUFCaw?oc=5",
-          "published": "2026-08-20T16:00:53.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore's Asset Management Reforms Seen as Timely Move in Intensifying Race With Hong Kong - Share Dilution Risk - Vinanet",
-          "source": "Vinanet",
+          "headline": "Singapore's Asset Management Reforms Seen as Timely Move in Intensifying Race With Hong Kong - Share Dilution Risk - vinanet.vn",
+          "source": "vinanet.vn",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkpMcDlFLXNhMG8tVFl4OGd2aUhkelNuNEtacUZ6X1BwVHVnZjR6dGx3R0Z5RUVpSXJfN0Fad3VoNW1QXy1Salo5YTBMelAwTXNKYk1rZVFweEZnMC1OWkM5Z2tEVnlVR0Q0TmtzNGtpTWVvZkhKWVR6ejk4cmNNVmxxTWxlTVpkaWtsaWRDRHZJMkJYRF9pcUFlcVdqWUo1SkprWHpvZnY2VDdKLVR6NDY0OTNWNHI4S2tMZnJnUENIWEh4MTJ1S2VRRUtvdw?oc=5",
           "published": "2026-08-20T14:34:33.000Z"
         },
@@ -107,7 +107,7 @@
           "tag": "Press",
           "headline": "Singapore's proposed reforms aim to boost its asset management sector amid rising competition from Hong Kong - The Straits Times",
           "source": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYVU3LTRnaXFhZ1N4Y05PU3RnZHFFTFhCbGtEaHBxeU1YeVNSY3Nwa090RDd4eE9tNU4xaURJcWNfdV82VHpJVncwUDN0QmQtc2ZVdVRUSzV6MHNrR1M0LTVtRTRBLUVCRDdHWnFWOVYzQUF6TkJ1N0c1M2c5WktBMVNfZ1ltZnRzOHNEQ2M2RjE2WnFUZXVnM0Z2M0p0QzhxWnloVWpyMUFSWG5DWV9wZGMyWF92aV85YmxUNExTR2p5RThPWGlwSkhnUU1tMWdldGFWZUhhYTRqTFNTaU94NUYzYnNQamgtQ2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeW5BUS02dEpKdTd5YnFXRTRObTdneGJXU3IyZzZlTUdxYktRQjNOV0daSzVLRU4xNDlDZ0V4YlpUbHY4M3ZaV3Z4Z09IU1I3OUQ5dTNVSVFzVkhYSUwyQmQ1Xy1PdElBZWpBNmdwNjRUbk4tUFQxNXlXRFZqZ1JtVXd1NG14V3VlM3cyTDVjWTgydkNHaDBlaDZ5LU1kLW5DeWJ1eU4zSGtNWE02enJpZDl5XzRtVU1IZXBVNk40dW5yY2o0b3VHNk43M2dHdw?oc=5",
           "published": "2026-08-20T12:20:00.000Z"
         }
       ],
@@ -120,6 +120,14 @@
           "headline": "Nomura (NMR) Q1 2027 Earnings Call Transcript - AOL.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaDdGTEs5RTBsRmtudl9fSHBHdk9UQ0hhRVludzVNY191RmNBNlRCT0ZSYWVUZ1JaT2UtaGJielFjSUZlU0VGZWJqeVRmTXVvZGQ1OFRBR3hEWUZCTFUyMTBpWmhlMmNHNmlNY3hRbHUwZFFpWUFBako4OA?oc=5",
           "published": "2026-08-04T00:32:24.000Z"
+        },
+        {
+          "company": "BlackRock",
+          "ticker": "BLK",
+          "tag": "Transcript",
+          "headline": "BlackRock's Reported Stake in Ondas Holdings Points to Institutional Interest in Autonomous Systems - Earnings Call Tra…",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeElkaVY5aDFNOUJsWnJ0bWtqSUdmYlF0RGxWTF9ENXF4TnZSWkRidmJHcWJwVkZjQU8wLVIzWjNoWEhQTGhucTM5MU5kQ0dsSE51a1hhTkZSaUF2Y2JrbF82bGVnMkNKS0dMOWpGVkQ2U0NkTEk5bk5waUp2Qy05cFUzZVg3NFZhWFlhU3hVN1FiNEJwdUpYYklsME9Wem9uM0ZTaC0zdTBaYjJyOUs3a0pQSVBtaWNzNGFzUHN3MVVra20wMGRKSWpGRjVFWFdQWG1Dam53?oc=5",
+          "published": "2026-08-02T07:00:00.000Z"
         },
         {
           "company": "Schroders",
@@ -142,9 +150,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "ManpowerGroup (MAN) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DSXdKQ0FldUZ1Yk9ibzJpVktOMF9oOGloaEcwOVM5bzhuQ3U3ZDIzZmZYOVhla19jYmF0UFUtaU9BNWUzZFdidkk2MDU2TWlRSkhzZnM2WHI0WFJONmZFNnZ2N2R1RXNZQ2Jz?oc=5",
-          "published": "2026-08-20T07:46:16.000Z"
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-08-13T21:24:28.000Z"
         },
         {
           "company": "HSBC",
@@ -163,11 +171,11 @@
       "candidates": [],
       "insight": {
         "tag": "Research",
-        "headline": "Chinese insurer Ping An’s profit rises 36% on policy sales, investments - South China Morning Post",
+        "headline": "Asia’s rising riches protect insurers against China’s policy shifts - Financial Times",
         "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMjdLZ1FvMS1vY3JjMkk2anVlbGRsUTd0Y0ZkN1dLQ2tVWWw0ODZPY1hGSnZ5clJzRVg4MjRrc05YWGMwektVQnpudW5WR1FFN3labklyN1BBWnpTd2NTVXZ5ZnBYOTcxTVBJS19HWDhybVB5clFsSGNLMHZuTS1xdldMR1pyTGhDZEJfQlBwaU9STVNzYmhXcXFqRFhkY3BiMUxBdmpST21pVmRVOVJIc1RQRC01dmd4RDR5N3kyQk9fdy1Cd0tXdjR3cFR5UUdJRGFoR0hUN1LSAdgBQVVfeXFMTV9kenU4RkVoVUp0QWQzcDVFNE1lY0g5Z1lDc1U5ZHRBdEpzMlNQQWEwbUJKQUVWWEl4M2Q2aDk3aFBENTBYV0VmOEwtMHdzZVRmaThFOVk2NktGSllOV1YxQmhUekE4QU44Q3dOOVNkdmlmWXVnV2hBRC1wR0Q5eEI4YTVWS1doSC0tc1dIOVIzZHdTUjV6aFJlMUpLdGh4ZUkxZUZINi1ZbFBUeWJxMTJPWC1rYjRYNTRtdlBEYjh6UFRrbWlsbW1tY2ctUE5mZGZncUdLNHFN?oc=5",
-        "published": "2026-08-20T11:06:08.000Z",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzItd2JXbHRiYlg0TGlfOENydmQ1R0FpMzQ4SWZFbnBtVVloMllpcEZhZmpVNk1zVXU5N05ucVduNENJTFpRNTlFNUJGbHh5dHFvRDlDaS1acXk4TTZiSXdaNDNCenVLalV0NTJGS1VZOEl3NDMzUndKejh0OVR3b0tFcHk?oc=5",
+        "published": "2026-08-21T04:00:21.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -210,17 +218,17 @@
         },
         {
           "tag": "Press",
-          "headline": "DayOne secures S$530 million green loan from DBS, OCBC and UOB for Singapore data centre - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXZIU3F1cG1iRjlSNnJoTXZRWGtmb3NYUy01RmNGcnZOTXllTWVUd2l0VGJzM2tRNXZNQ19hbS1qU2IxeVlIZ0NxNzk4ektTaUFlV3VuYzM0QjU2QVh0RnJ1YkpEN1JkWjNBYjg4WDBtTTNNc1JPMjJKaHNGMkg3ZVppaDJ1ZGliZXBacTNxblFRRzVoTUhoY0JRZ1pqdldPUGZZUDJrZ1o3OWVCbk5sdzNmWXhJdm82a19rcHYxR29URjlEX0dB?oc=5",
-          "published": "2026-08-18T04:18:00.000Z"
+          "headline": "GXS Bank Posts Heaviest Loss, Even As Loan Book Grew Three Times - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkR4aUxKbElGNVBiYUk4RWhZamUyQnRkazQxOU9CX0VIeEd0WmxaNGJQQ0FIRE5kQXpabDFSSHF0MURUOVBqRncyaHFxQXBubllTWXozcnZuYTFBT3BwcXlNc2ROWWpRR1p3eFVvQ0h0bHUzX3pWWDl1ckxSdDlvRFNrT2d2V0NNczFpSGNlUm96OFdSa1lLN3JLX3RXWUU?oc=5",
+          "published": "2026-08-21T09:54:01.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Shanghai is lowering second-home down payments. Will it aid the property market? - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdGxQNGVCTDFQb2FiM2VkYTB5dmFrN1dqRm5EM290cjlUdXlTNTRpNEtBWGJJWkN0YWs0RWtOUW85M2p3NTBpQTdMZjg2NXdaVlBiY2dwX2tnQ3pkOFZvTEllNUtORlUtTmlna1YwNUg1SHMyb2VJNlZnZkZpa3dxcFdPdllkSU95UFBNbTJFajY3Q0FUMldWMmJaZGVoc2Mxd091aEpkMklCVy1JVnllamRKaHZ6cHZKc3R6NmhmVTAwcmZrSGxUVmd30gHKAUFVX3lxTE5wd1pzQlhVNGJ6bXNFSjItUzNvRXE3ZzNTZXFVODFDV0xyT2dmS2pHeXlRMkpiRy1DQlBXcnQ2eGgxanJaMlcxNHk1Ml9TTWlibHNtWWp2UXhjZjRYS3lkVl93WlFhLVJ2bTVLQm1qNE5mTzd6SXBqUnRXb2ptb2oydlAzTWNIelVPVmp3WTRmR2lOaEpkV2dvM0tQQlVWM0Y1TnVrc2dWb1g5ejJEYkxpZkJVT0lmRHp4V2pqaGZ1WDBjalFIOUtBaUE?oc=5",
-          "published": "2026-08-20T09:27:23.000Z"
+          "headline": "Singapore's DayOne said to seek US$237 mil loan for Hong Kong data centre ahead of US IPO - The Edge Malaysia",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXWkx4U09CcGVoSDkxUWRLa2RVeC1KSXdDWkYwMUZnVXAwSnFHSlBJOHV0NDFPOHBlc2xPMXFpRnQ2VVY2Q1ZRRUJGR3otZklQ?oc=5",
+          "published": "2026-08-21T07:28:32.000Z"
         }
       ],
       "candidates": [
@@ -233,16 +241,23 @@
         },
         {
           "tag": "Press",
-          "headline": "DayOne secures S$530 million green loan from DBS, OCBC and UOB for Singapore data centre - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXZIU3F1cG1iRjlSNnJoTXZRWGtmb3NYUy01RmNGcnZOTXllTWVUd2l0VGJzM2tRNXZNQ19hbS1qU2IxeVlIZ0NxNzk4ektTaUFlV3VuYzM0QjU2QVh0RnJ1YkpEN1JkWjNBYjg4WDBtTTNNc1JPMjJKaHNGMkg3ZVppaDJ1ZGliZXBacTNxblFRRzVoTUhoY0JRZ1pqdldPUGZZUDJrZ1o3OWVCbk5sdzNmWXhJdm82a19rcHYxR29URjlEX0dB?oc=5",
-          "published": "2026-08-18T04:18:00.000Z"
+          "headline": "GXS Bank Posts Heaviest Loss, Even As Loan Book Grew Three Times - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkR4aUxKbElGNVBiYUk4RWhZamUyQnRkazQxOU9CX0VIeEd0WmxaNGJQQ0FIRE5kQXpabDFSSHF0MURUOVBqRncyaHFxQXBubllTWXozcnZuYTFBT3BwcXlNc2ROWWpRR1p3eFVvQ0h0bHUzX3pWWDl1ckxSdDlvRFNrT2d2V0NNczFpSGNlUm96OFdSa1lLN3JLX3RXWUU?oc=5",
+          "published": "2026-08-21T09:54:01.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Shanghai is lowering second-home down payments. Will it aid the property market? - South China Morning Post",
+          "headline": "Singapore's DayOne said to seek US$237 mil loan for Hong Kong data centre ahead of US IPO - The Edge Malaysia",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXWkx4U09CcGVoSDkxUWRLa2RVeC1KSXdDWkYwMUZnVXAwSnFHSlBJOHV0NDFPOHBlc2xPMXFpRnQ2VVY2Q1ZRRUJGR3otZklQ?oc=5",
+          "published": "2026-08-21T07:28:32.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Shanghai lowers second-home down payments. Will it boost the property market? - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdGxQNGVCTDFQb2FiM2VkYTB5dmFrN1dqRm5EM290cjlUdXlTNTRpNEtBWGJJWkN0YWs0RWtOUW85M2p3NTBpQTdMZjg2NXdaVlBiY2dwX2tnQ3pkOFZvTEllNUtORlUtTmlna1YwNUg1SHMyb2VJNlZnZkZpa3dxcFdPdllkSU95UFBNbTJFajY3Q0FUMldWMmJaZGVoc2Mxd091aEpkMklCVy1JVnllamRKaHZ6cHZKc3R6NmhmVTAwcmZrSGxUVmd30gHKAUFVX3lxTE5wd1pzQlhVNGJ6bXNFSjItUzNvRXE3ZzNTZXFVODFDV0xyT2dmS2pHeXlRMkpiRy1DQlBXcnQ2eGgxanJaMlcxNHk1Ml9TTWlibHNtWWp2UXhjZjRYS3lkVl93WlFhLVJ2bTVLQm1qNE5mTzd6SXBqUnRXb2ptb2oydlAzTWNIelVPVmp3WTRmR2lOaEpkV2dvM0tQQlVWM0Y1TnVrc2dWb1g5ejJEYkxpZkJVT0lmRHp4V2pqaGZ1WDBjalFIOUtBaUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN2pkWWtBZmVHaDRMUDladGpEY1JrZUk2YVd1aXdvbEFLZlB5VmlwT0ZNM1lZbl9oeFFCVUZIMGNYaGItMW0tOHN4cWw0aS0ySzBDQWRpcDBGeXpmN0xURWZCODdUdGx5ODJobnByRV9yczlBaFREcTBsUGtXdnFJX1FKYUppVWxFVERfRDJjcVRoSHJrZm5VS1JBVzB1SjJLVVY5LVpmS19lM3RvZTJ0ZkZBQUZYcVFMSHJlandhWG5aQVg2d3hZbHN6VzBjb1RWZjBxSHlLV0d1SGRpQkJIYllxS214TFktRUptaGZOWUdJN1J4TmNTVg?oc=5",
           "published": "2026-08-20T09:27:23.000Z"
         },
         {
