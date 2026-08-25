@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:47:49.399Z",
+  "generatedAt": "2026-08-25T02:41:44.450Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,33 +33,47 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "headline": "China Universal CSI HKC IT Composite ETF, 526030:SHH:CNY risk - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFBnWnhWTk92bFFhYjkwMXZoS0RJS1JLU1RPaS1DelMzNUFsek5tSkE5THI4SEdnT0x3U253ZkRNeFdEamRmYUM4Z0xCb1dvbG5KTzI3SV9qR0Izdi1RamRsbjFuVVo1Q2U1eF95dUVfcTM0d2ctVFotVXlCMkp2NGNlams0TnpqRTJhQkEwWkJBbUR2Sjg3aldkd3YzWUhybDBSUzlfNmFRWlk?oc=5",
-          "published": "2026-08-21T07:08:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55SFE4ekRKRjRYNlpYeWh3YkdWSE9uWHNBY25CQUFGR3BGTklKSEdiWTd1dzBvUGZvZXR4aWhwSGM3TDdRT0k0bFR2Yl9HTDg4REQ3RXRTTDlYYjJ0S2JiVGhZaDVxUWlzVHJiY1E2QTNxQQ?oc=5",
+          "published": "2026-08-24T07:09:07.000Z"
         },
         {
-          "tag": "Press",
-          "headline": "Singapore moves to sharpen asset management edge - Asset Publishing and Research Limited",
-          "source": "Asset Publishing and Research Limited",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORm93RFdndmNxWTB1Vl9HN0lHTTd5WVJZMEtMUk5PU1d1bk5mZHBXUTRXMExSYmljYVhGUVZqMkpabnR6WlUtUzd2X3pKdHJZV2ZxR3Zzc1NJTTItNnNJUXhjZnRsYk50NWRldDk0UG5PTGRrSXBNNm1yM3lmMHNEYlc5S2tmTGhFOXRUaEliUVg4c18tUGRzeENnSVVudw?oc=5",
-          "published": "2026-08-21T10:27:38.000Z"
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan UCITS ETF Dist: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUURJVHFsd2V6MmdrUWJrbnF6MmJJNzQwRjN4NHdZcU9XYmllTnRyeVBtcXoyYjl4Uzlncm9HSWZlRkw5TWlSMnBIMnpHajRKZE1kbUhLejRIS0FybzFvOUZtYWNDZ1k4dTZGbGpMci1EdWFaZlZ6SDhsWGlSMnY2Qnk4UWxoV2xEaWdVa2p1V3UweHdLS25hZXRkZVdsVkh5Vi14Xy1uNUo3Wm8?oc=5",
+          "published": "2026-08-24T07:07:00.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Beyond AUM, Singapore may need to redefine what it means to win the asset management race - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0s0SmhDckczeXZzRmRhbEZmZExxYTZzTXBrTW00TkFfZnA0X3BjRGtXTDQ3SHFFRXZqSVp1S05oSTFmd25iY3k1REZvSURxUE5XY2h6QzU4X1RxakxKalRNc1JEcWpTN3E5R2ozNjkxMk1CWi10NGprQnJIT3hzbFdaTzZ2NHBFU1d0c2hCc3JmVTRBRmFiMVFJWU4ya0YzWDlVOWxjdzN3SzRwZ29qdWhmUU5WYlZhTXRZQWZRTjBBa1l5NHRn?oc=5",
+          "published": "2026-08-24T23:00:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "headline": "China Universal CSI HKC IT Composite ETF, 526030:SHH:CNY risk - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFBnWnhWTk92bFFhYjkwMXZoS0RJS1JLU1RPaS1DelMzNUFsek5tSkE5THI4SEdnT0x3U253ZkRNeFdEamRmYUM4Z0xCb1dvbG5KTzI3SV9qR0Izdi1RamRsbjFuVVo1Q2U1eF95dUVfcTM0d2ctVFotVXlCMkp2NGNlams0TnpqRTJhQkEwWkJBbUR2Sjg3aldkd3YzWUhybDBSUzlfNmFRWlk?oc=5",
-          "published": "2026-08-21T07:08:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55SFE4ekRKRjRYNlpYeWh3YkdWSE9uWHNBY25CQUFGR3BGTklKSEdiWTd1dzBvUGZvZXR4aWhwSGM3TDdRT0k0bFR2Yl9HTDg4REQ3RXRTTDlYYjJ0S2JiVGhZaDVxUWlzVHJiY1E2QTNxQQ?oc=5",
+          "published": "2026-08-24T07:09:07.000Z"
         },
         {
-          "tag": "Press",
-          "headline": "Singapore moves to sharpen asset management edge - Asset Publishing and Research Limited",
-          "source": "Asset Publishing and Research Limited",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORm93RFdndmNxWTB1Vl9HN0lHTTd5WVJZMEtMUk5PU1d1bk5mZHBXUTRXMExSYmljYVhGUVZqMkpabnR6WlUtUzd2X3pKdHJZV2ZxR3Zzc1NJTTItNnNJUXhjZnRsYk50NWRldDk0UG5PTGRrSXBNNm1yM3lmMHNEYlc5S2tmTGhFOXRUaEliUVg4c18tUGRzeENnSVVudw?oc=5",
-          "published": "2026-08-21T10:27:38.000Z"
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan UCITS ETF Dist: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUURJVHFsd2V6MmdrUWJrbnF6MmJJNzQwRjN4NHdZcU9XYmllTnRyeVBtcXoyYjl4Uzlncm9HSWZlRkw5TWlSMnBIMnpHajRKZE1kbUhLejRIS0FybzFvOUZtYWNDZ1k4dTZGbGpMci1EdWFaZlZ6SDhsWGlSMnY2Qnk4UWxoV2xEaWdVa2p1V3UweHdLS25hZXRkZVdsVkh5Vi14Xy1uNUo3Wm8?oc=5",
+          "published": "2026-08-24T07:07:00.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Beyond AUM, Singapore may need to redefine what it means to win the asset management race - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0s0SmhDckczeXZzRmRhbEZmZExxYTZzTXBrTW00TkFfZnA0X3BjRGtXTDQ3SHFFRXZqSVp1S05oSTFmd25iY3k1REZvSURxUE5XY2h6QzU4X1RxakxKalRNc1JEcWpTN3E5R2ozNjkxMk1CWi10NGprQnJIT3hzbFdaTzZ2NHBFU1d0c2hCc3JmVTRBRmFiMVFJWU4ya0YzWDlVOWxjdzN3SzRwZ29qdWhmUU5WYlZhTXRZQWZRTjBBa1l5NHRn?oc=5",
+          "published": "2026-08-24T23:00:00.000Z"
         }
       ],
       "insight": null,
@@ -86,7 +100,7 @@
           "tag": "Presentation",
           "headline": "Investor Presentation - mybrand.schroders.com",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
-          "published": "2026-08-12T09:02:39.000Z"
+          "published": "2026-08-24T07:40:24.000Z"
         }
       ]
     },
@@ -101,9 +115,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
-          "published": "2026-08-20T21:55:53.000Z"
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-08-22T13:07:11.000Z"
         },
         {
           "company": "HSBC",
@@ -131,6 +145,14 @@
       },
       "companyUpdates": [
         {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-08-22T04:24:01.000Z"
+        },
+        {
           "company": "AIA Group",
           "ticker": "AIA",
           "tag": "Transcript",
@@ -145,14 +167,6 @@
           "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNm5PQ1JfVExFd2o0c0drQzZlZnZ6Z205enNOaXVaUXlBMk5HaTNMZ0MxQ09fZnJybW8yaWVqM2YxSUFrcUZhY0RacXJCRlVIZVFYdHdlWHZ1endVYlUydE9LQWVTd0RZTEdzb2c0QVFZUzRvU1F1anZSVVhJeUNnNHF4eFpaTDlUWmd4N0ExTDZJU1VWczBTQjdIQW5hN2U1QmxGOWhtRmZTd0VrTUhyMEEyNDJ6MWw2aHN6UU5rMklHcHBYTU11Nkh3NA?oc=5",
           "published": "2026-08-13T07:00:00.000Z"
-        },
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
-          "published": "2026-08-05T07:00:00.000Z"
         }
       ]
     },
@@ -161,13 +175,6 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "DayOne seeks loan to fund Hong Kong data centre ahead of US IPO - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONm1iOWtHTzg4Y1c3dlBCSWVldXhUeXAwRzRrQVBnOVpxVnEzTU55VFBEeDI4RzU5RE9nUi1Wc2lZUmhldGlKcTdWNWF4b3VRSGtlQ2k3LUdsVzJ6bFRZTGNYaTFvWmZZZGxKS3FFd1RrU001LVRTYmVZa25XRGxYNlNFa1ZpTFFOSkktcW1nT0lQcGVfc2wxUUNQTkNsWXMtak42bzFlaXRpdHBG?oc=5",
-          "published": "2026-08-21T06:18:00.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "DayOne seeks US$ 240 million loan for Hong Kong data center: Report - W.Media",
           "source": "W.Media",
@@ -176,21 +183,14 @@
         },
         {
           "tag": "Press",
-          "headline": "GXS Bank Posts Heaviest Loss, Even As Loan Book Grew Three Times - Fintech Singapore",
+          "headline": "6 Singapore Digital Bank Credit Cards Compared: Trust vs GXS vs MariBank - Fintech Singapore",
           "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkR4aUxKbElGNVBiYUk4RWhZamUyQnRkazQxOU9CX0VIeEd0WmxaNGJQQ0FIRE5kQXpabDFSSHF0MURUOVBqRncyaHFxQXBubllTWXozcnZuYTFBT3BwcXlNc2ROWWpRR1p3eFVvQ0h0bHUzX3pWWDl1ckxSdDlvRFNrT2d2V0NNczFpSGNlUm96OFdSa1lLN3JLX3RXWUU?oc=5",
-          "published": "2026-08-21T09:54:01.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkJDdUVVRlBpSENMZUkwS1duZU5ldnd6bW05Y0tWWUZRTG1UM0s2dG5SWGtvZ29VODY0cjlDbHdmUG5BZVJBM1Q4VGNmYnFhcVJ1T25qbHlFVVNsMjhFc3FLOEV2SEU2UkNGQ3FfSjBJbVlvcGRYQm0xZDhnWG5nMkRfRWVwREdZdGtEYmNSeWxFX2lOY19uYVVnRUtGYWZaeEdnV2REUnY?oc=5",
+          "published": "2026-08-24T03:17:34.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "DayOne seeks loan to fund Hong Kong data centre ahead of US IPO - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONm1iOWtHTzg4Y1c3dlBCSWVldXhUeXAwRzRrQVBnOVpxVnEzTU55VFBEeDI4RzU5RE9nUi1Wc2lZUmhldGlKcTdWNWF4b3VRSGtlQ2k3LUdsVzJ6bFRZTGNYaTFvWmZZZGxKS3FFd1RrU001LVRTYmVZa25XRGxYNlNFa1ZpTFFOSkktcW1nT0lQcGVfc2wxUUNQTkNsWXMtak42bzFlaXRpdHBG?oc=5",
-          "published": "2026-08-21T06:18:00.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "DayOne seeks US$ 240 million loan for Hong Kong data center: Report - W.Media",
           "source": "W.Media",
@@ -199,17 +199,10 @@
         },
         {
           "tag": "Press",
-          "headline": "GXS Bank Posts Heaviest Loss, Even As Loan Book Grew Three Times - Fintech Singapore",
+          "headline": "6 Singapore Digital Bank Credit Cards Compared: Trust vs GXS vs MariBank - Fintech Singapore",
           "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkR4aUxKbElGNVBiYUk4RWhZamUyQnRkazQxOU9CX0VIeEd0WmxaNGJQQ0FIRE5kQXpabDFSSHF0MURUOVBqRncyaHFxQXBubllTWXozcnZuYTFBT3BwcXlNc2ROWWpRR1p3eFVvQ0h0bHUzX3pWWDl1ckxSdDlvRFNrT2d2V0NNczFpSGNlUm96OFdSa1lLN3JLX3RXWUU?oc=5",
-          "published": "2026-08-21T09:54:01.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Fixed Deposit Rates in Singapore – August 2026 - Syfe",
-          "source": "Syfe",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
-          "published": "2026-08-21T07:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkJDdUVVRlBpSENMZUkwS1duZU5ldnd6bW05Y0tWWUZRTG1UM0s2dG5SWGtvZ29VODY0cjlDbHdmUG5BZVJBM1Q4VGNmYnFhcVJ1T25qbHlFVVNsMjhFc3FLOEV2SEU2UkNGQ3FfSjBJbVlvcGRYQm0xZDhnWG5nMkRfRWVwREdZdGtEYmNSeWxFX2lOY19uYVVnRUtGYWZaeEdnV2REUnY?oc=5",
+          "published": "2026-08-24T03:17:34.000Z"
         }
       ],
       "insight": {
