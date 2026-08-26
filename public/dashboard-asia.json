@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:41:44.450Z",
+  "generatedAt": "2026-08-26T02:49:33.831Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,20 +32,6 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "China Universal CSI HKC IT Composite ETF, 526030:SHH:CNY risk - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55SFE4ekRKRjRYNlpYeWh3YkdWSE9uWHNBY25CQUFGR3BGTklKSEdiWTd1dzBvUGZvZXR4aWhwSGM3TDdRT0k0bFR2Yl9HTDg4REQ3RXRTTDlYYjJ0S2JiVGhZaDVxUWlzVHJiY1E2QTNxQQ?oc=5",
-          "published": "2026-08-24T07:09:07.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan UCITS ETF Dist: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUURJVHFsd2V6MmdrUWJrbnF6MmJJNzQwRjN4NHdZcU9XYmllTnRyeVBtcXoyYjl4Uzlncm9HSWZlRkw5TWlSMnBIMnpHajRKZE1kbUhLejRIS0FybzFvOUZtYWNDZ1k4dTZGbGpMci1EdWFaZlZ6SDhsWGlSMnY2Qnk4UWxoV2xEaWdVa2p1V3UweHdLS25hZXRkZVdsVkh5Vi14Xy1uNUo3Wm8?oc=5",
-          "published": "2026-08-24T07:07:00.000Z"
-        },
-        {
           "tag": "Earnings",
           "headline": "Beyond AUM, Singapore may need to redefine what it means to win the asset management race - The Business Times",
           "source": "Business Times",
@@ -54,20 +40,6 @@
         }
       ],
       "candidates": [
-        {
-          "tag": "Product",
-          "headline": "China Universal CSI HKC IT Composite ETF, 526030:SHH:CNY risk - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55SFE4ekRKRjRYNlpYeWh3YkdWSE9uWHNBY25CQUFGR3BGTklKSEdiWTd1dzBvUGZvZXR4aWhwSGM3TDdRT0k0bFR2Yl9HTDg4REQ3RXRTTDlYYjJ0S2JiVGhZaDVxUWlzVHJiY1E2QTNxQQ?oc=5",
-          "published": "2026-08-24T07:09:07.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan UCITS ETF Dist: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUURJVHFsd2V6MmdrUWJrbnF6MmJJNzQwRjN4NHdZcU9XYmllTnRyeVBtcXoyYjl4Uzlncm9HSWZlRkw5TWlSMnBIMnpHajRKZE1kbUhLejRIS0FybzFvOUZtYWNDZ1k4dTZGbGpMci1EdWFaZlZ6SDhsWGlSMnY2Qnk4UWxoV2xEaWdVa2p1V3UweHdLS25hZXRkZVdsVkh5Vi14Xy1uNUo3Wm8?oc=5",
-          "published": "2026-08-24T07:07:00.000Z"
-        },
         {
           "tag": "Earnings",
           "headline": "Beyond AUM, Singapore may need to redefine what it means to win the asset management race - The Business Times",
@@ -84,7 +56,7 @@
           "tag": "Transcript",
           "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
-          "published": "2026-08-21T15:06:58.000Z"
+          "published": "2026-08-23T13:41:01.000Z"
         },
         {
           "company": "Nikko Asset Management",
@@ -112,19 +84,27 @@
       "insight": null,
       "companyUpdates": [
         {
+          "company": "Netwealth Group",
+          "ticker": "NWL.AX",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOam92WmliWlB0c0UwNXNmVnk3ZnJKYm9CZUl3eFlaMkhjaGNtVlRFbGFqM0FLd0FPb29FeFY1d3JPRnlfRkdVdFJyMWg3U2YtS1p3UW0zMEdfRl9OMmVTdWt5VzkwbTBzTG9JWjhWemptckNxSDl5WGJVUXl1RDFRTVBSQmpieFRhbjNvS2l5M1l5dWtqN1F2TTljNFBWaDVMSFhFX3RvNC1YdWJORWJBb19UQ0JzTWwzVU5qdGpqVGdBdGdTU3JKWU1DT0ZLNUN0TzNuYlQwc0JqaU1DamxjcA?oc=5",
+          "published": "2026-08-26T00:42:49.000Z"
+        },
+        {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
-          "published": "2026-08-22T13:07:11.000Z"
+          "headline": "Citigroup (C) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xTllVa1BHM01JaC1DQW44bVhLbkZ6OUk0UXBaaW14YV9SME5YbzlxZjRuckcxcmFBbFY2TVFwVmZHUjJkWUpHcnFjMjIxbmxmeFBJRTJfbnEtMUlCWWNjZWk0N0h4QQ?oc=5",
+          "published": "2026-08-23T10:18:56.000Z"
         },
         {
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: HSBC beats Q2 2026 estimates as buybacks resume - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHRLV1VhMmtJSjFvaE11TzE4OVlGa1VDcXVtZUdRZlQxNlRLOWx1N2hQZWFROXdxbzZ6ZTJWeEg1YTBET281bXNOaFZDUm5fbENWN1NVTS16NlV3UlBpTXp2bVJLWjBjdC16ajhYZ3hmMEQ4RXhNQ0l5NWRIR3FxcHRXVG03eEV6ZU5IVXJFUWRXNUp0M2pRdlhEUzBKMTBEUnZBVmJhd3gya2VLVW9qY3ZwMndqZngwbzQwWUJlNEVFNzJyVHZz?oc=5",
+          "headline": "Half Year 2026 HSBC Holdings PLC Investors And Analysts Call Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxN1FIZng3bzJzckdyRkRPS1I2WHJVSV81bE82VkZ3Qk1FWnRuUy1BU2tkdExhaElGcVVxR21uSk0yVDltd1NzS0Y1bEdtY2hIWXQwbldrYTktOHRHM3duQ2QxaFdNTFpwa1dDaA?oc=5",
           "published": "2026-08-04T07:00:00.000Z"
         }
       ]
@@ -132,8 +112,38 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Earnings",
+          "headline": "Hong Kong's China Taiping profit jumps 90% on life insurance business growth - TradingView",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTNjd295Yk5HNWFSQ2dpSDJ5N1A3TmdPVFN1RS1ON2hjVVQ2VFY1Zy1pMU1jVWpSdkF0OHlYc3Z0WERFWmd1bk9wV0E0M0FaV3lCb24ydWN6YURUTjlGUkVtTHg2ZWY4OGhCYXQtR2llbkZyN3gxMzlDVDVQdEI1ekF5TlNZZll2ejRoekxOOGdvamVicFVHWS1BYkprOHpPUFBGclowOGxEZ0x2dTZycWQ1R215SEdvdTcxdEFOUVU3bjkyN3NGbE1IMTU1RkhseGFnVjFUcXlLZHI1NUE?oc=5",
+          "published": "2026-08-25T12:19:47.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "ANZIIF sends a briefing tour around Australia as the General Insurance Code falls behind - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNckkxSU5qVXEtSUhvTDIzQi1nMUI1OTFwN21jbklLeDVBd205TjBWMzZjWUFvWFNWNVpYYnF1TXJrVUd0RDd2SmhEMVZkQUlTajMzUXBrOWJEMmUwRGZBVzVTQ0FhM3Voc2JjYXB6MnBYUGk5NXZqV2tVVlN1Vy1RcExlQUhpdlA2SVdRajAtRDhhVXR6a3VTay1uOUNydG1oMXhzdm9JbmFHNVNrOUFWcXlqeTNsc2RNNi1QWW5iQWhKWnFjcThJMXZmQjRJWDRTQzhfLWp1d3NRcXlsYmpwVE9jb2d2cVFvdFFYRHVzMFU?oc=5",
+          "published": "2026-08-25T14:31:19.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Earnings",
+          "headline": "Hong Kong's China Taiping profit jumps 90% on life insurance business growth - TradingView",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTNjd295Yk5HNWFSQ2dpSDJ5N1A3TmdPVFN1RS1ON2hjVVQ2VFY1Zy1pMU1jVWpSdkF0OHlYc3Z0WERFWmd1bk9wV0E0M0FaV3lCb24ydWN6YURUTjlGUkVtTHg2ZWY4OGhCYXQtR2llbkZyN3gxMzlDVDVQdEI1ekF5TlNZZll2ejRoekxOOGdvamVicFVHWS1BYkprOHpPUFBGclowOGxEZ0x2dTZycWQ1R215SEdvdTcxdEFOUVU3bjkyN3NGbE1IMTU1RkhseGFnVjFUcXlLZHI1NUE?oc=5",
+          "published": "2026-08-25T12:19:47.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "ANZIIF sends a briefing tour around Australia as the General Insurance Code falls behind - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNckkxSU5qVXEtSUhvTDIzQi1nMUI1OTFwN21jbklLeDVBd205TjBWMzZjWUFvWFNWNVpYYnF1TXJrVUd0RDd2SmhEMVZkQUlTajMzUXBrOWJEMmUwRGZBVzVTQ0FhM3Voc2JjYXB6MnBYUGk5NXZqV2tVVlN1Vy1RcExlQUhpdlA2SVdRajAtRDhhVXR6a3VTay1uOUNydG1oMXhzdm9JbmFHNVNrOUFWcXlqeTNsc2RNNi1QWW5iQWhKWnFjcThJMXZmQjRJWDRTQzhfLWp1d3NRcXlsYmpwVE9jb2d2cVFvdFFYRHVzMFU?oc=5",
+          "published": "2026-08-25T14:31:19.000Z"
+        }
+      ],
       "insight": {
         "tag": "Research",
         "headline": "Asia’s rising riches protect insurers against China’s policy shifts - Financial Times",
@@ -150,7 +160,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-22T04:24:01.000Z"
+          "published": "2026-08-23T09:00:05.000Z"
         },
         {
           "company": "AIA Group",
@@ -176,8 +186,8 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "DayOne seeks US$ 240 million loan for Hong Kong data center: Report - W.Media",
-          "source": "W.Media",
+          "headline": "DayOne seeks US$ 240 million loan for Hong Kong data center: Report - w.media",
+          "source": "w.media",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0tJV3o3ZTN0TDJ3WjdWUVE3NEhMVnUzOHoxOTJOTWZoRi1LRUlWX3VJbmNsNm55VlBRLThHQWh5LWVlb04ySWNYN1NEQkRFM2tNUTctb1Nod05melhlNUFQVk8tZEhRRzBwaENBMWlMY09saTVwZkh0QXkzLTF0dE11dTg0Qk5ONGc?oc=5",
           "published": "2026-08-24T01:31:00.000Z"
         },
@@ -186,14 +196,14 @@
           "headline": "6 Singapore Digital Bank Credit Cards Compared: Trust vs GXS vs MariBank - Fintech Singapore",
           "source": "Fintech Singapore",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkJDdUVVRlBpSENMZUkwS1duZU5ldnd6bW05Y0tWWUZRTG1UM0s2dG5SWGtvZ29VODY0cjlDbHdmUG5BZVJBM1Q4VGNmYnFhcVJ1T25qbHlFVVNsMjhFc3FLOEV2SEU2UkNGQ3FfSjBJbVlvcGRYQm0xZDhnWG5nMkRfRWVwREdZdGtEYmNSeWxFX2lOY19uYVVnRUtGYWZaeEdnV2REUnY?oc=5",
-          "published": "2026-08-24T03:17:34.000Z"
+          "published": "2026-08-24T03:22:08.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "DayOne seeks US$ 240 million loan for Hong Kong data center: Report - W.Media",
-          "source": "W.Media",
+          "headline": "DayOne seeks US$ 240 million loan for Hong Kong data center: Report - w.media",
+          "source": "w.media",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0tJV3o3ZTN0TDJ3WjdWUVE3NEhMVnUzOHoxOTJOTWZoRi1LRUlWX3VJbmNsNm55VlBRLThHQWh5LWVlb04ySWNYN1NEQkRFM2tNUTctb1Nod05melhlNUFQVk8tZEhRRzBwaENBMWlMY09saTVwZkh0QXkzLTF0dE11dTg0Qk5ONGc?oc=5",
           "published": "2026-08-24T01:31:00.000Z"
         },
@@ -202,7 +212,7 @@
           "headline": "6 Singapore Digital Bank Credit Cards Compared: Trust vs GXS vs MariBank - Fintech Singapore",
           "source": "Fintech Singapore",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkJDdUVVRlBpSENMZUkwS1duZU5ldnd6bW05Y0tWWUZRTG1UM0s2dG5SWGtvZ29VODY0cjlDbHdmUG5BZVJBM1Q4VGNmYnFhcVJ1T25qbHlFVVNsMjhFc3FLOEV2SEU2UkNGQ3FfSjBJbVlvcGRYQm0xZDhnWG5nMkRfRWVwREdZdGtEYmNSeWxFX2lOY19uYVVnRUtGYWZaeEdnV2REUnY?oc=5",
-          "published": "2026-08-24T03:17:34.000Z"
+          "published": "2026-08-24T03:22:08.000Z"
         }
       ],
       "insight": {
@@ -235,8 +245,8 @@
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: HSBC beats Q2 2026 estimates as buybacks resume - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHRLV1VhMmtJSjFvaE11TzE4OVlGa1VDcXVtZUdRZlQxNlRLOWx1N2hQZWFROXdxbzZ6ZTJWeEg1YTBET281bXNOaFZDUm5fbENWN1NVTS16NlV3UlBpTXp2bVJLWjBjdC16ajhYZ3hmMEQ4RXhNQ0l5NWRIR3FxcHRXVG03eEV6ZU5IVXJFUWRXNUp0M2pRdlhEUzBKMTBEUnZBVmJhd3gya2VLVW9qY3ZwMndqZngwbzQwWUJlNEVFNzJyVHZz?oc=5",
+          "headline": "Half Year 2026 HSBC Holdings PLC Investors And Analysts Call Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxN1FIZng3bzJzckdyRkRPS1I2WHJVSV81bE82VkZ3Qk1FWnRuUy1BU2tkdExhaElGcVVxR21uSk0yVDltd1NzS0Y1bEdtY2hIWXQwbldrYTktOHRHM3duQ2QxaFdNTFpwa1dDaA?oc=5",
           "published": "2026-08-04T07:00:00.000Z"
         }
       ]
