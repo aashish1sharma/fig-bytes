@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T11:53:24.630Z",
+  "generatedAt": "2026-08-28T13:16:25.502Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,10 +33,17 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "GlobalX Japan Semiconductor ETF, GXJSF:PNK historical prices - Financial Times",
+          "headline": "Franklin FTSE Korea UCITS ETF, 0YSR:GER risk - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93YWY0MjU3d3ZySHRxaDlUc0RDSm1JcFAzV3hHMU1nU1ZIaU1xLWVxVjBFellJZE9XbHlsOHN2S2RBQ1NFVS1XcEtHWWNjekNGajZuRktwLVA2Z29WM1RVeXJGTDh4ZnRUZzF0UTVEa1F2bzQ?oc=5",
-          "published": "2026-08-26T17:37:04.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Wa05jdWpCZUJhWHN4OGwwWVBtVkZld1ZTMF91TEExa0pMRmVnbHBWbUYzWDR0cHZheXlLZGQtcndDWlAzakVaME9rMGk3QlBXV1h3UGpZUWY0TG9vc1hUSHE3bDJhZnMzNmc?oc=5",
+          "published": "2026-08-27T15:52:05.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdWRRZC1UV29jMFRoX3BrSG53V0ZYOTZuclNJUVNXWllETGdWSTlVMUpUb0JOZy0xWXFYX25yb0lfMUlyNk5UYmZELWtmTDQ3cGZfV0JIeERFWm9qTmxYZlVCdlpYZGxSUzBvMks4elNhbWRRZUR6RGgxYmd2VDNZT1RjWjFQYm1BWUVaXzBhdi1qTGRH?oc=5",
+          "published": "2026-08-27T06:28:00.000Z"
         },
         {
           "tag": "Product",
@@ -44,22 +51,22 @@
           "source": "Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eVFZRy13QlZhQkFZRUlvdHRRSzhxMGZVLXZEWmxYd0QzNW9waTdfRnR5UzNwc2FLUzlZWjFVZ2RSbUg5LTY1NkZ6aUVFaWxFczlyVVJ1WnNQVENzZnZXZ1hEWEFTQ0tJX1JTMURmM3U?oc=5",
           "published": "2026-08-26T15:34:37.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "MicroBit Launches Hong Kong’s First Bitcoin and Gold ETF on HKEX Today - The Block",
-          "source": "The Block",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUZwbkxXckt6WHRnSEdWQkJwTy1tV1o1UlVRcFJaNnpOaXU5Z1c4RDF2YlQ5dmIxamlVV2FSSmZrR0ZYT0RxejlCOTdkZHlNaHEyY3B3YXlGMVhSQ25OVEJFbXNEa1ZBMmRnM1R4dnRpWHdUMkI3T2RFamMwRnhjczg2UkVjdmZZNjlxLVhTQ2NYNUc3WnpWNVJUWXlGMEZzeV80ZnN3dWtJb2hKb29kUGxrZ2JqQQ?oc=5",
-          "published": "2026-08-26T14:00:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "GlobalX Japan Semiconductor ETF, GXJSF:PNK historical prices - Financial Times",
+          "headline": "Franklin FTSE Korea UCITS ETF, 0YSR:GER risk - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93YWY0MjU3d3ZySHRxaDlUc0RDSm1JcFAzV3hHMU1nU1ZIaU1xLWVxVjBFellJZE9XbHlsOHN2S2RBQ1NFVS1XcEtHWWNjekNGajZuRktwLVA2Z29WM1RVeXJGTDh4ZnRUZzF0UTVEa1F2bzQ?oc=5",
-          "published": "2026-08-26T17:37:04.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Wa05jdWpCZUJhWHN4OGwwWVBtVkZld1ZTMF91TEExa0pMRmVnbHBWbUYzWDR0cHZheXlLZGQtcndDWlAzakVaME9rMGk3QlBXV1h3UGpZUWY0TG9vc1hUSHE3bDJhZnMzNmc?oc=5",
+          "published": "2026-08-27T15:52:05.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdWRRZC1UV29jMFRoX3BrSG53V0ZYOTZuclNJUVNXWllETGdWSTlVMUpUb0JOZy0xWXFYX25yb0lfMUlyNk5UYmZELWtmTDQ3cGZfV0JIeERFWm9qTmxYZlVCdlpYZGxSUzBvMks4elNhbWRRZUR6RGgxYmd2VDNZT1RjWjFQYm1BWUVaXzBhdi1qTGRH?oc=5",
+          "published": "2026-08-27T06:28:00.000Z"
         },
         {
           "tag": "Product",
@@ -74,29 +81,15 @@
           "source": "The Block",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUZwbkxXckt6WHRnSEdWQkJwTy1tV1o1UlVRcFJaNnpOaXU5Z1c4RDF2YlQ5dmIxamlVV2FSSmZrR0ZYT0RxejlCOTdkZHlNaHEyY3B3YXlGMVhSQ25OVEJFbXNEa1ZBMmRnM1R4dnRpWHdUMkI3T2RFamMwRnhjczg2UkVjdmZZNjlxLVhTQ2NYNUc3WnpWNVJUWXlGMEZzeV80ZnN3dWtJb2hKb29kUGxrZ2JqQQ?oc=5",
           "published": "2026-08-26T14:00:00.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "Beyond AUM, Singapore may need to redefine what it means to win the asset management race - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0s0SmhDckczeXZzRmRhbEZmZExxYTZzTXBrTW00TkFfZnA0X3BjRGtXTDQ3SHFFRXZqSVp1S05oSTFmd25iY3k1REZvSURxUE5XY2h6QzU4X1RxakxKalRNc1JEcWpTN3E5R2ozNjkxMk1CWi10NGprQnJIT3hzbFdaTzZ2NHBFU1d0c2hCc3JmVTRBRmFiMVFJWU4ya0YzWDlVOWxjdzN3SzRwZ29qdWhmUU5WYlZhTXRZQWZRTjBBa1l5NHRn?oc=5",
-          "published": "2026-08-24T23:00:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore’s asset management ambitions face next test as industry seeks speed and clarity - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2NRMmJHc0lMQS03Y2xFNW5VTElBOXY3TjI4MFJZNWthOGVEUFhuXy1saDZUQlFFVm5WODJNbW1FYUs2aDlxUktqc044ZUhOb0tZM1VJQllWN2VBWmNJaXpLZm85enpvRlh2QlZzbHlqTE5kQmh0V3R4UXIwNWc3UTlHU1J5eUVVUDhydWtRQWR4RW9NLUhHWmdOTFFhM1hmdnlsVzd2bkl0aVRBUDJLZVFlRGNhSE5oNC0zbF9BbjY2MlhaR09ydVRCUmEyenNhRGc?oc=5",
-          "published": "2026-08-26T09:31:00.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Amundi Japan TOPIX II UCITS ETF JPY Dist, 0MRB:LSE:JPY ratings - Financial Times",
+        "headline": "EWH – iShares MSCI Hong Kong ETF – ETF Stock Quote - Morningstar",
         "teaser": null,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1eHpTQzV4bEd4RE9sNVpMcUxWYktMRnRXZndIbVRYR0V1bzV2Qk02QnVWeWVRU085dGhkbTdqeXZUS21TZ2I5bHNQdGZrREg2bGVCb2NoTGJXY3pVZHFKeUxBZDVWRXlWWGdJOXY5S3g3N1U?oc=5",
-        "published": "2026-08-25T22:44:44.000Z",
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iSDZrdzFaQmY4dC14OG1qNXFiNnNudVZDRTc4RVVOcDY0RHd3cFI5MHlsUHFZWUFRSzJ3Zk1UdGFDYW41X3V4NF9KTm52Z3M1RTRtelhodE9rbGc?oc=5",
+        "published": "2026-08-25T07:00:00.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -120,9 +113,9 @@
           "company": "Schroders",
           "ticker": "SDR",
           "tag": "Presentation",
-          "headline": "Investor Presentation - mybrand.schroders.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
-          "published": "2026-08-24T07:40:24.000Z"
+          "headline": "SDR:ASX Announcement - FY26 Investor Presentation - 25 Aug 2026 - Market Index",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU29seEt0d0Ffd0lhTnhSYTBqaHJTRy1oWWMtbTRRR0xMc2NOWGw3Y05IUHZEaWhtWjhkZVhwdHh1X3R1MVY5U3JQUkdKQURFVTRyNTl5NEQzSUlUOUMwM2J3eTNtWFNJMzFpZlZsRFZsOTNRMDJGSUFOY0xIVzZoSks4SmJoOGxpMHhlX3FES29JNnc?oc=5",
+          "published": "2026-08-25T10:32:35.000Z"
         }
       ]
     },
@@ -132,23 +125,31 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Hong Kong’s 6th richest man Peter Woo’s family office reportedly eyes $1B private equity sale - VnExpress International",
-          "source": "VnExpress International",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTnp3dkdnQ2c4UHJZUkN2Q1BmT1RCVnduZFQzVW91Y0VJRDZaTURVZUNRZmhwVU9ZZlNMaXZoN1ZSLWZDUU9pRVF6VWFtQkNBeFI4Sk1vOE0wdjZza011UVJ1b1dOMy1RamFXNTlwTE8wemJ5cnZqdHZEMml0ZHlqWXhlLU52SEN5MmQyel92azNMTDhoakdOeDUxY3dsZDJIeEliMW9ZMFZXMGlWNFBGeWZKVU5WQmlIUk1yUUVrZ0RVb2luZHhKM2hjQVk5WS01ajY1V21iZHB5dmxzRWcxaEdReWlBakFU?oc=5",
-          "published": "2026-08-26T23:48:26.000Z"
+          "headline": "Macau tycoon Lawrence Ho’s family office targets space sector in de-SPAC deal - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmZGR25ZSEFHVFpSVHMxZHhBX3NNZlJmOGRUQVpSa3VLYUI5RGN0ZENjM0xnbnN0UHI1enBWbjBLcWxBTnJUT3VYZVp6cEI1Q3EtR1ZhQ0RXN3RkcG5sWVllR1lHUDYycThxQzJCMUdUdVg3RkpseXZoelFCNFVyaXpMclZPVFczNm56ZjRFSm10Q1NLSUdPNU9fUUhuaU8zaFpQeTVWaDNhdUdwTERrMVlMOXhtQ044U2pyVUNGYjdjNEtKM3BiT9IByAFBVV95cUxNZmZGR25ZSEFHVFpSVHMxZHhBX3NNZlJmOGRUQVpSa3VLYUI5RGN0ZENjM0xnbnN0UHI1enBWbjBLcWxBTnJUT3VYZVp6cEI1Q3EtR1ZhQ0RXN3RkcG5sWVllR1lHUDYycThxQzJCMUdUdVg3RkpseXZoelFCNFVyaXpMclZPVFczNm56ZjRFSm10Q1NLSUdPNU9fUUhuaU8zaFpQeTVWaDNhdUdwTERrMVlMOXhtQ044U2pyVUNGYjdjNEtKM3BiTw?oc=5",
+          "published": "2026-08-28T08:01:07.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Hong Kong’s 6th richest man Peter Woo’s family office reportedly eyes $1B private equity sale - VnExpress International",
-          "source": "VnExpress International",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTnp3dkdnQ2c4UHJZUkN2Q1BmT1RCVnduZFQzVW91Y0VJRDZaTURVZUNRZmhwVU9ZZlNMaXZoN1ZSLWZDUU9pRVF6VWFtQkNBeFI4Sk1vOE0wdjZza011UVJ1b1dOMy1RamFXNTlwTE8wemJ5cnZqdHZEMml0ZHlqWXhlLU52SEN5MmQyel92azNMTDhoakdOeDUxY3dsZDJIeEliMW9ZMFZXMGlWNFBGeWZKVU5WQmlIUk1yUUVrZ0RVb2luZHhKM2hjQVk5WS01ajY1V21iZHB5dmxzRWcxaEdReWlBakFU?oc=5",
-          "published": "2026-08-26T23:48:26.000Z"
+          "headline": "Macau tycoon Lawrence Ho’s family office targets space sector in de-SPAC deal - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmZGR25ZSEFHVFpSVHMxZHhBX3NNZlJmOGRUQVpSa3VLYUI5RGN0ZENjM0xnbnN0UHI1enBWbjBLcWxBTnJUT3VYZVp6cEI1Q3EtR1ZhQ0RXN3RkcG5sWVllR1lHUDYycThxQzJCMUdUdVg3RkpseXZoelFCNFVyaXpMclZPVFczNm56ZjRFSm10Q1NLSUdPNU9fUUhuaU8zaFpQeTVWaDNhdUdwTERrMVlMOXhtQ044U2pyVUNGYjdjNEtKM3BiT9IByAFBVV95cUxNZmZGR25ZSEFHVFpSVHMxZHhBX3NNZlJmOGRUQVpSa3VLYUI5RGN0ZENjM0xnbnN0UHI1enBWbjBLcWxBTnJUT3VYZVp6cEI1Q3EtR1ZhQ0RXN3RkcG5sWVllR1lHUDYycThxQzJCMUdUdVg3RkpseXZoelFCNFVyaXpMclZPVFczNm56ZjRFSm10Q1NLSUdPNU9fUUhuaU8zaFpQeTVWaDNhdUdwTERrMVlMOXhtQ044U2pyVUNGYjdjNEtKM3BiTw?oc=5",
+          "published": "2026-08-28T08:01:07.000Z"
         }
       ],
       "insight": null,
       "companyUpdates": [
+        {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-08-26T20:38:48.000Z"
+        },
         {
           "company": "Netwealth Group",
           "ticker": "NWL.AX",
@@ -156,22 +157,6 @@
           "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance By Investing.com - Investing.…",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGNoM1RPZmpldTE5M1F0T3Btd01rTUhGWGRMYllpQ05vQ2tTNDNwWDlSY0xoMXhwU2hkZjRoTTVfV0JPRDhWYWl5YXFNOFdub1N1bjBESkx5MkMwV3g0c0UxTWNCeTN4ZGRyR1d1RHRQVUxORl9haTVON1psanpHdUFGVnJpSzdMS1BWVTRvRnpOZU4yazhGZW42QUxEdVY4dEFNZFZIc2VQZlFzZjFkRnVHeU1QNTQ4SHQ0Q0d0LWlnd0RnNjhveFloOTdUOEF5bXlGZG4xZjk1Rk9vb3Zubw?oc=5",
           "published": "2026-08-26T01:21:53.000Z"
-        },
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "Citigroup (C) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xTllVa1BHM01JaC1DQW44bVhLbkZ6OUk0UXBaaW14YV9SME5YbzlxZjRuckcxcmFBbFY2TVFwVmZHUjJkWUpHcnFjMjIxbmxmeFBJRTJfbnEtMUlCWWNjZWk0N0h4QQ?oc=5",
-          "published": "2026-08-23T10:18:56.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWtMLS1kVE1LV2dSMC16MU1rbHVGMnNfSnVIWUhoNHU2eWhOTUx4THM5UEZoVkVremV2N2gzNFcwbjdiM2ItTWd1bHpjNi05MjlfNFRwWDJKamFpMlpfV0dCNlRlVi1zNmF3UU1BaF9sN3ctWDc4bUh3N05Gb0wtNGdsUkt3Rk51MWdGM1lEczlDQlNwekZmXzlCNjJGWU85aUZGT1JqMkdFOEk0VDM2Q3BXcXYtNTdnUTYyTG9ZWi14cVAwUUE?oc=5",
-          "published": "2026-08-04T07:00:00.000Z"
         }
       ]
     },
@@ -187,18 +172,18 @@
           "published": "2026-08-27T10:29:22.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "New China Life Insurance Releases Unaudited 2026 Interim Results - The Globe and Mail",
-          "source": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQclNSUE9iUDJZRVZpZU43V1NmaG5tTEhNRHZhRHE2SnFkamluclRCckdkd1FmVUhiem02WVJmR3dOM2FSa2xxMFJON1dDd044SHlOWGZGWHpUMWd4Y2xKUDJfX3pWd1E2X0twZkVCaHZsbEtJSU0tVXEwSmF4UHpHM1RJMl9neDF2U3BFMVMxak1MQkt4U0RIWDllRDB1QmcwWS16Mm16SDVla0NuMmI0QUJRUUZuT3pFa2RXai1rOXBDTXhxd0RRREU3dmpoVklJUVV0T3dsNU83dVpneGc?oc=5",
-          "published": "2026-08-27T09:56:49.000Z"
+          "tag": "Press",
+          "headline": "Chubb Life Insurance Hong Kong Limited wins at Hong Kong Business Technology Excellence Awards 2026 - Hong Kong Business",
+          "source": "Hong Kong Business",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVG5MbnVyb3ptUWpYMmRJREtUVV8zLU1JRExfVkYxaVNCVlhnWG5RaDdrM3U1bVMySC1sb2lKN1JUem5DZWFnblo3NXU2S0lQTmNydHlRQmlUVTFmSl9Ia3JKbUQ4SEZFNmxYNXlKcXdtV293cW5rckRUMHhENGVRdnhLRThrcXhUaDlXTlJ4c1lUenFrSTNMaENQbDVlQzB6Wmd3OTItRVNkQVZMN1hObVBwTm5Yc2dhQ181Ukstc2pNZ0xJT1VZMm8tUnRiUXI5enRkY1dpbWJWMkZ3eUU3Ym5qcWxCR011VWc?oc=5",
+          "published": "2026-08-28T02:19:23.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "Hong Kong's China Taiping profit jumps 90% on life insurance business growth - TradingView",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTNjd295Yk5HNWFSQ2dpSDJ5N1A3TmdPVFN1RS1ON2hjVVQ2VFY1Zy1pMU1jVWpSdkF0OHlYc3Z0WERFWmd1bk9wV0E0M0FaV3lCb24ydWN6YURUTjlGUkVtTHg2ZWY4OGhCYXQtR2llbkZyN3gxMzlDVDVQdEI1ekF5TlNZZll2ejRoekxOOGdvamVicFVHWS1BYkprOHpPUFBGclowOGxEZ0x2dTZycWQ1R215SEdvdTcxdEFOUVU3bjkyN3NGbE1IMTU1RkhseGFnVjFUcXlLZHI1NUE?oc=5",
-          "published": "2026-08-25T12:19:47.000Z"
+          "tag": "Press",
+          "headline": "Manulife eyes affluent market with two whole life insurance plans - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVlHbFIwVENjZjV3UThIVkd4V3lXVUNLMnNXNTRNNTh2TEp6SzFnbGM0TFFneDd0RVNpNW5UaEtiVDlOSzhCNTlXdVVUcDZ2LTBXM0hqQ3NfQWtJRzlaZXlReFNKWkI0WEQtNnVMYTN0RXktR21EVkhBbW96aHE5X1YzY3pJVXQ1SlJwdGtJanBhRUJrdGlfR293?oc=5",
+          "published": "2026-08-27T21:30:00.000Z"
         }
       ],
       "candidates": [
@@ -210,45 +195,51 @@
           "published": "2026-08-27T10:29:22.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "New China Life Insurance Releases Unaudited 2026 Interim Results - The Globe and Mail",
-          "source": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQclNSUE9iUDJZRVZpZU43V1NmaG5tTEhNRHZhRHE2SnFkamluclRCckdkd1FmVUhiem02WVJmR3dOM2FSa2xxMFJON1dDd044SHlOWGZGWHpUMWd4Y2xKUDJfX3pWd1E2X0twZkVCaHZsbEtJSU0tVXEwSmF4UHpHM1RJMl9neDF2U3BFMVMxak1MQkt4U0RIWDllRDB1QmcwWS16Mm16SDVla0NuMmI0QUJRUUZuT3pFa2RXai1rOXBDTXhxd0RRREU3dmpoVklJUVV0T3dsNU83dVpneGc?oc=5",
-          "published": "2026-08-27T09:56:49.000Z"
+          "tag": "Press",
+          "headline": "Chubb Life Insurance Hong Kong Limited wins at Hong Kong Business Technology Excellence Awards 2026 - Hong Kong Business",
+          "source": "Hong Kong Business",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVG5MbnVyb3ptUWpYMmRJREtUVV8zLU1JRExfVkYxaVNCVlhnWG5RaDdrM3U1bVMySC1sb2lKN1JUem5DZWFnblo3NXU2S0lQTmNydHlRQmlUVTFmSl9Ia3JKbUQ4SEZFNmxYNXlKcXdtV293cW5rckRUMHhENGVRdnhLRThrcXhUaDlXTlJ4c1lUenFrSTNMaENQbDVlQzB6Wmd3OTItRVNkQVZMN1hObVBwTm5Yc2dhQ181Ukstc2pNZ0xJT1VZMm8tUnRiUXI5enRkY1dpbWJWMkZ3eUU3Ym5qcWxCR011VWc?oc=5",
+          "published": "2026-08-28T02:19:23.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "Hong Kong's China Taiping profit jumps 90% on life insurance business growth - TradingView",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTNjd295Yk5HNWFSQ2dpSDJ5N1A3TmdPVFN1RS1ON2hjVVQ2VFY1Zy1pMU1jVWpSdkF0OHlYc3Z0WERFWmd1bk9wV0E0M0FaV3lCb24ydWN6YURUTjlGUkVtTHg2ZWY4OGhCYXQtR2llbkZyN3gxMzlDVDVQdEI1ekF5TlNZZll2ejRoekxOOGdvamVicFVHWS1BYkprOHpPUFBGclowOGxEZ0x2dTZycWQ1R215SEdvdTcxdEFOUVU3bjkyN3NGbE1IMTU1RkhseGFnVjFUcXlLZHI1NUE?oc=5",
-          "published": "2026-08-25T12:19:47.000Z"
+          "tag": "Press",
+          "headline": "Manulife eyes affluent market with two whole life insurance plans - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVlHbFIwVENjZjV3UThIVkd4V3lXVUNLMnNXNTRNNTh2TEp6SzFnbGM0TFFneDd0RVNpNW5UaEtiVDlOSzhCNTlXdVVUcDZ2LTBXM0hqQ3NfQWtJRzlaZXlReFNKWkI0WEQtNnVMYTN0RXktR21EVkhBbW96aHE5X1YzY3pJVXQ1SlJwdGtJanBhRUJrdGlfR293?oc=5",
+          "published": "2026-08-27T21:30:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "AM Best Withdraws Credit Ratings of New Providence Life Insurance Company - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk9Fbm9YOTBmaHpYSGtoc2hybUF6cUEyLXVKcC1JVEhpcllCTVE5VThkN0tPT1NNMFAxSDdwRTVyV2JOdzhtS3RBNElkcklqWmE5QThNWVJzMWt2YjVmb3RQX1BoUDlWTFN6YW9lVkwyQUNnanNqYl8xZllSbVhxR2pPbmMxNUl4?oc=5",
+          "published": "2026-08-25T19:02:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "ANZIIF sends a briefing tour around Australia as the General Insurance Code falls behind - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNckkxSU5qVXEtSUhvTDIzQi1nMUI1OTFwN21jbklLeDVBd205TjBWMzZjWUFvWFNWNVpYYnF1TXJrVUd0RDd2SmhEMVZkQUlTajMzUXBrOWJEMmUwRGZBVzVTQ0FhM3Voc2JjYXB6MnBYUGk5NXZqV2tVVlN1Vy1RcExlQUhpdlA2SVdRajAtRDhhVXR6a3VTay1uOUNydG1oMXhzdm9JbmFHNVNrOUFWcXlqeTNsc2RNNi1QWW5iQWhKWnFjcThJMXZmQjRJWDRTQzhfLWp1d3NRcXlsYmpwVE9jb2d2cVFvdFFYRHVzMFU?oc=5",
+          "published": "2026-08-25T14:31:19.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Asia’s rising riches protect insurers against China’s policy shifts - Financial Times",
-        "teaser": null,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzItd2JXbHRiYlg0TGlfOENydmQ1R0FpMzQ4SWZFbnBtVVloMllpcEZhZmpVNk1zVXU5N05ucVduNENJTFpRNTlFNUJGbHh5dHFvRDlDaS1acXk4TTZiSXdaNDNCenVLalV0NTJGS1VZOEl3NDMzUndKejh0OVR3b0tFcHk?oc=5",
-        "published": "2026-08-21T04:00:21.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Prudential posts strong H1 2026 growth, stock slips premarket - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlBBOVFpNVZEVjMwdlRRNG9rYzk4M2pJcXhpNVlHMjd6SlVIWVNIa291MXIyUDAxeVZCMjlPbXRacjByd05QNGRfR3k3U2RHVEE3SXVSVE0xcVctYVg3czNjV3NTYThpa0w2c0x1NE9LZUJjTHdCRVdoeDJnRzFuMTRqbzhDbEl5cVNzTUdHbFJPdjIzdlVkZ1l5M2lMbERSVnFnR0RQTjNXbk1VbjI1cXNmSlNkREtYbWFuX3drY2ItYUNBUHN4bUFHa09fN05oaDhjMEZnYmo?oc=5",
-          "published": "2026-08-27T10:24:04.000Z"
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-08-27T12:00:56.000Z"
         },
         {
           "company": "AIA Group",
           "ticker": "AIA",
           "tag": "Transcript",
-          "headline": "Half Year 2026 AIA Group Limited Earnings Presentation (Pre-Recorded) Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qSnVaNHF5MzlpM1hzbUZQSWJpMlpmZ01nNjRPendISGkwMlFhVjFnYmRabVpicTYxYi05bjE2aG5NTmEyeWhrbE5TV0xHbVNmbWVQQ0xYYXJ0YWZJN19Jd0F3LXVVVU82?oc=5",
-          "published": "2026-08-20T22:34:22.000Z"
+          "headline": "Earnings call transcript: AIA Group lifts H1 2026 profit outlook as growth accelerates - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN21ySlhRNmQxeUVwUExuMjl6NjduNG9FZ1Y0TGJjVkQ1YXc0WnZ0bGlrWnJtMmwyZTZ3al9LZU9Ybm42NWZWdjQ5ZTIzQkRSczBVOVg0M0lRM0VLUmN0ZHktTnRBeXJhVFU1NEZLV0RwWG0yVFVQVER0NzVyS1hsNk5NZFQ2WG1JcEpacldvYmhmMGdZQ2lIM09ldXV4aDFIWWhMNjNFMVY3akowOVBlT3czM1pKYndYNXFhYWxaVmh3T2ZtZHY1ZHM4bC1HeVItRU5OMVJEc3I?oc=5",
+          "published": "2026-08-19T07:00:00.000Z"
         },
         {
           "company": "QBE Insurance",
@@ -263,27 +254,26 @@
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
-      "companyUpdates": [
+      "bullets": [
         {
-          "company": "UOB",
-          "ticker": "U11.SI",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: UOB posts steady Q2 2026 results as revenue beats forecasts - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOGEtZ1hFb2NCR0NlTnpQQ0V2VHZ3S1RRc0tLUV9TZ3V0WXBmSWxid3hvQm1rNFd2elRIX2N6aXAtZUhaR21HazFVZGpnMkRRTUxDbVI5cTZvT3NzdU5rOFVMSXRFR2tQODJVYTR2TmRvTGZsNHBXUFpnUjhmZGJyZll2SEM1elh4QjNFdXhKT2xFRVNQRnZ2aVdCRXdIaE1keXdhVXQtZXlENmZHd3VXUmpZUzhSNE1DWE5sM2lXVHZNSzJLTzMwTHo3YXZIX3RyOHpscXFn?oc=5",
-          "published": "2026-08-07T07:00:00.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "HSBC (HSBC) Q2 2026 Earnings Call Transcript - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWtMLS1kVE1LV2dSMC16MU1rbHVGMnNfSnVIWUhoNHU2eWhOTUx4THM5UEZoVkVremV2N2gzNFcwbjdiM2ItTWd1bHpjNi05MjlfNFRwWDJKamFpMlpfV0dCNlRlVi1zNmF3UU1BaF9sN3ctWDc4bUh3N05Gb0wtNGdsUkt3Rk51MWdGM1lEczlDQlNwekZmXzlCNjJGWU85aUZGT1JqMkdFOEk0VDM2Q3BXcXYtNTdnUTYyTG9ZWi14cVAwUUE?oc=5",
-          "published": "2026-08-04T07:00:00.000Z"
+          "tag": "Press",
+          "headline": "What Happens When a Digital Bank Shuts Down in Malaysia? - Fintech News Malaysia",
+          "source": "Fintech News Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVy1RTE12TldXRHljQzd0MmlwbWZhRUpUa1NjeTFtYWd2SGdXQWJfREhuTEc0MzBJYnNmdVBxRjNTQkdTeDNjR2RLWDJSZHIyYlk2ZUJWa0ZSTFBCREMyQzZWVjZGeTVpM1VnUDc5Q09DemNxQUgtWjNCYmxMOHBURzE3bk9PdzYtdVM1YVhzOWdmQUNUeWhqNFdwcE5YSGl2LTg2LTM5RDhqckxv?oc=5",
+          "published": "2026-08-28T03:11:50.000Z"
         }
-      ]
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "What Happens When a Digital Bank Shuts Down in Malaysia? - Fintech News Malaysia",
+          "source": "Fintech News Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVy1RTE12TldXRHljQzd0MmlwbWZhRUpUa1NjeTFtYWd2SGdXQWJfREhuTEc0MzBJYnNmdVBxRjNTQkdTeDNjR2RLWDJSZHIyYlk2ZUJWa0ZSTFBCREMyQzZWVjZGeTVpM1VnUDc5Q09DemNxQUgtWjNCYmxMOHBURzE3bk9PdzYtdVM1YVhzOWdmQUNUeWhqNFdwcE5YSGl2LTg2LTM5RDhqckxv?oc=5",
+          "published": "2026-08-28T03:11:50.000Z"
+        }
+      ],
+      "insight": null,
+      "companyUpdates": []
     }
   ]
 }
