@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:15:55.256Z",
+  "generatedAt": "2026-08-29T08:11:48.717Z",
   "region": "India",
   "title": "India FIG Bytes",
   "regionId": "india",
@@ -34,6 +34,13 @@
       "name": "Asset Management",
       "bullets": [
         {
+          "tag": "Regulatory",
+          "headline": "RBI rate hike risk rises: Bandhan AMC’s Suyash Choudhary dials back duration in bond portfolios - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQd0VGV05tQTZjajJwMDFLbG5DY0UxZHVxb3FLbGx6MWhOcGprdmtmNndTX2k2Yk1ySzEtcnpodF9TS1RzZ05wMEpBN0pHMEphT19JV0xvWHFRdnVFM3lZdm80U0xzUkY0NXhNWFFTQUZ3bGNmSzZ6dVg0Y3c3bnFOa2J2ODNtZ0NXdXpfaE9pajF5UDRzWk1QcGxoWWQ5ZTh1QnhmY0RybGtWVjQyb21rTlJrTVRmcnFvM3ZtQ2xpN0xENk5wQlcwOUl3R3NTemVmMlQzdGlUdy15QzVwNXd0WnZYYkM5SzR1UFUxRmVRZmdnNVlfc3BOZlJUVzlIbWlWZ0p3NVBScGVyOXRZbnNybjc0MnExdGpxRzNsaXZOMUFQUlNHNWFmMm5LSlNyQkN6TFNmdFdlUldfNUVYVXVueE93c3k4NjVzT1VCemlOd3dTclctZU5ScXNjZTXSAfgBQVVfeXFMUFVmYXF0VTVpMUwzUE9LMlZ2WUdiUnp2c1Q5R3VTQlVQUVJNTDgzNEVnMTBqcS1jQUJybFdTcDU5OTg3YXJtdzROY2x5Q29RSHhIZmNMdjZoSndZcjJHLUhILUMySHdfVnF5d2lZZUM3M1oybkNkY2tEZmNDYThmRFYxMVU0QVJfSjAyY2lYaWcxTlA1LWtKc0cteF9nTWhZLXF4Ykltb1o5RmtvT2FRbk4wYlExdHVrNGZfVGNmTmF6d3ZsZU1mUm10Q0FoRU9zUkR4WVhJblBIcHJwQU80bWNxeDFzX3dvZU1tbzlEcHV4cG1PRVBWUEQ?oc=5",
+          "published": "2026-08-29T05:54:45.000Z"
+        },
+        {
           "tag": "Strategy",
           "headline": "Small-cap funds see strong inflows: Groww AMC identifies 4 sectors with long-term growth potential - Livemint",
           "source": "Livemint",
@@ -41,22 +48,22 @@
           "published": "2026-08-28T11:56:16.000Z"
         },
         {
-          "tag": "Strategy",
-          "headline": "HDFC Mutual Fund crosses 5% stake in Hexaware Technologies - scanx.trade",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdW5FTVVROW1walppNFp2c3R0SmJqMW5fbnl5ekdUOFJXRUlzeVp1b2tsdkNIa0RqbkxJODVzTHhObG11eFlIZlBFV2ZmOEJ6aTBlS3ZUZ2JKNnMyUnVXbU5MaWFoTl9vQW5TN09GQjVJMTRja0ZKdW5SU1paeW9ock51WE5sQW9McmFvZmJ6TnpzU0N1TWM2M2lqWWNyVEVTTFNKSldWdVRUaGxLRm02eQ?oc=5",
-          "published": "2026-08-28T12:24:40.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Invesco India Pharma and Healthcare Fund NFO is open for subscription. 7 key details to know - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ3IxNHB0dDRyS2pjakI5cUtLRDB5V0xhTU1NczNQUFRJZkxTTlZ1YnFFUlFTcG1CcllxS21JYkVpc1JUNkxYQjV5QkpLZDNDZTNMWXpvLW5uc1pudE1nS3BBYVhtWkJ6RldlRVlRRHBEU0JUZzdvaHg2Q0drNksxSk1qZHNaNWdKNE5ISk1iNlZiVVo5bnhiZFZDVHpUVHViQXIyblNJTWVjck95OXlVaEs1bzc1YkNpYS0zYUVRelphdnktNnVGaUo0NlhJeFJ0MFhVb1RrS1NUeUxOSWZxQUtZelhiX3VQdS1YRHpxWkFzMHRJbU9z?oc=5",
-          "published": "2026-08-28T10:51:51.000Z"
+          "tag": "Leadership",
+          "headline": "Nippon Life's Sundeep Sikka Gets Another Term As AMFI Chief; Bandhan AMC CEO Re-Elected Vice Chairman - NDTV Profit",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaHhRbUN6d2ZVNTc3YzF5TGgtdXlGYTVYMDd0MVRKbk1YQmpLYXV5MVdrWERNWDVxdGZsclZMQnZYa0tHS0N0eU1KZUVWdzFOMkR1NHMwTnJmLXU2aUktU0lXSTBPTXFpZnB6cnZSUkhaTFBCcU9oWm1RWk9vT3QxbGtLdkx0blNnUmJlSjE5bnhvaXVpRTVnMG1QYVNLSWpvdFd1dV9Ba1E1LW5UNGRsR0xvQkt6eS1TSjVydklHdHdselpYX0RkUzl5WkhYNzZ0RW1aVnVWeWpxWkp5eUZ1M2I5TlpQdHZab2lKSFBMSdIB7wFBVV95cUxQaHhRbUN6d2ZVNTc3YzF5TGgtdXlGYTVYMDd0MVRKbk1YQmpLYXV5MVdrWERNWDVxdGZsclZMQnZYa0tHS0N0eU1KZUVWdzFOMkR1NHMwTnJmLXU2aUktU0lXSTBPTXFpZnB6cnZSUkhaTFBCcU9oWm1RWk9vT3QxbGtLdkx0blNnUmJlSjE5bnhvaXVpRTVnMG1QYVNLSWpvdFd1dV9Ba1E1LW5UNGRsR0xvQkt6eS1TSjVydklHdHdselpYX0RkUzl5WkhYNzZ0RW1aVnVWeWpxWkp5eUZ1M2I5TlpQdHZab2lKSFBMSQ?oc=5",
+          "published": "2026-08-28T16:06:02.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Regulatory",
+          "headline": "RBI rate hike risk rises: Bandhan AMC’s Suyash Choudhary dials back duration in bond portfolios - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQd0VGV05tQTZjajJwMDFLbG5DY0UxZHVxb3FLbGx6MWhOcGprdmtmNndTX2k2Yk1ySzEtcnpodF9TS1RzZ05wMEpBN0pHMEphT19JV0xvWHFRdnVFM3lZdm80U0xzUkY0NXhNWFFTQUZ3bGNmSzZ6dVg0Y3c3bnFOa2J2ODNtZ0NXdXpfaE9pajF5UDRzWk1QcGxoWWQ5ZTh1QnhmY0RybGtWVjQyb21rTlJrTVRmcnFvM3ZtQ2xpN0xENk5wQlcwOUl3R3NTemVmMlQzdGlUdy15QzVwNXd0WnZYYkM5SzR1UFUxRmVRZmdnNVlfc3BOZlJUVzlIbWlWZ0p3NVBScGVyOXRZbnNybjc0MnExdGpxRzNsaXZOMUFQUlNHNWFmMm5LSlNyQkN6TFNmdFdlUldfNUVYVXVueE93c3k4NjVzT1VCemlOd3dTclctZU5ScXNjZTXSAfgBQVVfeXFMUFVmYXF0VTVpMUwzUE9LMlZ2WUdiUnp2c1Q5R3VTQlVQUVJNTDgzNEVnMTBqcS1jQUJybFdTcDU5OTg3YXJtdzROY2x5Q29RSHhIZmNMdjZoSndZcjJHLUhILUMySHdfVnF5d2lZZUM3M1oybkNkY2tEZmNDYThmRFYxMVU0QVJfSjAyY2lYaWcxTlA1LWtKc0cteF9nTWhZLXF4Ykltb1o5RmtvT2FRbk4wYlExdHVrNGZfVGNmTmF6d3ZsZU1mUm10Q0FoRU9zUkR4WVhJblBIcHJwQU80bWNxeDFzX3dvZU1tbzlEcHV4cG1PRVBWUEQ?oc=5",
+          "published": "2026-08-29T05:54:45.000Z"
+        },
+        {
           "tag": "Strategy",
           "headline": "Small-cap funds see strong inflows: Groww AMC identifies 4 sectors with long-term growth potential - Livemint",
           "source": "Livemint",
@@ -64,61 +71,54 @@
           "published": "2026-08-28T11:56:16.000Z"
         },
         {
-          "tag": "Strategy",
-          "headline": "HDFC Mutual Fund crosses 5% stake in Hexaware Technologies - scanx.trade",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdW5FTVVROW1walppNFp2c3R0SmJqMW5fbnl5ekdUOFJXRUlzeVp1b2tsdkNIa0RqbkxJODVzTHhObG11eFlIZlBFV2ZmOEJ6aTBlS3ZUZ2JKNnMyUnVXbU5MaWFoTl9vQW5TN09GQjVJMTRja0ZKdW5SU1paeW9ock51WE5sQW9McmFvZmJ6TnpzU0N1TWM2M2lqWWNyVEVTTFNKSldWdVRUaGxLRm02eQ?oc=5",
-          "published": "2026-08-28T12:24:40.000Z"
+          "tag": "Leadership",
+          "headline": "Nippon Life's Sundeep Sikka Gets Another Term As AMFI Chief; Bandhan AMC CEO Re-Elected Vice Chairman - NDTV Profit",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaHhRbUN6d2ZVNTc3YzF5TGgtdXlGYTVYMDd0MVRKbk1YQmpLYXV5MVdrWERNWDVxdGZsclZMQnZYa0tHS0N0eU1KZUVWdzFOMkR1NHMwTnJmLXU2aUktU0lXSTBPTXFpZnB6cnZSUkhaTFBCcU9oWm1RWk9vT3QxbGtLdkx0blNnUmJlSjE5bnhvaXVpRTVnMG1QYVNLSWpvdFd1dV9Ba1E1LW5UNGRsR0xvQkt6eS1TSjVydklHdHdselpYX0RkUzl5WkhYNzZ0RW1aVnVWeWpxWkp5eUZ1M2I5TlpQdHZab2lKSFBMSdIB7wFBVV95cUxQaHhRbUN6d2ZVNTc3YzF5TGgtdXlGYTVYMDd0MVRKbk1YQmpLYXV5MVdrWERNWDVxdGZsclZMQnZYa0tHS0N0eU1KZUVWdzFOMkR1NHMwTnJmLXU2aUktU0lXSTBPTXFpZnB6cnZSUkhaTFBCcU9oWm1RWk9vT3QxbGtLdkx0blNnUmJlSjE5bnhvaXVpRTVnMG1QYVNLSWpvdFd1dV9Ba1E1LW5UNGRsR0xvQkt6eS1TSjVydklHdHdselpYX0RkUzl5WkhYNzZ0RW1aVnVWeWpxWkp5eUZ1M2I5TlpQdHZab2lKSFBMSQ?oc=5",
+          "published": "2026-08-28T16:06:02.000Z"
         },
         {
           "tag": "Product",
-          "headline": "Invesco India Pharma and Healthcare Fund NFO is open for subscription. 7 key details to know - The Economic Times",
+          "headline": "JioBlackRock Mutual Fund to launch balanced advantage fund in September. Check dates and key details - The Economic Times",
           "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ3IxNHB0dDRyS2pjakI5cUtLRDB5V0xhTU1NczNQUFRJZkxTTlZ1YnFFUlFTcG1CcllxS21JYkVpc1JUNkxYQjV5QkpLZDNDZTNMWXpvLW5uc1pudE1nS3BBYVhtWkJ6RldlRVlRRHBEU0JUZzdvaHg2Q0drNksxSk1qZHNaNWdKNE5ISk1iNlZiVVo5bnhiZFZDVHpUVHViQXIyblNJTWVjck95OXlVaEs1bzc1YkNpYS0zYUVRelphdnktNnVGaUo0NlhJeFJ0MFhVb1RrS1NUeUxOSWZxQUtZelhiX3VQdS1YRHpxWkFzMHRJbU9z?oc=5",
-          "published": "2026-08-28T10:51:51.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0t4N0Q5cldQMmJ0Q0F5RUpkLWZZYkczSXAxeTZ1ekRPQlhtZ1pqb0RlVy1MamR3T0MzY1JIeGZkdmxEdTN4QWltVWRFLUJvRG1pWXRpYk5TVlBoRXRFVXM4VmE2NDV0Q3hKdFhlNnh6djdtbFlac1lYcnM0aDdxMUxvNlZfckVfUHpvamZ1NWsxcTNwRjhzdjE1R3pOSS1BUjVnOG01d0JXQ21maXhfdmNyZ0FGYW5ETEpRUFN3RTB0YmtNTWl2Zm93QnRHMGZMd1dkYkZtazM0R0FfRl8yNWpSX01UeXYxZkswWENzOUduZWVPdXdRbUQ0ODLSAfwBQVVfeXFMT2dLeDdEOXJXUDJidENBeUVKZC1mWWJHM0lwMXk2dXpET0JYbWdaam9EZVctTGpkd09DM2NSSHhmZHZsRHUzeEFpbVVkRS1Cb0RtaVl0aWJOU1ZQaEV0RVVzOFZhNjQ1dEN4SnRYZTZ4enY3bWxZWnNZWHJzNGg3cTFMbzZWX3JFX1B6b2pmdTVrMXEzcEY4c3YxNUd6TkktQVI1ZzhtNXdCV0NtZml4X3ZjcmdBRmFuRExKUVBTd0UwdGJrTU1pdmZvd0J0RzBmTHdXZGJGbWszNEdBX0ZfMjVqUl9NVHl2MWZLMFhDczlHbmVlT3V3UW1ENDgy?oc=5",
+          "published": "2026-08-29T06:47:10.000Z"
         },
         {
           "tag": "Product",
-          "headline": "PPFAS Mutual Fund announces feature changes across 5 funds, including flexicap, largecap - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUV0R2xZWE9fdDZxZ0hudUdBUDJWbUFDMkhONFBiY2VIRFBmNUt6U3RyLWpIS25PWFFwY1hGRFF2WXVfblBXZ01nalJjTGRXd2lVcUFlNlYwQ3hNQzM1UVcxSXRrZzJXOTFHbTh5dmcwc3FjcmRGMUtqWjRudnRVU05LZEtZTWJlaVFOSXZDeVBOZTA4allz?oc=5",
-          "published": "2026-08-28T06:10:00.000Z"
+          "headline": "TRUSTMF Short Term Fund - Regular (G), Short Term Income Funds, Trust Mutual Fund, Aum(Rs Cr) - 1324.70 - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVRtb1BIYl9pTzhIeG1aYUZfMXJycC1KT0Z0MFc4RVNIaFZ4dVZaMUdnYlZPMWI3dnNxT2xDVl9hUXBUMEgwMTYyTkhjRmJESnF4SDdUTWp4Q2FPMGU4dGJvd1J2YnlTb0FlU09tQnhrR3AtbHQ2bTY0M0hQRTE5QUFyT2t0TldWZkV3NGtVcUFiazY5b24tQg?oc=5",
+          "published": "2026-08-28T21:01:00.000Z"
         },
         {
           "tag": "Product",
           "headline": "Raksha Bandhan 2026: Thinking of gifting cash to your sister? A mutual fund SIP could help build long-term wealth - The Economic Times",
           "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zZlFVZ1BwSWVQNDJMT3UzekNFQ1BPYkZVMG0yTVp1VkdYS3c1Q0dGTVRPU01tbUtCUzlKOWRSYzhaOEs0OTZreXhoVHo4eFJ0U2ItdHpnSm9ETTFzaWdzNzlfQXM1NkJxdUNEczA3RGpUTFJ5Unc?oc=5",
-          "published": "2026-08-28T01:41:45.000Z"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RN2w1MW16c2IzTTNRZVlKWHNiMlpaWVV1cXRydkJaY3ZfTGdRM1FfZFY2UDU4Z2ZHVm5GV3RjSzZOWXF2czVWNG1WMERpNXp3aHBhbEU5aWR1RExDRkVkZjBpcDJKNDRjMDBDdTE4eGdHbGM?oc=5",
+          "published": "2026-08-28T14:32:56.000Z"
         },
         {
           "tag": "Product",
-          "headline": "Aditya Birla SL Medium Term Fund - Direct (G), Income Funds, Aditya Birla Sun Life Mutual Fund, Aum(Rs Cr) - 48.01 - Business Standard",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFAzN2k2R2hfTlBERmdGQ0tUV1lzRUVXdEN4UjZuTmYwUEo4VmZSSWtMMlJReGNETFQ4VTRfMVFXUU10U3EtcTcyaGZjbUpaZGlBcExRMVM0TW1mRlNoVjdNT1hTZkM5UzdfMDYtNVFZb2wyQU9PV0NjVUpNMkFVVmdLMkJXbUVQUzQwc3MtLWN0Uld5V1FxYUxBZktGbnBoZS1F?oc=5",
-          "published": "2026-08-27T21:07:00.000Z"
+          "headline": "PPFAS Mutual Fund announces feature changes across 5 funds, including flexicap, largecap - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwcWZveDVmeGFWQ1BSeG03MThhUjFSOVhWZnkzWmxQVDRwb0dhellaVi1CcFMtMkF5cnFPbGFsV3B4TGpBWlcwck5lYThzdnZkWTBna1ZHNG9NSUNBNkdpaDNnMTI5NG1wY0JmZEo4dWMwV09MUnU0bw?oc=5",
+          "published": "2026-08-28T14:28:15.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "ICICI Prudential AMC renames 19 mutual fund schemes, revises scheme types of 23 funds - Business Today",
-          "source": "Business Today",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNHNBNXR3UGRtNUdldjVFcVNBSWZwdXFhWFdlQ3J6ZHpJQzZHNUV4aVNrT0FvSDJWT1g5STNHZ1d1aTVCN3pTTTFncUJkXzNod2hKOWt2eDdjZFFFZHd5Sy0wandLRFRoR0JxLThBdkU3Y1I2Y3ZpN2F6bFJtWWFqTTA3aGxNME4wZG9HOG9HVTIzTVBWMldpZWNCSkZMWlZsNFpkZEd5bGdOU3BpLVhrTWRNV0dIbG11TGUzVmhVVWlJZ0ZlcjF3Z05BUHhCaUtNbWxkSWJrSGlmdXVaLTFFQjhLN2I?oc=5",
-          "published": "2026-08-28T09:19:01.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Invesco Mutual Fund raises Gaja stake to 8.32% via open market - scanx.trade",
+          "tag": "Strategy",
+          "headline": "HDFC Mutual Fund crosses 5% stake in Hexaware Technologies - scanx.trade",
           "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTNlTVRlZTdPZFFWVWQzczdWcHdpNTR0ZmpHWjQ3QlFSOFpCU2I0WVI1WENBN1gwSHA3T1pidWhoRzF5ZFlZSlpIYlktMnZuNFBhdUpaeGNDanpIUTJfZW91UUFlSTVJd2Q0RDdvRVJjYmMwcVdCRTVmWHRTeHhKZDFfOUxHMWNyYWlFMEtTM0QtMzAyUF92cWs0UFB1cHJyMXJMUnp6NVhsemwwOXozQzhtQWIwQQ?oc=5",
-          "published": "2026-08-28T05:24:07.000Z"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdW5FTVVROW1walppNFp2c3R0SmJqMW5fbnl5ekdUOFJXRUlzeVp1b2tsdkNIa0RqbkxJODVzTHhObG11eFlIZlBFV2ZmOEJ6aTBlS3ZUZ2JKNnMyUnVXbU5MaWFoTl9vQW5TN09GQjVJMTRja0ZKdW5SU1paeW9ock51WE5sQW9McmFvZmJ6TnpzU0N1TWM2M2lqWWNyVEVTTFNKSldWdVRUaGxLRm02eQ?oc=5",
+          "published": "2026-08-28T12:24:40.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "INDA – iShares MSCI India ETF – ETF Stock Quote - Morningstar",
+        "headline": "GIND – Goldman Sachs India Equity ETF – ETF Stock Quote - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IenlvWXVnT2lWb2xkeWZ0YTRVVkVDLW91MWJqQ0xscUF6X05NS2JaNzRIRHpOd3lTcW1CbEdNalRrTjN4R2ZUNjZRNnQ4bl9PNExBd1Vsa3ZyX2Zn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zZUFuSktJUXc4YWYwZ3RfUFprX1MwNWRFTS1MQzZiaFdrVzVMUDgyZGlkM0h1TUZjcXI4Y2FMeklMY1dWajkzbndpNVVoMkNxVUE4all5dkZCcmtw?oc=5",
         "published": "2026-08-25T07:00:00.000Z",
         "paywalled": false
       },
@@ -185,75 +185,68 @@
       "bullets": [
         {
           "tag": "Regulatory",
-          "headline": "Irdai opens NDB's Maharajah INR bonds to insurers - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlI2UGQ5RktTUERhUU1pRWxIdkY1bzBNdllELTZtak4xSzhLSTZCQUM2UlZId0VCNXBRaE55dXlEeHltUkN1OEFLQl94TXhBSFd0S19pdG9uMmdRcXFMb1VLcFltODFadGE1TzFZb21PYTZEYm5nQ25SdHFSbzQ4UGNTMkVtWWtsaEdka1U5bXVlUmZxUkU1UEI4ZWhib3hLOTNoYmlDWXdVSjR5ckpaOW1ock9GSzjSAbwBQVVfeXFMT2dleFp6cHpzQTF5T1dvX09ERjhjUUhuOU9leVhvLWU2Q0h2aENaSXFiSWZaRUlhSnFFdUpqc1kxOUM1ZDFyb3VHMWJOYjFzVVZaMDJ1cDBGYkhXajZrWmJsd2VtUzFwNXp2eHV0LWJVdWRLeFAtclA5bUw0cEVFZS0tMUloZ1hkMU0wNS1YWmpvbzVxaEZ0RmdoZzRua3BvalFuSkJDd002LV9mRlRyN29LTUxqTnJrblFkeFY?oc=5",
-          "published": "2026-08-28T00:08:17.000Z"
-        },
-        {
-          "tag": "Regulatory",
           "headline": "The Insurance Regulatory and Development Authority of India (IRDAI) Cyber Security Guidelines 2026 - CyberPeace",
           "source": "CyberPeace",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3htUGs0czN2eHV2OUhrQkFDRzZndkJWU0s2U3hhTmtmQnVHbV9FVEQxSGVkX1pZVVZlbjM0QkNPR1RranM0RWtNcDZrOTRxaUZwWTNpNGhGUWFKTnFyZDJqdFFJYW5BcU1hZWhHTmJldFVmb1hXOWd1clc2aVJ5M25WeS0zNWJFdjhmTkstYlprYVdfX2UwUWNhZmtEY1VoLUJxYzBkS3lHMm56U2ZhcWZsczg3eFpGZk54bUtyaXBnaGlCck9HaUZaUk1ncGRK?oc=5",
           "published": "2026-08-28T09:41:17.000Z"
         },
         {
-          "tag": "Regulatory",
-          "headline": "IRDAI bans four insurers from opening new branches for six months - Cafemutual",
-          "source": "Cafemutual",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS2xucmZVeXVZWElGVklGUU5BbkdYaTctZzdxRGY2Q3FfQnJzazNOay1VbTc5OExCalF3eklORTMybnhSdTlLa2JLLU5rY2V0Q2hJYVktMzJiZGFMa0tjVzY1SV9ydDV5WmVMY2h1WUYzUW1ZcGhaWFgxalB5VXRDMTcxNW4zYU9tSmJrMzZZMGNCb2FTdl82VkJYT2NlODdTWFQwcmxDU19QaDZMX3c?oc=5",
-          "published": "2026-08-28T03:04:14.000Z"
+          "tag": "Press",
+          "headline": "ICICI Prudential Life Insurance Company Ltd. - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0hnd0VaQ2drbmU3eEl4bnBSN3FvYVpSLTdXU3E2anFzWXZvV2pJMFVCRGxPa3dxNXE0X3pVZF9rVTBxRGpCWWNJMElYMm5pZGtUaDBuX0p2cHp6ejRLM2xmSU5WcDg3VVRLN2lwbGhMOTJQMm9HVVVXa1d1emotNVd1ODhVaktWRXJITVZUUGZlRUR1bkVQOUVSQmZpcWVoUkNiU1J4cHNjNkhI?oc=5",
+          "published": "2026-08-28T21:32:26.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "SBI General Insurance Q1 GDPI rises to Rs 3,506 crore; comprehensive income jumps 17% - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObEFKb3VQV195ZVFKWXlOYTR4SDFVXzRIeW5xWk91VEoxN3ExUjRMNnI1dE5uSGpFSnhSaWFjeW1za1hiaWVvcVlSZnRDNEVEaXk5RzRLSTF5UnR6TndhcFR2RENseTluNjZ3OXU1ZjQ4Yy1KZDlobnc1WF9JUzJsZ0RNaVNaaU1qRnplbVIxODd4MjBuT3pzQ3B0TGVRMGVMTXpJMDJqa3RDbURKS3I3OW93dm02dm94ZHpxbVE1bEw2OTl5eFdsSFZXOFQxdnJkVV9Ld0lXWmpvNDVsY21mSWoxWmEyVDVpc1NYTtIB8gFBVV95cUxQRmhwTl9zOFl3dnBnb2x0R0hlY3FMNndQQktkTUZxeGF6T1laVm1DVkpDcGtuRkl3MlZXejlVekZPYkg5aTdxNHZlQldoaWlzOThLNHl4cGR3dnRCaVhsNzgweWdEaFFtc1pIa09IVFFtWHpodkJqby1rR25wb2Z6amxvOUZMTERXWEsyV3c0YmE0YjFVZS1yREdhQkQ4YXhDV2t2N0R1Nkd6c3ZPbWdpTFdCNDBzMmI1SUhRLWJJb3pDWmN2aEpIbFlDM3Y1QnYyTFlDeTVpV2xPMFF4LVVXTGIzNGxKYnkwLWtYdHh2c1VHZw?oc=5",
+          "published": "2026-08-28T10:11:06.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Regulatory",
-          "headline": "Irdai opens NDB's Maharajah INR bonds to insurers - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlI2UGQ5RktTUERhUU1pRWxIdkY1bzBNdllELTZtak4xSzhLSTZCQUM2UlZId0VCNXBRaE55dXlEeHltUkN1OEFLQl94TXhBSFd0S19pdG9uMmdRcXFMb1VLcFltODFadGE1TzFZb21PYTZEYm5nQ25SdHFSbzQ4UGNTMkVtWWtsaEdka1U5bXVlUmZxUkU1UEI4ZWhib3hLOTNoYmlDWXdVSjR5ckpaOW1ock9GSzjSAbwBQVVfeXFMT2dleFp6cHpzQTF5T1dvX09ERjhjUUhuOU9leVhvLWU2Q0h2aENaSXFiSWZaRUlhSnFFdUpqc1kxOUM1ZDFyb3VHMWJOYjFzVVZaMDJ1cDBGYkhXajZrWmJsd2VtUzFwNXp2eHV0LWJVdWRLeFAtclA5bUw0cEVFZS0tMUloZ1hkMU0wNS1YWmpvbzVxaEZ0RmdoZzRua3BvalFuSkJDd002LV9mRlRyN29LTUxqTnJrblFkeFY?oc=5",
-          "published": "2026-08-28T00:08:17.000Z"
-        },
-        {
-          "tag": "Regulatory",
           "headline": "The Insurance Regulatory and Development Authority of India (IRDAI) Cyber Security Guidelines 2026 - CyberPeace",
           "source": "CyberPeace",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3htUGs0czN2eHV2OUhrQkFDRzZndkJWU0s2U3hhTmtmQnVHbV9FVEQxSGVkX1pZVVZlbjM0QkNPR1RranM0RWtNcDZrOTRxaUZwWTNpNGhGUWFKTnFyZDJqdFFJYW5BcU1hZWhHTmJldFVmb1hXOWd1clc2aVJ5M25WeS0zNWJFdjhmTkstYlprYVdfX2UwUWNhZmtEY1VoLUJxYzBkS3lHMm56U2ZhcWZsczg3eFpGZk54bUtyaXBnaGlCck9HaUZaUk1ncGRK?oc=5",
           "published": "2026-08-28T09:41:17.000Z"
         },
         {
-          "tag": "Regulatory",
-          "headline": "IRDAI bans four insurers from opening new branches for six months - Cafemutual",
-          "source": "Cafemutual",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS2xucmZVeXVZWElGVklGUU5BbkdYaTctZzdxRGY2Q3FfQnJzazNOay1VbTc5OExCalF3eklORTMybnhSdTlLa2JLLU5rY2V0Q2hJYVktMzJiZGFMa0tjVzY1SV9ydDV5WmVMY2h1WUYzUW1ZcGhaWFgxalB5VXRDMTcxNW4zYU9tSmJrMzZZMGNCb2FTdl82VkJYT2NlODdTWFQwcmxDU19QaDZMX3c?oc=5",
-          "published": "2026-08-28T03:04:14.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "IRDAI permits insurers to invest in New Development Bank’s onshore rupee bonds - The Hindu",
-          "source": "The Hindu",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmlDdlBGLWpQRXJsQk5nWTlBN2ZnVWowVjJMZUpmdjN3Tk51dG4xQjdKX1MxMkZTTXFfOGhSUG5ncTVyZ2YxbE04LXhRZnZLcFlqTTJmVW11Q1FjZnNyVHRHS29rM2dQNTF5cEJsdkk5d0tHM2JLWkhKalY4bi1veUhIZ09Cd1I0cUhZbjRnT1VWZU1WTGpuWFN6OS1hUlVjUVV2N0ZyQm1xcGVhVS01NHJ4c0g4ZHFmTW1PWVlWV0dwSkJXcnowTEF3MFlkblpRd2fSAdIBQVVfeXFMTkJpQ3ZQRi1qUEVybEJOZ1k5QTdmZ1VqMFYyTGVKZnYzd05OdXRuMUI3Sl9TMTJGU01xXzhoUlBuZ3E1cmdmMWxNOC14UWZ2S3BZak0yZlVtdUNRY2ZzclR0R0tvazNnUDUxeXBCbHZJOXdLRzNiS1pISmpWOG4tb3lISGdPQndSNHFIWW40Z09VVmVNVkxqblhTejktYVJVY1FVdjdGckJtcXBlYVUtNTRyeHNIOGRxZk1tT1lZVldHcEpCV3J6MExBdzBZZG5aUXdn?oc=5",
-          "published": "2026-08-27T16:31:40.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Buying health insurance in 2026? Check these 7 factors before choosing a policy - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHItM0pGMm11VVJFNExOMWg3QWdJdFl2TXVrNm5tU1VobFJzemtSTEFSSlhjQnQ5Q1piWUd6dmdYRXZhQmZkTjQzRzhyTTF0Y185YThmQUtnWEV4NkkwbGNUMUJucUtGaGVYcHFERnQ3NjNwVnQzU1dOMzMxT1ZySC1oSnY4MEphdlZQTmhCdDdiWVM4VWRmUU9uQkNTSGVXTWNuOHZGX2VlbHpNaDFydkhoa3JyZVN1T0R4a1JrcDVBdU9CQVJMYTNhSWlpbDNyc0ZuWjN4S1lDMjAwMDg00gHkAUFVX3lxTE9xdEx5cENLeWNrSUpXaVUyNklTbmUyeXpNQVJqTXR1b2tTVWtJY1E0eUtDRXNrR2hEZW9iaFc1bGp6R1YwWFc4STJ5bGczNG5HcGRBekRMYjFFS25RdzRfQ2xJcUtBV0s0VHExWFRUTWV4OEQzTkJRRGNGenRoZkR5SFEwcUhWakdrSk9UMjVGTF8wZFM5T0JtSFYxUGlJaFZuOHdxMXpuVmx2OTlmMkdwZDhmMVV6QUJxV0JDVFgwYkd4azE3aUpPVklXNnJNX29KQmxyWmRSVkVKZmh6ZjhxSFZtZg?oc=5",
-          "published": "2026-08-28T01:48:37.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "Will health insurance cover Rs 15,000 OPD bill without hospitalisation? - Moneycontrol.com",
+          "headline": "ICICI Prudential Life Insurance Company Ltd. - Moneycontrol.com",
           "source": "Moneycontrol",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc1o5TnkxSlJXQWRWUWQxNVpVZFZrNEpITG14eHpINnpLQ0VDVWU3X3RzSFdqMkRROHh2QTJnQjN6TGgwejlQVWdteVY3c21pQUVVYkNqY1JaTE83c2NWWXhtMkNpUGlrQlBTamt6cDdDYm1Vd3ZrcV9HN013UjVKc3dWVTB0amV2TGk0bkR3OGJ2Y05oeXBTY19DZW1Bb19oRC1qbVNldlJ5eDU1V3J0aTB0YXJPeE50bTlFeTlvRUhCd21xbFZ5R3V5MUNsQWVQRkRONXlCUFdtdDFW0gHiAUFVX3lxTE9QbVJpOHNFQTV2OGppUnBjejc1OHhwQnRqSU90V1dOY3E1NFNVelJJTk1tUnVpQTVXbTNFWDVfZTI1ZnY0SjU2WHdaM1laSVNlZDkzU0IzdlJfcDVvOE9jVnJHWXE4aUhDbENZSjIyQVM3eG5hUmk3OHNsN3lRVE54S2ZPdEdNaVlOeTl2bzBzNmhiR2JTTEtfVlB6N2NVU0RPelZWX1plcTBZS1ZtU3JMTFBEcDM1SzJzYUtYTC1waGUtNVJfRVAzd2I1eUMtVVY3ZHV6d1BLWENQeWhybVhiT0E?oc=5",
-          "published": "2026-08-28T03:52:52.000Z"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0hnd0VaQ2drbmU3eEl4bnBSN3FvYVpSLTdXU3E2anFzWXZvV2pJMFVCRGxPa3dxNXE0X3pVZF9rVTBxRGpCWWNJMElYMm5pZGtUaDBuX0p2cHp6ejRLM2xmSU5WcDg3VVRLN2lwbGhMOTJQMm9HVVVXa1d1emotNVd1ODhVaktWRXJITVZUUGZlRUR1bkVQOUVSQmZpcWVoUkNiU1J4cHNjNkhI?oc=5",
+          "published": "2026-08-28T21:32:26.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "SBI General Insurance Q1 GDPI rises to Rs 3,506 crore; comprehensive income jumps 17% - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObEFKb3VQV195ZVFKWXlOYTR4SDFVXzRIeW5xWk91VEoxN3ExUjRMNnI1dE5uSGpFSnhSaWFjeW1za1hiaWVvcVlSZnRDNEVEaXk5RzRLSTF5UnR6TndhcFR2RENseTluNjZ3OXU1ZjQ4Yy1KZDlobnc1WF9JUzJsZ0RNaVNaaU1qRnplbVIxODd4MjBuT3pzQ3B0TGVRMGVMTXpJMDJqa3RDbURKS3I3OW93dm02dm94ZHpxbVE1bEw2OTl5eFdsSFZXOFQxdnJkVV9Ld0lXWmpvNDVsY21mSWoxWmEyVDVpc1NYTtIB8gFBVV95cUxQRmhwTl9zOFl3dnBnb2x0R0hlY3FMNndQQktkTUZxeGF6T1laVm1DVkpDcGtuRkl3MlZXejlVekZPYkg5aTdxNHZlQldoaWlzOThLNHl4cGR3dnRCaVhsNzgweWdEaFFtc1pIa09IVFFtWHpodkJqby1rR25wb2Z6amxvOUZMTERXWEsyV3c0YmE0YjFVZS1yREdhQkQ4YXhDV2t2N0R1Nkd6c3ZPbWdpTFdCNDBzMmI1SUhRLWJJb3pDWmN2aEpIbFlDM3Y1QnYyTFlDeTVpV2xPMFF4LVVXTGIzNGxKYnkwLWtYdHh2c1VHZw?oc=5",
+          "published": "2026-08-28T10:11:06.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Why Men in Their 30s Are Starting to Plan Health Insurance for Their Parents? - MensXP",
-          "source": "MensXP",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWpndWMyUllRamExd0tiWVFJZ0VLMklpQmdzTDNsd09RMnVmNW96MFJtdnV6dnF1c2dqU2laWEZMY0Z4d0d6SzVNb1R1QkgwNGZLc0Y0ZElaZ1VQS1Q2ZTVMS3ZRUENOUGN0b2owRHJKTjRzUkFLZGU0cVR2LTJlVzYyOWl0SjZZMVVvWDNJS3VEYXU4aVNsMGd4R0FEYnRUaGoyTHRnejJuZXdOb0JRSzhyNGtleWJ4bTZLd2pBa3lxU2NmR2JRc0NSSzZHYTDSAc8BQVVfeXFMT3lqZ3VjMlJZUWphMXdLYllRSWdFSzJJaUJnc0wzbHdPUTJ1ZjVvejBSbXZ1enZxdXNnalNpWlhGTGNGeHdHeks1TW9UdUJIMDRmS3NGNGRJWmdVUEtUNmU1TEt2UVBDTlBjdG9qMERySk40c1JBS2RlNHFUdi0yZVc2MjlpdEo2WTFVb1gzSUt1RGF1OGlTbDBneEdBRGJ0VGhqMkx0Z3oybmV3Tm9CUUs4cjRrZXlieG02S3dqQWt5cVNjZkdiUXNDUks2R2Ew?oc=5",
-          "published": "2026-08-27T14:30:51.000Z"
+          "headline": "SBI General Insurance’s GDPI rises 10.9% to `3,506 crore in June quarter of FY27 - MillenniumPost",
+          "source": "MillenniumPost",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnA2ZnZmbVpValQ4WG5OdTU5UzFDVWZRLWtVTFllSl9iTGtPS1ZyZTlpTU80dGdBVTRkUFFxdmhrVTlYN0FUZDl2eDBVVTg4eVRVQ3ppU0Y5aUJVQzdsLTNyRzdSVUpFUHozeWhvVE5hUnIwZ2VBS0VrVVNYMkZGVnNOdS1YZ2oyX042cGxEU0g2dFk5eWlNOV9acFVVTHVxb0JURHZsVjB6c3dYLU94T2lxd3B2VVRnbkVDTGwtX19ZM1nSAcMBQVVfeXFMUGJwNmZ2Zm1aVWpUOFhuTnU1OVMxQ1VmUS1rVUxZZUpfYkxrT0tWcmU5aU1PNHRnQVU0ZFBRcXZoa1U5WDdBVGQ5dngwVVU4OHlUVUN6aVNGOWlCVUM3bC0zckc3UlVKRVB6M3lob1ROYVJyMGdlQUtFa1VTWDJGRlZzTnUtWGdqMl9ONnBsRFNINnRZOXlpTTlfWnBVVUx1cW9CVER2bFYwenN3WC1PeE9pcXdwdlVUZ25FQ0xsLV9fWTNZ?oc=5",
+          "published": "2026-08-28T17:05:56.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "IndusInd General Insurance marks Raksha Bandhan with support-led campaign - Indian Television Dot Com",
+          "source": "Indian Television Dot Com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkx5ekM0RVpjbTR4Qldud3RtWXNhMkxVeFQ5cTJGbEsyX3ltNU9GeEhNY0YyeEh0eVJPYVdxZWR5X0JQa3JTSFVXNDJaVzV0enhDZlJMV2Z3T1dfenJmem12LS1UWi1FVllXWkJZV19VM1Jsb3lrZFVVelp5M3pNelc1MUpvUnRaTExjS19hZEJEU1gyenNPOXVLeE1ub3Q2cU9MZy1UTGNxQkU?oc=5",
+          "published": "2026-08-28T13:58:59.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "IndusInd General Insurance Highlights the Role of 24×7 Roadside Assistance in Everyday Protection - Passionate In Marketing",
+          "source": "Passionate In Marketing",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3QwZUh5MGtLTWNIMlhXM0ZsRExocVVFMXZQTHE1cEpienY1NjJwX3dwZUpYT2RnMlpNeUhwNWlBQl9OeXE1c0FWY3hvbUJvNFZDcV9xTHhIZVQ5Y3l0VHVLa0F5alJ0WkYyYnJUZDBQSW40SGZEdEdnLXZfeDFvekpjdmItaUlOQU80c1JlVV9sTGF6alFGNTFERmlObTNYemk2a0k4U1M0bkhlTVczenFCYkF3aFhSbVpUUl92djBXUXh0ajYyNXVjNWpHaE53SXc?oc=5",
+          "published": "2026-08-28T11:39:04.000Z"
         }
       ],
       "insight": {
@@ -281,14 +274,6 @@
           "headline": "Earnings call transcript: LIC posts strong Q1 2026 profit growth as margins widen - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFVUcGRSeGJqcC1naHh1NnRFdEtMSVlCb0NkNU0zQjlHMEt4VTBJTkpaSk9zakVURU0tdkRWdGZZN2p6dUE3QlhIdjYwQzVWY2dTenpReExDRVJEemltaWMydzdxNTJXUlJhV1NualItYkRqN0ZtTF8yNV95V2xkTlhPMDljdGp2aVNseEw5UHFYeldRWjR0NGo1S19pcnNqQjlFd216cjhkNk9lbEJVSTRRd3hET0tjby1yNS1TYTd1dXhhVDVKU3A0TDFSb3lrMFE?oc=5",
           "published": "2026-08-06T07:00:00.000Z"
-        },
-        {
-          "company": "Star Health",
-          "ticker": "STARHEALTH",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Star Health posts stronger q1 2026 profit, shares rise - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeGhOR1JoSkt2QmRzc29ZUFNXa1lIM042bHU0b21HM0E5a29PNlVlVk83ZnJ6Wk5XODltZWh3aEJwSEE2WnJ1cXl3bWxVek5yLUJFSjJBUmoxcTJwX2JIVm9qX0pwZGw4cWhDbWh5NFRLdDJXNFFIbDdwNUNHMlp3Skx1aWs1aDZuUjZGSXRRcWo2VU0xR3RfM2F3RzVDRlU5eHlxMmFVaFBaY0JXa05wZEtGV1pCdHczSDN2eU50WkVDdUNrbTUxRkM3d2trcTA?oc=5",
-          "published": "2026-07-30T07:00:00.000Z"
         }
       ]
     },
@@ -298,82 +283,82 @@
       "bullets": [
         {
           "tag": "Regulatory",
-          "headline": "Bank credit, deposits decline in fortnight ended August 15: RBI data - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObUZ2NTBKOTdnSkJwN2xyMkdkWXFIY3ZtcEJPWXJzZ3dQOEJPWHRWRXVjaXV0ZGVjcHNTbmNzWnBDYkVfamFXSGotXy1IZXNQZnFPbHBSZThONUh4bl9IZHJvV1YwSy11NlZEZkVIdmY1Qm9CdzI5YnRtV09XdzljUXRiT1dIb2dheGVJYlEwT2UzOFlnektuUlFkbE9Ya01CZklhTHFXeDRqeWFhdk1wOGFGRU9aMjU3OTNmN0dtLXRGU1lQUHp2Z1FheFFBT2huckJ5SzNwYzNKWnFTa3dyNkdBU1RqMXN6UGptTDByV1k2S0x20gHuAUFVX3lxTE9MMTBJUl9wNG16WFdfRHRpOHlEc1c0aEFfZFJtQ1g3VUVFejJfRUNYa1doeW5CX3E4M2pJcGpjMnhFOEJxcTJ6SDAwLUdpWEpDLUxwRnJka09oN1NZWWYtaHc4M3E0eVJQX1FLdzBpRC1zdjVKUlBPcUdjNXM2dHNzTWkxd1VfME0tNGg4YUp4M1c2TGE3UklfWXNHTThVU3VEaEJ2aWpiOXRzTGxSZkxHMDF1eGJIb0swVGdwZDlhcHRKWUhOSllNeTRjVmJxWmhYWVJXenhHZF9FU0xYWFo2emxfMTdiYlotaDd4QWc?oc=5",
-          "published": "2026-08-28T12:58:01.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "FIDC asks RBI to ease proposed curbs on NBFC revolving credit, flags impact on MSMEs - CNBC TV18",
+          "headline": "India's NBFC body asks RBI to ease restrictions on revolving credit - CNBC TV18",
           "source": "CNBC-TV18",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbU1Ja3VjX3RWaVFSYmplOUtNQXpSanVodC1xamZxSTBmOTNLemlEUTdIMVlFU2c3cnpDWDNWbjI0UUdSZUNhSkVXaVNIdjlweG91UlFsbE5DZlk5OUl1NG5xUzhNUFpUY2ZZS2x1TnRwb1AwTE9oc0dCOHdVRnVZTWsxVFZtU3B1bklSOHk0eFM4VGRJX3EyVUo0bWc1NlU1ZkJmSUZvQU1OVUgyUUdIRWRqc0lBRHJuckI5d2lLX0JJYUFscmdHZFJR0gHPAUFVX3lxTE92bDFhOHk0T2pnZVFPcjI3T0xiWWpzLWJ0anhXdjBnU19lcjUzdmFCUDlwOFFJRVdNVFpfQVpiSUwtWEVlblk4MHRmekpWMFhDMDhzU0VuMlowdWtqMUkxdGU1d3I5NjNaZGRIYmxlaFBkbWxHN0JUSWtwWklneERxQkRLTVVwRTZySi1nTUdXbGFXV3hLd0s4LWY2Um5wYk9uUUhqZHNOOXhrOVlwVFRnRFN3MTNTM2lZdVdhblFRcHpNU1QzTlQ0LUREQ3dPaw?oc=5",
-          "published": "2026-08-28T04:30:42.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlVQck9LSEMzUVpFNFhzdTJPazJGUnY0ZVB4ek55QVlpenprSlAwQTFsME5ObWxYOFhxUFJwNjZQbWlKUVpvMEczZHVvRVVMd2ZFQm56U09ocjJBOFQ3RWh6ZVE4akpzcTNqUDJVNjNsS05JRmhJMkUxNjhXaXFocHhXSUNVYk42OFF3dlVVVl9Xa0NrbjJ0VjJTTjY0X3NjdDZFV2hXMkpTSkxpZ0N0SzdPb9IBuAFBVV95cUxNcS04MHVoYnE1UTRySHNjc0xmM1NXWC1UMkE0OE5nanZhRk9mODcwYzRHbkpUcTZIdzl1N1pMcFR4ZWtqd2JnNzdfckh5NHczSVFfU1h3N2hpUTNYMk5QTTlNb3IyVFJmTjE2Z3pubVNTeWstOEY1RU43bjVnNWlXR1N1OTRXMmhFdGhuaml5OEI1bjBabDlNTVNmNU1PbkF4WEh6c2NqVE9SWTVMaENWb1Radl9fQlJM?oc=5",
+          "published": "2026-08-28T15:05:29.000Z"
         },
         {
           "tag": "Regulatory",
-          "headline": "RBI receives ₹1.42 trillion bids against ₹2 trillion in overnight VRRR - Business Standard",
+          "headline": "Vodafone Idea closer to SBI loan; RBI may tighten liquidity; commercial funding doubles & more - Business Standard",
           "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOS00RnN3alJoVjNxdXpnY09ITGJrMFh0VmlRd28xQ0RPWWdVVk9seGhqOE9DQzA4VmtlTmpxdER6Q3BxaGJXREJjU1V1SktuV0tmY2lvY3FEaWtTZndtSmN5Y0JaQXRyVWRYMFJuWDA2a2kwZTBZX3BhRjVIaXlncXQ1TElJdTJRdHN6ZTB1ZU9UZjJ3M2hMZ0dkNC02ZTN0YnA4dGFLS1F2ZnZCcFl6dU52d2lfQVpDSmozZXhOV09sX3pYZnZBRGJrOFlYNERL0gHWAUFVX3lxTE1UbElXc29jRGx5bTdMVEJuNnVxQXJIdXJIQnRmZldmT2xSWS1VX0V5MGY1TTBwTlhkdnYtVFVVVy1UYy0zZFk2RHVsbVNUUlNDd3hobnlpOWRTOTBEMFZOcnc4ZkJCWHQzUUgzTmZHSTVuUWdnSDVLaWltU1FwcnVuN1hCWWNLTVBQM01MbHo2UzFlRFpVMjJHMEppZnNEVlNsaGJIY1gtbEZkOTJHM0NvOEVpcWZDeHRjcUxjZ0hVN1hUNERUblZDcW9NelNOZHpjYmNxU0E?oc=5",
-          "published": "2026-08-27T15:26:46.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNkd1bExqZ25BZnJoUDlmTE5QSE5zVEp3bTh1MWg4enZyeV9Uem5VUk5zLXhvNkFPRjZ0VzYzWnEyek1nTmZUdlZWQWdMUTRRZW1Na0pWYV9VZ0tJbTI2aExMTUMxWWdiZkwzeWItekx6QkFvV2RYZWMzTGZiSzlqdWVZVU9uS0wxM3JZSFNYeGJ1aUltbENwWXhIZVNMR2tacHAxYTlaWUlsXzRUSEVkNXZHSGxnV19oYWpVTXZKLXZxZXVvcldIVnFCVDMxbU9KanAwcElvWWhWd2xfV3M0RFlUeFlQR084b2RSQ2FB0gHzAUFVX3lxTE9oOXlnaW0wTEFjS2FySk9ja241Z2FlbmF4SWhjbDRtdWJRRmJwZG9VbzkzUjRzeWxubS0teGZrSjk5YU1kMVNhODZmQzktcUpCX0QwNkFUMkxYYm80ekJkeTFKTi01OVVTQWZIdWJkM1pRUXFqV29MN2w1MTlxS3hCTnhZOE5FSnFGX3k1c3ctZzVGYUtXdVVTV1pxcnZqWU91bk1Yc3lqQ2RDTWFBMjZIbzItVl9fRnRvY0xfYzNWV1BFQm9jc3lvQXRGcllWUXVIQ3FwUVFWbXItZ3hpYV92Z2xMVDVZLTVSTHRhQ2d2YkdXZw?oc=5",
+          "published": "2026-08-28T15:04:00.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI to conduct ₹6 trillion VRRR auction to soak up excess liquidity - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVpiZnV1RVZzdm9kZGlkWmhVX016RGlfYnppZ0xHNFNhSUhCNlUyZlVhZmxiN1BGUUdzclROMjlZZ251azJlem4zbXBhLXZBWXZQTTJaeWppM1F6ZXRuRzhMUzVjQ0ZNYkFLUmszcVdIT2VBdms2YlRFc1BoQk8wdE5ZNzFjck51dHVEeVlPTjhkZ2NTTUM0UExkVHBoVDRTaS16UVZ2eG5vMWppT1hUQmxLQUJ5TmtXTG9sd1RKSDBPeHREWDRpLUdwemRSN03SAdQBQVVfeXFMTjltTFdlMjA5RFJjbUxWUFU4bENFZWpsNDFzQzJLOUNxNzJob3o5TlJ4SkZuTTV4clJ5NGV0cDRVUktzZmlHcnplOVJwN1k5MWFkdFZka29lWUF3V2k3MUNlN0wxbzB1dWloN0s3aVVtRkRoY3l3YXA4ZW1zeWhKRFZGNUVTM2x5ODhtdkIxU2JYWllUd0dNdVh0VWtDRUEzam1QMm9OcWlrdWVFVzBOMHN6Y1dEZFM1RkFYYTZvWVZZSmNqbDlnYWVWSG4zUVdKWXlGN20?oc=5",
+          "published": "2026-08-28T13:36:13.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Regulatory",
+          "headline": "India's NBFC body asks RBI to ease restrictions on revolving credit - CNBC TV18",
+          "source": "CNBC-TV18",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlVQck9LSEMzUVpFNFhzdTJPazJGUnY0ZVB4ek55QVlpenprSlAwQTFsME5ObWxYOFhxUFJwNjZQbWlKUVpvMEczZHVvRVVMd2ZFQm56U09ocjJBOFQ3RWh6ZVE4akpzcTNqUDJVNjNsS05JRmhJMkUxNjhXaXFocHhXSUNVYk42OFF3dlVVVl9Xa0NrbjJ0VjJTTjY0X3NjdDZFV2hXMkpTSkxpZ0N0SzdPb9IBuAFBVV95cUxNcS04MHVoYnE1UTRySHNjc0xmM1NXWC1UMkE0OE5nanZhRk9mODcwYzRHbkpUcTZIdzl1N1pMcFR4ZWtqd2JnNzdfckh5NHczSVFfU1h3N2hpUTNYMk5QTTlNb3IyVFJmTjE2Z3pubVNTeWstOEY1RU43bjVnNWlXR1N1OTRXMmhFdGhuaml5OEI1bjBabDlNTVNmNU1PbkF4WEh6c2NqVE9SWTVMaENWb1Radl9fQlJM?oc=5",
+          "published": "2026-08-28T15:05:29.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Vodafone Idea closer to SBI loan; RBI may tighten liquidity; commercial funding doubles & more - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNkd1bExqZ25BZnJoUDlmTE5QSE5zVEp3bTh1MWg4enZyeV9Uem5VUk5zLXhvNkFPRjZ0VzYzWnEyek1nTmZUdlZWQWdMUTRRZW1Na0pWYV9VZ0tJbTI2aExMTUMxWWdiZkwzeWItekx6QkFvV2RYZWMzTGZiSzlqdWVZVU9uS0wxM3JZSFNYeGJ1aUltbENwWXhIZVNMR2tacHAxYTlaWUlsXzRUSEVkNXZHSGxnV19oYWpVTXZKLXZxZXVvcldIVnFCVDMxbU9KanAwcElvWWhWd2xfV3M0RFlUeFlQR084b2RSQ2FB0gHzAUFVX3lxTE9oOXlnaW0wTEFjS2FySk9ja241Z2FlbmF4SWhjbDRtdWJRRmJwZG9VbzkzUjRzeWxubS0teGZrSjk5YU1kMVNhODZmQzktcUpCX0QwNkFUMkxYYm80ekJkeTFKTi01OVVTQWZIdWJkM1pRUXFqV29MN2w1MTlxS3hCTnhZOE5FSnFGX3k1c3ctZzVGYUtXdVVTV1pxcnZqWU91bk1Yc3lqQ2RDTWFBMjZIbzItVl9fRnRvY0xfYzNWV1BFQm9jc3lvQXRGcllWUXVIQ3FwUVFWbXItZ3hpYV92Z2xMVDVZLTVSTHRhQ2d2YkdXZw?oc=5",
+          "published": "2026-08-28T15:04:00.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI to conduct ₹6 trillion VRRR auction to soak up excess liquidity - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVpiZnV1RVZzdm9kZGlkWmhVX016RGlfYnppZ0xHNFNhSUhCNlUyZlVhZmxiN1BGUUdzclROMjlZZ251azJlem4zbXBhLXZBWXZQTTJaeWppM1F6ZXRuRzhMUzVjQ0ZNYkFLUmszcVdIT2VBdms2YlRFc1BoQk8wdE5ZNzFjck51dHVEeVlPTjhkZ2NTTUM0UExkVHBoVDRTaS16UVZ2eG5vMWppT1hUQmxLQUJ5TmtXTG9sd1RKSDBPeHREWDRpLUdwemRSN03SAdQBQVVfeXFMTjltTFdlMjA5RFJjbUxWUFU4bENFZWpsNDFzQzJLOUNxNzJob3o5TlJ4SkZuTTV4clJ5NGV0cDRVUktzZmlHcnplOVJwN1k5MWFkdFZka29lWUF3V2k3MUNlN0wxbzB1dWloN0s3aVVtRkRoY3l3YXA4ZW1zeWhKRFZGNUVTM2x5ODhtdkIxU2JYWllUd0dNdVh0VWtDRUEzam1QMm9OcWlrdWVFVzBOMHN6Y1dEZFM1RkFYYTZvWVZZSmNqbDlnYWVWSG4zUVdKWXlGN20?oc=5",
+          "published": "2026-08-28T13:36:13.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "FSAT idea returns as debate grows over RBI penalties, regulatory overlap - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlNISE52bjFZNWstUXRlX2JKUnR6dnpOcllBQ0lla3ZDbXRvbWRRdDBjSVh4dnFZeTVDcm5XMEw4bWR2eWxvWWxOZWVUM3QwVzVlVjVIdXFVZi0xSVJwNXBWT0JBX29IYlhlMDlpVzJscXJsZ21XUGh4eHFhV0xJYXRZLWFTS01FSnhiNV9ZekNFbzA1QXJBNFozd3Y2S0tyNjY0UDN5Z1N5dFl0azZPeUJ6N3dtQkRwYkU3TlktdFpPVjJ4Ymx4a3QzZnN4dXhReFBSSFdKdnlUUdIB3wFBVV95cUxNY3g3b0FFRmF5Y2dpZFlubDZMdEhBc1RBSXdIQjcyVGpTLUtCS2VsUVBxUkVObFFLU1M3RnVReGlKZnpJdmY3dFp0YkZiQ1FQeVh4cEZnMC0zamVyYnNadEx4TVFhenlYb1ZwLVlJc2w1SmR0c242NlB3c0p2aEU0QWlvMF93NEh4VFRmcUlXd3JQbXJKTGNHQkxCRS1qODFtbjRrSDJoLVNKZ3F1QmZ6bWVMNlBLTjVpTTE1TmVacWFLS3lLLUlnU3dyNE1Fbi1TWkZQQzY1SW9lZDZ0d2pR?oc=5",
+          "published": "2026-08-28T13:29:29.000Z"
+        },
+        {
+          "tag": "Regulatory",
           "headline": "Bank credit, deposits decline in fortnight ended August 15: RBI data - The Economic Times",
           "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObUZ2NTBKOTdnSkJwN2xyMkdkWXFIY3ZtcEJPWXJzZ3dQOEJPWHRWRXVjaXV0ZGVjcHNTbmNzWnBDYkVfamFXSGotXy1IZXNQZnFPbHBSZThONUh4bl9IZHJvV1YwSy11NlZEZkVIdmY1Qm9CdzI5YnRtV09XdzljUXRiT1dIb2dheGVJYlEwT2UzOFlnektuUlFkbE9Ya01CZklhTHFXeDRqeWFhdk1wOGFGRU9aMjU3OTNmN0dtLXRGU1lQUHp2Z1FheFFBT2huckJ5SzNwYzNKWnFTa3dyNkdBU1RqMXN6UGptTDByV1k2S0x20gHuAUFVX3lxTE9MMTBJUl9wNG16WFdfRHRpOHlEc1c0aEFfZFJtQ1g3VUVFejJfRUNYa1doeW5CX3E4M2pJcGpjMnhFOEJxcTJ6SDAwLUdpWEpDLUxwRnJka09oN1NZWWYtaHc4M3E0eVJQX1FLdzBpRC1zdjVKUlBPcUdjNXM2dHNzTWkxd1VfME0tNGg4YUp4M1c2TGE3UklfWXNHTThVU3VEaEJ2aWpiOXRzTGxSZkxHMDF1eGJIb0swVGdwZDlhcHRKWUhOSllNeTRjVmJxWmhYWVJXenhHZF9FU0xYWFo2emxfMTdiYlotaDd4QWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObUZ2NTBKOTdnSkJwN2xyMkdkWXFIY3ZtcEJPWXJzZ3dQOEJPWHRWRXVjaXV0ZGVjcHNTbmNzWnBDYkVfamFXSGotXy1IZXNQZnFPbHBSZThONUh4bl9IZHJvV1YwSy11NlZEZkVIdmY1Qm9CdzI5YnRtV09XdzljUXRiT1dIb2dheGVJYlEwT2UzOFlnektuUlFkbE9Ya01CZklhTHFXeDRqeWFhdk1wOGFGRU9aMjU3OTNmN0dtLXRGU1lQUHp2Z1FheFFBT2huckJ5SzNwYzNKWnFTa3dyNkdBU1RqMXN6UGptTDByV1k2S0x2?oc=5",
           "published": "2026-08-28T12:58:01.000Z"
         },
         {
           "tag": "Regulatory",
-          "headline": "FIDC asks RBI to ease proposed curbs on NBFC revolving credit, flags impact on MSMEs - CNBC TV18",
-          "source": "CNBC-TV18",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbU1Ja3VjX3RWaVFSYmplOUtNQXpSanVodC1xamZxSTBmOTNLemlEUTdIMVlFU2c3cnpDWDNWbjI0UUdSZUNhSkVXaVNIdjlweG91UlFsbE5DZlk5OUl1NG5xUzhNUFpUY2ZZS2x1TnRwb1AwTE9oc0dCOHdVRnVZTWsxVFZtU3B1bklSOHk0eFM4VGRJX3EyVUo0bWc1NlU1ZkJmSUZvQU1OVUgyUUdIRWRqc0lBRHJuckI5d2lLX0JJYUFscmdHZFJR0gHPAUFVX3lxTE92bDFhOHk0T2pnZVFPcjI3T0xiWWpzLWJ0anhXdjBnU19lcjUzdmFCUDlwOFFJRVdNVFpfQVpiSUwtWEVlblk4MHRmekpWMFhDMDhzU0VuMlowdWtqMUkxdGU1d3I5NjNaZGRIYmxlaFBkbWxHN0JUSWtwWklneERxQkRLTVVwRTZySi1nTUdXbGFXV3hLd0s4LWY2Um5wYk9uUUhqZHNOOXhrOVlwVFRnRFN3MTNTM2lZdVdhblFRcHpNU1QzTlQ0LUREQ3dPaw?oc=5",
-          "published": "2026-08-28T04:30:42.000Z"
+          "headline": "Bank holiday today: Are SBI, HDFC, ICICI and other banks open or closed on Saturday, August 29, 2026? Check RBI calendar here - ET Now",
+          "source": "ET Now",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdlA4eUNIbnI1TmZieXhid3ZFZk5nSktKNFVWSnJncmRRcHVOQU9hU3hBQjBBWFByZ0RNUHc4VnRnQU9BYWVfdk5DelFNU1g0SmItWHc5Y2VDY3liWGU2LVVTaGlDWlA3WUVtSmJqdDhDUUdCX3ZIRllPakVWTHR0MGpuZVBjbjhrTndMTVBwdEF0eXIzcy13ZUE3SXVNaTU5blU1cDRHd0dBWDE3MDJWcUd2Rld5eXZkSk9ReVlOREJPUmtrOGZlY0M2MWdGS0VTSks2X0hmRWFVZUZveDZ5VDU1Ykp5TFBOVTJFdFpyeHNTTmZ4anNYX1pzc1BfQkpleUNzLWxiVFBHd2Qw0gGSAkFVX3lxTE0wMDltSW1XZGV6T1NJc0F2cEhJSWtwakNScFRiYmQ5ZXRyaDljRXVuWEo1MFpXMlBCUC1nSGlkdW85WENWd2MzNGhfek1rNmt1R0NzMzJyR0daUk1LYTZwSWd6SVkxUUhKdEdSYWRiZUoydE5zS2dkTVBaaFllOXJ3MU9iZFJaQ3B3di1VZkJTV3JXVlg0RjJDV2l0eDEyb3pOa0UzcTlpRnUzMWFUcEg2X3p4SlJwM0ZDajljMDNNcy1heXZMS2F0OU9URFVsRV9uRzF1Wl9oSEJxNEhYcTZmQ1JGUEMzM3lkME94UDRnTEFRTmZrUjFrWThiMnRaaFFYR3RVc0EzbkNWZjJaRG9IZ0E?oc=5",
+          "published": "2026-08-29T03:00:27.000Z"
         },
         {
-          "tag": "Regulatory",
-          "headline": "RBI receives ₹1.42 trillion bids against ₹2 trillion in overnight VRRR - Business Standard",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOS00RnN3alJoVjNxdXpnY09ITGJrMFh0VmlRd28xQ0RPWWdVVk9seGhqOE9DQzA4VmtlTmpxdER6Q3BxaGJXREJjU1V1SktuV0tmY2lvY3FEaWtTZndtSmN5Y0JaQXRyVWRYMFJuWDA2a2kwZTBZX3BhRjVIaXlncXQ1TElJdTJRdHN6ZTB1ZU9UZjJ3M2hMZ0dkNC02ZTN0YnA4dGFLS1F2ZnZCcFl6dU52d2lfQVpDSmozZXhOV09sX3pYZnZBRGJrOFlYNERL0gHWAUFVX3lxTE1UbElXc29jRGx5bTdMVEJuNnVxQXJIdXJIQnRmZldmT2xSWS1VX0V5MGY1TTBwTlhkdnYtVFVVVy1UYy0zZFk2RHVsbVNUUlNDd3hobnlpOWRTOTBEMFZOcnc4ZkJCWHQzUUgzTmZHSTVuUWdnSDVLaWltU1FwcnVuN1hCWWNLTVBQM01MbHo2UzFlRFpVMjJHMEppZnNEVlNsaGJIY1gtbEZkOTJHM0NvOEVpcWZDeHRjcUxjZ0hVN1hUNERUblZDcW9NelNOZHpjYmNxU0E?oc=5",
-          "published": "2026-08-27T15:26:46.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "RBI relaxes weekly access rule for FCNR(B) swaps above $100 million - Business Standard",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHRjM0wxaF9ESmJpSUxwcmlPWF9ackJuamt1b2FudGk3RFAzS0VpSGJaRjhfbXVobVlmOXljY1F0d3ozczBBNzRDd1RjZklER3BsMUVOQ0dwUTVVbWpTZnlFNDgtU2s5T0xvdTZzekh3ZTNhMURWMlpXN1IzQVFUbTNQaE84b0FZb3h2ZEpDWjlOOEwydWVidmthTTNkY0ExOFlDbzVXRmRUY1ppQTF2dzBqMXdmOTMxbjVaOWNrdWVJaWFNb2stNG5QVmXSAdIBQVVfeXFMTmlYamR4MzNZQTRTaDc3NVRNSkRkOVBpbEMyNW5SVUN5eGpYN2RtYi1tRlRiU2pnME43c0pINXVEdElrdnNORXE0MDJ2R3FURHlpZ0ppdFo4Z0FCLTVMclZOTGFOYVNYR1BmWHZYQ2k2VFZxaFp4Yy1UOFpWZ3dOVUgwQVRwMkRobzAwNkd0TFVIZmpTMGFtMGxsYU5YUDJPVFNyZk1hX1lNZWZnblpidHFGcTd3ZGRkZVd0cVN0Z1A2XzI5NUpLemNBM2RkZmI3dHVR?oc=5",
-          "published": "2026-08-27T14:27:30.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "India Inc sales growth accelerates to 19.4 per cent in Q1 FY27, manufacturing leads recovery: RBI - bfsi.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZTJ1M1JJVEY4ZXRMZjdQRXNaTEVhVHhjb1Vpd0czRElrVWhLVTNLQUd3NVJGcFNOdkFfTFNvLS0wM3lFam1RYnBHeENZNG1pX3I0MThDS2VjWlpWd0MwVFFFNTYzdzBZMVAwcVJBR3VCQkg4Z0Izei1IbjFxek1oVVdIb29IZnVXdUZWWmhmeEd1NVpIZklTVFJKVnhGQjNSUEplZ2hXRy1OclNmY0p1d2FaRmt6RlJ5bW9LMWQyYktBVUViTlU4c2tRdG5ELXFNVENFYlJjMHlEaWlHX1U3Q3VaUFQxeXJ0Y0s5dG9OeDBkbDNKM09r0gH3AUFVX3lxTE9lMnUzUklURjhldExmN1BFc1pMRWFUeGNvVWl3RzNESWtVaEtVM0tBR3c1UkZwU052QV9MU28tLTAzeUVqbVFicEd4Q1k0bWlfcjQxOENLZWNaWlZ3QzBUUUU1NjN3MFkxUDBxUkFHdUJCSDhnQjN6LUhuMXF6TWhVV0hvb0hmdVd1RlZaaGZ4R3U1WkhmSVNUUkpWeEZCM1JQSmVnaFdHLU5yU2ZjSnV3YVpGa3pGUnltb0sxZDJiS0FVRWJOVThza1F0bkQtcU1UQ0ViUmMweURpaUdfVTdDdVpQVDF5cnRjSzl0b054MGRsM0ozT2s?oc=5",
-          "published": "2026-08-27T13:24:44.000Z"
+          "tag": "Press",
+          "headline": "The week in charts: A decade of UPI, services inflation, Kanda Express - Livemint",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTZSNUdRN09IODJTUlhlb1RROHRLbVM2Sy1VYU9WdzA1X3Vma2RtbXFYS1dTUy05OTh5amozeU9PLWFaWUt3ODU5M21UMUdibWtJVElFMV9xV2haQTUtN3RSeXd1eTU3OWJNejVxaUJBc0h6WnNDbkVreTFtaU85NVpMVVBGZTVZQmJVcEV1cDRPdW9jbUtuQmZNZlhuZEZyUmdma3JTek9yR21PbkN6UWhZUzMzUdIBuwFBVV95cUxOSHF1cWd2MlNMV1l2WG1UdHJaYW9OaENab2dySUdneDFENjJrMG9maUhmaXdiOUV1Um45TC1FV3VwUmUtdGRyM2RDQ0Z2M0EtcFFlZXNrSTVYaFNQSnNKcHU2RGxnczEzQVRXcHcwaDY1VncxS1I2N1QzR2lkd1Rjc2JmdW5aYVNiU1hxX1ItWHY4RVlwclRuTVFBSXpMb1VULVJfc0l2RWtWSW1sek5qYWg3MDlSS3ZsVXhr?oc=5",
+          "published": "2026-08-29T00:30:30.000Z"
         },
         {
           "tag": "Leadership",
-          "headline": "Fed should raise rates to curb inflation, says ex-RBI chief Raghuram Rajan - Business Standard",
+          "headline": "Ex-RBI chief Raghuram Rajan urges Fed to hike rates, relaxed on rupee - Business Standard",
           "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZGNNYU9UbW5abWZQby1yel9nSWZhZzRSYmYzYUJRRUl1RFdTSVN6UUVTMzR5dnR3eGswcnk2cWtPcTZFMEVUdEFvYXhKeGlGRXpKRGNVVE8xajRPQ0Y2WjlyMjFMN1dhekxsOHJ4NllXdUpXdXE1amRCTFRaQUVLVVhob0RSeThCWU9nUm9nVmNodW56cWxaa084UUdfMDJrN1JBdUxqbnU3SE1DN3JwaUlPaHQ4YVRvVE9pMWdlamV3ZXVNa0JjLXdwS0Q3TE44X09kQdIB2gFBVV95cUxNbkxIeHNPaWtxZHNqS3ltanY5MlY2V3VsSHExckU2QUpFbF90WHhUWWJ4RFByRno2VEhHcEJVSkFrd21YYldqRF9xRnVRWTltRGRQN0RGNlF5MHlCaEgxblZvOUV0bjZCSkpSQmxRSzh4bUxmQ05HbWV3aVlSYTRWdXpDZFBEaGNmWU14QS1mcWhmSHRRdnRrdkk4WHNnZ05zX1lGdEdtOVM2VzRiS1FqblI5d1RuMElraW1pQ2pnZTlVU2g3UmxsbzZQdDlfQjVLWlFkeEM0V21BZw?oc=5",
-          "published": "2026-08-28T04:17:42.000Z"
-        },
-        {
-          "tag": "Leadership",
-          "headline": "SBI sees corporate loan pipeline at Rs 5 lakh crore: CS Setty, SBI, Chairman - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVG0yRk40RmJqc0ZuV25NLVBkY09ranhCelEtT3JweDVhUlNIQnAzNl83QTN5T0hCR1dBWmdWa2tFZnBMdWtwa0wyNnJ5TDVSVFpXeFhBamhfNEhZUkNvV0t0dDg0RzFwUllzVlllSHNrNW5ybjlld3VSeGRTZUR2UGUyaHVaNDV6M2tBVXpSTUdxWVc3c3ZkbW5mYTRYY2ZPY05xdERsVTF4MmtXSjlQSXZ1RjcxQjhFNjRqM05JVkswQWpfNjkyS01fZktWSTQ0TFRCcTdFcE5rOG9CUU53UWFXRzUwQW1FV2QzdDZiOEMzdXhLYm1kUmpNUi1GQdIB9wFBVV95cUxQMV9HaEgyR3JGci1NOHhoaldDQzlZSzd2dE51cHMyd1o5bHR6Q2lYQzZodEhtWDczaUhMbGVLVGtmSGJhZDByd3czLUNiQWE2eWwzZzJJa0k1QlFJbDIxcFU0OVBKV3NNeThvNUVLS19idkwzaHVXS1ZNRV9PVlZ0ZDZIM3Z3dll3b19MNVMwRTByVXYwa3RRa1MxcWtNTzNCZnNlTmwtT3hFN2l1Y2JuWmVNWnJQLXpMMmV4RTNOQUFXc29yZ3poUDlBZTRLLVZHTWU0UlNBQ0xXRk8tMGJmb0tyRjJKSVdZWUxIbi16UTVXeTMzMzdr?oc=5",
-          "published": "2026-08-28T00:30:00.000Z"
-        },
-        {
-          "tag": "Leadership",
-          "headline": "Banks, companies better positioned to weather next downturn: CS Setty, SBI, Chairman - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaVN4N3pjT2ZfcEZkSFRiUTk5WHRnTlI5dExDTkRFVm5DWmVtOHVWY214aW5McGNEZlBPRTI4R3QxTTF2Zk9EaFYyUWpMLUFjWTBVSjBkQTFRLWpnZGtoNDkzTDdSMWVUV21PUlFRbzlSX19IQjNzMDFrUy1JU25hY2ZyMkotY3hWeFdQeEUxVnkxN0dXRWFzaFZBY3ZkeFlPR29iclh2REltSmtyV0VLdzNQcVMybkJFZ010S2JybnEzejYzLWZTMVpidDJTNHNxYlpIQlNjeEt1U3h4Q25ta2VFZ2cya05CemRyMzRVV2tGY3Y3ZEFabTc2R3JJUGM0enRUVTBUMNIBgAJBVV95cUxPNWNUd1g3Z21vbnp2M3daZ1RNUnJra2VwMHlQQTM5WWdOT3htNWc2QU9SUFNiM1l3SExjWHhGNVQxSTM5S1FjaFNZNWVXUk4xTUlxZWQ4bGpscFp1ZmdFS3kwdTU5NFlQZXgySm11X2NNYXFlY3JwQnlhTXFXOXM1N0lpTjJuLTZlUDN2azBCbC1Eb0xQT3ROaHdNbVlCSkx5WFhrSGVYenp5SllrVGRWb0JUZnkzWE9pVDJRVEd4alVPcVJJZ0ZjbXNWbmN4aDQyclVaLXQyVFd6LU9tWkFVaWMtX1JZS25POExEbFo3bEhmZ3RyZURacmdnUk9ielFk?oc=5",
-          "published": "2026-08-27T19:30:52.000Z"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUlJOelRjSUxBMlk0Qm1WM1hlWENqTTVOR1R6dDBycGFxZG51X2pycS1NcFl6NVNvSVJyT1pZWjhIdEh5ZTF0b0ZUZWJkeVlUc1loLW9zcTRvZmsyMm9WNTBFd19LallhNzF1M19fR2tvdUwzMFVWaFBZWVJpSnJFQW9NbHdRZDFiamZIMEJ0NjVIdEFHUG5VNHNRaG94T2lVcUMzMzFZTDdCVF9xRUFsaHpJQjVCZURzS2NLbWx6dWdnZm5CVkg5QUZya0xtZ9IB0wFBVV95cUxQdjQ0Q1ZJZUNUSGEtbVlmOUJVU19NYUJ3Mm84dkxEdWY1RDY0d1ZudlpDcFYydk1waVExNnNVOEFDTXNuaXJEOWdQUm1MckdPaUh1djNRWmdieTdGdzhDSV9xMnJGbmUyb0VHQmlMQnY4Z19pNGU3NF9xeF9GZ0ZIMFJKZ0RJWnMyZFRwX0I0Q2FRaGJJV2dMSHVFYWVoR3JLQnFZWnd0ZXpFYWNWM0NFVmpFVkdabE1JbFJBNnNUS3pGTnpQN2wzaWVORlAwakl4WWVR?oc=5",
+          "published": "2026-08-28T13:46:00.000Z"
         }
       ],
       "insight": {
