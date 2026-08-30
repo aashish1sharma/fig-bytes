@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:12:13.786Z",
+  "generatedAt": "2026-08-30T07:22:54.915Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,73 +30,10 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "Hong Kong debuts first dual Bitcoin and gold ETF from MicroBit - Crypto Briefing",
-          "source": "Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eVFZRy13QlZhQkFZRUlvdHRRSzhxMGZVLXZEWmxYd0QzNW9waTdfRnR5UzNwc2FLUzlZWjFVZ2RSbUg5LTY1NkZ6aUVFaWxFczlyVVJ1WnNQVENzZnZXZ1hEWEFTQ0tJX1JTMURmM3U?oc=5",
-          "published": "2026-08-26T15:34:37.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "MicroBit Launches Hong Kong’s First Bitcoin and Gold ETF on HKEX Today - The Block",
-          "source": "The Block",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUZwbkxXckt6WHRnSEdWQkJwTy1tV1o1UlVRcFJaNnpOaXU5Z1c4RDF2YlQ5dmIxamlVV2FSSmZrR0ZYT0RxejlCOTdkZHlNaHEyY3B3YXlGMVhSQ25OVEJFbXNEa1ZBMmRnM1R4dnRpWHdUMkI3T2RFamMwRnhjczg2UkVjdmZZNjlxLVhTQ2NYNUc3WnpWNVJUWXlGMEZzeV80ZnN3dWtJb2hKb29kUGxrZ2JqQQ?oc=5",
-          "published": "2026-08-26T14:00:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Hong Kong debuts first dual Bitcoin and gold ETF from MicroBit - Crypto Briefing",
-          "source": "Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eVFZRy13QlZhQkFZRUlvdHRRSzhxMGZVLXZEWmxYd0QzNW9waTdfRnR5UzNwc2FLUzlZWjFVZ2RSbUg5LTY1NkZ6aUVFaWxFczlyVVJ1WnNQVENzZnZXZ1hEWEFTQ0tJX1JTMURmM3U?oc=5",
-          "published": "2026-08-26T15:34:37.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "MicroBit Launches Hong Kong’s First Bitcoin and Gold ETF on HKEX Today - The Block",
-          "source": "The Block",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUZwbkxXckt6WHRnSEdWQkJwTy1tV1o1UlVRcFJaNnpOaXU5Z1c4RDF2YlQ5dmIxamlVV2FSSmZrR0ZYT0RxejlCOTdkZHlNaHEyY3B3YXlGMVhSQ25OVEJFbXNEa1ZBMmRnM1R4dnRpWHdUMkI3T2RFamMwRnhjczg2UkVjdmZZNjlxLVhTQ2NYNUc3WnpWNVJUWXlGMEZzeV80ZnN3dWtJb2hKb29kUGxrZ2JqQQ?oc=5",
-          "published": "2026-08-26T14:00:00.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "EWH – iShares MSCI Hong Kong ETF – ETF Stock Quote - Morningstar",
-        "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iSDZrdzFaQmY4dC14OG1qNXFiNnNudVZDRTc4RVVOcDY0RHd3cFI5MHlsUHFZWUFRSzJ3Zk1UdGFDYW41X3V4NF9KTm52Z3M1RTRtelhodE9rbGc?oc=5",
-        "published": "2026-08-25T07:00:00.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "BlackRock",
-          "ticker": "BLK",
-          "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
-          "published": "2026-08-27T00:17:59.000Z"
-        },
-        {
-          "company": "Schroders",
-          "ticker": "SDR",
-          "tag": "Presentation",
-          "headline": "SDR:ASX Announcement - FY26 Investor Presentation - 25 Aug 2026 - Market Index",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU29seEt0d0Ffd0lhTnhSYTBqaHJTRy1oWWMtbTRRR0xMc2NOWGw3Y05IUHZEaWhtWjhkZVhwdHh1X3R1MVY5U3JQUkdKQURFVTRyNTl5NEQzSUlUOUMwM2J3eTNtWFNJMzFpZlZsRFZsOTNRMDJGSUFOY0xIVzZoSks4SmJoOGxpMHhlX3FES29JNnc?oc=5",
-          "published": "2026-08-25T10:32:35.000Z"
-        },
-        {
-          "company": "Fidelity International",
-          "ticker": "FIL",
-          "tag": "Analyst Report",
-          "headline": "Fidelity Europe Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNkNraG90SVhaQ3ZLMzZ5UE12Uk9FU2dPdWk0VGhkemJRRFVJLUhXVC1DUFhuZ1gyR0o2MjhMRS1oU25jNXpXeGxaclpUY0prNE5oVXZLamtzV25mbjVkOXRUYWtKaXczbllOZkZ1TTQ0dTV1QmRjcU9BWkloV1IyWW9ocE4zNE41cTJNek05V1dlcDAtR2Rxa05XNm1KSVdBR2lRXzlBUUdsQ3pCTHZiTzZfcW1PNE50bE1teG11b2h3cURNY1J4MmRRZ1VIeWhOWUlxOUdjSQ?oc=5",
-          "published": "2026-08-19T07:03:00.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "wealth-management",
@@ -104,128 +41,23 @@
       "bullets": [],
       "candidates": [],
       "insight": null,
-      "companyUpdates": [
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
-          "published": "2026-08-26T20:38:48.000Z"
-        },
-        {
-          "company": "Netwealth Group",
-          "ticker": "NWL.AX",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance By Investing.com - Investing.…",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGNoM1RPZmpldTE5M1F0T3Btd01rTUhGWGRMYllpQ05vQ2tTNDNwWDlSY0xoMXhwU2hkZjRoTTVfV0JPRDhWYWl5YXFNOFdub1N1bjBESkx5MkMwV3g0c0UxTWNCeTN4ZGRyR1d1RHRQVUxORl9haTVON1psanpHdUFGVnJpSzdMS1BWVTRvRnpOZU4yazhGZW42QUxEdVY4dEFNZFZIc2VQZlFzZjFkRnVHeU1QNTQ4SHQ0Q0d0LWlnd0RnNjhveFloOTdUOEF5bXlGZG4xZjk1Rk9vb3Zubw?oc=5",
-          "published": "2026-08-26T01:21:53.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: HSBC beats Q2 2026 forecasts as buyback resumes - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjRkSnRfblJoTnp5QzNSeTZ1d2ZPd2kyZTAwZFlqVVJzVTFwd09ENV9UR2pKMkhZZE40dlBYX3FwdVBVZWhVMTBIM0NFQzdVNHJMR2hBcTBEOEpJa195bFl1aVlabC1zRmtnOHN6MkxBUXBvcDByeFpjX3hnOXNvc2JiVjR4NVhsMW1CYVZpakJLaEhNYkVLODZPcWQtMXpLbnRXdXFGNF9NVWxvY3k5N1F4VFJVSHQ0Zk1jN1RGWmFFYVZpRmQw?oc=5",
-          "published": "2026-08-04T07:00:00.000Z"
-        }
-      ]
+      "companyUpdates": []
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Chubb Life Insurance Hong Kong Limited wins at Hong Kong Business Technology Excellence Awards 2026 - Hong Kong Business",
-          "source": "Hong Kong Business",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVG5MbnVyb3ptUWpYMmRJREtUVV8zLU1JRExfVkYxaVNCVlhnWG5RaDdrM3U1bVMySC1sb2lKN1JUem5DZWFnblo3NXU2S0lQTmNydHlRQmlUVTFmSl9Ia3JKbUQ4SEZFNmxYNXlKcXdtV293cW5rckRUMHhENGVRdnhLRThrcXhUaDlXTlJ4c1lUenFrSTNMaENQbDVlQzB6Wmd3OTItRVNkQVZMN1hObVBwTm5Yc2dhQ181Ukstc2pNZ0xJT1VZMm8tUnRiUXI5enRkY1dpbWJWMkZ3eUU3Ym5qcWxCR011VWc?oc=5",
-          "published": "2026-08-28T02:19:23.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Chubb Life Insurance Hong Kong Limited wins at Hong Kong Business Technology Excellence Awards 2026 - Hong Kong Business",
-          "source": "Hong Kong Business",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVG5MbnVyb3ptUWpYMmRJREtUVV8zLU1JRExfVkYxaVNCVlhnWG5RaDdrM3U1bVMySC1sb2lKN1JUem5DZWFnblo3NXU2S0lQTmNydHlRQmlUVTFmSl9Ia3JKbUQ4SEZFNmxYNXlKcXdtV293cW5rckRUMHhENGVRdnhLRThrcXhUaDlXTlJ4c1lUenFrSTNMaENQbDVlQzB6Wmd3OTItRVNkQVZMN1hObVBwTm5Yc2dhQ181Ukstc2pNZ0xJT1VZMm8tUnRiUXI5enRkY1dpbWJWMkZ3eUU3Ym5qcWxCR011VWc?oc=5",
-          "published": "2026-08-28T02:19:23.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
-      "companyUpdates": [
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Prudential posts strong H1 2026 growth, stock slips premarket - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlBBOVFpNVZEVjMwdlRRNG9rYzk4M2pJcXhpNVlHMjd6SlVIWVNIa291MXIyUDAxeVZCMjlPbXRacjByd05QNGRfR3k3U2RHVEE3SXVSVE0xcVctYVg3czNjV3NTYThpa0w2c0x1NE9LZUJjTHdCRVdoeDJnRzFuMTRqbzhDbEl5cVNzTUdHbFJPdjIzdlVkZ1l5M2lMbERSVnFnR0RQTjNXbk1VbjI1cXNmSlNkREtYbWFuX3drY2ItYUNBUHN4bUFHa09fN05oaDhjMEZnYmo?oc=5",
-          "published": "2026-08-27T10:24:04.000Z"
-        },
-        {
-          "company": "AIA Group",
-          "ticker": "AIA",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: AIA Group lifts H1 2026 profit outlook as growth accelerates - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN21ySlhRNmQxeUVwUExuMjl6NjduNG9FZ1Y0TGJjVkQ1YXc0WnZ0bGlrWnJtMmwyZTZ3al9LZU9Ybm42NWZWdjQ5ZTIzQkRSczBVOVg0M0lRM0VLUmN0ZHktTnRBeXJhVFU1NEZLV0RwWG0yVFVQVER0NzVyS1hsNk5NZFQ2WG1JcEpacldvYmhmMGdZQ2lIM09ldXV4aDFIWWhMNjNFMVY3akowOVBlT3czM1pKYndYNXFhYWxaVmh3T2ZtZHY1ZHM4bC1HeVItRU5OMVJEc3I?oc=5",
-          "published": "2026-08-19T07:00:00.000Z"
-        },
-        {
-          "company": "QBE Insurance",
-          "ticker": "QBE.AX",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNm5PQ1JfVExFd2o0c0drQzZlZnZ6Z205enNOaXVaUXlBMk5HaTNMZ0MxQ09fZnJybW8yaWVqM2YxSUFrcUZhY0RacXJCRlVIZVFYdHdlWHZ1endVYlUydE9LQWVTd0RZTEdzb2c0QVFZUzRvU1F1anZSVVhJeUNnNHF4eFpaTDlUWmd4N0ExTDZJU1VWczBTQjdIQW5hN2U1QmxGOWhtRmZTd0VrTUhyMEEyNDJ6MWw2aHN6UU5rMklHcHBYTU11Nkh3NA?oc=5",
-          "published": "2026-08-13T07:00:00.000Z"
-        }
-      ]
+      "companyUpdates": []
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "‘Penthouse Syndicate’ probe points at widespread Australia loan fraud - The Edge Malaysia",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FQklUVGZ4OHNKdW1vYmc3dzhNV1dud29PeFE1RHotSG80SlZSSWVXcEJ5ckR5dF9pTDZuOENyemlobklKdDd0cDF6T2lXZDYz?oc=5",
-          "published": "2026-08-28T06:49:04.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "What Happens When a Digital Bank Shuts Down in Malaysia? - Fintech News Malaysia",
-          "source": "Fintech News Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVy1RTE12TldXRHljQzd0MmlwbWZhRUpUa1NjeTFtYWd2SGdXQWJfREhuTEc0MzBJYnNmdVBxRjNTQkdTeDNjR2RLWDJSZHIyYlk2ZUJWa0ZSTFBCREMyQzZWVjZGeTVpM1VnUDc5Q09DemNxQUgtWjNCYmxMOHBURzE3bk9PdzYtdVM1YVhzOWdmQUNUeWhqNFdwcE5YSGl2LTg2LTM5RDhqckxv?oc=5",
-          "published": "2026-08-28T03:11:50.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "‘Penthouse Syndicate’ probe points at widespread Australia loan fraud - The Edge Malaysia",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FQklUVGZ4OHNKdW1vYmc3dzhNV1dud29PeFE1RHotSG80SlZSSWVXcEJ5ckR5dF9pTDZuOENyemlobklKdDd0cDF6T2lXZDYz?oc=5",
-          "published": "2026-08-28T06:49:04.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "What Happens When a Digital Bank Shuts Down in Malaysia? - Fintech News Malaysia",
-          "source": "Fintech News Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVy1RTE12TldXRHljQzd0MmlwbWZhRUpUa1NjeTFtYWd2SGdXQWJfREhuTEc0MzBJYnNmdVBxRjNTQkdTeDNjR2RLWDJSZHIyYlk2ZUJWa0ZSTFBCREMyQzZWVjZGeTVpM1VnUDc5Q09DemNxQUgtWjNCYmxMOHBURzE3bk9PdzYtdVM1YVhzOWdmQUNUeWhqNFdwcE5YSGl2LTg2LTM5RDhqckxv?oc=5",
-          "published": "2026-08-28T03:11:50.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
-      "companyUpdates": [
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: HSBC beats Q2 2026 forecasts as buyback resumes - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjRkSnRfblJoTnp5QzNSeTZ1d2ZPd2kyZTAwZFlqVVJzVTFwd09ENV9UR2pKMkhZZE40dlBYX3FwdVBVZWhVMTBIM0NFQzdVNHJMR2hBcTBEOEpJa195bFl1aVlabC1zRmtnOHN6MkxBUXBvcDByeFpjX3hnOXNvc2JiVjR4NVhsMW1CYVZpakJLaEhNYkVLODZPcWQtMXpLbnRXdXFGNF9NVWxvY3k5N1F4VFJVSHQ0Zk1jN1RGWmFFYVZpRmQw?oc=5",
-          "published": "2026-08-04T07:00:00.000Z"
-        }
-      ]
+      "companyUpdates": []
     }
   ]
 }
