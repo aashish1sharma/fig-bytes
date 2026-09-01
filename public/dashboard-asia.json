@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T07:26:16.339Z",
+  "generatedAt": "2026-09-01T06:39:35.752Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,62 +32,11 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Strategy",
-          "headline": "CMC REIT Expands Student Accommodation Footprint in Hong Kong with Acquisition of a Brand-New Property - The Manila Times",
-          "source": "The Manila Times",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxON01mc2FjUjhxTFFJeHJYa250SzM2eVc4TWFMaGhqek44WlB3YnpsSldsemtneG5vYVdoc0Y2SmJJbURtU0hYX1NzTmVIWDgzSkF4S29ITjhiUExJUVNLbFpoWU5oYnUtUTFBYXdIa0RMcUloNTNFdzRWaGRNdjRva0h3WVZFNDB1cG5KOFlWMGhiTWFxQnNKYXJRaU1IMk5zTENuWG03cTVvYWQzZ2dJRHRwM29zZGM5c2Z1MkppMFRJcnRkVFFCbzdPQkhNTGM0b3lTVk03d1I1TmFGYzhTNEw1UnppRld0NU82RjYwNjFBd3pWTmFlbjZjV19MWHdKOUpaX9IBigJBVV95cUxNVHFlalRzS1p5b242d1pNTE45QlhDbFhvUXlEVk9fVWxLaDZjblE1SEs2MWR5S2RvTUNVclFmV0gtdUJsNGJiUEFvaU02amRxNmE0ZW8zVDRRcmVtRWh4eGtHaUxvLTJ3U2hRcXNRajFYanYyN2gxVC0tclBkNVY5clRVUVB4SGcxM1BSelRYWHBWZldyXzlZS0laTEluOE9HUDJya1VLYnp6ODdTLU5ZRzJ3VndGMm5XU0JGUG01anZXcGZZNFk2cVNJQm1jWVUwZjJhak9PUDJmUlhpU0VLQ09ackhFc3FMUDhVUEFKSE9OR21ZUThEUnJvZjF0dTBKNXI0N0FZb0ZYZw?oc=5",
-          "published": "2026-08-31T03:39:41.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Long-Term Foreign Capital Accelerates Return to Hong Kong Stocks, Cumulative Inflows Near HK$100 Billion Since Late June - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OQnFOdXNZT1MtZno2TFFCMjFrX0JRSGhZSDNxNFFMQlhLTzZNV1BxOGltZTVyS0lqNHNhZEVXdVIwTVF4MnVTMnhnd2puQllUQnZGd1hRTG1INU1RQ0JHX1dna2NZUDU2a2lOR3FLeTZHUl9fcnc?oc=5",
-          "published": "2026-08-30T18:06:00.000Z"
-        },
-        {
           "tag": "Product",
           "headline": "Mirae Asset debuts tokenized covered-call ETF class in Hong Kong - CHOSUNBIZ - Chosunbiz",
           "source": "Chosunbiz",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUROanhYNXBxNHg0NVBHRGl0Q2FVcVhrU3dmREFpOC1mc1ZCNk1RU0tqUDlpdE9PV1haN0FwQlJCMWFrNzZMa0pnN0hWck14elZBY1B4dGk5RWxwRG5oSzFQLW9Bd3E4aWZHQnA3MTdreUhWNlVfby1HMU01VFMyNdIBlAFBVV95cUxPdW1vSE1pbFZUN2xVWFo2LUFGaGxQb0Q1djF2TlVCdklyNjBxcFZmSEZoV25SNnNGb2pKMmNZMWM3SHgyWHhPb2VZWE45U1p3ZTA0TkdXWmFmMkloMHh1b2otUkNLVUhoRHY0bjVVS3Y0MVRDVktzTnVtb2MzZGxMNkVPSDVCLVlUQWlLRzIyYTNVdUZG?oc=5",
           "published": "2026-08-30T08:56:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Strategy",
-          "headline": "CMC REIT Expands Student Accommodation Footprint in Hong Kong with Acquisition of a Brand-New Property - The Manila Times",
-          "source": "The Manila Times",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxON01mc2FjUjhxTFFJeHJYa250SzM2eVc4TWFMaGhqek44WlB3YnpsSldsemtneG5vYVdoc0Y2SmJJbURtU0hYX1NzTmVIWDgzSkF4S29ITjhiUExJUVNLbFpoWU5oYnUtUTFBYXdIa0RMcUloNTNFdzRWaGRNdjRva0h3WVZFNDB1cG5KOFlWMGhiTWFxQnNKYXJRaU1IMk5zTENuWG03cTVvYWQzZ2dJRHRwM29zZGM5c2Z1MkppMFRJcnRkVFFCbzdPQkhNTGM0b3lTVk03d1I1TmFGYzhTNEw1UnppRld0NU82RjYwNjFBd3pWTmFlbjZjV19MWHdKOUpaX9IBigJBVV95cUxNVHFlalRzS1p5b242d1pNTE45QlhDbFhvUXlEVk9fVWxLaDZjblE1SEs2MWR5S2RvTUNVclFmV0gtdUJsNGJiUEFvaU02amRxNmE0ZW8zVDRRcmVtRWh4eGtHaUxvLTJ3U2hRcXNRajFYanYyN2gxVC0tclBkNVY5clRVUVB4SGcxM1BSelRYWHBWZldyXzlZS0laTEluOE9HUDJya1VLYnp6ODdTLU5ZRzJ3VndGMm5XU0JGUG01anZXcGZZNFk2cVNJQm1jWVUwZjJhak9PUDJmUlhpU0VLQ09ackhFc3FMUDhVUEFKSE9OR21ZUThEUnJvZjF0dTBKNXI0N0FZb0ZYZw?oc=5",
-          "published": "2026-08-31T03:39:41.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Long-Term Foreign Capital Accelerates Return to Hong Kong Stocks, Cumulative Inflows Near HK$100 Billion Since Late June - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OQnFOdXNZT1MtZno2TFFCMjFrX0JRSGhZSDNxNFFMQlhLTzZNV1BxOGltZTVyS0lqNHNhZEVXdVIwTVF4MnVTMnhnd2puQllUQnZGd1hRTG1INU1RQ0JHX1dna2NZUDU2a2lOR3FLeTZHUl9fcnc?oc=5",
-          "published": "2026-08-30T18:06:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Mirae Asset debuts tokenized covered-call ETF class in Hong Kong - CHOSUNBIZ - Chosunbiz",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUROanhYNXBxNHg0NVBHRGl0Q2FVcVhrU3dmREFpOC1mc1ZCNk1RU0tqUDlpdE9PV1haN0FwQlJCMWFrNzZMa0pnN0hWck14elZBY1B4dGk5RWxwRG5oSzFQLW9Bd3E4aWZHQnA3MTdreUhWNlVfby1HMU01VFMyNdIBlAFBVV95cUxPdW1vSE1pbFZUN2xVWFo2LUFGaGxQb0Q1djF2TlVCdklyNjBxcFZmSEZoV25SNnNGb2pKMmNZMWM3SHgyWHhPb2VZWE45U1p3ZTA0TkdXWmFmMkloMHh1b2otUkNLVUhoRHY0bjVVS3Y0MVRDVktzTnVtb2MzZGxMNkVPSDVCLVlUQWlLRzIyYTNVdUZG?oc=5",
-          "published": "2026-08-30T08:56:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Mirae Asset Tokenizes Hong Kong Covered-Call ETF With Citi, OSL - Seoul Economic Daily",
-          "source": "Seoul Economic Daily",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelBHeUhRWnE0eTFES3hSLVhMNl9Sb1VzU1ZBeVdlVFRhQkgyUGlWNFh4a0EweDliT1ZPZ3p1WEpnUWpsZjR4anNoRmpxN0JrQjBOSWVXS3FUOWxiWDJ6SE5WNFh5eHQweWx2SENkcFRfVkQ4RzI3a3pqX1JncEV4NjRBUUlRamJSaWlPZENDUHAyNGpNdEhOd3JSaUdNQmhoOEE?oc=5",
-          "published": "2026-08-30T08:14:13.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "End of the road for Sydney’s Platypus Asset Management - AFR",
-          "source": "AFR",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2o1NU53R1NiWnI5T1VVUXRxLTFKQVZnTjVEaUpyY2szQlZLcUNHU3g1UVN0cjhXUTVUOTlDVVgzSVlGbEFwQkRxY3dYQW9pMXNQVzdKbUdWRTRhWGZZNE84SWxGSzhfNHlDQ00waW9PS2g0VGZVaWtrS256S0c1VGtIQTVqUEpIY2xFOUVOMXdRX1FSNlRuc3JLdkE3LTdWdmp1Yg?oc=5",
-          "published": "2026-08-31T05:45:00.000Z"
         },
         {
           "tag": "Press",
@@ -98,10 +47,33 @@
         },
         {
           "tag": "Press",
-          "headline": "Greenwoods Asset Management Hong Kong Ltd. Has $365.05 Million Position in PDD Holdings Inc. Sponsored ADR $PDD - MarketBeat",
-          "source": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONFkzUGRfWkJMRFdXNUx2MlhBenM1U3hMR3M1ZnB4V25iZjM2MldXdGJ2QUFpSWFCSW93MnJ1Z3VRSkYweXRtZ01aVi00YnRnUVQ5VVlKcVBwSGdzeHB6ejFYZVRfZERyTlNnSXBlZWVjZEs0WC13YmpvMHdBTUFETlpLandvUmJveXl6dGtTeG9hRnR3NFlObWk2czlQTVV2djl4c21vbkhGalNBRGtFa3Jic2FtQnA3aGZtV3UtSlMyTlMxTjFCRWtJUWlmT1NJUkE1Y1F4QWx4MmRyOWRsRmVob3NqSjVhRTMxbkVpdmUyWE1HLVlhY2Fwcw?oc=5",
-          "published": "2026-08-28T10:41:23.000Z"
+          "headline": "BGO Joins China Merchants REIT for $67M Hong Kong Student Housing Buy - Mingtiandi",
+          "source": "Mingtiandi",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHNpMG9WcElsV0ppN3lkU2VSSUZpM2dkSVIwN1lFTkNiRzE0dXJhMTdTWFgtV1diWVRBbzFQNWE5M2UwYnpmZlEtRWdhU3d6eTZtS0lhQTJtRTJ1NmlLUWlLV2NURWN2THcxTWt1cEV3emJYdDAwSlJ2VEJERFFzS1dhNmpRcU9GdTJRVWxQMmZjSmNlTS1ZTkVwN0V1WktnT3JqOA?oc=5",
+          "published": "2026-08-31T14:35:16.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Mirae Asset debuts tokenized covered-call ETF class in Hong Kong - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUROanhYNXBxNHg0NVBHRGl0Q2FVcVhrU3dmREFpOC1mc1ZCNk1RU0tqUDlpdE9PV1haN0FwQlJCMWFrNzZMa0pnN0hWck14elZBY1B4dGk5RWxwRG5oSzFQLW9Bd3E4aWZHQnA3MTdreUhWNlVfby1HMU01VFMyNdIBlAFBVV95cUxPdW1vSE1pbFZUN2xVWFo2LUFGaGxQb0Q1djF2TlVCdklyNjBxcFZmSEZoV25SNnNGb2pKMmNZMWM3SHgyWHhPb2VZWE45U1p3ZTA0TkdXWmFmMkloMHh1b2otUkNLVUhoRHY0bjVVS3Y0MVRDVktzTnVtb2MzZGxMNkVPSDVCLVlUQWlLRzIyYTNVdUZG?oc=5",
+          "published": "2026-08-30T08:56:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Japan’s Amova expands into Vietnam with asset management joint venture - Asia Asset Management",
+          "source": "Asia Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2FfVFhhZDBXTFhoWGdqVlRFM2VpNm1BYzZQSjBBaGlXanpkeklTTS00aFlxR1RyS1dERFgxTmg2ajZCT2x3ZTRjdk8yck1yNWNaU0xiNEhkanBXdWpTeDZOemxFdzZRWmFIczc1TlBxRkh3VXRxcDFSYmZXU29VV2ozd25MS1NZd25LWkJqb2JscU55VlUxYnEta1BxYTF4dnJqOFRxbVNYNkU?oc=5",
+          "published": "2026-08-30T16:40:37.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "BGO Joins China Merchants REIT for $67M Hong Kong Student Housing Buy - Mingtiandi",
+          "source": "Mingtiandi",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHNpMG9WcElsV0ppN3lkU2VSSUZpM2dkSVIwN1lFTkNiRzE0dXJhMTdTWFgtV1diWVRBbzFQNWE5M2UwYnpmZlEtRWdhU3d6eTZtS0lhQTJtRTJ1NmlLUWlLV2NURWN2THcxTWt1cEV3emJYdDAwSlJ2VEJERFFzS1dhNmpRcU9GdTJRVWxQMmZjSmNlTS1ZTkVwN0V1WktnT3JqOA?oc=5",
+          "published": "2026-08-31T14:35:16.000Z"
         }
       ],
       "insight": {
@@ -118,9 +90,9 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
-          "published": "2026-08-27T00:17:59.000Z"
+          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
+          "published": "2026-08-31T08:23:47.000Z"
         },
         {
           "company": "Schroders",
@@ -135,17 +107,33 @@
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Pay and perks: How banks in Singapore compete for wealth management talent - straitstimes.com",
+          "source": "straitstimes.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTdSQlpKOFZsTGgzbmhwTzJtNFRZZXB0SElJSkhhWjZmV0IxeXBaWkE0b3pqdDJOZ0hLY3o4eldHZVRRNkFhaEhCU1RIZVlTd1lVWjdzNVcyaEthRjlDdkVad3VnYU9OSEhWOHZ3TXBBOXI5MTdySDRIX3pua2F1WFJGNWswSHlEeUdDbmFsbGxEd1FnRkU3eTJodUY3dXdPVFNqbE9PUnBOWWVfRXliSg?oc=5",
+          "published": "2026-08-31T21:00:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Pay and perks: How banks in Singapore compete for wealth management talent - straitstimes.com",
+          "source": "straitstimes.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTdSQlpKOFZsTGgzbmhwTzJtNFRZZXB0SElJSkhhWjZmV0IxeXBaWkE0b3pqdDJOZ0hLY3o4eldHZVRRNkFhaEhCU1RIZVlTd1lVWjdzNVcyaEthRjlDdkVad3VnYU9OSEhWOHZ3TXBBOXI5MTdySDRIX3pua2F1WFJGNWswSHlEeUdDbmFsbGxEd1FnRkU3eTJodUY3dXdPVFNqbE9PUnBOWWVfRXliSg?oc=5",
+          "published": "2026-08-31T21:00:00.000Z"
+        }
+      ],
       "insight": null,
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "PNC Financial Services Group (PNC) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5Uk9yY21XNW5sT19MeXJUSFNxTE5FSjJyYi1FZHpvT3dOeXJQcVphVU5pVW1ocHAxV21qV0R3OGFybzR6NWI0NWptX1FDN3E1VmFDaUd5R3BXcnBLck1OdVFTbi02WU1Od3dfWjVHa3RpUDBXdk9v?oc=5",
-          "published": "2026-08-29T06:56:11.000Z"
+          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
+          "published": "2026-08-31T08:28:40.000Z"
         },
         {
           "company": "Netwealth Group",
@@ -168,8 +156,24 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Singapore life insurance sales rise 21% as only half feel future-ready - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYlFlOGJMbmZFYUU2OUFEamZYbDdUb2RJMXYyZGp2ZEI0cE0zYzVMUVRscGljbVpSd0pOY2RCTVhucHVmMmc2Vjc2SHg5ellwZGwzbkJkYk1LeG5KLTVzV1JtUVVYZE1jclBid0hzZEpUWVFGdUJlSGJiMUg5UFA0V1Q0MEJybVFBU3ZQR0JtUUh4cXFZMW1oMzlOZTNFanBPa0lZcmptdFJ4ZUNqc1lRR0x6U0xDM2hfMnlKUDVXT0lNeW94T1hIOTFOcnJWdkhqa09XTFZuN19SQQ?oc=5",
+          "published": "2026-08-31T14:58:41.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Singapore life insurance sales rise 21% as only half feel future-ready - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYlFlOGJMbmZFYUU2OUFEamZYbDdUb2RJMXYyZGp2ZEI0cE0zYzVMUVRscGljbVpSd0pOY2RCTVhucHVmMmc2Vjc2SHg5ellwZGwzbkJkYk1LeG5KLTVzV1JtUVVYZE1jclBid0hzZEpUWVFGdUJlSGJiMUg5UFA0V1Q0MEJybVFBU3ZQR0JtUUh4cXFZMW1oMzlOZTNFanBPa0lZcmptdFJ4ZUNqc1lRR0x6U0xDM2hfMnlKUDVXT0lNeW94T1hIOTFOcnJWdkhqa09XTFZuN19SQQ?oc=5",
+          "published": "2026-08-31T14:58:41.000Z"
+        }
+      ],
       "insight": {
         "tag": "Research",
         "headline": "China’s Middle East policy at a crossroads 6 months into US-Israeli war on Iran - South China Morning Post",
@@ -186,7 +190,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-30T08:33:37.000Z"
+          "published": "2026-08-29T12:22:32.000Z"
         },
         {
           "company": "AIA Group",
