@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T06:39:35.752Z",
+  "generatedAt": "2026-09-02T06:16:03.223Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,6 +32,13 @@
       "name": "Asset Management",
       "bullets": [
         {
+          "tag": "Strategy",
+          "headline": "Why foreign inflows into China A shares could slow after record surge - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXgzWlNSUXZ4Y1F5emZtTE9mb1dBaV9DREh1Q3ZEeXdJcTFzNmZlWkRyXzZIMTZ0NWxCckRJMU5WcjdVTF9KZndVS2R0OVdDV2xwQXJEajRacXd3VnluRVJzdG9xalJRRFNxOXk0Q1Q5by10RDhhMnFNNU5KS3Z0M2xSMTlrM2p5QUJ2WGloUHdDUU9uT1dhNE5TcUFtXzB6T3h3MnNGdy1GRkh6bEZmN2Y4NHhSWVVmdzNRZERJNTlrd9IBwgFBVV95cUxPRXgzWlNSUXZ4Y1F5emZtTE9mb1dBaV9DREh1Q3ZEeXdJcTFzNmZlWkRyXzZIMTZ0NWxCckRJMU5WcjdVTF9KZndVS2R0OVdDV2xwQXJEajRacXd3VnluRVJzdG9xalJRRFNxOXk0Q1Q5by10RDhhMnFNNU5KS3Z0M2xSMTlrM2p5QUJ2WGloUHdDUU9uT1dhNE5TcUFtXzB6T3h3MnNGdy1GRkh6bEZmN2Y4NHhSWVVmdzNRZERJNTlrdw?oc=5",
+          "published": "2026-09-01T07:30:07.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Mirae Asset debuts tokenized covered-call ETF class in Hong Kong - CHOSUNBIZ - Chosunbiz",
           "source": "Chosunbiz",
@@ -44,17 +51,17 @@
           "source": "Asia Asset Management",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2FfVFhhZDBXTFhoWGdqVlRFM2VpNm1BYzZQSjBBaGlXanpkeklTTS00aFlxR1RyS1dERFgxTmg2ajZCT2x3ZTRjdk8yck1yNWNaU0xiNEhkanBXdWpTeDZOemxFdzZRWmFIczc1TlBxRkh3VXRxcDFSYmZXU29VV2ozd25MS1NZd25LWkJqb2JscU55VlUxYnEta1BxYTF4dnJqOFRxbVNYNkU?oc=5",
           "published": "2026-08-30T16:40:37.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "BGO Joins China Merchants REIT for $67M Hong Kong Student Housing Buy - Mingtiandi",
-          "source": "Mingtiandi",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHNpMG9WcElsV0ppN3lkU2VSSUZpM2dkSVIwN1lFTkNiRzE0dXJhMTdTWFgtV1diWVRBbzFQNWE5M2UwYnpmZlEtRWdhU3d6eTZtS0lhQTJtRTJ1NmlLUWlLV2NURWN2THcxTWt1cEV3emJYdDAwSlJ2VEJERFFzS1dhNmpRcU9GdTJRVWxQMmZjSmNlTS1ZTkVwN0V1WktnT3JqOA?oc=5",
-          "published": "2026-08-31T14:35:16.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Strategy",
+          "headline": "Why foreign inflows into China A shares could slow after record surge - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXgzWlNSUXZ4Y1F5emZtTE9mb1dBaV9DREh1Q3ZEeXdJcTFzNmZlWkRyXzZIMTZ0NWxCckRJMU5WcjdVTF9KZndVS2R0OVdDV2xwQXJEajRacXd3VnluRVJzdG9xalJRRFNxOXk0Q1Q5by10RDhhMnFNNU5KS3Z0M2xSMTlrM2p5QUJ2WGloUHdDUU9uT1dhNE5TcUFtXzB6T3h3MnNGdy1GRkh6bEZmN2Y4NHhSWVVmdzNRZERJNTlrd9IBwgFBVV95cUxPRXgzWlNSUXZ4Y1F5emZtTE9mb1dBaV9DREh1Q3ZEeXdJcTFzNmZlWkRyXzZIMTZ0NWxCckRJMU5WcjdVTF9KZndVS2R0OVdDV2xwQXJEajRacXd3VnluRVJzdG9xalJRRFNxOXk0Q1Q5by10RDhhMnFNNU5KS3Z0M2xSMTlrM2p5QUJ2WGloUHdDUU9uT1dhNE5TcUFtXzB6T3h3MnNGdy1GRkh6bEZmN2Y4NHhSWVVmdzNRZERJNTlrdw?oc=5",
+          "published": "2026-09-01T07:30:07.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Mirae Asset debuts tokenized covered-call ETF class in Hong Kong - CHOSUNBIZ - Chosunbiz",
           "source": "Chosunbiz",
@@ -67,22 +74,15 @@
           "source": "Asia Asset Management",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2FfVFhhZDBXTFhoWGdqVlRFM2VpNm1BYzZQSjBBaGlXanpkeklTTS00aFlxR1RyS1dERFgxTmg2ajZCT2x3ZTRjdk8yck1yNWNaU0xiNEhkanBXdWpTeDZOemxFdzZRWmFIczc1TlBxRkh3VXRxcDFSYmZXU29VV2ozd25MS1NZd25LWkJqb2JscU55VlUxYnEta1BxYTF4dnJqOFRxbVNYNkU?oc=5",
           "published": "2026-08-30T16:40:37.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "BGO Joins China Merchants REIT for $67M Hong Kong Student Housing Buy - Mingtiandi",
-          "source": "Mingtiandi",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHNpMG9WcElsV0ppN3lkU2VSSUZpM2dkSVIwN1lFTkNiRzE0dXJhMTdTWFgtV1diWVRBbzFQNWE5M2UwYnpmZlEtRWdhU3d6eTZtS0lhQTJtRTJ1NmlLUWlLV2NURWN2THcxTWt1cEV3emJYdDAwSlJ2VEJERFFzS1dhNmpRcU9GdTJRVWxQMmZjSmNlTS1ZTkVwN0V1WktnT3JqOA?oc=5",
-          "published": "2026-08-31T14:35:16.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "EWH – iShares MSCI Hong Kong ETF – ETF Stock Quote - Morningstar",
+        "headline": "iShares 0-1 Year Japan Government Bond ETF, 570A:TYO:JPY performance - Financial Times",
         "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iSDZrdzFaQmY4dC14OG1qNXFiNnNudVZDRTc4RVVOcDY0RHd3cFI5MHlsUHFZWUFRSzJ3Zk1UdGFDYW41X3V4NF9KTm52Z3M1RTRtelhodE9rbGc?oc=5",
-        "published": "2026-08-25T07:00:00.000Z",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MMU40MEpoN1JFbWxyUDVQcENFUWFkWWszTXh2ZGIwel91bUNFUVRrU180dF9uajNNVTdjY2FGMmFMVzVSMVEwV3JFOWdaLUVLT3otT1JOX1ZRWmJIS0Zqd256dE1UdlN2UUNNVEsweTdLWWUyQ1VmTQ?oc=5",
+        "published": "2026-08-27T06:21:20.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -90,9 +90,9 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
-          "published": "2026-08-31T08:23:47.000Z"
+          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
+          "published": "2026-08-31T20:39:24.000Z"
         },
         {
           "company": "Schroders",
@@ -110,8 +110,8 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Pay and perks: How banks in Singapore compete for wealth management talent - straitstimes.com",
-          "source": "straitstimes.com",
+          "headline": "Pay and perks: How banks in Singapore compete for wealth management talent - The Straits Times",
+          "source": "The Straits Times",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTdSQlpKOFZsTGgzbmhwTzJtNFRZZXB0SElJSkhhWjZmV0IxeXBaWkE0b3pqdDJOZ0hLY3o4eldHZVRRNkFhaEhCU1RIZVlTd1lVWjdzNVcyaEthRjlDdkVad3VnYU9OSEhWOHZ3TXBBOXI5MTdySDRIX3pua2F1WFJGNWswSHlEeUdDbmFsbGxEd1FnRkU3eTJodUY3dXdPVFNqbE9PUnBOWWVfRXliSg?oc=5",
           "published": "2026-08-31T21:00:00.000Z"
         }
@@ -119,8 +119,8 @@
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Pay and perks: How banks in Singapore compete for wealth management talent - straitstimes.com",
-          "source": "straitstimes.com",
+          "headline": "Pay and perks: How banks in Singapore compete for wealth management talent - The Straits Times",
+          "source": "The Straits Times",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTdSQlpKOFZsTGgzbmhwTzJtNFRZZXB0SElJSkhhWjZmV0IxeXBaWkE0b3pqdDJOZ0hLY3o4eldHZVRRNkFhaEhCU1RIZVlTd1lVWjdzNVcyaEthRjlDdkVad3VnYU9OSEhWOHZ3TXBBOXI5MTdySDRIX3pua2F1WFJGNWswSHlEeUdDbmFsbGxEd1FnRkU3eTJodUY3dXdPVFNqbE9PUnBOWWVfRXliSg?oc=5",
           "published": "2026-08-31T21:00:00.000Z"
         }
@@ -139,9 +139,9 @@
           "company": "Netwealth Group",
           "ticker": "NWL.AX",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWNtd1FfcDRubVo1NGFiSFhMUVFhbU9NX3BuX0NFOFdGa0NJU2RnRzZzajVrQXZiNktqREI1Wi1fZVlRVXdhRHM2eFp3ZjEtdTdmbFRYdjRkUUhqbUx1VUlJNjJuWFRacUV2LUdvR0c4d3JTTGE3ajVpNWpoR0lSS3F3MEJaeWMwdWl3Uk9zbXZzU05XbTJXOTNTczdSR19HekFhaHRaeFRFU3E1T0RrSmFzNF9SSUFPQ2ZwdDhQYkNtcWViX3dHZzUwUDBZQXRqakVPWXJvZlJfZw?oc=5",
-          "published": "2026-08-26T00:50:39.000Z"
+          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOam92WmliWlB0c0UwNXNmVnk3ZnJKYm9CZUl3eFlaMkhjaGNtVlRFbGFqM0FLd0FPb29FeFY1d3JPRnlfRkdVdFJyMWg3U2YtS1p3UW0zMEdfRl9OMmVTdWt5VzkwbTBzTG9JWjhWemptckNxSDl5WGJVUXl1RDFRTVBSQmpieFRhbjNvS2l5M1l5dWtqN1F2TTljNFBWaDVMSFhFX3RvNC1YdWJORWJBb19UQ0JzTWwzVU5qdGpqVGdBdGdTU3JKWU1DT0ZLNUN0TzNuYlQwc0JqaU1DamxjcA?oc=5",
+          "published": "2026-08-26T00:42:49.000Z"
         },
         {
           "company": "HSBC",
@@ -179,7 +179,7 @@
         "headline": "China’s Middle East policy at a crossroads 6 months into US-Israeli war on Iran - South China Morning Post",
         "teaser": null,
         "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3o1Q0d2ZkVkOGdkMmM1SjQyNWpGTC1rcm1fVHlPOUlrUThjb19saWV6eGRBNnllUVlmMFU5ZWVSckM0SjdhcXhZcHRWR0hUSHI5UG15dmdHYUF3a1Q4NXlmU0prdDlLMHoxckFydVBGb2t3ejFmbnBIQVJlS2NrU2tCN1B6UE1ta1FQM2JNRGx2Z1YtZU5MQ095YzF2RGZ2YTRPQ0VnWU9qcjZTVWt6TzdoYUlSR1pEd3R2clFaTC3SAcABQVVfeXFMTUJOLURWU0o5N1RLR0pEV21PR0VKWk84NGNnUkxjN2J0QjU4Nnc4UnU4RkY4eTB4TG9VMHUwSjlvSC1RVVZVY0h3QXJKZkpobmZIaFRUWmp2enRWNmhNZEswTTJ2SjIwdkJpUmJmOUg1NXBaMElhblFvbkloUF81VHBXd296RDNGWDJRcXFLU195U2o4WE1rMURDVVVOeThWMFVNS0hMb1U3OEItU2ZaZ2xoSjR1R0hDcmQ3cWV6Tzd0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3o1Q0d2ZkVkOGdkMmM1SjQyNWpGTC1rcm1fVHlPOUlrUThjb19saWV6eGRBNnllUVlmMFU5ZWVSckM0SjdhcXhZcHRWR0hUSHI5UG15dmdHYUF3a1Q4NXlmU0prdDlLMHoxckFydVBGb2t3ejFmbnBIQVJlS2NrU2tCN1B6UE1ta1FQM2JNRGx2Z1YtZU5MQ095YzF2RGZ2YTRPQ0VnWU9qcjZTVWt6TzdoYUlSR1pEd3R2clFaTC0?oc=5",
         "published": "2026-08-29T11:00:08.000Z",
         "paywalled": false
       },
@@ -190,7 +190,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-08-29T12:22:32.000Z"
+          "published": "2026-08-31T19:07:50.000Z"
         },
         {
           "company": "AIA Group",
@@ -213,8 +213,38 @@
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "China discovers major copper and gold deposit in Anhui province - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0RfWDQ1WExjbjhSZFJLc3phOWRxRkwyNk9HMkE4NDA1andPQkhKR2lldDZ2NGlfbHFzNWxNWk9IMFFUVFNnVE40eUdPdnJBblYwVVMzNWdjQW5LSExINTQ0bm5BN0xnMG8zbktmMEJMR2ZpYW5VM1M4NHQyNmVMd3lnZ2VYdTNZa1FzVXd4Tzdfa2hHTm5ZRlRMVmllWWIyY2c2WUVpMHJpLUZibUxsUmJhNkxJeVpMcmhDWmNGekt3dFNwTlowWGlRZ9IBywFBVV95cUxQcGNPUmlpeHhybEdZeWJsaklqZVBTMmdkeWtTckxxaDMxZ1BIS3pZNTYxdkZxZHN6WWpxblljdWxLRWl2S0dtdUUtdTlhQVAwTG51SXVrNVBGNHVjTDNCaVFhdnBtZnZuQ2xYTWtTNnZVWEJxWnBabXRHOXl0V0ZZXzVBYTZoZktORFpjYXQ5SG1pMUQxRVl6aHpUMkhRTElLN0NCbVprYzNtX1JMWG5VNlJSNnRkRWI2TUF0WFEwbTFsQ09YckdNRnppSQ?oc=5",
+          "published": "2026-09-01T13:00:10.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore Central Bank Proposes Licensing Regime for Stablecoins, Banning Interest Payments and Mandating 100% Reserves - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wYWVtaUZicXZFcWVTVENyeGtuOWNWcDhadEh3R2p4R240ZnVpYmpoempGQnFyNEVUOUVCTEVFRXdzZmVuUThseExqd3owQzV3ODd4ZE5jTWt5SkpuX1NjZ0ozMGJRVHhFTkk2YjdfM18wa2xZdGc?oc=5",
+          "published": "2026-09-02T00:25:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "China discovers major copper and gold deposit in Anhui province - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0RfWDQ1WExjbjhSZFJLc3phOWRxRkwyNk9HMkE4NDA1andPQkhKR2lldDZ2NGlfbHFzNWxNWk9IMFFUVFNnVE40eUdPdnJBblYwVVMzNWdjQW5LSExINTQ0bm5BN0xnMG8zbktmMEJMR2ZpYW5VM1M4NHQyNmVMd3lnZ2VYdTNZa1FzVXd4Tzdfa2hHTm5ZRlRMVmllWWIyY2c2WUVpMHJpLUZibUxsUmJhNkxJeVpMcmhDWmNGekt3dFNwTlowWGlRZ9IBywFBVV95cUxQcGNPUmlpeHhybEdZeWJsaklqZVBTMmdkeWtTckxxaDMxZ1BIS3pZNTYxdkZxZHN6WWpxblljdWxLRWl2S0dtdUUtdTlhQVAwTG51SXVrNVBGNHVjTDNCaVFhdnBtZnZuQ2xYTWtTNnZVWEJxWnBabXRHOXl0V0ZZXzVBYTZoZktORFpjYXQ5SG1pMUQxRVl6aHpUMkhRTElLN0NCbVprYzNtX1JMWG5VNlJSNnRkRWI2TUF0WFEwbTFsQ09YckdNRnppSQ?oc=5",
+          "published": "2026-09-01T13:00:10.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore Central Bank Proposes Licensing Regime for Stablecoins, Banning Interest Payments and Mandating 100% Reserves - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wYWVtaUZicXZFcWVTVENyeGtuOWNWcDhadEh3R2p4R240ZnVpYmpoempGQnFyNEVUOUVCTEVFRXdzZmVuUThseExqd3owQzV3ODd4ZE5jTWt5SkpuX1NjZ0ozMGJRVHhFTkk2YjdfM18wa2xZdGc?oc=5",
+          "published": "2026-09-02T00:25:00.000Z"
+        }
+      ],
       "insight": null,
       "companyUpdates": [
         {
