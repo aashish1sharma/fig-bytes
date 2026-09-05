@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T06:23:05.214Z",
+  "generatedAt": "2026-09-05T06:11:36.457Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,31 +30,15 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Strategy",
-          "headline": "Why foreign inflows into China A shares could slow after record surge - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTy10ZVpwMFZlODJkUjhHRVFOU0R3RTJuNVQ3bUF3V29ZSDJXcnNhN2hGWEJFcUZhTVBVM1N3UEx3UHZXZ2tjRzlOUWd5WHppTmdxdllaczNmS3hMUkpvTHItQlBPMXV5SE83NURqTzRhNkpmN1ktTzVJYjNscnhVdG1rUy1mWmMxQUlmaWxORUMyeF9XOGpOQVRwUHpKb1prQWhpV1Y0V3lBdWRadmt3N0o0azQxUGtBSkJsUUl2QmEyUdIBwgFBVV95cUxPRXgzWlNSUXZ4Y1F5emZtTE9mb1dBaV9DREh1Q3ZEeXdJcTFzNmZlWkRyXzZIMTZ0NWxCckRJMU5WcjdVTF9KZndVS2R0OVdDV2xwQXJEajRacXd3VnluRVJzdG9xalJRRFNxOXk0Q1Q5by10RDhhMnFNNU5KS3Z0M2xSMTlrM2p5QUJ2WGloUHdDUU9uT1dhNE5TcUFtXzB6T3h3MnNGdy1GRkh6bEZmN2Y4NHhSWVVmdzNRZERJNTlrdw?oc=5",
-          "published": "2026-09-01T07:30:07.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Strategy",
-          "headline": "Why foreign inflows into China A shares could slow after record surge - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTy10ZVpwMFZlODJkUjhHRVFOU0R3RTJuNVQ3bUF3V29ZSDJXcnNhN2hGWEJFcUZhTVBVM1N3UEx3UHZXZ2tjRzlOUWd5WHppTmdxdllaczNmS3hMUkpvTHItQlBPMXV5SE83NURqTzRhNkpmN1ktTzVJYjNscnhVdG1rUy1mWmMxQUlmaWxORUMyeF9XOGpOQVRwUHpKb1prQWhpV1Y0V3lBdWRadmt3N0o0azQxUGtBSkJsUUl2QmEyUdIBwgFBVV95cUxPRXgzWlNSUXZ4Y1F5emZtTE9mb1dBaV9DREh1Q3ZEeXdJcTFzNmZlWkRyXzZIMTZ0NWxCckRJMU5WcjdVTF9KZndVS2R0OVdDV2xwQXJEajRacXd3VnluRVJzdG9xalJRRFNxOXk0Q1Q5by10RDhhMnFNNU5KS3Z0M2xSMTlrM2p5QUJ2WGloUHdDUU9uT1dhNE5TcUFtXzB6T3h3MnNGdy1GRkh6bEZmN2Y4NHhSWVVmdzNRZERJNTlrdw?oc=5",
-          "published": "2026-09-01T07:30:07.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - fortune.com",
+          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
           "published": "2026-08-31T20:39:24.000Z"
         },
@@ -78,13 +62,6 @@
           "source": "Business Times",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXlmZmpJb05IQndIRUkyUHQ5aEp5U3NPOWxoVjN5N1VYQ0hFSWMxYVduOXR6dXpZX1lyazFSSE15YkhyUjEyRDJsb3V6aC1NUGhQVnlBd0dxQ0E0YTNUX0lGcjFzSnBkaEhZY0tkOFU1dGhpd0d5VUkzR1ptLWV6dmw1bGQ4QzQxRmlVc0FPRFdWRkptNzFlSThzcS1iazBCalN6TUd3?oc=5",
           "published": "2026-09-04T04:30:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Taiwan sees surge in HNWI investors - Funds Global Asia",
-          "source": "Funds Global Asia",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DRzJTa1djNXl0MTlUYko0YnFLSmdPVWN0Ri10RVp0M0hzcjhITFNkanVvWm1YUk9KZDAzeGwxc1dfQklvQ1IxWkd2YmFtRW05TG5QcUl0enMyWDQ3UTY1dnYzdW5PbHZYeDBWamZBaU9HTGlmT3lOTDdR0gF6QVVfeXFMT0NHMlNrV2M1eXQxOVRiSjRicUtKZ09VY3RGLXRFWnQzSHNyOEhMU2RqdW9abVhST0pkMDN4bDFzV19CSW9DUjFaR3ZiYW1FbTlMblBxSXR6czJYNDdRNjV2djN1bk9sdlh4MFZqZkFpT0dMaWZPeU5MN1E?oc=5",
-          "published": "2026-09-01T23:16:36.000Z"
         }
       ],
       "candidates": [
@@ -94,13 +71,6 @@
           "source": "Business Times",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXlmZmpJb05IQndIRUkyUHQ5aEp5U3NPOWxoVjN5N1VYQ0hFSWMxYVduOXR6dXpZX1lyazFSSE15YkhyUjEyRDJsb3V6aC1NUGhQVnlBd0dxQ0E0YTNUX0lGcjFzSnBkaEhZY0tkOFU1dGhpd0d5VUkzR1ptLWV6dmw1bGQ4QzQxRmlVc0FPRFdWRkptNzFlSThzcS1iazBCalN6TUd3?oc=5",
           "published": "2026-09-04T04:30:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Taiwan sees surge in HNWI investors - Funds Global Asia",
-          "source": "Funds Global Asia",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DRzJTa1djNXl0MTlUYko0YnFLSmdPVWN0Ri10RVp0M0hzcjhITFNkanVvWm1YUk9KZDAzeGwxc1dfQklvQ1IxWkd2YmFtRW05TG5QcUl0enMyWDQ3UTY1dnYzdW5PbHZYeDBWamZBaU9HTGlmT3lOTDdR0gF6QVVfeXFMT0NHMlNrV2M1eXQxOVRiSjRicUtKZ09VY3RGLXRFWnQzSHNyOEhMU2RqdW9abVhST0pkMDN4bDFzV19CSW9DUjFaR3ZiYW1FbTlMblBxSXR6czJYNDdRNjV2djN1bk9sdlh4MFZqZkFpT0dMaWZPeU5MN1E?oc=5",
-          "published": "2026-09-01T23:16:36.000Z"
         }
       ],
       "insight": null,
@@ -109,7 +79,7 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - fortune.com",
+          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
           "published": "2026-09-01T06:15:31.000Z"
         },
@@ -117,9 +87,17 @@
           "company": "Netwealth Group",
           "ticker": "NWL.AX",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMklUTHBhQ3NJYTVRYi1ZSHJ1YnUyWkNDakdzR1lxYnpMWjF5Sm1qQ1ZJb2tzWVNOWjNoRTc2cjYtOGMxS1N6emhQcXVsdUkxU29TNTJmcDhMaWQ0Nng4bTNJdm5VZEo2TjRFVjV6c1FRbFVHZ0pUWjR6ZFlJaENpNmtiWjh5ai11S0h2XzdZcDZyZEhNaVlqai1uT21NNGE2ZzIzRV9OUVFrV2VZZFBpVmRBc2tUVzA0VEdRNFdLNWw3LXQtbHJlRlpXUGptVm1ESkdGWkZKQVJ2blVsV3ozeQ?oc=5",
-          "published": "2026-08-26T00:32:00.000Z"
+          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWNtd1FfcDRubVo1NGFiSFhMUVFhbU9NX3BuX0NFOFdGa0NJU2RnRzZzajVrQXZiNktqREI1Wi1fZVlRVXdhRHM2eFp3ZjEtdTdmbFRYdjRkUUhqbUx1VUlJNjJuWFRacUV2LUdvR0c4d3JTTGE3ajVpNWpoR0lSS3F3MEJaeWMwdWl3Uk9zbXZzU05XbTJXOTNTczdSR19HekFhaHRaeFRFU3E1T0RrSmFzNF9SSUFPQ2ZwdDhQYkNtcWViX3dHZzUwUDBZQXRqakVPWXJvZlJfZw?oc=5",
+          "published": "2026-08-26T00:50:39.000Z"
+        },
+        {
+          "company": "DBS Group",
+          "ticker": "D05.SI",
+          "tag": "Transcript",
+          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nVHZKai1XR3JZUnBGc0ZkbmdzRy1fVXhaOVJpcVlKdVAzUm5tMUZkQ1RaS1YxUFBjSHZjcHFjb2g3b1gyWmREeF9iUnBDMEJjeFgwcVhra1Noemc1VlVjZWRFa0FURm1h?oc=5",
+          "published": "2026-08-06T07:00:00.000Z"
         }
       ]
     },
@@ -129,28 +107,42 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Taiwan’s Non-Life Insurance Segment - InsuranceNewsNet",
-          "source": "InsuranceNewsNet",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM2tVSFFsbEpTcHBEcmpZOEFqS3VTSEthWTM4eXg2Rm1QMHR1VnJ6U0phNVZlNDJrcXdMVnBuX2l4VElPMzJ5djFCSl9yZVJGQWVMNnp4dkJoS1FFSlU5ZXJqSE8tRldQcDFZSmRibGZ4NVpEWXJpdVBGaDJOOTVZTDFiTGhpZTdBRzNId1FwcGEzaEdVU3ZsdkppdUpERk42eDczV2VUOUNfZE9RR0ZKaGpxQ2IwZFhXWk4tZWpIcUdXRndLdDFZa0dJcV9PT1VVRTFhLQ?oc=5",
-          "published": "2026-09-03T06:37:30.000Z"
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on China’s Non-Life Insurance Segment - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVJGNFU4QnlVNm52TWlLYUdiMWJSYlBmd2NXc3pCNVA5Nl82MUFYTmZxTUdFanJyZ0RfMEY0WDkzOVZ2ZWhCcGQxRVFzT0FoaW9MTk80dUJGcXpZVFB1eUJGWlRUbENEMnhZTVZtalVpLUEwUkZaN3VGMm04X205UEYxYTVhejU4dmQzdllvRVliZ3ZhSlVFNmRYVlIzMW8yQkdudnpJRmJLUTdWNzFzdnFIaGJVTHNLTGN0TDg2Y0hmbDd5NVpmel8ySWE1X2hBdU1iMjBRNzh1UnhlQU9Vb01OdENQaW1FSkE?oc=5",
+          "published": "2026-09-04T14:23:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "AM Best Affirms Credit Ratings of Ping An Health Insurance Company of China, Ltd. - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSE9vc0ctai1tRUNKMTFLUXJ6cVpOQW9LR29OU1BWUHYzMWxSOFRFYzNiQ1NoZl9ndmNBNlhRV0I4RFJSSjBUM0VseW5JalprM2lGUENBeTJxY0I1bVJBZ3VMUXE5VE1VYXlQQURINjQwdDFGb1hmaTZnWWZCS09nN0M2amJiTk9oNDNkOExfbXpUQ2gxTndPMFJoOERDeTRpanl5TlNQRFhjeEt2ME5kSEZtRVlLLVR6WV9oRk01TERfd3ZEb0ZOckJURW1INm5EUnRV?oc=5",
+          "published": "2026-09-04T13:45:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Taiwan’s Non-Life Insurance Segment - InsuranceNewsNet",
-          "source": "InsuranceNewsNet",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM2tVSFFsbEpTcHBEcmpZOEFqS3VTSEthWTM4eXg2Rm1QMHR1VnJ6U0phNVZlNDJrcXdMVnBuX2l4VElPMzJ5djFCSl9yZVJGQWVMNnp4dkJoS1FFSlU5ZXJqSE8tRldQcDFZSmRibGZ4NVpEWXJpdVBGaDJOOTVZTDFiTGhpZTdBRzNId1FwcGEzaEdVU3ZsdkppdUpERk42eDczV2VUOUNfZE9RR0ZKaGpxQ2IwZFhXWk4tZWpIcUdXRndLdDFZa0dJcV9PT1VVRTFhLQ?oc=5",
-          "published": "2026-09-03T06:37:30.000Z"
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on China’s Non-Life Insurance Segment - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVJGNFU4QnlVNm52TWlLYUdiMWJSYlBmd2NXc3pCNVA5Nl82MUFYTmZxTUdFanJyZ0RfMEY0WDkzOVZ2ZWhCcGQxRVFzT0FoaW9MTk80dUJGcXpZVFB1eUJGWlRUbENEMnhZTVZtalVpLUEwUkZaN3VGMm04X205UEYxYTVhejU4dmQzdllvRVliZ3ZhSlVFNmRYVlIzMW8yQkdudnpJRmJLUTdWNzFzdnFIaGJVTHNLTGN0TDg2Y0hmbDd5NVpmel8ySWE1X2hBdU1iMjBRNzh1UnhlQU9Vb01OdENQaW1FSkE?oc=5",
+          "published": "2026-09-04T14:23:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "AM Best Affirms Credit Ratings of Ping An Health Insurance Company of China, Ltd. - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSE9vc0ctai1tRUNKMTFLUXJ6cVpOQW9LR29OU1BWUHYzMWxSOFRFYzNiQ1NoZl9ndmNBNlhRV0I4RFJSSjBUM0VseW5JalprM2lGUENBeTJxY0I1bVJBZ3VMUXE5VE1VYXlQQURINjQwdDFGb1hmaTZnWWZCS09nN0M2amJiTk9oNDNkOExfbXpUQ2gxTndPMFJoOERDeTRpanl5TlNQRFhjeEt2ME5kSEZtRVlLLVR6WV9oRk01TERfd3ZEb0ZOckJURW1INm5EUnRV?oc=5",
+          "published": "2026-09-04T13:45:00.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Taiwan’s Non-Life Insurance Segment - Morningstar",
+        "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on China’s Non-Life Insurance Segment - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSm84Zl9GWVFjcHVRQ1ZMLXNRWUp4N2c4NENqYWRGc0NOY0FXVDBVc3k0emRMWUJaVFVsa1M5QnU2T0tBZWZBUnh0YWxYMWJSeVpvQVpZRXJhdkNKWDV3aThXV1NUbWc1RVdnVTV5cENva3ViSTczdGZNU1prMGRQUXRySm9SdEZ3YmRUVnNHVVQ5eno3TFlWbER2YUpmUjdJbVFabGxPbFNRMHBhT2RteGpSUHpoalJ6MzJ4UmJOb3d1Zzd4ZDcxTmVZNGRLUUd5Uk1JRDFQb2JUVnNzWnZQQlltcTBsUVdzSTE5MjZxYnR1Zw?oc=5",
-        "published": "2026-09-02T23:02:56.000Z",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeVhMQU1NMTJhQ29ubG9NMnR5V0oyN2lsVUU4aTNlTWRFRmhoa1ZMVDBiOGw3ZWxtTjRqUUY0bHlWLWJBM3BIRF8wOWVZejZzLUcyQXlLdTRqYXlaR0p0M1cxLUZsOUx0Ujl5YTVKVm5MaDFDU2g0TkpoTDI0Nmh5dUQzOXRHazBsVVdHWmJUM19rZ1VWWkZtcXZoMDRVemEwYXVJMlFWTTExTmp0ekgtVm1DMjBxOUx2NWJnazhGTkQzWTNKNURrRXNGR0EtSEo1RFlqZmg2NDNhQW80T29VZDN3b2lVX0U2UXpQYmxNenE?oc=5",
+        "published": "2026-09-04T14:23:00.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -160,23 +152,23 @@
           "tag": "Transcript",
           "headline": "Earnings call transcript: Prudential posts strong H1 2026 growth, stock slips premarket - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlBBOVFpNVZEVjMwdlRRNG9rYzk4M2pJcXhpNVlHMjd6SlVIWVNIa291MXIyUDAxeVZCMjlPbXRacjByd05QNGRfR3k3U2RHVEE3SXVSVE0xcVctYVg3czNjV3NTYThpa0w2c0x1NE9LZUJjTHdCRVdoeDJnRzFuMTRqbzhDbEl5cVNzTUdHbFJPdjIzdlVkZ1l5M2lMbERSVnFnR0RQTjNXbk1VbjI1cXNmSlNkREtYbWFuX3drY2ItYUNBUHN4bUFHa09fN05oaDhjMEZnYmo?oc=5",
-          "published": "2026-08-27T10:24:04.000Z"
-        },
-        {
-          "company": "QBE Insurance",
-          "ticker": "QBE.AX",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNm5PQ1JfVExFd2o0c0drQzZlZnZ6Z205enNOaXVaUXlBMk5HaTNMZ0MxQ09fZnJybW8yaWVqM2YxSUFrcUZhY0RacXJCRlVIZVFYdHdlWHZ1endVYlUydE9LQWVTd0RZTEdzb2c0QVFZUzRvU1F1anZSVVhJeUNnNHF4eFpaTDlUWmd4N0ExTDZJU1VWczBTQjdIQW5hN2U1QmxGOWhtRmZTd0VrTUhyMEEyNDJ6MWw2aHN6UU5rMklHcHBYTU11Nkh3NA?oc=5",
-          "published": "2026-08-13T07:00:00.000Z"
+          "published": "2026-08-27T07:00:00.000Z"
         },
         {
           "company": "AIA Group",
           "ticker": "AIA",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: AIA Engineering Q1 2026 shares fall as margins ease - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHh5clU3R2s0ci1TY3ZVdTRLcEIzd1RGWmw2eGpXdkd4Q3h2RzJ1a2lFSmZQUW9jaDhIQ3Azd3dOaV9LaktqTWxxQ1B4YzNWYkg4S3Q1eFpFVlR5WTAwTG1MQjM2QjVJSFJMbFZ1TFNYeWNZaFByWE5PaGo2LVIzZWo2Rm1ld2YyVHJVMlllaWlvNUF0blhnVWhDVUR6X0pacTZMRmUxNXFnRksxNEtwZkFPLWZnTlFGTzd3MjlXLU5vVExBT1hCQUZPQlk?oc=5",
-          "published": "2026-08-12T07:00:00.000Z"
+          "headline": "Earnings call transcript: AIA Group lifts H1 2026 profit outlook as growth accelerates - Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRk1JcXFkWDJab0R6X1JuZ3FWYndGbW8tLUx1bDFlZDQ0czI5N2p4bkdmZGlpOXRZajg4R3ZGSzE5UWw3NEZockVwTU50Xy1YQnhjNnJ1TF9Cb2t6YlJndWg0dkllOHNIMkFQNGtwc2pvYzRBeGRLOFpHc25zN185TTR1anNodGptVVVoWFJaV200UUNzNVFRLTZsUWxNS0FwLVAyU0w3LWk3M3RNRFJJRkpHemNwU0NyRWxKcFlHcUttZVNiUERVOTlBd2ZSZzBpSFkzZ0VLSQ?oc=5",
+          "published": "2026-08-20T02:54:40.000Z"
+        },
+        {
+          "company": "QBE Insurance",
+          "ticker": "QBE.AX",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWQtXzAwcHFocFBYU2VyVGRwcDN4TFppS0ZMWl9oNDFNcHpDa0VrWjVOT2lObW9GSVVUaTBUb2o1NllRVTgyNURZeS1TdjQwUF9TRUx5OHZVV3lMS2NJcW80aXBZXzQ3ano1LThFdUlzRkpoMkFWYzEtZ2cxSnZGek9hd2RKcTVPOVZLTFVJb0FMTzdCZWhvX3l5M1o3ZGRJNXhZa2RGS2xJcHNlUmplSjhmdDZqX0tpeU81S2NiRkxYNFFnS0dRM2Zn?oc=5",
+          "published": "2026-08-14T00:58:36.000Z"
         }
       ]
     },
@@ -184,20 +176,6 @@
       "id": "retail-banking",
       "name": "Retail Banking",
       "bullets": [
-        {
-          "tag": "Strategy",
-          "headline": "Citi Hong Kong to Launch Market-First Virtual Credit Card with Dynamic Card Validation Code (CVC) in Partnership with Mastercard, Setting…",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdk1jbGRuTExuYlQydDJWVmpfbjl2eUIzQjBKZVpRSWNNelZMdzVUQXpSRVZFa3pETGtlT1hBY0V3TEFuSUEwbmlCeC1BU045MlZSQmk1b2R6T2hnVG5JSmltTG9Oa0dvcjNsMHJzZ2psUUN2X1NnMmZKNDkzQU12QkZ3LVF6QUtHZElFbGE1VThPVkxLdTVHNVN0SlJEOWxSeDFCdm1zTkkxdw?oc=5",
-          "published": "2026-09-04T03:00:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "China discovers major copper and gold deposit in Anhui province - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0RfWDQ1WExjbjhSZFJLc3phOWRxRkwyNk9HMkE4NDA1andPQkhKR2lldDZ2NGlfbHFzNWxNWk9IMFFUVFNnVE40eUdPdnJBblYwVVMzNWdjQW5LSExINTQ0bm5BN0xnMG8zbktmMEJMR2ZpYW5VM1M4NHQyNmVMd3lnZ2VYdTNZa1FzVXd4Tzdfa2hHTm5ZRlRMVmllWWIyY2c2WUVpMHJpLUZibUxsUmJhNkxJeVpMcmhDWmNGekt3dFNwTlowWGlRZ9IBywFBVV95cUxQcGNPUmlpeHhybEdZeWJsaklqZVBTMmdkeWtTckxxaDMxZ1BIS3pZNTYxdkZxZHN6WWpxblljdWxLRWl2S0dtdUUtdTlhQVAwTG51SXVrNVBGNHVjTDNCaVFhdnBtZnZuQ2xYTWtTNnZVWEJxWnBabXRHOXl0V0ZZXzVBYTZoZktORFpjYXQ5SG1pMUQxRVl6aHpUMkhRTElLN0NCbVprYzNtX1JMWG5VNlJSNnRkRWI2TUF0WFEwbTFsQ09YckdNRnppSQ?oc=5",
-          "published": "2026-09-01T13:00:10.000Z"
-        },
         {
           "tag": "Press",
           "headline": "Building the Future of Borderless Payments - Fintech News Philippines",
@@ -208,32 +186,11 @@
       ],
       "candidates": [
         {
-          "tag": "Strategy",
-          "headline": "Citi Hong Kong to Launch Market-First Virtual Credit Card with Dynamic Card Validation Code (CVC) in Partnership with Mastercard, Setting…",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdk1jbGRuTExuYlQydDJWVmpfbjl2eUIzQjBKZVpRSWNNelZMdzVUQXpSRVZFa3pETGtlT1hBY0V3TEFuSUEwbmlCeC1BU045MlZSQmk1b2R6T2hnVG5JSmltTG9Oa0dvcjNsMHJzZ2psUUN2X1NnMmZKNDkzQU12QkZ3LVF6QUtHZElFbGE1VThPVkxLdTVHNVN0SlJEOWxSeDFCdm1zTkkxdw?oc=5",
-          "published": "2026-09-04T03:00:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "China discovers major copper and gold deposit in Anhui province - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0RfWDQ1WExjbjhSZFJLc3phOWRxRkwyNk9HMkE4NDA1andPQkhKR2lldDZ2NGlfbHFzNWxNWk9IMFFUVFNnVE40eUdPdnJBblYwVVMzNWdjQW5LSExINTQ0bm5BN0xnMG8zbktmMEJMR2ZpYW5VM1M4NHQyNmVMd3lnZ2VYdTNZa1FzVXd4Tzdfa2hHTm5ZRlRMVmllWWIyY2c2WUVpMHJpLUZibUxsUmJhNkxJeVpMcmhDWmNGekt3dFNwTlowWGlRZ9IBywFBVV95cUxQcGNPUmlpeHhybEdZeWJsaklqZVBTMmdkeWtTckxxaDMxZ1BIS3pZNTYxdkZxZHN6WWpxblljdWxLRWl2S0dtdUUtdTlhQVAwTG51SXVrNVBGNHVjTDNCaVFhdnBtZnZuQ2xYTWtTNnZVWEJxWnBabXRHOXl0V0ZZXzVBYTZoZktORFpjYXQ5SG1pMUQxRVl6aHpUMkhRTElLN0NCbVprYzNtX1JMWG5VNlJSNnRkRWI2TUF0WFEwbTFsQ09YckdNRnppSQ?oc=5",
-          "published": "2026-09-01T13:00:10.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "Building the Future of Borderless Payments - Fintech News Philippines",
           "source": "Fintech News Philippines",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2lyc05qMjVRZG5MZmp4dW5JakI2VFYtT0J2ekRROWxYQXMta1NWSm9sc21iOUpoQ3pZUnZ6Q3g0WUJwWV9vOXQ2ZGRtOXk5N0FNbjNOaEJhNFIzYzFyUGVQWVZyb2kwSS1fc1VZQVhQb3FHUVo1bllkTFhCc3p6WGZYVFloUQ?oc=5",
           "published": "2026-09-02T10:15:13.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore Central Bank Proposes Licensing Regime for Stablecoins, Banning Interest Payments and Mandating 100% Reserves - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wYWVtaUZicXZFcWVTVENyeGtuOWNWcDhadEh3R2p4R240ZnVpYmpoempGQnFyNEVUOUVCTEVFRXdzZmVuUThseExqd3owQzV3ODd4ZE5jTWt5SkpuX1NjZ0ozMGJRVHhFTkk2YjdfM18wa2xZdGc?oc=5",
-          "published": "2026-09-02T00:25:00.000Z"
         }
       ],
       "insight": {
@@ -241,7 +198,7 @@
         "headline": "Citi Hong Kong to Launch Market-First Virtual Credit Card with Dynamic Card Validation Code (CVC) in Partnership with Mastercard, Setting a…",
         "teaser": null,
         "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdk1jbGRuTExuYlQydDJWVmpfbjl2eUIzQjBKZVpRSWNNelZMdzVUQXpSRVZFa3pETGtlT1hBY0V3TEFuSUEwbmlCeC1BU045MlZSQmk1b2R6T2hnVG5JSmltTG9Oa0dvcjNsMHJzZ2psUUN2X1NnMmZKNDkzQU12QkZ3LVF6QUtHZElFbGE1VThPVkxLdTVHNVN0SlJEOWxSeDFCdm1zTkkxdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0M0RVVoUTFpelRVUklJTVMteDgyWXdWWlBLU3J2amFPay0wRFFTTVVfQXZtY2xDbm1kb2JOWE9NZ1ByVGZHRksyZ0R0NllQUVU2TmVQM1hUUHB5SFdEMXFFZUJCdzZpOG9nWEppbWhyMTUya1ZoNmYxcDk2LWdkckpwemxCNnN2aGp1dWp2azJ2OWl4WFk2U3J3LWZuWHRqZUhNMGt2SQ?oc=5",
         "published": "2026-09-04T03:00:00.000Z",
         "paywalled": false
       },
@@ -253,6 +210,14 @@
           "headline": "CBA 2026 Full Year Results Transcript - CommBank",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkwtcVdhWVpzTld3QUpQLVdycG5iLXM1dEExT0xTa0lmZGw4VHBPSHBKb3A4ZW5fLTcyMkNzeU9RTkJpcUFvbXJlRHcwMDA5RU8zYkV3aXpkVEFBbUpISE9xOEhjaDg5WjVKYzFDbGc1WDVnZkpXQnluREJSbk1iNW13SXBpcC1uU2tHaFFvX185ZDlQZVZ1OTFoSnBUUmU0TF94VV9WRkY4R1g3QnNNWFZR?oc=5",
           "published": "2026-08-12T07:00:00.000Z"
+        },
+        {
+          "company": "DBS Group",
+          "ticker": "D05.SI",
+          "tag": "Transcript",
+          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nVHZKai1XR3JZUnBGc0ZkbmdzRy1fVXhaOVJpcVlKdVAzUm5tMUZkQ1RaS1YxUFBjSHZjcHFjb2g3b1gyWmREeF9iUnBDMEJjeFgwcVhra1Noemc1VlVjZWRFa0FURm1h?oc=5",
+          "published": "2026-08-06T07:00:00.000Z"
         }
       ]
     }
