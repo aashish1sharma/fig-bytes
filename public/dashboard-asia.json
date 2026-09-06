@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T06:11:36.457Z",
+  "generatedAt": "2026-09-06T06:24:06.663Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,8 +30,24 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Futu Holdings Limited Sponsored ADR $FUTU Stock Position Raised by Greenwoods Asset Management Hong Kong Ltd. - MarketBeat",
+          "source": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVUlVWmxwMFdVUHZkbWFqYUhTc3g5UEhpUzRjYTR0cWI3bGc5RHlWcUxJM0hENy0tMVRKeXZuUlhVUHBSYkl4OUgwY1ZRcklsa3p5NjE5THpkbDBTcktieTRIX1NUU1IyQWlzVV95Wk43cG1yRy16MUQ3MnRNMFkwR3lPRV94MlNJWkptWTJTVmVJd2tKSlhqRHhHMFd1MlRHMHBCNjE1MGxYRHhtdFJnSU9OSUg5enFtbWFvUmpzb01va3ZhandRRWwxMnIyM3ZlangwaWk3cERQMzBaZGVqY2hMcHRQeEx0OHpzcFplVGpjbnpUdF9DbUJRWHY?oc=5",
+          "published": "2026-09-03T08:18:36.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Futu Holdings Limited Sponsored ADR $FUTU Stock Position Raised by Greenwoods Asset Management Hong Kong Ltd. - MarketBeat",
+          "source": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVUlVWmxwMFdVUHZkbWFqYUhTc3g5UEhpUzRjYTR0cWI3bGc5RHlWcUxJM0hENy0tMVRKeXZuUlhVUHBSYkl4OUgwY1ZRcklsa3p5NjE5THpkbDBTcktieTRIX1NUU1IyQWlzVV95Wk43cG1yRy16MUQ3MnRNMFkwR3lPRV94MlNJWkptWTJTVmVJd2tKSlhqRHhHMFd1MlRHMHBCNjE1MGxYRHhtdFJnSU9OSUg5enFtbWFvUmpzb01va3ZhandRRWwxMnIyM3ZlangwaWk3cERQMzBaZGVqY2hMcHRQeEx0OHpzcFplVGpjbnpUdF9DbUJRWHY?oc=5",
+          "published": "2026-09-03T08:18:36.000Z"
+        }
+      ],
       "insight": null,
       "companyUpdates": [
         {
@@ -48,7 +64,7 @@
           "tag": "Presentation",
           "headline": "Investor Presentation - mybrand.schroders.com",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
-          "published": "2026-08-24T07:40:24.000Z"
+          "published": "2026-09-05T09:57:00.000Z"
         }
       ]
     },
@@ -57,20 +73,20 @@
       "name": "Wealth Management",
       "bullets": [
         {
-          "tag": "Press",
-          "headline": "Barclays opens private bank booking centre in Singapore - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXlmZmpJb05IQndIRUkyUHQ5aEp5U3NPOWxoVjN5N1VYQ0hFSWMxYVduOXR6dXpZX1lyazFSSE15YkhyUjEyRDJsb3V6aC1NUGhQVnlBd0dxQ0E0YTNUX0lGcjFzSnBkaEhZY0tkOFU1dGhpd0d5VUkzR1ptLWV6dmw1bGQ4QzQxRmlVc0FPRFdWRkptNzFlSThzcS1iazBCalN6TUd3?oc=5",
-          "published": "2026-09-04T04:30:00.000Z"
+          "tag": "Leadership",
+          "headline": "TheWealthNet - Singapore private bank adds MD from UBS - Pam Insight",
+          "source": "Pam Insight",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamFJX0JTQ0hwOHRpRlJyNXNZbHBha1BUekZPenVPa2t6NGhuUEkwdF9WUENneTlQVDJjM3BVQVlFSHo5NlFrU3dBRU1TZlZmVm95R2poQl9nNDdVOEFJMVN6ek5MWEVXM0lEcGgzc0xnbUdBcWM0YXBqTmVsa1ZTVGViZmM?oc=5",
+          "published": "2026-09-03T07:52:30.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Press",
-          "headline": "Barclays opens private bank booking centre in Singapore - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXlmZmpJb05IQndIRUkyUHQ5aEp5U3NPOWxoVjN5N1VYQ0hFSWMxYVduOXR6dXpZX1lyazFSSE15YkhyUjEyRDJsb3V6aC1NUGhQVnlBd0dxQ0E0YTNUX0lGcjFzSnBkaEhZY0tkOFU1dGhpd0d5VUkzR1ptLWV6dmw1bGQ4QzQxRmlVc0FPRFdWRkptNzFlSThzcS1iazBCalN6TUd3?oc=5",
-          "published": "2026-09-04T04:30:00.000Z"
+          "tag": "Leadership",
+          "headline": "TheWealthNet - Singapore private bank adds MD from UBS - Pam Insight",
+          "source": "Pam Insight",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamFJX0JTQ0hwOHRpRlJyNXNZbHBha1BUekZPenVPa2t6NGhuUEkwdF9WUENneTlQVDJjM3BVQVlFSHo5NlFrU3dBRU1TZlZmVm95R2poQl9nNDdVOEFJMVN6ek5MWEVXM0lEcGgzc0xnbUdBcWM0YXBqTmVsa1ZTVGViZmM?oc=5",
+          "published": "2026-09-03T07:52:30.000Z"
         }
       ],
       "insight": null,
@@ -90,14 +106,6 @@
           "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWNtd1FfcDRubVo1NGFiSFhMUVFhbU9NX3BuX0NFOFdGa0NJU2RnRzZzajVrQXZiNktqREI1Wi1fZVlRVXdhRHM2eFp3ZjEtdTdmbFRYdjRkUUhqbUx1VUlJNjJuWFRacUV2LUdvR0c4d3JTTGE3ajVpNWpoR0lSS3F3MEJaeWMwdWl3Uk9zbXZzU05XbTJXOTNTczdSR19HekFhaHRaeFRFU3E1T0RrSmFzNF9SSUFPQ2ZwdDhQYkNtcWViX3dHZzUwUDBZQXRqakVPWXJvZlJfZw?oc=5",
           "published": "2026-08-26T00:50:39.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nVHZKai1XR3JZUnBGc0ZkbmdzRy1fVXhaOVJpcVlKdVAzUm5tMUZkQ1RaS1YxUFBjSHZjcHFjb2g3b1gyWmREeF9iUnBDMEJjeFgwcVhra1Noemc1VlVjZWRFa0FURm1h?oc=5",
-          "published": "2026-08-06T07:00:00.000Z"
         }
       ]
     },
@@ -178,19 +186,19 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Building the Future of Borderless Payments - Fintech News Philippines",
-          "source": "Fintech News Philippines",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2lyc05qMjVRZG5MZmp4dW5JakI2VFYtT0J2ekRROWxYQXMta1NWSm9sc21iOUpoQ3pZUnZ6Q3g0WUJwWV9vOXQ2ZGRtOXk5N0FNbjNOaEJhNFIzYzFyUGVQWVZyb2kwSS1fc1VZQVhQb3FHUVo1bllkTFhCc3p6WGZYVFloUQ?oc=5",
-          "published": "2026-09-02T10:15:13.000Z"
+          "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
+          "source": "Syfe",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
+          "published": "2026-09-03T07:00:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Building the Future of Borderless Payments - Fintech News Philippines",
-          "source": "Fintech News Philippines",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2lyc05qMjVRZG5MZmp4dW5JakI2VFYtT0J2ekRROWxYQXMta1NWSm9sc21iOUpoQ3pZUnZ6Q3g0WUJwWV9vOXQ2ZGRtOXk5N0FNbjNOaEJhNFIzYzFyUGVQWVZyb2kwSS1fc1VZQVhQb3FHUVo1bllkTFhCc3p6WGZYVFloUQ?oc=5",
-          "published": "2026-09-02T10:15:13.000Z"
+          "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
+          "source": "Syfe",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
+          "published": "2026-09-03T07:00:00.000Z"
         }
       ],
       "insight": {
@@ -210,14 +218,6 @@
           "headline": "CBA 2026 Full Year Results Transcript - CommBank",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkwtcVdhWVpzTld3QUpQLVdycG5iLXM1dEExT0xTa0lmZGw4VHBPSHBKb3A4ZW5fLTcyMkNzeU9RTkJpcUFvbXJlRHcwMDA5RU8zYkV3aXpkVEFBbUpISE9xOEhjaDg5WjVKYzFDbGc1WDVnZkpXQnluREJSbk1iNW13SXBpcC1uU2tHaFFvX185ZDlQZVZ1OTFoSnBUUmU0TF94VV9WRkY4R1g3QnNNWFZR?oc=5",
           "published": "2026-08-12T07:00:00.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "Q2 2026 DBS Group Holdings Ltd Earnings Presentation Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nVHZKai1XR3JZUnBGc0ZkbmdzRy1fVXhaOVJpcVlKdVAzUm5tMUZkQ1RaS1YxUFBjSHZjcHFjb2g3b1gyWmREeF9iUnBDMEJjeFgwcVhra1Noemc1VlVjZWRFa0FURm1h?oc=5",
-          "published": "2026-08-06T07:00:00.000Z"
         }
       ]
     }
