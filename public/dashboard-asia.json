@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:24:06.663Z",
+  "generatedAt": "2026-09-07T06:32:03.460Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,20 +32,34 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Press",
-          "headline": "Futu Holdings Limited Sponsored ADR $FUTU Stock Position Raised by Greenwoods Asset Management Hong Kong Ltd. - MarketBeat",
-          "source": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVUlVWmxwMFdVUHZkbWFqYUhTc3g5UEhpUzRjYTR0cWI3bGc5RHlWcUxJM0hENy0tMVRKeXZuUlhVUHBSYkl4OUgwY1ZRcklsa3p5NjE5THpkbDBTcktieTRIX1NUU1IyQWlzVV95Wk43cG1yRy16MUQ3MnRNMFkwR3lPRV94MlNJWkptWTJTVmVJd2tKSlhqRHhHMFd1MlRHMHBCNjE1MGxYRHhtdFJnSU9OSUg5enFtbWFvUmpzb01va3ZhandRRWwxMnIyM3ZlangwaWk3cERQMzBaZGVqY2hMcHRQeEx0OHpzcFplVGpjbnpUdF9DbUJRWHY?oc=5",
-          "published": "2026-09-03T08:18:36.000Z"
+          "tag": "Product",
+          "headline": "South Korea's ETF boom loses steam as investors tire of volatility - Nikkei Asia",
+          "source": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGx0N09yLTZVWjNTUmZ4SWl6NkpqT1NtNENEelUybmhFamd4ckx5aFMwSERTVE40VG9zbTBvRW56VC1yb3JYbWxRY205d2FCSXdMSWt0Vld0VUJtRDRvRFFSM1FWY3hJXzUxa3FnY05fR2JBOTN0QUVSLTB4UTZpRm90ZzFzaEp1d1g0ak4tVjY0dzhDMGFCM0lLSkNjN1RWZWxIOERRTWliVGxCN3lqeThrcS12bWcxNlY2Zw?oc=5",
+          "published": "2026-09-06T21:04:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "MicroBit Launches Hong Kong’s First Bitcoin and Gold ETF on HKEX Today - The Sun Malaysia",
+          "source": "The Sun Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xc3AzN0IwaHNCTGNTVHRjdHJsLVMxSGtRTS15RUtIZFhodGtwWGJyb0wxVTNtZGhQakJrU3lmMC1tUVVhLUlWYi0xX0ZPVjBxcGcxM09fMENrUWp1VHBad0g4ZlV4V2JXb1prVjZSTnFZZw?oc=5",
+          "published": "2026-09-06T08:48:10.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Press",
-          "headline": "Futu Holdings Limited Sponsored ADR $FUTU Stock Position Raised by Greenwoods Asset Management Hong Kong Ltd. - MarketBeat",
-          "source": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVUlVWmxwMFdVUHZkbWFqYUhTc3g5UEhpUzRjYTR0cWI3bGc5RHlWcUxJM0hENy0tMVRKeXZuUlhVUHBSYkl4OUgwY1ZRcklsa3p5NjE5THpkbDBTcktieTRIX1NUU1IyQWlzVV95Wk43cG1yRy16MUQ3MnRNMFkwR3lPRV94MlNJWkptWTJTVmVJd2tKSlhqRHhHMFd1MlRHMHBCNjE1MGxYRHhtdFJnSU9OSUg5enFtbWFvUmpzb01va3ZhandRRWwxMnIyM3ZlangwaWk3cERQMzBaZGVqY2hMcHRQeEx0OHpzcFplVGpjbnpUdF9DbUJRWHY?oc=5",
-          "published": "2026-09-03T08:18:36.000Z"
+          "tag": "Product",
+          "headline": "South Korea's ETF boom loses steam as investors tire of volatility - Nikkei Asia",
+          "source": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGx0N09yLTZVWjNTUmZ4SWl6NkpqT1NtNENEelUybmhFamd4ckx5aFMwSERTVE40VG9zbTBvRW56VC1yb3JYbWxRY205d2FCSXdMSWt0Vld0VUJtRDRvRFFSM1FWY3hJXzUxa3FnY05fR2JBOTN0QUVSLTB4UTZpRm90ZzFzaEp1d1g0ak4tVjY0dzhDMGFCM0lLSkNjN1RWZWxIOERRTWliVGxCN3lqeThrcS12bWcxNlY2Zw?oc=5",
+          "published": "2026-09-06T21:04:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "MicroBit Launches Hong Kong’s First Bitcoin and Gold ETF on HKEX Today - The Sun Malaysia",
+          "source": "The Sun Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xc3AzN0IwaHNCTGNTVHRjdHJsLVMxSGtRTS15RUtIZFhodGtwWGJyb0wxVTNtZGhQakJrU3lmMC1tUVVhLUlWYi0xX0ZPVjBxcGcxM09fMENrUWp1VHBad0g4ZlV4V2JXb1prVjZSTnFZZw?oc=5",
+          "published": "2026-09-06T08:48:10.000Z"
         }
       ],
       "insight": null,
@@ -56,7 +70,7 @@
           "tag": "Transcript",
           "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
-          "published": "2026-08-31T20:39:24.000Z"
+          "published": "2026-09-06T08:15:44.000Z"
         },
         {
           "company": "Schroders",
@@ -73,20 +87,20 @@
       "name": "Wealth Management",
       "bullets": [
         {
-          "tag": "Leadership",
-          "headline": "TheWealthNet - Singapore private bank adds MD from UBS - Pam Insight",
-          "source": "Pam Insight",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamFJX0JTQ0hwOHRpRlJyNXNZbHBha1BUekZPenVPa2t6NGhuUEkwdF9WUENneTlQVDJjM3BVQVlFSHo5NlFrU3dBRU1TZlZmVm95R2poQl9nNDdVOEFJMVN6ek5MWEVXM0lEcGgzc0xnbUdBcWM0YXBqTmVsa1ZTVGViZmM?oc=5",
-          "published": "2026-09-03T07:52:30.000Z"
+          "tag": "Product",
+          "headline": "Barclays launches Singapore private bank booking centre - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI3WE80eko3QlpJcVl0LVkwTW9GX1FFOXNZbVphTUhJbEpLdGI0b0NCdk1EQVdQb1VhR3h3SUlheUZqamcwSm5XYTJxOG1tZWpUb21ubmVIRWJvZVdYdUxxT0taWk5sdWNmb1paa1ZSekh2VlpIWEVnbWxSd2NHWTNSUkdJUQ?oc=5",
+          "published": "2026-09-07T02:20:17.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Leadership",
-          "headline": "TheWealthNet - Singapore private bank adds MD from UBS - Pam Insight",
-          "source": "Pam Insight",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamFJX0JTQ0hwOHRpRlJyNXNZbHBha1BUekZPenVPa2t6NGhuUEkwdF9WUENneTlQVDJjM3BVQVlFSHo5NlFrU3dBRU1TZlZmVm95R2poQl9nNDdVOEFJMVN6ek5MWEVXM0lEcGgzc0xnbUdBcWM0YXBqTmVsa1ZTVGViZmM?oc=5",
-          "published": "2026-09-03T07:52:30.000Z"
+          "tag": "Product",
+          "headline": "Barclays launches Singapore private bank booking centre - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI3WE80eko3QlpJcVl0LVkwTW9GX1FFOXNZbVphTUhJbEpLdGI0b0NCdk1EQVdQb1VhR3h3SUlheUZqamcwSm5XYTJxOG1tZWpUb21ubmVIRWJvZVdYdUxxT0taWk5sdWNmb1paa1ZSekh2VlpIWEVnbWxSd2NHWTNSUkdJUQ?oc=5",
+          "published": "2026-09-07T02:20:17.000Z"
         }
       ],
       "insight": null,
@@ -95,9 +109,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
-          "published": "2026-09-01T06:15:31.000Z"
+          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
+          "published": "2026-09-06T10:10:58.000Z"
         },
         {
           "company": "Netwealth Group",
@@ -146,11 +160,11 @@
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on China’s Non-Life Insurance Segment - Morningstar",
+        "headline": "AM Best Affirms Credit Ratings of Ping An Health Insurance Company of China, Ltd. - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeVhMQU1NMTJhQ29ubG9NMnR5V0oyN2lsVUU4aTNlTWRFRmhoa1ZMVDBiOGw3ZWxtTjRqUUY0bHlWLWJBM3BIRF8wOWVZejZzLUcyQXlLdTRqYXlaR0p0M1cxLUZsOUx0Ujl5YTVKVm5MaDFDU2g0TkpoTDI0Nmh5dUQzOXRHazBsVVdHWmJUM19rZ1VWWkZtcXZoMDRVemEwYXVJMlFWTTExTmp0ekgtVm1DMjBxOUx2NWJnazhGTkQzWTNKNURrRXNGR0EtSEo1RFlqZmg2NDNhQW80T29VZDN3b2lVX0U2UXpQYmxNenE?oc=5",
-        "published": "2026-09-04T14:23:00.000Z",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObS1FcWZ6OEdrR0dCT2N6eE4wMnNDbzJtUGFYdVh0ZnhVRTU4bE1hLU5pMzNheUVxa0MzSnJwXzVEZ2ZQa0NiUlRyQmpuMVM2NTkxeEpZMmlNU1lYLTRFZmNOUzZobXRXSnE1UU9pZG5DQU9lekNHdU9qV0lnbjBWaE5rSWo2a2pCbjcxTGx0XzY3QUhHLXdXQ3ZCbk9Ldk9tS20tT0FRZUxEVjZSYmFrYmFKcHdXQ0dGV1kzN3VIZktYMmg0ZWt2OWl3RVJhWDZQaEJQUXZJVVo?oc=5",
+        "published": "2026-09-04T13:45:00.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -185,31 +199,23 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Press",
-          "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
-          "source": "Syfe",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
-          "published": "2026-09-03T07:00:00.000Z"
+          "tag": "Product",
+          "headline": "Singapore May Soon Be At A Credit Card Crossroads - DollarsAndSense.sg",
+          "source": "DollarsAndSense.sg",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORllsazBjUkE2d3JnM1NzZkE4LUVma0xjNzZhamRYd3hJYThCSFlqdXJYQ05iRzdETDhQQV96SndiaWVQbGxGeE9UTHBNc0szV0tYaVNjTEdIVmI2QzRINDRJYWhZQmtYSVNzUk9GWXNucWtOMWNHVExlMUl5cHk0QzJXaw?oc=5",
+          "published": "2026-09-06T15:04:39.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Press",
-          "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
-          "source": "Syfe",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
-          "published": "2026-09-03T07:00:00.000Z"
+          "tag": "Product",
+          "headline": "Singapore May Soon Be At A Credit Card Crossroads - DollarsAndSense.sg",
+          "source": "DollarsAndSense.sg",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORllsazBjUkE2d3JnM1NzZkE4LUVma0xjNzZhamRYd3hJYThCSFlqdXJYQ05iRzdETDhQQV96SndiaWVQbGxGeE9UTHBNc0szV0tYaVNjTEdIVmI2QzRINDRJYWhZQmtYSVNzUk9GWXNucWtOMWNHVExlMUl5cHk0QzJXaw?oc=5",
+          "published": "2026-09-06T15:04:39.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Citi Hong Kong to Launch Market-First Virtual Credit Card with Dynamic Card Validation Code (CVC) in Partnership with Mastercard, Setting a…",
-        "teaser": null,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0M0RVVoUTFpelRVUklJTVMteDgyWXdWWlBLU3J2amFPay0wRFFTTVVfQXZtY2xDbm1kb2JOWE9NZ1ByVGZHRksyZ0R0NllQUVU2TmVQM1hUUHB5SFdEMXFFZUJCdzZpOG9nWEppbWhyMTUya1ZoNmYxcDk2LWdkckpwemxCNnN2aGp1dWp2azJ2OWl4WFk2U3J3LWZuWHRqZUhNMGt2SQ?oc=5",
-        "published": "2026-09-04T03:00:00.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Commonwealth Bank",
