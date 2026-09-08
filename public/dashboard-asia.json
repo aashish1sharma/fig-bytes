@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T06:32:03.460Z",
+  "generatedAt": "2026-09-08T06:24:11.135Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,42 +33,50 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "South Korea's ETF boom loses steam as investors tire of volatility - Nikkei Asia",
-          "source": "Nikkei Asia",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGx0N09yLTZVWjNTUmZ4SWl6NkpqT1NtNENEelUybmhFamd4ckx5aFMwSERTVE40VG9zbTBvRW56VC1yb3JYbWxRY205d2FCSXdMSWt0Vld0VUJtRDRvRFFSM1FWY3hJXzUxa3FnY05fR2JBOTN0QUVSLTB4UTZpRm90ZzFzaEp1d1g0ak4tVjY0dzhDMGFCM0lLSkNjN1RWZWxIOERRTWliVGxCN3lqeThrcS12bWcxNlY2Zw?oc=5",
-          "published": "2026-09-06T21:04:00.000Z"
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRtNDR2bXFnSXQwMXlNMGZjRVpzdDB3MmpYOWRuNHEzN0xfUzBIOWZlY3REcnVsdTliZEtXVWp6OVVxWWo3N05zRzZEWlJoNDhuZFk3RzlLMXk0UXFIYUozNXMtV3lELWt0eG5hdjFFMHFyQkNrRk9XX0NicVRmWnFpRl9CYjg2ZGs3NDBnQmM1Zklk?oc=5",
+          "published": "2026-09-08T06:03:00.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "MicroBit Launches Hong Kong’s First Bitcoin and Gold ETF on HKEX Today - The Sun Malaysia",
-          "source": "The Sun Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xc3AzN0IwaHNCTGNTVHRjdHJsLVMxSGtRTS15RUtIZFhodGtwWGJyb0wxVTNtZGhQakJrU3lmMC1tUVVhLUlWYi0xX0ZPVjBxcGcxM09fMENrUWp1VHBad0g4ZlV4V2JXb1prVjZSTnFZZw?oc=5",
-          "published": "2026-09-06T08:48:10.000Z"
+          "tag": "Press",
+          "headline": "iFAST Hong Kong and J.P. Morgan Asset Management Partner to Expand Discretionary Portfolio Solutions for Wealth Advisers - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHRhMXp3b1JjTndacVlfNkxnQ050YkhKZ3BaSFVRMlVVMDRsbnVKdk5JU2Y0ZzJqX2Ywb2JBQzMzc1llX2VBNVhqR3c5QUVNU0VySkpEc2xITkl3RXF2djR0QUNfbEJKLVBjM0JScEF2bHNjc25wd0s2VFNZSmhVSFQ1WmxvQ1lfTEJtMjYtdU5DUV9ycmRROXZsUHRyLURqNlhleVBtVW90UQ?oc=5",
+          "published": "2026-09-08T02:45:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "South Korea's ETF boom loses steam as investors tire of volatility - Nikkei Asia",
-          "source": "Nikkei Asia",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGx0N09yLTZVWjNTUmZ4SWl6NkpqT1NtNENEelUybmhFamd4ckx5aFMwSERTVE40VG9zbTBvRW56VC1yb3JYbWxRY205d2FCSXdMSWt0Vld0VUJtRDRvRFFSM1FWY3hJXzUxa3FnY05fR2JBOTN0QUVSLTB4UTZpRm90ZzFzaEp1d1g0ak4tVjY0dzhDMGFCM0lLSkNjN1RWZWxIOERRTWliVGxCN3lqeThrcS12bWcxNlY2Zw?oc=5",
-          "published": "2026-09-06T21:04:00.000Z"
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRtNDR2bXFnSXQwMXlNMGZjRVpzdDB3MmpYOWRuNHEzN0xfUzBIOWZlY3REcnVsdTliZEtXVWp6OVVxWWo3N05zRzZEWlJoNDhuZFk3RzlLMXk0UXFIYUozNXMtV3lELWt0eG5hdjFFMHFyQkNrRk9XX0NicVRmWnFpRl9CYjg2ZGs3NDBnQmM1Zklk?oc=5",
+          "published": "2026-09-08T06:03:00.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "MicroBit Launches Hong Kong’s First Bitcoin and Gold ETF on HKEX Today - The Sun Malaysia",
-          "source": "The Sun Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xc3AzN0IwaHNCTGNTVHRjdHJsLVMxSGtRTS15RUtIZFhodGtwWGJyb0wxVTNtZGhQakJrU3lmMC1tUVVhLUlWYi0xX0ZPVjBxcGcxM09fMENrUWp1VHBad0g4ZlV4V2JXb1prVjZSTnFZZw?oc=5",
-          "published": "2026-09-06T08:48:10.000Z"
+          "tag": "Press",
+          "headline": "iFAST Hong Kong and J.P. Morgan Asset Management Partner to Expand Discretionary Portfolio Solutions for Wealth Advisers - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHRhMXp3b1JjTndacVlfNkxnQ050YkhKZ3BaSFVRMlVVMDRsbnVKdk5JU2Y0ZzJqX2Ywb2JBQzMzc1llX2VBNVhqR3c5QUVNU0VySkpEc2xITkl3RXF2djR0QUNfbEJKLVBjM0JScEF2bHNjc25wd0s2VFNZSmhVSFQ1WmxvQ1lfTEJtMjYtdU5DUV9ycmRROXZsUHRyLURqNlhleVBtVW90UQ?oc=5",
+          "published": "2026-09-08T02:45:00.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+        "teaser": null,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRtNDR2bXFnSXQwMXlNMGZjRVpzdDB3MmpYOWRuNHEzN0xfUzBIOWZlY3REcnVsdTliZEtXVWp6OVVxWWo3N05zRzZEWlJoNDhuZFk3RzlLMXk0UXFIYUozNXMtV3lELWt0eG5hdjFFMHFyQkNrRk9XX0NicVRmWnFpRl9CYjg2ZGs3NDBnQmM1Zklk?oc=5",
+        "published": "2026-09-08T06:03:00.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
+          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - fortune.com",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
           "published": "2026-09-06T08:15:44.000Z"
         },
@@ -92,6 +100,13 @@
           "source": "Singapore Business Review",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI3WE80eko3QlpJcVl0LVkwTW9GX1FFOXNZbVphTUhJbEpLdGI0b0NCdk1EQVdQb1VhR3h3SUlheUZqamcwSm5XYTJxOG1tZWpUb21ubmVIRWJvZVdYdUxxT0taWk5sdWNmb1paa1ZSekh2VlpIWEVnbWxSd2NHWTNSUkdJUQ?oc=5",
           "published": "2026-09-07T02:20:17.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Next Opportunity in Central Asian Wealth Management: Singapore-AIFC Corridor - astanatimes.com",
+          "source": "astanatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmhQVnVqd2xOVFJZeGotekt0VEo1UWZkclg2TFdUM3BKOVhBS09YTEszNnVoMXNMelRXdUtLYU56aHFNOXIweEdHV0M1d3RtZVVzTkJiVVI2YUJQWDQxZGFSUXRESk9paXVaYlZzMExJWFBNQndLd2dsb2VRTmhXN25LOXJMR01iLXpRVXBFZXNfdXFCMmJyWnJ2MFhjQ3lkZUIycHlHeWxWZTR1?oc=5",
+          "published": "2026-09-08T04:08:44.000Z"
         }
       ],
       "candidates": [
@@ -101,6 +116,13 @@
           "source": "Singapore Business Review",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI3WE80eko3QlpJcVl0LVkwTW9GX1FFOXNZbVphTUhJbEpLdGI0b0NCdk1EQVdQb1VhR3h3SUlheUZqamcwSm5XYTJxOG1tZWpUb21ubmVIRWJvZVdYdUxxT0taWk5sdWNmb1paa1ZSekh2VlpIWEVnbWxSd2NHWTNSUkdJUQ?oc=5",
           "published": "2026-09-07T02:20:17.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Next Opportunity in Central Asian Wealth Management: Singapore-AIFC Corridor - astanatimes.com",
+          "source": "astanatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmhQVnVqd2xOVFJZeGotekt0VEo1UWZkclg2TFdUM3BKOVhBS09YTEszNnVoMXNMelRXdUtLYU56aHFNOXIweEdHV0M1d3RtZVVzTkJiVVI2YUJQWDQxZGFSUXRESk9paXVaYlZzMExJWFBNQndLd2dsb2VRTmhXN25LOXJMR01iLXpRVXBFZXNfdXFCMmJyWnJ2MFhjQ3lkZUIycHlHeWxWZTR1?oc=5",
+          "published": "2026-09-08T04:08:44.000Z"
         }
       ],
       "insight": null,
@@ -109,7 +131,7 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
+          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - fortune.com",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
           "published": "2026-09-06T10:10:58.000Z"
         },
@@ -129,42 +151,28 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on China’s Non-Life Insurance Segment - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVJGNFU4QnlVNm52TWlLYUdiMWJSYlBmd2NXc3pCNVA5Nl82MUFYTmZxTUdFanJyZ0RfMEY0WDkzOVZ2ZWhCcGQxRVFzT0FoaW9MTk80dUJGcXpZVFB1eUJGWlRUbENEMnhZTVZtalVpLUEwUkZaN3VGMm04X205UEYxYTVhejU4dmQzdllvRVliZ3ZhSlVFNmRYVlIzMW8yQkdudnpJRmJLUTdWNzFzdnFIaGJVTHNLTGN0TDg2Y0hmbDd5NVpmel8ySWE1X2hBdU1iMjBRNzh1UnhlQU9Vb01OdENQaW1FSkE?oc=5",
-          "published": "2026-09-04T14:23:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "AM Best Affirms Credit Ratings of Ping An Health Insurance Company of China, Ltd. - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSE9vc0ctai1tRUNKMTFLUXJ6cVpOQW9LR29OU1BWUHYzMWxSOFRFYzNiQ1NoZl9ndmNBNlhRV0I4RFJSSjBUM0VseW5JalprM2lGUENBeTJxY0I1bVJBZ3VMUXE5VE1VYXlQQURINjQwdDFGb1hmaTZnWWZCS09nN0M2amJiTk9oNDNkOExfbXpUQ2gxTndPMFJoOERDeTRpanl5TlNQRFhjeEt2ME5kSEZtRVlLLVR6WV9oRk01TERfd3ZEb0ZOckJURW1INm5EUnRV?oc=5",
-          "published": "2026-09-04T13:45:00.000Z"
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on China’s Non-Life Insurance Segment - bernama.com",
+          "source": "bernama.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BbHZfUWtQSkN4bm1UaWJmM3lCQ3U3eWl1Vy1xTExuSm9FQjU4ZzJ0VzRHRlFYdlMtY3EwT1dWNUl2TC1rb00xeDZ0RUpDM3NpU1dpQzhJM29pRUlnZ21MeVR3?oc=5",
+          "published": "2026-09-07T20:55:29.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on China’s Non-Life Insurance Segment - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVJGNFU4QnlVNm52TWlLYUdiMWJSYlBmd2NXc3pCNVA5Nl82MUFYTmZxTUdFanJyZ0RfMEY0WDkzOVZ2ZWhCcGQxRVFzT0FoaW9MTk80dUJGcXpZVFB1eUJGWlRUbENEMnhZTVZtalVpLUEwUkZaN3VGMm04X205UEYxYTVhejU4dmQzdllvRVliZ3ZhSlVFNmRYVlIzMW8yQkdudnpJRmJLUTdWNzFzdnFIaGJVTHNLTGN0TDg2Y0hmbDd5NVpmel8ySWE1X2hBdU1iMjBRNzh1UnhlQU9Vb01OdENQaW1FSkE?oc=5",
-          "published": "2026-09-04T14:23:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "AM Best Affirms Credit Ratings of Ping An Health Insurance Company of China, Ltd. - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSE9vc0ctai1tRUNKMTFLUXJ6cVpOQW9LR29OU1BWUHYzMWxSOFRFYzNiQ1NoZl9ndmNBNlhRV0I4RFJSSjBUM0VseW5JalprM2lGUENBeTJxY0I1bVJBZ3VMUXE5VE1VYXlQQURINjQwdDFGb1hmaTZnWWZCS09nN0M2amJiTk9oNDNkOExfbXpUQ2gxTndPMFJoOERDeTRpanl5TlNQRFhjeEt2ME5kSEZtRVlLLVR6WV9oRk01TERfd3ZEb0ZOckJURW1INm5EUnRV?oc=5",
-          "published": "2026-09-04T13:45:00.000Z"
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on China’s Non-Life Insurance Segment - bernama.com",
+          "source": "bernama.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BbHZfUWtQSkN4bm1UaWJmM3lCQ3U3eWl1Vy1xTExuSm9FQjU4ZzJ0VzRHRlFYdlMtY3EwT1dWNUl2TC1rb00xeDZ0RUpDM3NpU1dpQzhJM29pRUlnZ21MeVR3?oc=5",
+          "published": "2026-09-07T20:55:29.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "AM Best Affirms Credit Ratings of Ping An Health Insurance Company of China, Ltd. - Morningstar",
+        "headline": "Berkshire Hathaway Specialty Insurance Introduces Professional First Venture Capital Liability Policy in Australia - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObS1FcWZ6OEdrR0dCT2N6eE4wMnNDbzJtUGFYdVh0ZnhVRTU4bE1hLU5pMzNheUVxa0MzSnJwXzVEZ2ZQa0NiUlRyQmpuMVM2NTkxeEpZMmlNU1lYLTRFZmNOUzZobXRXSnE1UU9pZG5DQU9lekNHdU9qV0lnbjBWaE5rSWo2a2pCbjcxTGx0XzY3QUhHLXdXQ3ZCbk9Ldk9tS20tT0FRZUxEVjZSYmFrYmFKcHdXQ0dGV1kzN3VIZktYMmg0ZWt2OWl3RVJhWDZQaEJQUXZJVVo?oc=5",
-        "published": "2026-09-04T13:45:00.000Z",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV1ZuWkhYMWZEVHJtN3ZJUy1VMGhkM0dFVV9oNkdJQy01M21fWm9IcjFfTmg5N0lKUXBvXzBiZ0dzbzJDc2NqZUdDRFhzN1puSWRsSGtvSjAyN1Y0MF93S3llNmk2enBqQ2FMT0FUdFpDcmVNV3p0NTZNd1ViRExBN1pRU0VONEIyN29GYklDRjFTWWNKUHB2c3JNdFYteWx3ZHh3ZXNjNkNSYmR5aEwxa0xxVTZNeG8zVTEtaGpvZkRvdm55SjYxTWc4QkxXOW5kQUZGMm12dHRhTXlyek4yUXNvRVJVVVY5bUF0UU1xWkJkc3JqazkyeWRfQmxwVm9aWElGZkpKVQ?oc=5",
+        "published": "2026-09-07T22:00:00.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -204,6 +212,20 @@
           "source": "DollarsAndSense.sg",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORllsazBjUkE2d3JnM1NzZkE4LUVma0xjNzZhamRYd3hJYThCSFlqdXJYQ05iRzdETDhQQV96SndiaWVQbGxGeE9UTHBNc0szV0tYaVNjTEdIVmI2QzRINDRJYWhZQmtYSVNzUk9GWXNucWtOMWNHVExlMUl5cHk0QzJXaw?oc=5",
           "published": "2026-09-06T15:04:39.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Citi, DBS test instant U.S.-Singapore payments - Crypto News",
+          "source": "Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02X3hEWmJNTVdUc19iVll1Z2RTeF9Lc3FKVkJReHQ0ZG53VHpTdHBwaXdpSzZkRUlmcEZTRUxlRjlZb0RpV293M0NNZ1d2SDJpQ1ptcTF0OTZlUWVFQW1DZ3UzMmppWkt1QUg3NmhEM29MTkk?oc=5",
+          "published": "2026-09-07T10:56:01.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "What Will It Take to Build the Future of Cross-Border Payments? - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHFVTkJST24wWGVVUGt3OUYzRVIwLTgwN2VEd1NMNVYyTW4wZmhuamcxVmNZUE5PZ3hYbU1TZm1MOEd3QmZsb3JRWkMxR2ZzT293WTg2SGdXLVJtTkgyWnE4X193NTFYU2ZtMDRuWDhyT0VZWGNfN3VqMmUyY0JZTlA0VldSZTg?oc=5",
+          "published": "2026-09-07T04:53:57.000Z"
         }
       ],
       "candidates": [
@@ -213,9 +235,31 @@
           "source": "DollarsAndSense.sg",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORllsazBjUkE2d3JnM1NzZkE4LUVma0xjNzZhamRYd3hJYThCSFlqdXJYQ05iRzdETDhQQV96SndiaWVQbGxGeE9UTHBNc0szV0tYaVNjTEdIVmI2QzRINDRJYWhZQmtYSVNzUk9GWXNucWtOMWNHVExlMUl5cHk0QzJXaw?oc=5",
           "published": "2026-09-06T15:04:39.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Citi, DBS test instant U.S.-Singapore payments - Crypto News",
+          "source": "Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02X3hEWmJNTVdUc19iVll1Z2RTeF9Lc3FKVkJReHQ0ZG53VHpTdHBwaXdpSzZkRUlmcEZTRUxlRjlZb0RpV293M0NNZ1d2SDJpQ1ptcTF0OTZlUWVFQW1DZ3UzMmppWkt1QUg3NmhEM29MTkk?oc=5",
+          "published": "2026-09-07T10:56:01.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "What Will It Take to Build the Future of Cross-Border Payments? - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHFVTkJST24wWGVVUGt3OUYzRVIwLTgwN2VEd1NMNVYyTW4wZmhuamcxVmNZUE5PZ3hYbU1TZm1MOEd3QmZsb3JRWkMxR2ZzT293WTg2SGdXLVJtTkgyWnE4X193NTFYU2ZtMDRuWDhyT0VZWGNfN3VqMmUyY0JZTlA0VldSZTg?oc=5",
+          "published": "2026-09-07T04:53:57.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "Citi Hong Kong to Launch Market-First Virtual Credit Card with Dynamic Card Validation Code (CVC) in Partnership with Mastercard, Setting a…",
+        "teaser": null,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0M0RVVoUTFpelRVUklJTVMteDgyWXdWWlBLU3J2amFPay0wRFFTTVVfQXZtY2xDbm1kb2JOWE9NZ1ByVGZHRksyZ0R0NllQUVU2TmVQM1hUUHB5SFdEMXFFZUJCdzZpOG9nWEppbWhyMTUya1ZoNmYxcDk2LWdkckpwemxCNnN2aGp1dWp2azJ2OWl4WFk2U3J3LWZuWHRqZUhNMGt2SQ?oc=5",
+        "published": "2026-09-04T03:00:00.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "Commonwealth Bank",

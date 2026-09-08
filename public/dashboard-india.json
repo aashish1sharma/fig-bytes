@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T06:31:34.058Z",
+  "generatedAt": "2026-09-08T06:23:45.175Z",
   "region": "India",
   "title": "India FIG Bytes",
   "regionId": "india",
@@ -34,108 +34,161 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Mutual Fund Share Holding | Mutual Fund Exposure - Livemint",
+          "tag": "Regulatory",
+          "headline": "Ajit Ranade: RBI owes the public an explanation for its exorbitant dollar deposit scheme - Livemint",
           "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjMzQnNvUGh3ZWNKVm0wa3UwU3Nib0F5NnhqNTQ3c3lWRWpCbS1va0dRZFNFdExScmFZY2xRcUNFSzVtREdsVUFHTlNObm96RnZnTDhuRWx1ejJXRkZaS2VMeEIwN0EzQ1pmNVJpbmVxOEZ5Si15bVZuTkRTYUdhVE80ZUlORlZ4N0xzT1dFN29yU0cybV9N?oc=5",
-          "published": "2026-09-07T01:26:30.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSk5UWlpYTVhRWGt0QnZHRTVUMHdkYXZDMi1ZMnEyNHVydk1ERHdUUEFiMlBCTXdDcDVqN1JJMnRQWGU3dXNsS1RiUXJEeTdHYTBEd2xDVHdjdE96SndoazgxYUdBZlR0am1HRG9qU2IxV1pjYWRvYjI5bnlSZDdfTHZmX3ZZUm52Z1RqLVB4WEhGMDlGc2VmU3paSFJLWDRTeVhCcUp2TXlrcHJ5dGhkbFpWX1FXb1ZERmFER2hvdmZQOWQ2ZVA4VWlBUnBYaG9OX3BnU0ZKMXpXVWhqcGRhNmZtbnBOLWRKVmZNcdIB7AFBVV95cUxOSk5UWlpYTVhRWGt0QnZHRTVUMHdkYXZDMi1ZMnEyNHVydk1ERHdUUEFiMlBCTXdDcDVqN1JJMnRQWGU3dXNsS1RiUXJEeTdHYTBEd2xDVHdjdE96SndoazgxYUdBZlR0am1HRG9qU2IxV1pjYWRvYjI5bnlSZDdfTHZmX3ZZUm52Z1RqLVB4WEhGMDlGc2VmU3paSFJLWDRTeVhCcUp2TXlrcHJ5dGhkbFpWX1FXb1ZERmFER2hvdmZQOWQ2ZVA4VWlBUnBYaG9OX3BnU0ZKMXpXVWhqcGRhNmZtbnBOLWRKVmZNcQ?oc=5",
+          "published": "2026-09-07T07:09:50.000Z"
         },
         {
           "tag": "Product",
-          "headline": "₹10 NAV mutual fund looks cheap? Here’s why that could be a costly mistake - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWY5N21YeklUbXVPWW4ycHNZd1pIbXg3N0Zlb2JMX295Qm9SQ3JhbTlSWWhiZGtjRlk0TW44UkpsTk9jbVJmS1EtNjRlSUZKMGdTT1BneU43SU5KTDdVd05HQmc5bWgxRzlXYTRfdVdVZ09XaE1RM0pfQ3UyTHk4TTNHbHhxZ3NjbkFFMnlNQkdmR3lJa2FXNlJ0bWZBNmhQMzBISlF4UTlrSGJDbzlVbXc2V0VTdTlXSWRJNnAzOUVtcTd6cWd3NFZYaWU5MXBHbU1fZ2ZIUdIB3AFBVV95cUxNOW1WbkRQQ1dSUTNVeFE5ZmxMWmVBVE1WSEpBUWJIbHp3a0R5aFRlMGM1ZS00Yjl2RVpIVVdWWi1GWjRINnpOOC03RlhSaVgtQ2ZCenhIbXlzV2p2cVBwSXY4dHhsUDBoUlN6THNJVGYyOFhLV0czd3BXMXpLX0F0N1p3Z2FLTFFtdDJHMU53NzRONEFrdjFKUnZxc1hpYlFsVDcwbEQ5MHpEQlV1QkVBYTZEQjlFaXFpRXNSY193TjFjeVdPaFQxV0VhLVRCZGUyNVlXcFNWSFNjRFUy?oc=5",
-          "published": "2026-09-06T11:56:03.000Z"
+          "headline": "SIFs attract Rs 22,328 crore since launch. Should mutual fund investors use them as satellite allocation? - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOX0NCeXZrQTBRUU5pZ2EtOVl5VWw3TVFibk9zQUVCbHVQYXNTQ1ZfS2U2Q0NTcU9zaUstcGpWZ2lBYUMzQXg4U2JwaUJBSlJleHM5YTh1NWxGZkpPbWdUSlh3NXdSQTVFV3Q2UkNjSW1IcUhUQ3VhUjZnYUhGWlN4WjhGRFdTejBNeXBZMWJJblRWZmhZY242dVUxZTdHRkg3TWl1ckpydlFTQW1hVW92QmNvZUtSLUJVQU4tRHZ6Tjd2RWc3U3VfVXJsQ3ZLWXFpR2dWcjkwX2ljR2ZlbmZraXVzb1FPVEhjMmwtRzVrb1phM3cwSDJFRHV1TUxYMFUtRFJDVGdDLXhkYkVMeFVCVDRVRzRyVHM1dmxORFV0QVdRcW1iekloOTVSUlhFVUR1blZ5UU1lNlo1Y1o0TnlHeXN0UEl2cHhyX2NIVHNrc2RIeTdNRG90TGxmRHJQd3RyNzZUT3lB?oc=5",
+          "published": "2026-09-08T05:42:50.000Z"
         },
         {
           "tag": "Product",
-          "headline": "Vikas Khemani’s Carnelian AMC files SEBI draft for liquid fund, its first MF scheme - CNBC TV18",
-          "source": "CNBC-TV18",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWjd6UDZQaUtpYlJqek94NG9ISTV1MUpSMEo3UHRVcFZ5bnNGR0NURXlXNnkwbUNISnM1aHdlX3RMVmJrUy1EZGdDcTB3aV8xMUdrMmI3SGtHT0VJME9qNFdtMEN1ZlFTaWZYU0hPNVV5VlpURkxEbFhrZlR5M0dpb0F4N3UtUmZ3WC1YLVlzSFc1SFFCMHRtSnRJWWpwb21LVlJRMUo3Y0wwcmh6aHpTRWdTaEotNHQ1dk40U1RCR0t4c3PSAcMBQVVfeXFMT1o3elA2UGlLaWJSanpPeDRvSEk1dTFKUjBKN1B0VXBWeW5zRkdDVEV5VzZ5MG1DSEpzNWh3ZV90TFZia1MtRGRnQ3Ewd2lfMTFHazJiN0hrR09FSTBPajRXbTBDdWZRU2lmWFNITzVVeVZaVEZMRGxYa2ZUeTNHaW9BeDd1LVJmd1gtWC1Zc0hXNUhRQjB0bUp0SVlqcG9tS1ZSUTFKN2NMMHJoemh6U0VnU2hKLTR0NXZONFNUQkdLeHNz?oc=5",
-          "published": "2026-09-07T03:34:16.000Z"
+          "headline": "When should you sell profitable equity mutual fund investments for tax-gain harvesting? - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yR1l6R0VEc0RhdFdSSE9oNmVGUU1vUFZXYjIyNXFQRmpkZERPeER1R3Y5YUhqS01ib2tIMU43RFR2NVNLcFI5RHRxR3N2X3FubUwwbHZkRmFTM1VVbEJmc2tPVUlGMFVo?oc=5",
+          "published": "2026-09-08T01:41:00.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Mutual Fund Share Holding | Mutual Fund Exposure - Livemint",
+          "tag": "Regulatory",
+          "headline": "Ajit Ranade: RBI owes the public an explanation for its exorbitant dollar deposit scheme - Livemint",
           "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjMzQnNvUGh3ZWNKVm0wa3UwU3Nib0F5NnhqNTQ3c3lWRWpCbS1va0dRZFNFdExScmFZY2xRcUNFSzVtREdsVUFHTlNObm96RnZnTDhuRWx1ejJXRkZaS2VMeEIwN0EzQ1pmNVJpbmVxOEZ5Si15bVZuTkRTYUdhVE80ZUlORlZ4N0xzT1dFN29yU0cybV9N?oc=5",
-          "published": "2026-09-07T01:26:30.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSk5UWlpYTVhRWGt0QnZHRTVUMHdkYXZDMi1ZMnEyNHVydk1ERHdUUEFiMlBCTXdDcDVqN1JJMnRQWGU3dXNsS1RiUXJEeTdHYTBEd2xDVHdjdE96SndoazgxYUdBZlR0am1HRG9qU2IxV1pjYWRvYjI5bnlSZDdfTHZmX3ZZUm52Z1RqLVB4WEhGMDlGc2VmU3paSFJLWDRTeVhCcUp2TXlrcHJ5dGhkbFpWX1FXb1ZERmFER2hvdmZQOWQ2ZVA4VWlBUnBYaG9OX3BnU0ZKMXpXVWhqcGRhNmZtbnBOLWRKVmZNcdIB7AFBVV95cUxOSk5UWlpYTVhRWGt0QnZHRTVUMHdkYXZDMi1ZMnEyNHVydk1ERHdUUEFiMlBCTXdDcDVqN1JJMnRQWGU3dXNsS1RiUXJEeTdHYTBEd2xDVHdjdE96SndoazgxYUdBZlR0am1HRG9qU2IxV1pjYWRvYjI5bnlSZDdfTHZmX3ZZUm52Z1RqLVB4WEhGMDlGc2VmU3paSFJLWDRTeVhCcUp2TXlrcHJ5dGhkbFpWX1FXb1ZERmFER2hvdmZQOWQ2ZVA4VWlBUnBYaG9OX3BnU0ZKMXpXVWhqcGRhNmZtbnBOLWRKVmZNcQ?oc=5",
+          "published": "2026-09-07T07:09:50.000Z"
         },
         {
           "tag": "Product",
-          "headline": "₹10 NAV mutual fund looks cheap? Here’s why that could be a costly mistake - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWY5N21YeklUbXVPWW4ycHNZd1pIbXg3N0Zlb2JMX295Qm9SQ3JhbTlSWWhiZGtjRlk0TW44UkpsTk9jbVJmS1EtNjRlSUZKMGdTT1BneU43SU5KTDdVd05HQmc5bWgxRzlXYTRfdVdVZ09XaE1RM0pfQ3UyTHk4TTNHbHhxZ3NjbkFFMnlNQkdmR3lJa2FXNlJ0bWZBNmhQMzBISlF4UTlrSGJDbzlVbXc2V0VTdTlXSWRJNnAzOUVtcTd6cWd3NFZYaWU5MXBHbU1fZ2ZIUdIB3AFBVV95cUxNOW1WbkRQQ1dSUTNVeFE5ZmxMWmVBVE1WSEpBUWJIbHp3a0R5aFRlMGM1ZS00Yjl2RVpIVVdWWi1GWjRINnpOOC03RlhSaVgtQ2ZCenhIbXlzV2p2cVBwSXY4dHhsUDBoUlN6THNJVGYyOFhLV0czd3BXMXpLX0F0N1p3Z2FLTFFtdDJHMU53NzRONEFrdjFKUnZxc1hpYlFsVDcwbEQ5MHpEQlV1QkVBYTZEQjlFaXFpRXNSY193TjFjeVdPaFQxV0VhLVRCZGUyNVlXcFNWSFNjRFUy?oc=5",
-          "published": "2026-09-06T11:56:03.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Vikas Khemani’s Carnelian AMC files SEBI draft for liquid fund, its first MF scheme - CNBC TV18",
-          "source": "CNBC-TV18",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWjd6UDZQaUtpYlJqek94NG9ISTV1MUpSMEo3UHRVcFZ5bnNGR0NURXlXNnkwbUNISnM1aHdlX3RMVmJrUy1EZGdDcTB3aV8xMUdrMmI3SGtHT0VJME9qNFdtMEN1ZlFTaWZYU0hPNVV5VlpURkxEbFhrZlR5M0dpb0F4N3UtUmZ3WC1YLVlzSFc1SFFCMHRtSnRJWWpwb21LVlJRMUo3Y0wwcmh6aHpTRWdTaEotNHQ1dk40U1RCR0t4c3PSAcMBQVVfeXFMT1o3elA2UGlLaWJSanpPeDRvSEk1dTFKUjBKN1B0VXBWeW5zRkdDVEV5VzZ5MG1DSEpzNWh3ZV90TFZia1MtRGRnQ3Ewd2lfMTFHazJiN0hrR09FSTBPajRXbTBDdWZRU2lmWFNITzVVeVZaVEZMRGxYa2ZUeTNHaW9BeDd1LVJmd1gtWC1Zc0hXNUhRQjB0bUp0SVlqcG9tS1ZSUTFKN2NMMHJoemh6U0VnU2hKLTR0NXZONFNUQkdLeHNz?oc=5",
-          "published": "2026-09-07T03:34:16.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Should you worry about your mutual fund cash levels? Know why funds keep it and when it can be an alarm - The Economic Times",
+          "headline": "SIFs attract Rs 22,328 crore since launch. Should mutual fund investors use them as satellite allocation? - The Economic Times",
           "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGxJNnFGaU9fcGI1X0lzYWo1Z1BBdk1xSl9ZLVJYS2llZGRuWFhKcnQteFNNT0swREJYNTJ5c21MZnBfUnZ3NW01cmFmRENoWXRRRDZEaGtBZnB2TjI0d242MGdXZGdkTjc2c082RlN1VzZLS1ZJWUJ3NkppZkgwY2RScWVwVGE0V2NjajNTWGRJdw?oc=5",
-          "published": "2026-09-07T01:07:26.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOX0NCeXZrQTBRUU5pZ2EtOVl5VWw3TVFibk9zQUVCbHVQYXNTQ1ZfS2U2Q0NTcU9zaUstcGpWZ2lBYUMzQXg4U2JwaUJBSlJleHM5YTh1NWxGZkpPbWdUSlh3NXdSQTVFV3Q2UkNjSW1IcUhUQ3VhUjZnYUhGWlN4WjhGRFdTejBNeXBZMWJJblRWZmhZY242dVUxZTdHRkg3TWl1ckpydlFTQW1hVW92QmNvZUtSLUJVQU4tRHZ6Tjd2RWc3U3VfVXJsQ3ZLWXFpR2dWcjkwX2ljR2ZlbmZraXVzb1FPVEhjMmwtRzVrb1phM3cwSDJFRHV1TUxYMFUtRFJDVGdDLXhkYkVMeFVCVDRVRzRyVHM1dmxORFV0QVdRcW1iekloOTVSUlhFVUR1blZ5UU1lNlo1Y1o0TnlHeXN0UEl2cHhyX2NIVHNrc2RIeTdNRG90TGxmRHJQd3RyNzZUT3lB?oc=5",
+          "published": "2026-09-08T05:42:50.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "When should you sell profitable equity mutual fund investments for tax-gain harvesting? - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yR1l6R0VEc0RhdFdSSE9oNmVGUU1vUFZXYjIyNXFQRmpkZERPeER1R3Y5YUhqS01ib2tIMU43RFR2NVNLcFI5RHRxR3N2X3FubUwwbHZkRmFTM1VVbEJmc2tPVUlGMFVo?oc=5",
+          "published": "2026-09-08T01:41:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "JioBlackRock Mutual Fund announces feature changes across 6 funds, including flexi cap, large cap - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVcHN1ZVUtMDNRVGVvN2dHRkUxekVJeWlCbU9IVlJkV1ZGSm1fQ1c2T3pvMURVMHVpU0xKdks0aENra2hMR1YweGd5OEg4TTV4Y1p0RzdZTVFtYUExWURXMnBrZ3ZmSlNWVW9YN1NLb1Fhcko4?oc=5",
+          "published": "2026-09-07T18:09:00.000Z"
         },
         {
           "tag": "Product",
           "headline": "Explained: Looking to start a mutual fund SIP? Know the different types and which one suits you - The Economic Times",
           "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtQjdtM29NNFBQVVBreldEUVdBUk03cThvWXktM1BmY1AzRE1LYXFfVzI1ejR1ajdwMTFDX0MtN001TnBrVmtXVWZ6dmtNTnJHaVdTQXNlSGpUVGpnWXNwVlk1UDhsZWxVY0tPQ0dxNEdJTHhaNnZzVFpPT3lqX0E?oc=5",
-          "published": "2026-09-07T01:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSDFPWWtPQXZQY0tCX1VuTmpCZ0F3bFV5MFVtT21tNjk0b2pQY3J0VV8zRmZpRm12eE1NR1IxMWJZdDRFaUN3MEFBMm93VnNKQ0F1YmFnZGJzMkQ2SlhLV3VrNVh2aC13V2o1RA?oc=5",
+          "published": "2026-09-07T08:17:54.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "NFO Alert: ICICI Prudential Mutual Fund to launch 3 life cycle funds - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVTkg4ckxPMktOSkxTdk5KV09OamRPeGZCc2JxM3VYU0VmMkxxa3RaWVRONFZfUzlhU09ndjdRdkJmeWhSNlNReEMzY1BUQVF1S19iSXBITHNyNHhwb1Fmbk5OSWVDOS13?oc=5",
+          "published": "2026-09-07T07:20:00.000Z"
         },
         {
           "tag": "Product",
           "headline": "Mother’s Day 2026: Why mutual fund SIPs, emergency funds, and insurance are essential for mothers - The Economic Times",
           "source": "Economic Times",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tMUx2RnFiZjBNWERxbUdJWGY1bTBHeVNnYkNtNUZaVmlqNGdoVi1NenFPaEt4ZTN0RDZVaVVEb1h1N3JzUGNJTXV1WUtUV1FKWFJkZGJKU082OFN5YTJTam1PR1hNNU1WdU1yTk5kRWV1bzU3NUE5RHVGMEg?oc=5",
-          "published": "2026-09-07T01:00:00.000Z"
-        },
-        {
-          "tag": "Earnings",
-          "headline": "AUM giants lose to smaller equity funds: The surprising gap in 1-year returns investors need to know about - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOR3M2NGNOaUUtMTRKdkxHaXFuZ2JHTURIOWFTMHMtSmtmX0U1UGtaOWZEelZWR0NVQm1IdnFBckp6X1VZS2FGaFMxQzl3U1BJZFRrY192Z3ZidzlvVk5JODBFaG1Cb2FjNFFHSkZQeThPRUlONVhnSnNWSW8tSl9MeWxuZnJqRXI2VTFXSDJsTldZbWxCS3VScVcwSTVRM2ZPSG5EV2ExUnZmS3FsYmJ5akZtOHNWLWt5eU1pUFgxNk90dWFsa2NFek1vNnlEN245d1dqemZuRjY4WDdKX28wejBKajdYaFNJZ2JkUUxTTmRwQU5tRWFIQjJ2X2U5Z0pBUjNB0gGIAkFVX3lxTFBMRkpNMmhPSVV4R1hzMHF4dEY0a1Y5SWMza21tVElxck9VRUtkWlRyc2s3RFREZ2tnd2M0aUgxN3lVY2xHT0JycUR4UzBCc1FUTGE0TnNTOTdUWGpUdXV4WGpXczBzQVRaR3lkTzE3RDQ1ajJ3WWRwOG9JeVU2cW5fZThTUG1xbDVJWjFfa2pVajJvWUxQa2pfcWpYYnp3bXgyajV0TncteDBNbHY2c0g5a25jaFQtZVl6WWRxcEtXdWZnRnBDazdLSi1TYTRHVFZOWWtsUi0wRGJ3M296U3Y3djJFV1RVcW9HVV9kYmtLVVBkTTJXbXIyZmw0NnpMa3ZDZUZmRVNkbQ?oc=5",
-          "published": "2026-09-06T18:29:19.000Z"
+          "published": "2026-09-07T07:06:00.000Z"
         },
         {
           "tag": "Product",
-          "headline": "NFO Alert: Bank of India Mutual Fund announces launch of value fund - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5dllKckpUakMwWlBKWVNuRmZQQS02TEFuenFwRzRzN1NYTkNzcDBIUlNqN0dQdkkwalRGdWtwVU9yWU1sTzhnX0x3X0N4cmxDM1d5cHpoaXdYcDZKNllROEpoRktvUHdIRzlSaVln?oc=5",
-          "published": "2026-09-06T10:23:10.000Z"
+          "headline": "Eris Lifesciences hosts investor meet with Bank of India Mutual Fund - scanx.trade",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmJlUUQtUHZLbDQ4bWVpMU45QjU1MUVSVC1DTVM3OGt4TlNMb3ZpUDZLQUVySXlfblZsTW03MXFHbXZ2cW4tcW1MVENSSlVNMFNUbF8xY0tOVTlMWGhVUW5qRXlEb3BKOS1GWk9EcFZVenkxSm9ETDFTVUxJSWdKNGpiaUZTUHkxSGdjSE9Oa0hJQnhUckw4bEM0dUU0NGJWOFNwOVV4ZmswZmNWSnhNRXFPdXdQczJz?oc=5",
+          "published": "2026-09-07T07:37:33.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Mutual Fund Share Holding | Mutual Fund Exposure - Livemint",
+        "headline": "SIFs attract Rs 22,328 crore since launch. Should mutual fund investors use them as satellite allocation? - The Economic Times",
         "teaser": null,
-        "source": "Livemint",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjMzQnNvUGh3ZWNKVm0wa3UwU3Nib0F5NnhqNTQ3c3lWRWpCbS1va0dRZFNFdExScmFZY2xRcUNFSzVtREdsVUFHTlNObm96RnZnTDhuRWx1ejJXRkZaS2VMeEIwN0EzQ1pmNVJpbmVxOEZ5Si15bVZuTkRTYUdhVE80ZUlORlZ4N0xzT1dFN29yU0cybV9N?oc=5",
-        "published": "2026-09-07T01:26:30.000Z",
+        "source": "Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOX0NCeXZrQTBRUU5pZ2EtOVl5VWw3TVFibk9zQUVCbHVQYXNTQ1ZfS2U2Q0NTcU9zaUstcGpWZ2lBYUMzQXg4U2JwaUJBSlJleHM5YTh1NWxGZkpPbWdUSlh3NXdSQTVFV3Q2UkNjSW1IcUhUQ3VhUjZnYUhGWlN4WjhGRFdTejBNeXBZMWJJblRWZmhZY242dVUxZTdHRkg3TWl1ckpydlFTQW1hVW92QmNvZUtSLUJVQU4tRHZ6Tjd2RWc3U3VfVXJsQ3ZLWXFpR2dWcjkwX2ljR2ZlbmZraXVzb1FPVEhjMmwtRzVrb1phM3cwSDJFRHV1TUxYMFUtRFJDVGdDLXhkYkVMeFVCVDRVRzRyVHM1dmxORFV0QVdRcW1iekloOTVSUlhFVUR1blZ5UU1lNlo1Y1o0TnlHeXN0UEl2cHhyX2NIVHNrc2RIeTdNRG90TGxmRHJQd3RyNzZUT3lB?oc=5",
+        "published": "2026-09-08T05:42:50.000Z",
         "paywalled": false
       },
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "Aditya Birla Sun Life AMC",
+          "ticker": "ABSLAMC",
+          "tag": "Transcript",
+          "headline": "Transcript of the 19th (Nineteenth) Annual General Meeting (“Meeting/ AGM”) of Aditya Birla Capital Limited held on Fri…",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVBjMDRpUk8zR0c5Y1lYRG5SN19ob0YwekczODVsLTJMX2x2cHJVS05ydE9KZ25Da2prRnZPU1pWWWtXd01TdXdIc1pNbmtiMTJHN2p2SDUtd19uUVJrMlhmOEJ1MWFvaFhGNHlPLTlIMWs5SDZtMnVSNEV4Z3hyenF6RERld1NKQWtXVWFHemJSdGxrMUtLRE1pRFlNS2N3aWM3TnpodmE4dHFuWTFyb0N4eWxtRFExSG1wLQ?oc=5",
+          "published": "2026-08-14T07:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Leadership",
+          "headline": "360 One Group CEO Bhagat buys 1.3 lakh shares of Novartis India for Rs 22 cr - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQREpGYmxvUkcyamFraG00TWZ1aUNrVTJwUzl0Y1ZJYnRrakhKajd6d3FKSmhRTHViSUZGWGtMNTVTbDNpQWJyUW1oVFJ0T2lQMjNKSVJJdGYzemFyLUJndDZxZUE3UDRJMUltSW1JNm93VzJxT0toaFpyLUstV1k4VDh3Z1QzZkx1U2U0clNWaEdYNVloTHJuNmVUclhMS00wTkNJZVhCSmxrWXBWOHRZMnZBLV9ZSDF0WjlUcE03Qzh2VXJiUU1TTXRFMVJLc0ZONU11WXF6OW1HdTEtV1c2SFRKMzPSAeoBQVVfeXFMTmFKM3g4Z3NnM1F5TGdOZ0xwMHRwU3VTY1pFbWM1YkFxOFBPVG5ITUlTSExTb2F2ZVoyT0c5bWZVTUZVYlNWUGZPTDFXZElSYkhqRG5TM2JCWGJrOHBPaTUxckszcFA1bUZZTi1rVWtZTURha3ZnTVgxT0R0bTlPV3FqZUFHVF9HVmR0V2MxSmk3WHlUcXBrUmsxemltY0RlUFFOUmxxMTZtUXZVeFZQMlBleXMzb3J3NmNMYy1MWHFRTTAwWHR4eXBlbWxjTkRKSElyaVFpV3RyMGpXX241VWxzWUlZTW42UVpB?oc=5",
+          "published": "2026-09-07T15:26:58.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Indian Wealth Management Pivots As Brokers Seek New Revenue - Whalesbook",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0JOZmw0ZXd6UGt5LWtYUEdfZDNqNEtPWlJpZE03WlN0dFZkeHg2NUk1aHhlUHVpTEdDa3lHX0VPNmVzWHZqMEZkMEYwVndnYUV2d0xQa0pJenptQTJ0bXNLbm90VjR4LVhheUFuUDhCWVhua245RHZmOTZyVV91QkZZQ0VONGpNRVNqX2ZJTExiSVcyaDItb2pray1VQnNNTWVxYTdfZmRVYzhZa0VpX0pLZ3lSLWtMNi1ZcWdoRWVpUFp1R0pydWRTcGpzeTZEZG5JVy1B?oc=5",
+          "published": "2026-09-07T09:07:30.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Intergenerational wealth transfer: how UHNW families can prepare the next generation - Deutsche Bank Wealth Management",
+          "source": "Deutsche Bank Wealth Management",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQem9MS0lpeVdmNE1UUUZYVDRoN0FhenVCU0R6VU1CMTR2YWw0UXd0WThIX1NKWEY0eGdlX01Sa3BzTWJoSFVYR2VVbHdNME5iMUF0b24weFp6RVQ1ZVVSMktVamMzMUg1UjFyNllVMURqLVdHVU56UndRUlI4d0FXN24wWEN5dTJtR2xIeW54OEI4UXJCNW9ldXJJWWRQQm9Qd3BTOE9HYzh1b3ZvR2dLek1XX1lfcDA?oc=5",
+          "published": "2026-09-07T13:21:04.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Leadership",
+          "headline": "360 One Group CEO Bhagat buys 1.3 lakh shares of Novartis India for Rs 22 cr - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQREpGYmxvUkcyamFraG00TWZ1aUNrVTJwUzl0Y1ZJYnRrakhKajd6d3FKSmhRTHViSUZGWGtMNTVTbDNpQWJyUW1oVFJ0T2lQMjNKSVJJdGYzemFyLUJndDZxZUE3UDRJMUltSW1JNm93VzJxT0toaFpyLUstV1k4VDh3Z1QzZkx1U2U0clNWaEdYNVloTHJuNmVUclhMS00wTkNJZVhCSmxrWXBWOHRZMnZBLV9ZSDF0WjlUcE03Qzh2VXJiUU1TTXRFMVJLc0ZONU11WXF6OW1HdTEtV1c2SFRKMzPSAeoBQVVfeXFMTmFKM3g4Z3NnM1F5TGdOZ0xwMHRwU3VTY1pFbWM1YkFxOFBPVG5ITUlTSExTb2F2ZVoyT0c5bWZVTUZVYlNWUGZPTDFXZElSYkhqRG5TM2JCWGJrOHBPaTUxckszcFA1bUZZTi1rVWtZTURha3ZnTVgxT0R0bTlPV3FqZUFHVF9HVmR0V2MxSmk3WHlUcXBrUmsxemltY0RlUFFOUmxxMTZtUXZVeFZQMlBleXMzb3J3NmNMYy1MWHFRTTAwWHR4eXBlbWxjTkRKSElyaVFpV3RyMGpXX241VWxzWUlZTW42UVpB?oc=5",
+          "published": "2026-09-07T15:26:58.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "Indian Wealth Management Pivots As Brokers Seek New Revenue - Whalesbook",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0JOZmw0ZXd6UGt5LWtYUEdfZDNqNEtPWlJpZE03WlN0dFZkeHg2NUk1aHhlUHVpTEdDa3lHX0VPNmVzWHZqMEZkMEYwVndnYUV2d0xQa0pJenptQTJ0bXNLbm90VjR4LVhheUFuUDhCWVhua245RHZmOTZyVV91QkZZQ0VONGpNRVNqX2ZJTExiSVcyaDItb2pray1VQnNNTWVxYTdfZmRVYzhZa0VpX0pLZ3lSLWtMNi1ZcWdoRWVpUFp1R0pydWRTcGpzeTZEZG5JVy1B?oc=5",
+          "published": "2026-09-07T09:07:30.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Intergenerational wealth transfer: how UHNW families can prepare the next generation - Deutsche Bank Wealth Management",
+          "source": "Deutsche Bank Wealth Management",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQem9MS0lpeVdmNE1UUUZYVDRoN0FhenVCU0R6VU1CMTR2YWw0UXd0WThIX1NKWEY0eGdlX01Sa3BzTWJoSFVYR2VVbHdNME5iMUF0b24weFp6RVQ1ZVVSMktVamMzMUg1UjFyNllVMURqLVdHVU56UndRUlI4d0FXN24wWEN5dTJtR2xIeW54OEI4UXJCNW9ldXJJWWRQQm9Qd3BTOE9HYzh1b3ZvR2dLek1XX1lfcDA?oc=5",
+          "published": "2026-09-07T13:21:04.000Z"
+        }
+      ],
       "insight": {
         "tag": "Research",
-        "headline": "Mahindra Manulife Dynamic Term Fund-Dir (G), Dynamic Bond, Mahindra Manulife Mutual Fund, Aum(Rs Cr) - 16.36 - Business Standard",
+        "headline": "Mahindra Manulife Dynamic Term Fund-Dir (G), Dynamic Bond, Mahindra Manulife Mutual Fund, Aum(Rs Cr) - 16.39 - Business Standard",
         "teaser": null,
         "source": "Business Standard",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGpvUFExNS1VWnoydko2ajNNbzBzelZBR2hOdGJLaFhyY2JJQm5wQVZhLXFHVHVKNmRicGVmYVpMT3R6WUI3TFo4SjE4VVJGeGpsdFNrY2pudzhMSVRZbEhBRkpOVkd1TmR1UnpXZWZ0SW5JcktUeW5pTXM2YzJTZHFOS2ZGZkNmbE9VX05hWHdSUU9ZWElaaHAydTRtVGphblZF?oc=5",
-        "published": "2026-09-04T04:56:00.000Z",
+        "published": "2026-09-07T05:50:00.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -154,71 +207,92 @@
       "name": "Insurance",
       "bullets": [
         {
-          "tag": "Leadership",
-          "headline": "‘Predictable hospital rates will create efficiency’: Mayank Bathwal, CEO, Aditya Birla Health Insurance - financialexpress.com",
-          "source": "financialexpress.com",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZDRKcVVZWktLbWZJUFdvUndIOU5Na1l4VUtCSWJnaGFZU1p4Mkt0SGVQbVdaMGp2QVEzU2FqOFI0Q1U0ZXlnZE54R3lsUUJNTDBqRWxKcm9mSTZCMm53UTJ3WUp6SnlseWJuVVBRcG1LeHhPVFFQVVhyU3ZyTXdkM2EwVEhJNjR3T09KQzQ5NXR1Ti1lOFFJR1hHZVVRV2hTLUJ4NGRfQXJfdjZiWHREUjQ1UEszeDdMa21KYkJoRFV1amtuRnlQRklLd3E1bXFGRkFuUFY4YXAxUnZELVk1MkJoa1hvQ3dEaXfSAfABQVVfeXFMT1Ftdi1FVDc0X1dvTV9JcDlRVkRPYzAwTXl1U2dhN0JGNUE1a056Mk96dG13MC1iNWQxeDFfSkJValZrNG1Lakl6NGRtOGYxUTVIYk8wWjNWbW5hOU1qVU93QWFhMmhWM2lUamhQczNseGhXTGthNjd6LUtIZ0lERHFZZ193X0IyVFlWREdFOUFIT1RYbDFxak9JWndMOVMxYkdneWhiN1lRd1gzb1FaM0xMQzYxZXVVRmFmOWZhVWRVM001THZMdmFsUUJPRGxKZ25zZmtINUkxM29FZ3JFOE40d29BaEFBdHBLSHhoaG9k?oc=5",
-          "published": "2026-09-06T12:54:55.000Z"
+          "tag": "Regulatory",
+          "headline": "IRDAI imposes Rs 1 crore penalty on ICICI Lombard over compliance lapses - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGkwa2FhNE1sZkNIUlUyM3ZTSm9IUXVsTk5raDVYN0tNN3VScU9hMy1JTThYUHk0aDU2OHg5enA0eHRZb3ZvQTZ5eTdvemZaQXpqdmZvOXM1czd0ZFNIZnpiYTE3cXZTVWJxZURjWG9RSS1SRDNlZENjTE44aGtPMi1xR0YwYjVjd2pNQ1NIUFRFcG5OUVc3TnZoZXk0X2hiUjVtV2lLUHYwZTNRUnVsWEJXbl82MXUzWFM3WUVNMXkxcGtUeW1hZ3ZMbDJmUTdDSkFrMjlmTkZhdmRZOE9B0gHkAUFVX3lxTFBhMzhSTlg3ckprT1JCS3lnR0F1c0NDUWNrZkZ0OGhsWldaMDlvSndhbFFRTTJFY0o0bUlkV3cyY3c2UDVYNlpYZTNYNVhBTVIwR3lCaDhtdGxQdHBlaDVTbkFzbExuZlBremFyU05xUm1mQ2NtRy0tNWN6bnRkMXI4cWFQdjRlb0g0a0JyRjZURTJwMTVKZmxFQUtNZjVTS1RqQUotelFYLTlaR0swSVRxVjlzSThUd2Y2LXdsRDB0NFJ1c1UyY2NCaXQ1Zk82cVZ2c0t4eXoyNVROeHdKTXhQbWJEYQ?oc=5",
+          "published": "2026-09-08T05:52:22.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Ceylinco General Insurance launches affordable protection against Dengue and Chikungunya - island.lk",
-          "source": "island.lk",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmozR1NqX21mUnJlWjJIUVZTWm1ObUFhVURSNUxEZXVEZWd5U3ZycjlZT003QWRiUWFqZ2NtdGxjeDhJT0lpYi1ENzVqbkE4TEEtcWw4NVpNb25GT3BBamx5U0pfeUpjNXB2M0lVQmE1aHlQME9CRnEzbzVYWHpRa3NRSkhIeTFrWHRPMEN6NHV5V054cVJoSzhVdnV3ampUX3VIOTBSV2NnZw?oc=5",
-          "published": "2026-09-07T00:46:24.000Z"
+          "tag": "Regulatory",
+          "headline": "ICICI Lombard Discloses IRDAI Order to Exchanges Under SEBI Rules - tipranks.com",
+          "source": "tipranks.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcjc3UHFWdThFczZUT2hvVExnNzNfZzlNMnJ1M2ZCWElfM3NxRWIzVm1ibW1RZ05jcmNUUkdTdGROcEQwV2hSZlFaWDZiQTk4dEN2Y242ZWF5SERJdmdBb2hWUVpLMkpNWndLbWE5MTA5Z3otQnlIa21ZTTdBSGI1ZmRfQzg3ZWUzdFFDblUwdnhXUXBaRUhmM25LR25PTGlXM1J6eEU0WU8xMGZBM1JmcmppYUlZVE5x?oc=5",
+          "published": "2026-09-08T03:53:11.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Insurance company cannot unduly restrict interpretation of health insurance policy: High Court - The Hindu",
-          "source": "The Hindu",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaWRYbHgxbk1Idkt1ME9BUGxrU3NFN0lkdkFvbkZiSTJrS0RDd1llT3RBYkM0Q0YwYjF6MEpzbExKd0RVclJIMUp4X3YtZmU3cjNSSDI3U3F1TmtUTEt3VVVuVGozV2Q2eGNleFZIWU9nN2poR0NYVU11X1BVNWVFRk53dDBLYVNDMmJjRjdXcGpvOVV4TWhEcDF1aG4zM21mZnV2SWgtZ0pEX191UEV2ZHNXamU1cmgxb1NKbEQtemtkS1Z4Q296SlJUNHFGa2RMamNaZWYtOGFZVTh6NnJZZlVFNm9admVlUmZYSWxDTkwyYXkxcGFvcNIB-AFBVV95cUxPaWRYbHgxbk1Idkt1ME9BUGxrU3NFN0lkdkFvbkZiSTJrS0RDd1llT3RBYkM0Q0YwYjF6MEpzbExKd0RVclJIMUp4X3YtZmU3cjNSSDI3U3F1TmtUTEt3VVVuVGozV2Q2eGNleFZIWU9nN2poR0NYVU11X1BVNWVFRk53dDBLYVNDMmJjRjdXcGpvOVV4TWhEcDF1aG4zM21mZnV2SWgtZ0pEX191UEV2ZHNXamU1cmgxb1NKbEQtemtkS1Z4Q296SlJUNHFGa2RMamNaZWYtOGFZVTh6NnJZZlVFNm9admVlUmZYSWxDTkwyYXkxcGFvcA?oc=5",
-          "published": "2026-09-06T16:15:48.000Z"
+          "tag": "Regulatory",
+          "headline": "ICICI Lombard fined ₹1 crore by IRDAI for outsourcing violations - businessupturn.com",
+          "source": "businessupturn.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDRycngtb194NW5yTVlTMGlrbDZwQ0t6VVplNGkxRFBMajRsYUJDTWtoekRSUVJRNkNXdkw5dzJqQ29RM3kxRm4tbFhSc0tKbGpqZ1l6dVVmWlJBWW1YNkExVE83MXRWdmFzaG9NWUhoeDVDbEoxaFpYUlZaaEE5Snk4akllZ05TSjdpNk9KaVJUZnVydG5TckRvN2dWcHpwOV9qVA?oc=5",
+          "published": "2026-09-08T03:44:58.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Leadership",
-          "headline": "‘Predictable hospital rates will create efficiency’: Mayank Bathwal, CEO, Aditya Birla Health Insurance - financialexpress.com",
-          "source": "financialexpress.com",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZDRKcVVZWktLbWZJUFdvUndIOU5Na1l4VUtCSWJnaGFZU1p4Mkt0SGVQbVdaMGp2QVEzU2FqOFI0Q1U0ZXlnZE54R3lsUUJNTDBqRWxKcm9mSTZCMm53UTJ3WUp6SnlseWJuVVBRcG1LeHhPVFFQVVhyU3ZyTXdkM2EwVEhJNjR3T09KQzQ5NXR1Ti1lOFFJR1hHZVVRV2hTLUJ4NGRfQXJfdjZiWHREUjQ1UEszeDdMa21KYkJoRFV1amtuRnlQRklLd3E1bXFGRkFuUFY4YXAxUnZELVk1MkJoa1hvQ3dEaXfSAfABQVVfeXFMT1Ftdi1FVDc0X1dvTV9JcDlRVkRPYzAwTXl1U2dhN0JGNUE1a056Mk96dG13MC1iNWQxeDFfSkJValZrNG1Lakl6NGRtOGYxUTVIYk8wWjNWbW5hOU1qVU93QWFhMmhWM2lUamhQczNseGhXTGthNjd6LUtIZ0lERHFZZ193X0IyVFlWREdFOUFIT1RYbDFxak9JWndMOVMxYkdneWhiN1lRd1gzb1FaM0xMQzYxZXVVRmFmOWZhVWRVM001THZMdmFsUUJPRGxKZ25zZmtINUkxM29FZ3JFOE40d29BaEFBdHBLSHhoaG9k?oc=5",
-          "published": "2026-09-06T12:54:55.000Z"
+          "tag": "Regulatory",
+          "headline": "IRDAI imposes Rs 1 crore penalty on ICICI Lombard over compliance lapses - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGkwa2FhNE1sZkNIUlUyM3ZTSm9IUXVsTk5raDVYN0tNN3VScU9hMy1JTThYUHk0aDU2OHg5enA0eHRZb3ZvQTZ5eTdvemZaQXpqdmZvOXM1czd0ZFNIZnpiYTE3cXZTVWJxZURjWG9RSS1SRDNlZENjTE44aGtPMi1xR0YwYjVjd2pNQ1NIUFRFcG5OUVc3TnZoZXk0X2hiUjVtV2lLUHYwZTNRUnVsWEJXbl82MXUzWFM3WUVNMXkxcGtUeW1hZ3ZMbDJmUTdDSkFrMjlmTkZhdmRZOE9B0gHkAUFVX3lxTFBhMzhSTlg3ckprT1JCS3lnR0F1c0NDUWNrZkZ0OGhsWldaMDlvSndhbFFRTTJFY0o0bUlkV3cyY3c2UDVYNlpYZTNYNVhBTVIwR3lCaDhtdGxQdHBlaDVTbkFzbExuZlBremFyU05xUm1mQ2NtRy0tNWN6bnRkMXI4cWFQdjRlb0g0a0JyRjZURTJwMTVKZmxFQUtNZjVTS1RqQUotelFYLTlaR0swSVRxVjlzSThUd2Y2LXdsRDB0NFJ1c1UyY2NCaXQ1Zk82cVZ2c0t4eXoyNVROeHdKTXhQbWJEYQ?oc=5",
+          "published": "2026-09-08T05:52:22.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Ceylinco General Insurance launches affordable protection against Dengue and Chikungunya - island.lk",
-          "source": "island.lk",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmozR1NqX21mUnJlWjJIUVZTWm1ObUFhVURSNUxEZXVEZWd5U3ZycjlZT003QWRiUWFqZ2NtdGxjeDhJT0lpYi1ENzVqbkE4TEEtcWw4NVpNb25GT3BBamx5U0pfeUpjNXB2M0lVQmE1aHlQME9CRnEzbzVYWHpRa3NRSkhIeTFrWHRPMEN6NHV5V054cVJoSzhVdnV3ampUX3VIOTBSV2NnZw?oc=5",
-          "published": "2026-09-07T00:46:24.000Z"
+          "tag": "Regulatory",
+          "headline": "ICICI Lombard Discloses IRDAI Order to Exchanges Under SEBI Rules - tipranks.com",
+          "source": "tipranks.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcjc3UHFWdThFczZUT2hvVExnNzNfZzlNMnJ1M2ZCWElfM3NxRWIzVm1ibW1RZ05jcmNUUkdTdGROcEQwV2hSZlFaWDZiQTk4dEN2Y242ZWF5SERJdmdBb2hWUVpLMkpNWndLbWE5MTA5Z3otQnlIa21ZTTdBSGI1ZmRfQzg3ZWUzdFFDblUwdnhXUXBaRUhmM25LR25PTGlXM1J6eEU0WU8xMGZBM1JmcmppYUlZVE5x?oc=5",
+          "published": "2026-09-08T03:53:11.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Insurance company cannot unduly restrict interpretation of health insurance policy: High Court - The Hindu",
-          "source": "The Hindu",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaWRYbHgxbk1Idkt1ME9BUGxrU3NFN0lkdkFvbkZiSTJrS0RDd1llT3RBYkM0Q0YwYjF6MEpzbExKd0RVclJIMUp4X3YtZmU3cjNSSDI3U3F1TmtUTEt3VVVuVGozV2Q2eGNleFZIWU9nN2poR0NYVU11X1BVNWVFRk53dDBLYVNDMmJjRjdXcGpvOVV4TWhEcDF1aG4zM21mZnV2SWgtZ0pEX191UEV2ZHNXamU1cmgxb1NKbEQtemtkS1Z4Q296SlJUNHFGa2RMamNaZWYtOGFZVTh6NnJZZlVFNm9admVlUmZYSWxDTkwyYXkxcGFvcNIB-AFBVV95cUxPaWRYbHgxbk1Idkt1ME9BUGxrU3NFN0lkdkFvbkZiSTJrS0RDd1llT3RBYkM0Q0YwYjF6MEpzbExKd0RVclJIMUp4X3YtZmU3cjNSSDI3U3F1TmtUTEt3VVVuVGozV2Q2eGNleFZIWU9nN2poR0NYVU11X1BVNWVFRk53dDBLYVNDMmJjRjdXcGpvOVV4TWhEcDF1aG4zM21mZnV2SWgtZ0pEX191UEV2ZHNXamU1cmgxb1NKbEQtemtkS1Z4Q296SlJUNHFGa2RMamNaZWYtOGFZVTh6NnJZZlVFNm9admVlUmZYSWxDTkwyYXkxcGFvcA?oc=5",
-          "published": "2026-09-06T16:15:48.000Z"
+          "tag": "Regulatory",
+          "headline": "ICICI Lombard fined ₹1 crore by IRDAI for outsourcing violations - businessupturn.com",
+          "source": "businessupturn.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDRycngtb194NW5yTVlTMGlrbDZwQ0t6VVplNGkxRFBMajRsYUJDTWtoekRSUVJRNkNXdkw5dzJqQ29RM3kxRm4tbFhSc0tKbGpqZ1l6dVVmWlJBWW1YNkExVE83MXRWdmFzaG9NWUhoeDVDbEoxaFpYUlZaaEE5Snk4akllZ05TSjdpNk9KaVJUZnVydG5TckRvN2dWcHpwOV9qVA?oc=5",
+          "published": "2026-09-08T03:44:58.000Z"
         },
         {
-          "tag": "Press",
-          "headline": "SMS Hospital to accept private health insurance: Packages to be set like private hospitals, major step befo... - Bhaskar English",
-          "source": "Bhaskar English",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDJlcmgweTBDWm5uT3lKUW0tZFRXUnpjdnBPcjN1YmFYS0hJNGh0aDE2X203UFdRRVdfUGxDbF9obk81MDhTSC1YUmc0a1BiZkRGVVdaRjJGeXRxcXc4VS1tWWJwVDU5YnZETm4yQXFVRTJZYUlua2Fyd0V0eG4wY2JJYldTQVdzbmk2S3BBU0IybWU3R0twYXNuMnhpeGh1OEMxZUdVWDVhR2lnSjJTeTE3Z0RGTlB4aE5veDBSYlZVbGE1M190eDdGWlIyT0dIaExGRHFSMzlHU3F2bVHSAd4BQVVfeXFMTzAyZXJoMHkwQ1pubk95SlFtLWRUV1J6Y3ZwT3IzdWJhWEtISTRodGgxNl9tN1BXUUVXX1BsQ2xfaG5PNTA4U0gtWFJnNGtQYmZERlVXWkYyRnl0cXF3OFUtbVlicFQ1OWJ2RE5uMkFxVUUyWWFJbmthcndFdHhuMGNiSWJXU0FXc25pNktwQVNCMm1lN0dLcGFzbjJ4aXhodThDMWVHVVg1YUdpZ0oyU3kxN2dERk5QeGhOb3gwUmJWVWxhNTNfdHg3RlpSMk9HSGhMRkRxUjM5R1Nxdm1R?oc=5",
-          "published": "2026-09-07T00:30:00.000Z"
+          "tag": "Regulatory",
+          "headline": "Warn your clients: IRDAI informs policyholders about fraudulent Bima Bharosa website - Cafemutual",
+          "source": "Cafemutual",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUng5R004NVJNUXMtcm0wV3dEdEhRV3prU3VmMklMZ2trOElmdUd0alVzdGNHaW9TT01xbW9fbW1KRU9aNkNxWnJKQU5fdjBnZno2MEVTN1FqT25jTmV0Umt4M2h5eWFuXzdhVW5rLVlGTDRHblJVNGFpbXZLWXFZMGFINk1QQ2lNSjd3UWdEbkdGeVJXVG5XRXRfUm55MkJXS0JRZTBDNFR6dERDV3VXMW1zMmpQMmRYUUZ6eDZrU3JRVEtTdXc?oc=5",
+          "published": "2026-09-08T02:35:43.000Z"
         },
         {
-          "tag": "Press",
-          "headline": "AIIA Signs MoU with General Insurance Council, Enables Cashless Ayurveda Treatment - newsonair.gov.in",
-          "source": "newsonair.gov.in",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVNac2lwYnVNT1VfUmE5Q0gxV2stOW9udFhRbThsNkt2QkhaaWJBdkJYcXdyNGNRbEM4QWVXaS1LeHVNbmFNQnU4WXZpeE5aRUxKMlFiVmtvc3JvcXg3dHBVenRYeDd5UERqR2l2MUZ3eTZCTi1jMW1lLWlPWVdycjE0bUIyaWMtaUtIemdVTjUzWTBRT2VIT1dSb09fWUVyMVlqN2FWd0paTWs?oc=5",
-          "published": "2026-09-06T21:12:55.000Z"
+          "tag": "Regulatory",
+          "headline": "IRDAI slaps 1 crore fine on ICICI Lomard, - Asia Insurance Post",
+          "source": "Asia Insurance Post",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cW4tMWZvaXVBWnRmY3J4WFd3TkxScVNzRDFYOGlha1MwWG5NX1FNTXgydHNHYUNja0tMZ3RLb3J4YlRRd0NXclYzbGY1d0pxWlIxbkdOMA?oc=5",
+          "published": "2026-09-08T00:22:58.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Insurers Seek IRDAI Nod to Aggregate Equity Derivative Limits for Hedging - Whalesbook",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFk4MG9VY1FFdnZfQmpCWFBwall5dXJOU1lfd1hXbTdZaGpOeEROUzR4RG9tVlhqOWsyMDFraFZQaFlvLU9oZE5Tb3hpT3RsYXVHaUVXdlpmbzJpeF94YWFiMm96LVhwUzF6RmliMEc3TnZOTk9XdV91WmxLT09xXzdid0dHZTlDMm5aeGhaU05vdjFSamFId2hSYkRIS3FxbjFIZ0dRdERwYmJTRFUwaUpwemd0WFRESldvMmNOM0FFd0pYdUgwTEV6VjNGbXFWalNFaWNGTUpYNENFR1BXc0xR?oc=5",
+          "published": "2026-09-07T20:39:15.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "IRDAI Warns Public Against Fraudulent Website 'igmsirdai.online' Impersonating Grievance Portal - latestly.com",
+          "source": "latestly.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGRmX0JTNHZDbmdoMXNhTXU3TFJVZkREcmIzR1k4VzBGNjVCNDZlTEFTWVdTQUV5STV3S1hzeDR4SlpYUHNUbkhfUnpESFRVaDByMHF1WHBWZGQ4WXZxeTFGTlFkaFotcTFSLWdpUDBoOTZIcFpuTS1YSzhOU243ZVR6MFFhdzNnbE9HSG9lMzRVYzlZWHNNS3NKdGJPcXlRQnUyWjIzX0hvRHZ0cnRJVW1aRjlMT3lsNGhCd0Vyc2txU0dtblNDNE5hTHNKcENjN0psVzVaSTYyUdIB3wFBVV95cUxPMTVvRnhlaFdFNWFiMDlDLTZmSzAxUzFLS0pSV3JiNFlsZ3FKWW9IemV6VUFvb2xyOU1TWWdJc1dGMmNnR2lZRGRWVWQxaGdTZTZuZmQ5VEtiX0JTNlhVX0R1RmY5UmNuZUcyUEZudThSa2FiQkh3WHdETHh2aGlSdTJVb3oyOHZxQzc0Q2d6SlpxY2s4cW84azJjeDYzanppRlIzMW9nRmFWMkt1djFCOVE2Mm1mUkkxV3lKTkNST295Q0Z6YlFWUE9Oc2kzWHNIb0NjelRfalNCZ0U0ekFV?oc=5",
+          "published": "2026-09-07T11:25:11.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "IRDAI Warns Public Against Fake Bima Bharosa Website - Whalesbook",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmE4ZkZvUUhuX21MYjUxOEFEYi1qZzZmOVpwVXN4Y05Odms3YlB5YlphdmRjRFRfNGs4Yjg2U1ZQcWh4REdRa21lbVk1WDFfNFZIeGxKNFBWX2FaMEkxYWpkbElzeV90cjJLSWRqcVNoRG5EWXUxelA4QzFpY2g4X0hyZkpvZDZ5eXRiLTNHblhLdVZVakNBTXU0TXF2UmJyNTVhaktiVGRYMEVJajRQMlg3OWtjVWRsZ0I1eENCMWtoNHFTRXc?oc=5",
+          "published": "2026-09-07T11:05:31.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "LIC receives RBI approval to acquire up to 9.99 pc stake in ICICI Bank - ETLegalWorld.com",
+        "headline": "Irdai fines ICICI Lombard Rs 1 crore for outsourcing, vendor management lapses - The Economic Times",
         "teaser": null,
-        "source": "ETLegalWorld.com",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnpuNmNSNlhEeDk4eFpCSzBwUnd5TkNwNXdOVjItZVlXNjJETDhvb1o5YWVoX3I3bnN0c2ZRbTlzekZva0wwenRKeEg5ZWwzZnhrZG9IWjNhaENraDZBeWduaFVZc1hGUDJtNGxuYzdwMFA3OVV0aVh6VXFlR1JvcXVmR3E0RjBoaGMwRHhQS3JjejZlV0pOX3l2X0R6dE94UXFPS3RUcmhZVUxBTzN6UC10STNidG9NVTgtTFpnVGxMMktXQ3RGY1Z1YmNxNHp6bjBtTFJhZUdHd2_SAdsBQVVfeXFMUHZ6bjZjUjZYRHg5OHhaQkswcFJ3eU5DcDV3TlYyLWVZVzYyREw4b29aOWFlaF9yN25zdHNmUW05c3pGb2tMMHp0SnhIOWVsM2Z4a2RvSFozYWhDa2g2QXlnbmhVWXNYRlAybTRsbmM3cDBQNzlVdGlYelVxZUdSb3F1ZkdxNEYwaGhjMER4UEtyY3o2ZVdKTl95dl9EenRPeFFxT0t0VHJoWVVMQU8zelAtdEkzYnRvTVU4LUxaZ1RsTDJLV0N0RmNWdWJjcTR6em4wbUxSYWVHR3dv?oc=5",
-        "published": "2026-09-07T01:26:37.000Z",
+        "source": "Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMDdhLWtIMnVqcXF4U093eS12X2JWLXJzODRhdDhkdE9nSURVM2VwbEtoejhQRVNRVDVsRVdmMERhaEVqaERTUERsQ3FhM0oxMkk2N04xMzZIU0JuMV9IYXBDaUN2YlFDVjEyVVZnbkpKSWpmTktXQjRhT3FiaFJUREZSbmhKMDZybFg1Sy1Wc2lmQkJfblYzSWJzQ19VNHM1a0duYmg4Q3B5YjhVRGdwa1BXT0RwdEZwSW0zNm1VbDRsZ1h3RHlvalhrZ0gxaUV1Zmc5b2h2d0RxblZWWjJXd2FpLWhickNKNnVxMFQ1YWJKTXBHc2sxdkl6eHBtb0xtclHSAfsBQVVfeXFMTlZNVnJVTjc4Ym9BX2wwb0dQNXp1UXZ5d05JQkV3ZUZOWUphUURKMDdVYjJjX1F6Z0ZZRWxDUW1vX2R6dWhyaHFUS01sSURXdlhyMENRbWZIQ3I1VUEzcmhjakIzYzZKN0xFYU1sX3J1SWh1a0I2VERDd2g2ZzVFSGl4Z3p3WnBJWWdCNGNvcFVCWURjWVk4MG5iWnhXYzhUWmRhUjVWWWdrS0RVbmdlSS1CM2FQSHhEdi1oaGppR3paRVJuVG03NHY1ajRqRXZGdVVJUE9sbGo4YzQ3QVN3TnFaUlgyNTJZV1RJRG5heGN2dVJkUjU3SzFqaHM?oc=5",
+        "published": "2026-09-07T19:26:38.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -238,91 +312,91 @@
       "bullets": [
         {
           "tag": "Regulatory",
-          "headline": "India’s record foreign deposit push could cost RBI $10.6 billion: Why the diaspora fundraising drive may p.. - bfsi.economictimes.indiati…",
+          "headline": "Ajit Ranade: RBI owes the public an explanation for its exorbitant dollar deposit scheme - Livemint",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVS1vVjJxVjY0M0lyb1RBemJQTzJzWlg5MS1PQTJ5YjVTS0JsT0x1SVM2TExnYkRTejgtZndZSTl2OHY5TW1ieEZwV3FvUUtnN0U0cDdsRnVoeDJ5RFVGN2E5d0VOU09uWHMxYWNqeHFvdXJ0SWE2d1VIcFhQNnl4NVlxMlJfWkRLdjFYQXlaV0NiRVEtNjJBbmZXTVVub0Ntc2k4OG5wbHBvSXdBeGpwS1hFV1F5YmxTak9WdElSR1VxTlRBdHpvRUQyN09kN0h6UkdTMXFYWHR0clRZYlpWSWhWZmxXenfSAewBQVVfeXFMTkpOVFpaWE1YUVhrdEJ2R0U1VDB3ZGF2QzItWTJxMjR1cnZNRER3VFBBYjJQQk13Q3A1ajdSSTJ0UFhlN3VzbEtUYlFyRHk3R2EwRHdsQ1R3Y3RPekp3aGs4MWFHQWZUdGptR0RvalNiMVdaY2Fkb2IyOW55UmQ3X0x2Zl92WVJudmdUai1QeFhIRjA5RnNlZlN6WkhSS1g0U3lYQnFKdk15a3ByeXRoZGxaVl9RV29WREZhREdob3ZmUDlkNmVQOFVpQVJwWGhvTl9wZ1NGSjF6V1VoanBkYTZmbW5wTi1kSlZmTXE?oc=5",
+          "published": "2026-09-07T07:09:50.000Z"
+        },
+        {
+          "tag": "Strategy",
+          "headline": "Private banks’ profit margins recover as FCNR(B) inflows ease deposit funding pressure - The Economic Times",
           "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQX016aHVFUFBuV2V2dlNzNW83MEx5RDlWRnRRZXN2enVNUHZPbHI2cDFVTm1RVnVDeHhhaUFwbWJKNlFFV0owbTY1WUVwb05xM0lVc2ZsRlBKRjluZGJMeGU3QnRIUHZqOFd0Zkh2TkR2RV9USWRjcGJ5WG1wRFVmTllLN3dnTkx6WkhjRFNVWmF2V3NzY1VVLU53OVo1empob3U2LTEtbkxPMnh2WGYxY1k4UjNCUkVVX1NyQUYyNFo3ZG5qMERPR1BiUi1Ram9wZ1hhQUJFY0duQk9iTFNqNWxKYzEzVW5TS2pRaTRuYjdzRnNYYVdtNVF3bnRxenktYUZla3lOdERkazNSMzBN0gGPAkFVX3lxTFBfTXpodUVQUG5XZXZ2U3M1bzcwTHlEOVZGdFFlc3Z6dU1Qdk9scjZwMVVObVFWdUN4eGFpQXBtYko2UUVXSjBtNjVZRXBvTnEzSVVzZmxGUEpGOW5kYkx4ZTdCdEhQdmo4V3RmSHZORHZFX1RJZGNwYnlYbXBEVWZOWUs3d2dOTHpaSGNEU1VaYXZXc3NjVVUtTnc5WjV6amhvdTYtMS1uTE8yeHZYZjFjWThSM0JSRVVfU3JBRjI0WjdkbmowRE9HUGJSLVFqb3BnWGFBQkVjR25CT2JMU2o1bEpjMTNVblNLalFpNG5iN3NGc1hhV201UXdudHF6eS1hRmVreU50RGRrM1IzME0?oc=5",
-          "published": "2026-09-07T04:49:29.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ1pXYU5GZWgwUVE1ZVRsVTZIcmF4SWc1WTBmLVNXVDFDbTFaS2M3Ujc0YVRlQ0laODVoeVM3UHY1bklUTXg0T2NWN3NGTUd5d2dSbnFRYzdKUFNzREdwRFIxSnFOZlhWT2JORW9FeUtCczFKam9hSnVuNHJSbjhjQkFJcWVyWmFXNVR5WkVXTzNFRGFqVTRNV2dNUVBEcVhrcklSRGNsSjRSZndUMjY1dVg0Q3FiS1oteHlGb1hkLXVqVjByMjFaRzVTQ1A5YTE1UW5CRlhIRnBETEhuUVI3YWlZcnYtT1RHT0NOZmp6WWhYVUFVc2xYRk1XM0ZJbHB1d3ZFSVo3MmFuWjQ?oc=5",
+          "published": "2026-09-07T19:23:13.000Z"
         },
         {
           "tag": "Regulatory",
-          "headline": "ICICI Bank shares in focus as LIC gets RBI nod to acquire 9.99% stake in private lender - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWDh6OGllemRGLVdtY01pWEpDNEplMHBEVklFUnFvN296cnFjOVRxYm9TMWFOb2ZiYW5qbUNOQXpSX0NiclNOQjAtdy16Wm1valM3NzFSNkNpTWtmYzlLc3JIVWxHNnBfcTJJd1J0MFU3Z3oybU5URXBlSURaT0QzZThSRUQ2elZ5Zkhqek5tOXdqa2RZbVJTYi1ta3JLWU91X256S0JYcTd2R0ZhV1hXLXVhYXRxcHM3MHoweFlEUzh4cHhTTFJEUERDRE5iWERpb3daUVZoaF9PT0d5V1FuRkZGYjlTNnYzQ3E3OFotMTlHeG5LNDRF0gH3AUFVX3lxTE5YOHo4aWV6ZEYtV21jTWlYSkM0SmUwcERWSUVScW83b3pycWM5VHFib1MxYU5vZmJhbmptQ05BelJfQ2JyU05CMC13LXpabW9qUzc3MVI2Q2lNa2ZjOUtzckhVbEc2cF9xMkl3UnQwVTdnejJtTlRFcGVJRFpPRDNlOFJFRDZ6VnlmSGp6Tm05d2prZFltUlNiLW1rcktZT3VfbnpLQlhxN3ZHRmFXWFctdWFhdHFwczcwejB4WURTOHhweFNMUkRQRENETmJYRGlvd1pRVmhoX09PR3lXUW5GRkZiOVM2djNDcTc4Wi0xOUd4bks0NEU?oc=5",
-          "published": "2026-09-07T03:32:00.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "RBI's liquidity test may set future course - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlBiNXE1VWduQVIyZE5JVmhZRGRUdWhpYXhkX1ZSRHpkeEJTekhrSmhacHN4R0t3LXlmdG41UzMzTjN1WlFfT0hQbi1GbWJzSWQ0X0pkMGdhUDhMMXVnTmZ6SDZMNktQc2JFckNkOGI3Yi02TWdyUHVYZ1FmQk9MV3ZSUkRyYi1VbUxielZLbzJNMHZiTWFOV0VDaU8zcHlRblljVEFsTWhBUTJaWVNCX2pyRnJmd2xEdGJ2eUF6SDFWR3PSAbwBQVVfeXFMUFo4WVA5LWlJdFZiS1FxQXF0aURwUnNSU3oweWdOeWIzOWs3MkdVWXBRNnFOb2tLZV9WX2t0UGJFUy1TU1BBSGdhRVlRSnEyaTBDNTE1ZVAtaTZVNUNpRGtqNWhsV3Z5NmpXRUpMS3VNT1VzeGFkeU9aUDNRM1VfMXd5eWxCcWxJREV5VlRNVXRaTVM3ZEJ3RWFYNUhfTVl2bDZneEVSOFN4ZUlLSnYzem1JdWFIdW01R0JzSDA?oc=5",
-          "published": "2026-09-06T19:24:53.000Z"
+          "headline": "Gold loans by NBFCs surge 68.5% in July, says RBI - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaFkxQTFqWmtfcWlqdjdnbExFd3JDYXpGYjdCLWFZSkxTOXQ4N3hDM3dhZzQ2UlVnZ2tfTUY5MmhvTUM0OXNONE1HZ0IxMDBScW9JU2poR0FaRXhsNjN4QThfdnlIeHRYUERsYVUzTFQ2MVp3LWxPVTJ3UWphR1VTN1AyY0h5aV9QSXZILWNNNXdPWVBVQXBybENEakt0YnRBc2N2WkktQXUxaFQxQXVNVk1aZEVNRG1LMnVXbzNxOFVRTGRuQzA0YdIBzgFBVV95cUxPX2xaOWFnTDd3Z1hUVXV2NXJKNVJ2SG5Td3Nna3lCY1VkYWptSEFOeUI3cnZJekpwM3d1QTJDb3E2dE5OMTdSOGQ5WVpSWUp2bncyQUdjeEM5Y2JXZkdEVVRMcnFGRmxfV0pNVTVWaTFfRjY5OTZsd2dRWUs0T25GY1o0MTBRdG01NzJEUnhTY1ZIM3BQM2VlNUFaVk5OMkVWMHJ4eVJDNnlfWWp1THhzcDNTcmlmM0dXVVJtR1ZiQWRrSWhLM2VaeHlYVUMxUQ?oc=5",
+          "published": "2026-09-08T05:20:10.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Regulatory",
-          "headline": "India’s record foreign deposit push could cost RBI $10.6 billion: Why the diaspora fundraising drive may p.. - bfsi.economictimes.indiati…",
+          "headline": "Ajit Ranade: RBI owes the public an explanation for its exorbitant dollar deposit scheme - Livemint",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVS1vVjJxVjY0M0lyb1RBemJQTzJzWlg5MS1PQTJ5YjVTS0JsT0x1SVM2TExnYkRTejgtZndZSTl2OHY5TW1ieEZwV3FvUUtnN0U0cDdsRnVoeDJ5RFVGN2E5d0VOU09uWHMxYWNqeHFvdXJ0SWE2d1VIcFhQNnl4NVlxMlJfWkRLdjFYQXlaV0NiRVEtNjJBbmZXTVVub0Ntc2k4OG5wbHBvSXdBeGpwS1hFV1F5YmxTak9WdElSR1VxTlRBdHpvRUQyN09kN0h6UkdTMXFYWHR0clRZYlpWSWhWZmxXenfSAewBQVVfeXFMTkpOVFpaWE1YUVhrdEJ2R0U1VDB3ZGF2QzItWTJxMjR1cnZNRER3VFBBYjJQQk13Q3A1ajdSSTJ0UFhlN3VzbEtUYlFyRHk3R2EwRHdsQ1R3Y3RPekp3aGs4MWFHQWZUdGptR0RvalNiMVdaY2Fkb2IyOW55UmQ3X0x2Zl92WVJudmdUai1QeFhIRjA5RnNlZlN6WkhSS1g0U3lYQnFKdk15a3ByeXRoZGxaVl9RV29WREZhREdob3ZmUDlkNmVQOFVpQVJwWGhvTl9wZ1NGSjF6V1VoanBkYTZmbW5wTi1kSlZmTXE?oc=5",
+          "published": "2026-09-07T07:09:50.000Z"
+        },
+        {
+          "tag": "Strategy",
+          "headline": "Private banks’ profit margins recover as FCNR(B) inflows ease deposit funding pressure - The Economic Times",
           "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQX016aHVFUFBuV2V2dlNzNW83MEx5RDlWRnRRZXN2enVNUHZPbHI2cDFVTm1RVnVDeHhhaUFwbWJKNlFFV0owbTY1WUVwb05xM0lVc2ZsRlBKRjluZGJMeGU3QnRIUHZqOFd0Zkh2TkR2RV9USWRjcGJ5WG1wRFVmTllLN3dnTkx6WkhjRFNVWmF2V3NzY1VVLU53OVo1empob3U2LTEtbkxPMnh2WGYxY1k4UjNCUkVVX1NyQUYyNFo3ZG5qMERPR1BiUi1Ram9wZ1hhQUJFY0duQk9iTFNqNWxKYzEzVW5TS2pRaTRuYjdzRnNYYVdtNVF3bnRxenktYUZla3lOdERkazNSMzBN0gGPAkFVX3lxTFBfTXpodUVQUG5XZXZ2U3M1bzcwTHlEOVZGdFFlc3Z6dU1Qdk9scjZwMVVObVFWdUN4eGFpQXBtYko2UUVXSjBtNjVZRXBvTnEzSVVzZmxGUEpGOW5kYkx4ZTdCdEhQdmo4V3RmSHZORHZFX1RJZGNwYnlYbXBEVWZOWUs3d2dOTHpaSGNEU1VaYXZXc3NjVVUtTnc5WjV6amhvdTYtMS1uTE8yeHZYZjFjWThSM0JSRVVfU3JBRjI0WjdkbmowRE9HUGJSLVFqb3BnWGFBQkVjR25CT2JMU2o1bEpjMTNVblNLalFpNG5iN3NGc1hhV201UXdudHF6eS1hRmVreU50RGRrM1IzME0?oc=5",
-          "published": "2026-09-07T04:49:29.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ1pXYU5GZWgwUVE1ZVRsVTZIcmF4SWc1WTBmLVNXVDFDbTFaS2M3Ujc0YVRlQ0laODVoeVM3UHY1bklUTXg0T2NWN3NGTUd5d2dSbnFRYzdKUFNzREdwRFIxSnFOZlhWT2JORW9FeUtCczFKam9hSnVuNHJSbjhjQkFJcWVyWmFXNVR5WkVXTzNFRGFqVTRNV2dNUVBEcVhrcklSRGNsSjRSZndUMjY1dVg0Q3FiS1oteHlGb1hkLXVqVjByMjFaRzVTQ1A5YTE1UW5CRlhIRnBETEhuUVI3YWlZcnYtT1RHT0NOZmp6WWhYVUFVc2xYRk1XM0ZJbHB1d3ZFSVo3MmFuWjQ?oc=5",
+          "published": "2026-09-07T19:23:13.000Z"
         },
         {
           "tag": "Regulatory",
-          "headline": "ICICI Bank shares in focus as LIC gets RBI nod to acquire 9.99% stake in private lender - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWDh6OGllemRGLVdtY01pWEpDNEplMHBEVklFUnFvN296cnFjOVRxYm9TMWFOb2ZiYW5qbUNOQXpSX0NiclNOQjAtdy16Wm1valM3NzFSNkNpTWtmYzlLc3JIVWxHNnBfcTJJd1J0MFU3Z3oybU5URXBlSURaT0QzZThSRUQ2elZ5Zkhqek5tOXdqa2RZbVJTYi1ta3JLWU91X256S0JYcTd2R0ZhV1hXLXVhYXRxcHM3MHoweFlEUzh4cHhTTFJEUERDRE5iWERpb3daUVZoaF9PT0d5V1FuRkZGYjlTNnYzQ3E3OFotMTlHeG5LNDRF0gH3AUFVX3lxTE5YOHo4aWV6ZEYtV21jTWlYSkM0SmUwcERWSUVScW83b3pycWM5VHFib1MxYU5vZmJhbmptQ05BelJfQ2JyU05CMC13LXpabW9qUzc3MVI2Q2lNa2ZjOUtzckhVbEc2cF9xMkl3UnQwVTdnejJtTlRFcGVJRFpPRDNlOFJFRDZ6VnlmSGp6Tm05d2prZFltUlNiLW1rcktZT3VfbnpLQlhxN3ZHRmFXWFctdWFhdHFwczcwejB4WURTOHhweFNMUkRQRENETmJYRGlvd1pRVmhoX09PR3lXUW5GRkZiOVM2djNDcTc4Wi0xOUd4bks0NEU?oc=5",
-          "published": "2026-09-07T03:32:00.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "RBI's liquidity test may set future course - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlBiNXE1VWduQVIyZE5JVmhZRGRUdWhpYXhkX1ZSRHpkeEJTekhrSmhacHN4R0t3LXlmdG41UzMzTjN1WlFfT0hQbi1GbWJzSWQ0X0pkMGdhUDhMMXVnTmZ6SDZMNktQc2JFckNkOGI3Yi02TWdyUHVYZ1FmQk9MV3ZSUkRyYi1VbUxielZLbzJNMHZiTWFOV0VDaU8zcHlRblljVEFsTWhBUTJaWVNCX2pyRnJmd2xEdGJ2eUF6SDFWR3PSAbwBQVVfeXFMUFo4WVA5LWlJdFZiS1FxQXF0aURwUnNSU3oweWdOeWIzOWs3MkdVWXBRNnFOb2tLZV9WX2t0UGJFUy1TU1BBSGdhRVlRSnEyaTBDNTE1ZVAtaTZVNUNpRGtqNWhsV3Z5NmpXRUpMS3VNT1VzeGFkeU9aUDNRM1VfMXd5eWxCcWxJREV5VlRNVXRaTVM3ZEJ3RWFYNUhfTVl2bDZneEVSOFN4ZUlLSnYzem1JdWFIdW01R0JzSDA?oc=5",
-          "published": "2026-09-06T19:24:53.000Z"
-        },
-        {
-          "tag": "Leadership",
-          "headline": "India rupee, bonds to be driven by RBI intervention, liquidity action - cfo.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSmZVMmNYc3RqdmI4QkJzaDFYcFUyV3ZpOFZVSkhJYjhpS2NqdXJfUEN6aUVOZU9LTlZLLWo1aDdRWVNQWlFrWnd3NjcybDVvNzllZi1FWGlfYWdMcElIUERNWm1QYmRUdnBHZGptWHhieDlmS3BLRUE0TzNoUEdXYVQ0R2w5bThQZDhpOXZneGRwNHhuZjZ5VmRhS3p0ZHMyVGNGRnFKamNPQnZZUTJtTlFfaUowUDNFWGU4UUdCT0NWTXR4ajFVN2N5MNIB0AFBVV95cUxNVHdFT3laTzU2OWZfU1Z1U0lWV3dPdndic3FhanlRRkl2d2VXT0xlYm5VSWQ5ZDl3djAwdm9LRy1ZQl9CLS02N0pqSnVVT3ZCLVJUWEFwZ0RtaTVPNTFJdWN2cmxvUkx3VkNGU3dGaXlDN3ByVWRaS2o3WWh5eGowd2ZENWRVUlgxZnhyeDFsbVpJeV9oUGttVkZ5MFNuSUltYW00WmUxQWJndEFsa1hNMkpXTjRfdGVicVdrTV9MSUdQWF9YR1NBRklDeDIwdkE3?oc=5",
-          "published": "2026-09-07T02:08:31.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Choosing a high-value savings account? Look beyond the headline interest rate - Moneycontrol.com",
-          "source": "Moneycontrol",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZHI4WGQyMzZaaVAzSGEtdWZ5RHpITmEwd2VCQjdsdWtFemVEX1MwSW1qY3dZYndBa1JlQ3lCcFVQTUFDZVdhU19FaE1zZ3A5c3cwOGdIRTFKc240TE43UzFOXzhHRGN6RDUtc181aF8xdWM2NzZ6Z084ZkNacW54bE9FVjJmUE9CS1Z1R3N1Z2Q5aGFOdU9MUkpVc3V1WkJ4MlNlSm5UbzJrZ05sWWYtVG8xT1RURVdhcFVFV3A4YzFpd2ZwbWRoYnhobU1reXZCZmlDa0djT0prMlZIOGFOclBfaDLSAeoBQVVfeXFMUGRMLTRaclhtdHc3UEV4YXp5dDUtb2VqVldGYzNHUi1XQ0FlaFVBTklROWo3MnhuaXlkbkR4OGUwOG9SUDF1MjFIQXFiaFQ2SVNmWU5QVFJkSHVyZ0F0N2RyMkVBWFRNY0lTQW9DeGFvR2c0cHBYT21hcFJNM3Z2YUl0c3Jfb0xBb01FYnZaVU9IZkVURlc3NE4xeDNUMUpWQzNHX1NXNGZWZ01uWUdaTnFhcnZWN004UUUxcm1FNTNSMmxHX1lKLUpmUDllTnNHelF3S2FvZjVlWkdsR0dsT3ZQYTVRWkVvM1RR?oc=5",
-          "published": "2026-09-06T13:01:24.000Z"
-        },
-        {
-          "tag": "Leadership",
-          "headline": "SBI to hire 12,000 personnel, add 250 branches during FY27: Chairman Setty - bfsi.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0RVdTEtNVppNmhVZFBSLVJCRkNtRXRjM1VxZHNMWlRydzMwM05CdU80YWV6TW1WS1VYNmx2c2UzYjd6Nk90NER1ekIycFFvZHBMMXJveTYzMVRNTTVOR3NwbmV2c2F6R0tpM3lFcTE0SjZJOUx4LXpLRmJvR1h5YUZSQjVwdGVJNTA5akFQYTNkdTJQWi1QbXkyb3BfM0ZHcWdGWE9mOWVKd1dMa2pIMG5YdjJKTFc2X2lJNkF6ZXJidnBYaEptZGRfY2ZpQVZFZ0hXZGc4UdIB1wFBVV95cUxOS0RVdTEtNVppNmhVZFBSLVJCRkNtRXRjM1VxZHNMWlRydzMwM05CdU80YWV6TW1WS1VYNmx2c2UzYjd6Nk90NER1ekIycFFvZHBMMXJveTYzMVRNTTVOR3NwbmV2c2F6R0tpM3lFcTE0SjZJOUx4LXpLRmJvR1h5YUZSQjVwdGVJNTA5akFQYTNkdTJQWi1QbXkyb3BfM0ZHcWdGWE9mOWVKd1dMa2pIMG5YdjJKTFc2X2lJNkF6ZXJidnBYaEptZGRfY2ZpQVZFZ0hXZGc4UQ?oc=5",
-          "published": "2026-09-06T09:00:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Gold loan in 2026: 8 key rules and risks before you pledge your family jewellery - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3ZBWXJnVW91WWtxRHJqTmI2Sk00QnF4Um1nTG81YUJQeXV4VmtGY0Vub3ljWU1Bb05pM0pkQjc0a3Y5OUZEVk5KNHRjTUt5Z1ZndGs4VVEyTnVHMmtSbVVsRU1kMkRaY2pfbHBzMEVWSEdmOVFsRzRxN2xzXzl0RU8xYXlkSW5USVpBeDFxZldlaTBBWTZBTjBKNFFjeW8wYURUUXJLXzBrRUJjclZtSDZDNXBCSkF6SDNDR0tXOEJhYUtWVzlLZEtrM1RfV1BkQ3cxRDQtY1JSbl9OOVo0YnVEX2RWVE93Vmc?oc=5",
-          "published": "2026-09-07T04:19:10.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Stocks to watch: LIC, ICICI Bank, SBI, Dixon, Chalet Hotels, TCS & more - Business Standard",
+          "headline": "Gold loans by NBFCs surge 68.5% in July, says RBI - Business Standard",
           "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdndlX002UjUxQ3Ezb0haT0xvaW85d0Q2VDFpWW5NRlI0dGFTWkhYSi1tRDhWbVRQMnU1dklCYUxlOEVZQ01kRkxaNXJTc1JfQmJWTnQzYnlwbDZNRDNSS2FQWUJncHI0LUJnZW9KZkMxODR2dlRhcUF3anhWaF9WLVRtYTZsTFg2ck52V3VpWXpXZkxoTmR3dk9kUnNZTE9ReWNtUG12ZXNCdGd5RDViWlpEMGhQcU8yNUlhRHhIT3BWeVA1NmJzWE530gHPAUFVX3lxTE43UFdBdy1QOFRQRDcxRHJXeVNlM0lDVkhYbnR1NklGaVEydnl5QzBCUWxQYm90NFUzUTFib245TENqd3dSTHl5TXBDb29mTDZ3RFJ0V2ZWQ1YyOFdWS1RXZ3lWWENtSERlMzVJZWtHRHZHanFhSmgzazlOeHZJVF9zYmNUSmZUZnlmSXlRakVHcndJLXBpX0dzOEtyVS03TGVxWjhHcXVXNll2dUlJUzgtMS1aX1pLeGZ3RWpjZU8yRy04V1RQY3drUlNxbms3OA?oc=5",
-          "published": "2026-09-07T02:22:57.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaFkxQTFqWmtfcWlqdjdnbExFd3JDYXpGYjdCLWFZSkxTOXQ4N3hDM3dhZzQ2UlVnZ2tfTUY5MmhvTUM0OXNONE1HZ0IxMDBScW9JU2poR0FaRXhsNjN4QThfdnlIeHRYUERsYVUzTFQ2MVp3LWxPVTJ3UWphR1VTN1AyY0h5aV9QSXZILWNNNXdPWVBVQXBybENEakt0YnRBc2N2WkktQXUxaFQxQXVNVk1aZEVNRG1LMnVXbzNxOFVRTGRuQzA0YdIBzgFBVV95cUxPX2xaOWFnTDd3Z1hUVXV2NXJKNVJ2SG5Td3Nna3lCY1VkYWptSEFOeUI3cnZJekpwM3d1QTJDb3E2dE5OMTdSOGQ5WVpSWUp2bncyQUdjeEM5Y2JXZkdEVVRMcnFGRmxfV0pNVTVWaTFfRjY5OTZsd2dRWUs0T25GY1o0MTBRdG01NzJEUnhTY1ZIM3BQM2VlNUFaVk5OMkVWMHJ4eVJDNnlfWWp1THhzcDNTcmlmM0dXVVJtR1ZiQWRrSWhLM2VaeHlYVUMxUQ?oc=5",
+          "published": "2026-09-08T05:20:10.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI's 30-day VRRR operation sees muted response amid high banking liquidity surplus - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxONHAwdEs3OVlfdEhuWkdCVllielRFY245MUdJbGw4VkFjUE1FeWs0cGZpVjNJSlJHaENrN0FzWVhpZ0hLeG9USHQ4REZzU1lxaENlRHl2YTZjOXZlNGRWT2hDd3g3WWpxXzhJS0NkZEpoLVZWQWhIMnNhZWxFdDlTdG5vRGtTNWt0Zktha0dseThFd3N5Mlh6Q0RBUlhCZEgtOUMyeElBNkRzN19iRFZTVkVBQkFuVFl0cHFsN19EeDNxWnBBZXQ2V2poSWJRX2xMV3pjLXEwQWZFU2VPZHE4Q1FxUXpIV0NkVnJtMlNIczB1ejgwRXZJeVIxZFltVnNGczFrXzFBbmdiUG9ZSDY3MF9lTEJqLWFVX3NSZk9MTHJGZTFfLXg2dE5mUGhuMTBsWDRlS2NXLXN1NS02NkVZd0YtMjltaE1ZaWIxV2RRYUgwbWtTYjdodTRCSDjSAfgBQVVfeXFMTm1LVzIzSHpXYVh1dnNfUmtxel91NmtZZkl1Zlk5S0kzaEo2Y0hSZGx4eWllRUJVejR4MlpScXAzZXpiWmFVR21QT0o1NXpDWWY0akVVWWl2YkxoTlJHT2JVcEpmQ2tpOTdSY0pMbGhHSVdQV0tEYmNIV1BXS0dEaDc5SVJaQ0ZHX1lpVExBRjhJc3kyc1ptR3pJbWpQOXJncDJtbktGNktHeHdkWXVrRjlpOFNlN2pxSUZMMXVOZ1VIRUdOWXpsbV91WVpoQzVmZFBWR3M4cWFnTXQ1eUdnc2pfalJvbXBYRFQ5U3phNU5pR3hqdXp1c3c?oc=5",
+          "published": "2026-09-08T02:42:18.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Gold loan growth keeps glittering for NBFCs; consumer durable growth up in July: RBI - CNBC TV18",
+          "source": "CNBC-TV18",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb193dTNCY0U1amNaTkxrd1ZUVHhrcWdza0NBTE1TUlRVVGtrSVBLVjRPVnk0OFFmMWhScFZVd0ZvQ05hR24xemM1eDlQX3RIaHlFYmhJaTlmRm0zMGdoMlhUdklmYUtlamJoek9vcFFQMWpfekZMQnkwVGFDaHp1RGZheC1Xc0tkZElOczg1Ylp3T0Q3dUJrd2NVUkdfT3dwYUZDNHoyX1VYNXZTcTdMX2lIOXozZ056U1JKT05YOWc0bGNUaXVlbdIBzgFBVV95cUxPeVNBTlE3czlJTUdVVThwUmhheFZrQlVUUVA1SnhOdUU3dHZ0NC1vMUZjRzFRMDJldW40VDNHTzVJZjVEUVRlOUYtRjQ2LUdGLU1yQlNjV1JWTDJTcVlfNUR3eHVtOGlIVDE1UjRRYmItdWZBYWhwN1hWMjBKZXVpS3U2UXRBY0p4WGZYVWZGbmFtUVZ1aUpjMnN0Vk9nendXcWRnMHBWazFoVERGeDJ0V04xQTVWU1FrODI5bjFXZnVNTnFoUldkNk5CTndPUQ?oc=5",
+          "published": "2026-09-07T15:46:10.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Tech glitch on e-Kuber hits demand at RBI's 30-day liquidity mop-up auction - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTkQzQVNKVkpUWXhuVEtYb0N2eXcyRXBSX2RjNDU4Y2U1U1JERUdwQUtmdTJXQTV5X0xUQmpkY1V3ZGZScEJBWVlVdjRDZ0U0Wkt0ZHBTU3hjMU92RFZIV2VwTFhrQmJhS1lfVndiTGZHa19RRTdKQkVMTUswMUxpaC01TU1QNU5UQW5nVzVpMkN5NXNoNmZDUGp6dEFkcmF6RlJYMEItRmowNkJEeko1UXNiNmhLT2lpbWFhVXhYMi16bWllYzZ3M3ZxTElGT3RsN1pYLXQ0aC1iZ9IB3wFBVV95cUxOY0hscmVvTTVsZDRYeGFrTlFkckNST29JUlBwMkdhYWVPTXpzRUxJbnZ3MHh1bGdkRmZ2eDR1RkR6Zm52OHFYdGliWGd1UTFPanpnUnc3U3loN3U3eGFKQUlQaDdaS2xQcm1QRmwwZ2dvLUF0NWM2b05PTUpvZmJCR0ZyVFB2bF9aQ2g5akNSajBzOEs1eXdDd1lwNDEtUXhzTVBGQm1wVTFCQ2F0MElrWUhhMFdGQXVJTGZpZHZyZzlWbUhxYWRrd3ZmQTFPaUN0T3VpdGI0YXJVOUNfSVdv?oc=5",
+          "published": "2026-09-07T14:57:35.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI absorbs over Rs 3.53 lakh crore excess liquidity via reverse repo auction - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaFVzOUpXdk9mbW1LRmYzV1k1SmFMRGlERWxKck5FTjA1Q0l4ZEZ4YzQtelhQcVhNZURpd0czVmc4aFU2dTV3Y0JVbENHVWZLeUlWWDBGZm4tcG41UlBPMFduNmVpb3p2eklHM0VRVkJSLU51VmtmQnBoSnpPVjdrTEpqblBZLVlHQndxaVo5cGl0NXljdkdjQzZSR085U3FxTEpQZ0lUMnFnWXROT1A1dXllejZuQkpKSFNsb0RLVXR5QlBiNmo3R0Y2WmlIblhZQS01aVQ5UjRMd1hDNFRj0gHfAUFVX3lxTFBoVXM5Sld2T2ZtbUtGZjNXWTVKYUxEaURFbEpyTkVOMDVDSXhkRnhjNC16WFBxWE1lRGl3RzNWZzhoVTZ1NXdjQlVsQ0dVZkt5SVZYMEZmbi1wbjVSUE8wV242ZWlvenZ6SUczRVFWQlItTnVWa2ZCcGhKek9WN2tMSmpuUFktWUdCd3FpWjlwaXQ1eWN2R2NDNlJHTzlTcXFMSlBnSVQycWdZdE5PUDV1eWV6Nm5CSkpIU2xvREtVdHlCUGI2ajdHRjZaaUhuWFlBLTVpVDlSNEx3WEM0VGM?oc=5",
+          "published": "2026-09-07T14:03:29.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "NBFC retail loans grow 21.4% in July, fastest among sectors: RBI - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjVKdkxJdlNrb05VYVp2Z01oQVhPTFNFOG9XQzJDNDhYQkNQSVpvSm56M09Td1BxZmQ1NzM1RmE3WXk2SUtZZ3ZjZ2dURjk3b3pZajQ4TGpxSTFsWE52WE9IYThZaVRNZjZraU9FaG5fU05LeEg0ZjQtUXlmUXdSSjkydE5UeUZqRXdYY21XSnhZSURQMTZDbjhkbDgyUEpGSFBuWnFBbzRfb21QbnpyakRtdWFiUjRLUjVxX1NOdW_SAcYBQVVfeXFMUERuZV9SUVJhN3lqZFpBeEpnbjc5VmhmanZCWFJRR0Zyc1UwamN5R3VaY2Q5SGY1UE81WFVjMUFadnZPVkR1ZGJaR0F6TXRXcDFBcW1hRURtTFZ3bHJrUjRrUlB2Uk5NTkFQWkJBb0hFTVkyX2ZjWm9qLXV5UzFNeDVnT2lxQlJ1NjQwa3RyRFNVT2UtbWxMUm0wMWJrNl9YWWtoWE13T2ZJVVdwZXJSN041MkJhb3V6ZVozVDhhaDFiZ1g0T0xB?oc=5",
+          "published": "2026-09-07T13:14:54.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "HDFC Bank woes put spotlight on leadership continuity, top-tier handovers - Business Standard",
+        "headline": "SBI, BoB, Canara Bank: 8 out of 12 Nifty PSU Bank stocks trade below 200-DMA - Business Standard",
         "teaser": null,
         "source": "Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaGNYamlCRVMyZWhMS3YtQUk2bzVqbGJzR1JEOW4ydjY2WnRERVF1Tm1HMG81RGw0dTdmWFhjTkhVU0RocmFrWi1zNkpGREdQTzNTUVlqWE1welZxRUdpbGxoNnpyZVc1NjVBV0QzVGowQjd2RW1IUm1mT0ZOSlBZREYzeUVMSUFpWWthNHNCeGdETUFxZ0h4eVdlaXBJS0ZLSEx3bkJINjg3VWVEQ25UQlVQd095VWg5Uk5QbjVVaWw1UWM5cG9LamtpQTg4RDl6ZXoxenJn0gHbAUFVX3lxTFBlX0J1MGNIVmVpZG5lM1VmM3Z5dGZUZ3hyc3JSYjhZWUptN3ZRVzFWSk5oekJTVUFUWGNtY2VoZDZ1OTVrUDRGWnZRdEpDSld4eEJieGFJVFUtRnNpWGRnbktSSkxMWVdvSUNSRXdncVZqUXZ2Mk5VMnNCQ1NLOTUweXRZNkF5YjdEWWd4aHM4bWNzR3VBcmxvTk8xOVZocTdZX3M2S3ZUbkhuQWZoczZKUzFXX0hfMmdURHBTc1pXTFFBWGxzLXBQLUZJRmFhNVhfLWQ3OE9hLURwbw?oc=5",
-        "published": "2026-09-06T17:52:59.000Z",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObkxheVRYRU90TEhDal9XZ3ZzTnc4ckM0a0VwZEVKTUJuamw0ZnNZOGhSSUJWSERWZW1jY0dTaWNKTnVERWE5STBueWJGQUVTYVU0dHkzUDhZSm15WXA4aEdfWUVyY1pRMzhuTGJ3dVRXM0lLMXFhT3haeVI2UWRlb1dRS00zMUhKckp6bzRWbUhsQS1ZMTY4VXlwdTVHZ1JabWp3a1RSZE5VZEtURklNd2R1NVNPSTY4WkQwY1NSU19UVVBCcVVwblpXNjFGbHhJZ2xXZl9ESdIB3AFBVV95cUxQLUdhUl9hYWpOTWc3VGdlZmY0a3NJTktaRllSMklVVkM4aEduZTRFNENJRTFDSjkzX3lYMXN1YktwaHE1R3lsZ1ZpMGlERTcyNlFXTjlpT1dOdlFLT2JfWFd4SGlVYVlZcGJadzRldExDaWZRVlFacEhoZTlXOHNINExOWG5qNE9XV0RhUGxfaXpUS2ozcWRaZnJrMW5Zby1UOXJpS0kyMHZLRHpXaUVPSXNtNWRXd3ZwQV9UalkzeEtOY0N3SW5URUV6aTFqOTFzdUFCZTlwTFNwSEE4?oc=5",
+        "published": "2026-09-08T04:51:07.000Z",
         "paywalled": false
       },
       "companyUpdates": [
