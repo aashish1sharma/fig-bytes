@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:24:11.135Z",
+  "generatedAt": "2026-09-09T06:30:27.364Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,14 +33,21 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "headline": "MUFG Japan Small Cap Active ETF, MJSC:PCQ:USD historical prices - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRtNDR2bXFnSXQwMXlNMGZjRVpzdDB3MmpYOWRuNHEzN0xfUzBIOWZlY3REcnVsdTliZEtXVWp6OVVxWWo3N05zRzZEWlJoNDhuZFk3RzlLMXk0UXFIYUozNXMtV3lELWt0eG5hdjFFMHFyQkNrRk9XX0NicVRmWnFpRl9CYjg2ZGs3NDBnQmM1Zklk?oc=5",
-          "published": "2026-09-08T06:03:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UODN0ckN1a0FnODhYRUFZSE5Qa3dLVGRab0RraGFpVmFnTHF4Zks2ZlNGVlNHNWlCQU0xYmlmZU91Z3JfbWxuQTFRZnBwOG1lX0VsV2tiTVkwSlJjbHF4MWZvMWhpUjFXVWpBUENuVWQwVm1oaGNj?oc=5",
+          "published": "2026-09-08T07:41:56.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Timefolio Asset Management's 'TIME China AI Tech Active ETF' Achieves 59.98% One-Year Return - 아시아경제",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcm9CMFVtV25KRjl0YVp0aFN5OWFUTUcxUHAzWDZJWWtUQ2NVdURqRHFJSHhkeHRBLVRydWwwOEZobU1fQU9yTlB0UGVuUllhXzBWbl9fckZjVzFKSGozWFZIeHg5cWZjbWttbHFvdmJLQQ?oc=5",
+          "published": "2026-09-09T00:01:43.000Z"
         },
         {
           "tag": "Press",
-          "headline": "iFAST Hong Kong and J.P. Morgan Asset Management Partner to Expand Discretionary Portfolio Solutions for Wealth Advisers - Financial Times",
+          "headline": "iFAST Hong Kong and J.P. Morgan Asset Management Partner to Expand Discretionary Portfolio Solutions for Wealth Advisers – Company Announ…",
           "source": "Financial Times",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHRhMXp3b1JjTndacVlfNkxnQ050YkhKZ3BaSFVRMlVVMDRsbnVKdk5JU2Y0ZzJqX2Ywb2JBQzMzc1llX2VBNVhqR3c5QUVNU0VySkpEc2xITkl3RXF2djR0QUNfbEJKLVBjM0JScEF2bHNjc25wd0s2VFNZSmhVSFQ1WmxvQ1lfTEJtMjYtdU5DUV9ycmRROXZsUHRyLURqNlhleVBtVW90UQ?oc=5",
           "published": "2026-09-08T02:45:00.000Z"
@@ -49,14 +56,21 @@
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "headline": "MUFG Japan Small Cap Active ETF, MJSC:PCQ:USD historical prices - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRtNDR2bXFnSXQwMXlNMGZjRVpzdDB3MmpYOWRuNHEzN0xfUzBIOWZlY3REcnVsdTliZEtXVWp6OVVxWWo3N05zRzZEWlJoNDhuZFk3RzlLMXk0UXFIYUozNXMtV3lELWt0eG5hdjFFMHFyQkNrRk9XX0NicVRmWnFpRl9CYjg2ZGs3NDBnQmM1Zklk?oc=5",
-          "published": "2026-09-08T06:03:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UODN0ckN1a0FnODhYRUFZSE5Qa3dLVGRab0RraGFpVmFnTHF4Zks2ZlNGVlNHNWlCQU0xYmlmZU91Z3JfbWxuQTFRZnBwOG1lX0VsV2tiTVkwSlJjbHF4MWZvMWhpUjFXVWpBUENuVWQwVm1oaGNj?oc=5",
+          "published": "2026-09-08T07:41:56.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Timefolio Asset Management's 'TIME China AI Tech Active ETF' Achieves 59.98% One-Year Return - 아시아경제",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcm9CMFVtV25KRjl0YVp0aFN5OWFUTUcxUHAzWDZJWWtUQ2NVdURqRHFJSHhkeHRBLVRydWwwOEZobU1fQU9yTlB0UGVuUllhXzBWbl9fckZjVzFKSGozWFZIeHg5cWZjbWttbHFvdmJLQQ?oc=5",
+          "published": "2026-09-09T00:01:43.000Z"
         },
         {
           "tag": "Press",
-          "headline": "iFAST Hong Kong and J.P. Morgan Asset Management Partner to Expand Discretionary Portfolio Solutions for Wealth Advisers - Financial Times",
+          "headline": "iFAST Hong Kong and J.P. Morgan Asset Management Partner to Expand Discretionary Portfolio Solutions for Wealth Advisers – Company Announ…",
           "source": "Financial Times",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHRhMXp3b1JjTndacVlfNkxnQ050YkhKZ3BaSFVRMlVVMDRsbnVKdk5JU2Y0ZzJqX2Ywb2JBQzMzc1llX2VBNVhqR3c5QUVNU0VySkpEc2xITkl3RXF2djR0QUNfbEJKLVBjM0JScEF2bHNjc25wd0s2VFNZSmhVSFQ1WmxvQ1lfTEJtMjYtdU5DUV9ycmRROXZsUHRyLURqNlhleVBtVW90UQ?oc=5",
           "published": "2026-09-08T02:45:00.000Z"
@@ -64,11 +78,11 @@
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+        "headline": "Link REIT: Hong Kong Retail Spot Rents Stabilize, Easing Concerns Over Rental Pressure - Morningstar",
         "teaser": null,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRtNDR2bXFnSXQwMXlNMGZjRVpzdDB3MmpYOWRuNHEzN0xfUzBIOWZlY3REcnVsdTliZEtXVWp6OVVxWWo3N05zRzZEWlJoNDhuZFk3RzlLMXk0UXFIYUozNXMtV3lELWt0eG5hdjFFMHFyQkNrRk9XX0NicVRmWnFpRl9CYjg2ZGs3NDBnQmM1Zklk?oc=5",
-        "published": "2026-09-08T06:03:00.000Z",
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYXJReDdPMktQRW5LZmwxNk50NEtuZi1FUEtveUZoaDVJQ25BSS1sM2FjUVlOU2VISi1PRDVxeU9TVVA4d0d1d1lqODVYczM5cGlJWjc3TF9ubnRTSl9wdWJRdEtJejFmNHJMQ0o2X2toSmVTQmNibVVqOVhwcHppYVRUR05qVVdjenE4QllWeFdLVWFEM2RfYk9RbUZoNmwzWmtzSndRNGF0OTJaU0phUjYtNDNKWW5VV2F6VGxHUjFMVkk3a285ZG92UkdTWXozZnZTbGRhT21DNGJkbjBodXp0WS1BUUI1SVpZ?oc=5",
+        "published": "2026-09-08T14:43:06.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -76,7 +90,7 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - fortune.com",
+          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
           "published": "2026-09-06T08:15:44.000Z"
         },
@@ -96,20 +110,11 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Barclays launches Singapore private bank booking centre - Singapore Business Review",
-          "source": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI3WE80eko3QlpJcVl0LVkwTW9GX1FFOXNZbVphTUhJbEpLdGI0b0NCdk1EQVdQb1VhR3h3SUlheUZqamcwSm5XYTJxOG1tZWpUb21ubmVIRWJvZVdYdUxxT0taWk5sdWNmb1paa1ZSekh2VlpIWEVnbWxSd2NHWTNSUkdJUQ?oc=5",
-          "published": "2026-09-07T02:20:17.000Z"
+          "headline": "HKU Business School launches academy to train wealth management talent - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTRrbTkyOTFSVmFKLUhwUFllamdzMUg5clI4eEp0aHBhYjg5TkZmd2VDVkZtZ3NLMHdkam1zQ1JMSEM2RzVGVTd6dFZiSkJpTVAzVDJ0cEZCYWdHc1FZLUpJSDRDaDJmWlJWeVJfcnVwYi1aOUJTVHU2d2kwdlNqZTA0dUtSSTM4eVloNWNWNEk0TWpfQWFSeFRUdDBQcjFMQlh6RlJpZ19EOEFHMzJxZDFnM2Q2d3Y1YkQyVzNOTkxtX1ZuNkpreThR0gHKAUFVX3lxTE05NGttOTI5MVJWYUotSHBQWWVqZ3MxSDlyUjh4SnRocGFiODlORmZ3ZUNWRm1nc0swd2RqbXNDUkxIQzZHNUZVN3p0VmJKQmlNUDNUMnRwRkJhZ0dzUVktSklINENoMmZaUlZ5Ul9ydXBiLVo5QlNUdTZ3aTB2U2plMDR1S1JJMzh5WWg1Y1Y0STRNal9BYVJ4VFR0MFByMUxCWHpGUmlnX0Q4QUczMnFkMWczZDZ3djViRDJXM05OTG1fVm42Smt5OFE?oc=5",
+          "published": "2026-09-08T12:02:59.000Z"
         },
-        {
-          "tag": "Press",
-          "headline": "Next Opportunity in Central Asian Wealth Management: Singapore-AIFC Corridor - astanatimes.com",
-          "source": "astanatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmhQVnVqd2xOVFJZeGotekt0VEo1UWZkclg2TFdUM3BKOVhBS09YTEszNnVoMXNMelRXdUtLYU56aHFNOXIweEdHV0M1d3RtZVVzTkJiVVI2YUJQWDQxZGFSUXRESk9paXVaYlZzMExJWFBNQndLd2dsb2VRTmhXN25LOXJMR01iLXpRVXBFZXNfdXFCMmJyWnJ2MFhjQ3lkZUIycHlHeWxWZTR1?oc=5",
-          "published": "2026-09-08T04:08:44.000Z"
-        }
-      ],
-      "candidates": [
         {
           "tag": "Product",
           "headline": "Barclays launches Singapore private bank booking centre - Singapore Business Review",
@@ -119,19 +124,57 @@
         },
         {
           "tag": "Press",
-          "headline": "Next Opportunity in Central Asian Wealth Management: Singapore-AIFC Corridor - astanatimes.com",
-          "source": "astanatimes.com",
+          "headline": "Ex-minister Uwihanganye joins Hong Kong-based wealth management firm| The New Times - The New Times",
+          "source": "The New Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWFESnJuazF4VjJENkx4Nnh6MXlKRVdRUUZIZDlRVEZoa216R1doR1dYTjdfLWFWaHBrU25JREk3YzZncnd5UkZDXzc4Uk94cE55dm9tMlpjMXhNWGJoS0luRHlLYTg2RW5IcUpmZ3FJMEkyZk4tTnFBRmt1aXREeUZjWUNkeDZMMHdVaUx4MC1BRmZlbmtWWGxxQTZDeFFOQWFwTDBrejFyLUhKUVRycnFDU1RzVEw5QVJTY1FRaWE5SnF5MzAyNjh3VlTSAcwBQVVfeXFMTUVhREpybmsxeFYyRDZMeDZ4ejF5SkVXUVFGSGQ5UVRGaGttekdXaEdXWE43Xy1hVmhwa1NuSURJN2M2Z3J3eVJGQ183OFJPeHBOeXZvbTJaYzF4TVhiaEtJbkR5S2E4NkVuSHFKZmdxSTBJMmZOLU5xQUZrdWl0RHlGY1lDZHg2TDB3VWlMeDAtQUZmZW5rVlhscUE2Q3hRTkFhcEwwa3oxci1ISlFUcnJxQ1NUc1RMOUFSU2NRUWlhOUpxeTMwMjY4d1ZU?oc=5",
+          "published": "2026-09-08T13:52:35.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "HKU Business School launches academy to train wealth management talent - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTRrbTkyOTFSVmFKLUhwUFllamdzMUg5clI4eEp0aHBhYjg5TkZmd2VDVkZtZ3NLMHdkam1zQ1JMSEM2RzVGVTd6dFZiSkJpTVAzVDJ0cEZCYWdHc1FZLUpJSDRDaDJmWlJWeVJfcnVwYi1aOUJTVHU2d2kwdlNqZTA0dUtSSTM4eVloNWNWNEk0TWpfQWFSeFRUdDBQcjFMQlh6RlJpZ19EOEFHMzJxZDFnM2Q2d3Y1YkQyVzNOTkxtX1ZuNkpreThR0gHKAUFVX3lxTE05NGttOTI5MVJWYUotSHBQWWVqZ3MxSDlyUjh4SnRocGFiODlORmZ3ZUNWRm1nc0swd2RqbXNDUkxIQzZHNUZVN3p0VmJKQmlNUDNUMnRwRkJhZ0dzUVktSklINENoMmZaUlZ5Ul9ydXBiLVo5QlNUdTZ3aTB2U2plMDR1S1JJMzh5WWg1Y1Y0STRNal9BYVJ4VFR0MFByMUxCWHpGUmlnX0Q4QUczMnFkMWczZDZ3djViRDJXM05OTG1fVm42Smt5OFE?oc=5",
+          "published": "2026-09-08T12:02:59.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Barclays launches Singapore private bank booking centre - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI3WE80eko3QlpJcVl0LVkwTW9GX1FFOXNZbVphTUhJbEpLdGI0b0NCdk1EQVdQb1VhR3h3SUlheUZqamcwSm5XYTJxOG1tZWpUb21ubmVIRWJvZVdYdUxxT0taWk5sdWNmb1paa1ZSekh2VlpIWEVnbWxSd2NHWTNSUkdJUQ?oc=5",
+          "published": "2026-09-07T02:20:17.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Ex-minister Uwihanganye joins Hong Kong-based wealth management firm| The New Times - The New Times",
+          "source": "The New Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWFESnJuazF4VjJENkx4Nnh6MXlKRVdRUUZIZDlRVEZoa216R1doR1dYTjdfLWFWaHBrU25JREk3YzZncnd5UkZDXzc4Uk94cE55dm9tMlpjMXhNWGJoS0luRHlLYTg2RW5IcUpmZ3FJMEkyZk4tTnFBRmt1aXREeUZjWUNkeDZMMHdVaUx4MC1BRmZlbmtWWGxxQTZDeFFOQWFwTDBrejFyLUhKUVRycnFDU1RzVEw5QVJTY1FRaWE5SnF5MzAyNjh3VlTSAcwBQVVfeXFMTUVhREpybmsxeFYyRDZMeDZ4ejF5SkVXUVFGSGQ5UVRGaGttekdXaEdXWE43Xy1hVmhwa1NuSURJN2M2Z3J3eVJGQ183OFJPeHBOeXZvbTJaYzF4TVhiaEtJbkR5S2E4NkVuSHFKZmdxSTBJMmZOLU5xQUZrdWl0RHlGY1lDZHg2TDB3VWlMeDAtQUZmZW5rVlhscUE2Q3hRTkFhcEwwa3oxci1ISlFUcnJxQ1NUc1RMOUFSU2NRUWlhOUpxeTMwMjY4d1ZU?oc=5",
+          "published": "2026-09-08T13:52:35.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Next Opportunity in Central Asian Wealth Management: Singapore-AIFC Corridor - The Astana Times",
+          "source": "The Astana Times",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmhQVnVqd2xOVFJZeGotekt0VEo1UWZkclg2TFdUM3BKOVhBS09YTEszNnVoMXNMelRXdUtLYU56aHFNOXIweEdHV0M1d3RtZVVzTkJiVVI2YUJQWDQxZGFSUXRESk9paXVaYlZzMExJWFBNQndLd2dsb2VRTmhXN25LOXJMR01iLXpRVXBFZXNfdXFCMmJyWnJ2MFhjQ3lkZUIycHlHeWxWZTR1?oc=5",
           "published": "2026-09-08T04:08:44.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "HKU Business School launches academy to train wealth management talent - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTRrbTkyOTFSVmFKLUhwUFllamdzMUg5clI4eEp0aHBhYjg5TkZmd2VDVkZtZ3NLMHdkam1zQ1JMSEM2RzVGVTd6dFZiSkJpTVAzVDJ0cEZCYWdHc1FZLUpJSDRDaDJmWlJWeVJfcnVwYi1aOUJTVHU2d2kwdlNqZTA0dUtSSTM4eVloNWNWNEk0TWpfQWFSeFRUdDBQcjFMQlh6RlJpZ19EOEFHMzJxZDFnM2Q2d3Y1YkQyVzNOTkxtX1ZuNkpreThR0gHKAUFVX3lxTE05NGttOTI5MVJWYUotSHBQWWVqZ3MxSDlyUjh4SnRocGFiODlORmZ3ZUNWRm1nc0swd2RqbXNDUkxIQzZHNUZVN3p0VmJKQmlNUDNUMnRwRkJhZ0dzUVktSklINENoMmZaUlZ5Ul9ydXBiLVo5QlNUdTZ3aTB2U2plMDR1S1JJMzh5WWg1Y1Y0STRNal9BYVJ4VFR0MFByMUxCWHpGUmlnX0Q4QUczMnFkMWczZDZ3djViRDJXM05OTG1fVm42Smt5OFE?oc=5",
+        "published": "2026-09-08T12:02:59.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - fortune.com",
+          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
           "published": "2026-09-06T10:10:58.000Z"
         },
@@ -180,9 +223,9 @@
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Prudential posts strong H1 2026 growth, stock slips premarket - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlBBOVFpNVZEVjMwdlRRNG9rYzk4M2pJcXhpNVlHMjd6SlVIWVNIa291MXIyUDAxeVZCMjlPbXRacjByd05QNGRfR3k3U2RHVEE3SXVSVE0xcVctYVg3czNjV3NTYThpa0w2c0x1NE9LZUJjTHdCRVdoeDJnRzFuMTRqbzhDbEl5cVNzTUdHbFJPdjIzdlVkZ1l5M2lMbERSVnFnR0RQTjNXbk1VbjI1cXNmSlNkREtYbWFuX3drY2ItYUNBUHN4bUFHa09fN05oaDhjMEZnYmo?oc=5",
-          "published": "2026-08-27T07:00:00.000Z"
+          "headline": "Earnings call transcript: Prudential posts strong H1 2026 growth, stock slips premarket - Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM09kZWp0WkF3Vy1LTl9NaEd4MU1XTnBDVVpfSkZCanVQVXp3SnZMdkg0ZkwzTTBQTzZfMUE3bVdBUXItWTAtWFJnY3RGMlNNTDBhR2p1d3lIRlN2ZjVnNUt2QXJ0emhRaC1DUGljYUljc2xKQjZOUS1KVVRhekM3dHB4S05VUzkzdWFwaXBOSjcyVS1hamxGZXIzRG1CbGRKamFObngybWUwR3hwMU80RXBLZGt3OHlyVjJGQTluMWJ6X2VZRi1PVlNpdWt6cFBrZGltdnJuMTlLbzRwTzE4?oc=5",
+          "published": "2026-08-27T10:04:30.000Z"
         },
         {
           "company": "AIA Group",
@@ -196,9 +239,9 @@
           "company": "QBE Insurance",
           "ticker": "QBE.AX",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWQtXzAwcHFocFBYU2VyVGRwcDN4TFppS0ZMWl9oNDFNcHpDa0VrWjVOT2lObW9GSVVUaTBUb2o1NllRVTgyNURZeS1TdjQwUF9TRUx5OHZVV3lMS2NJcW80aXBZXzQ3ano1LThFdUlzRkpoMkFWYzEtZ2cxSnZGek9hd2RKcTVPOVZLTFVJb0FMTzdCZWhvX3l5M1o3ZGRJNXhZa2RGS2xJcHNlUmplSjhmdDZqX0tpeU81S2NiRkxYNFFnS0dRM2Zn?oc=5",
-          "published": "2026-08-14T00:58:36.000Z"
+          "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNm5PQ1JfVExFd2o0c0drQzZlZnZ6Z205enNOaXVaUXlBMk5HaTNMZ0MxQ09fZnJybW8yaWVqM2YxSUFrcUZhY0RacXJCRlVIZVFYdHdlWHZ1endVYlUydE9LQWVTd0RZTEdzb2c0QVFZUzRvU1F1anZSVVhJeUNnNHF4eFpaTDlUWmd4N0ExTDZJU1VWczBTQjdIQW5hN2U1QmxGOWhtRmZTd0VrTUhyMEEyNDJ6MWw2aHN6UU5rMklHcHBYTU11Nkh3NA?oc=5",
+          "published": "2026-08-13T07:00:00.000Z"
         }
       ]
     },
@@ -208,33 +251,47 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Singapore May Soon Be At A Credit Card Crossroads - DollarsAndSense.sg",
-          "source": "DollarsAndSense.sg",
+          "headline": "Singapore May Soon Be At A Credit Card Crossroads - dollarsandsense.sg",
+          "source": "dollarsandsense.sg",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORllsazBjUkE2d3JnM1NzZkE4LUVma0xjNzZhamRYd3hJYThCSFlqdXJYQ05iRzdETDhQQV96SndiaWVQbGxGeE9UTHBNc0szV0tYaVNjTEdIVmI2QzRINDRJYWhZQmtYSVNzUk9GWXNucWtOMWNHVExlMUl5cHk0QzJXaw?oc=5",
           "published": "2026-09-06T15:04:39.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Citi, DBS test instant U.S.-Singapore payments - Crypto News",
-          "source": "Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02X3hEWmJNTVdUc19iVll1Z2RTeF9Lc3FKVkJReHQ0ZG53VHpTdHBwaXdpSzZkRUlmcEZTRUxlRjlZb0RpV293M0NNZ1d2SDJpQ1ptcTF0OTZlUWVFQW1DZ3UzMmppWkt1QUg3NmhEM29MTkk?oc=5",
-          "published": "2026-09-07T10:56:01.000Z"
+          "headline": "Circle Agrees to Acquire Singapore Payments Firm Tazapay - Securities.io",
+          "source": "Securities.io",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1JUelNhb1A3MkpOZkVReEVaUjZHMlV3cGl1RWFNLTJ2ek92aE94MEhIa1k5b2hzaUk1bERCTGZrLTE5ejJUWDRXd0syaWhyN0I5SHJPeFplOUd4dk9aWEVsR05lb0JkcDRUTmg2SGJOQmVoSzVicW42V0xnS0pGN05kNHVfdjQ3R1BV?oc=5",
+          "published": "2026-09-08T10:22:03.000Z"
         },
         {
           "tag": "Press",
-          "headline": "What Will It Take to Build the Future of Cross-Border Payments? - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHFVTkJST24wWGVVUGt3OUYzRVIwLTgwN2VEd1NMNVYyTW4wZmhuamcxVmNZUE5PZ3hYbU1TZm1MOEd3QmZsb3JRWkMxR2ZzT293WTg2SGdXLVJtTkgyWnE4X193NTFYU2ZtMDRuWDhyT0VZWGNfN3VqMmUyY0JZTlA0VldSZTg?oc=5",
-          "published": "2026-09-07T04:53:57.000Z"
+          "headline": "DBS and Citi settle USD payments in minutes via tokenised deposits - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3lyUjY3T1hINW1VNTRDWVI3aXU1bWdXSVhwWFN4amVkVnI3SGhWamNjOGxoMy1UWVI4dE5qSTJYUE9zRGZCMjRxMFQyRENhOE44a085NGJtcEFMbGdYaEUyUGtLb0JJTGh1SnBSMVZpRkFEX0F3aEZkZFNjelh0WlFidnZxVzJJaGVkYVI3bw?oc=5",
+          "published": "2026-09-08T04:03:25.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Singapore May Soon Be At A Credit Card Crossroads - DollarsAndSense.sg",
-          "source": "DollarsAndSense.sg",
+          "headline": "Singapore May Soon Be At A Credit Card Crossroads - dollarsandsense.sg",
+          "source": "dollarsandsense.sg",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORllsazBjUkE2d3JnM1NzZkE4LUVma0xjNzZhamRYd3hJYThCSFlqdXJYQ05iRzdETDhQQV96SndiaWVQbGxGeE9UTHBNc0szV0tYaVNjTEdIVmI2QzRINDRJYWhZQmtYSVNzUk9GWXNucWtOMWNHVExlMUl5cHk0QzJXaw?oc=5",
           "published": "2026-09-06T15:04:39.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Circle Agrees to Acquire Singapore Payments Firm Tazapay - Securities.io",
+          "source": "Securities.io",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1JUelNhb1A3MkpOZkVReEVaUjZHMlV3cGl1RWFNLTJ2ek92aE94MEhIa1k5b2hzaUk1bERCTGZrLTE5ejJUWDRXd0syaWhyN0I5SHJPeFplOUd4dk9aWEVsR05lb0JkcDRUTmg2SGJOQmVoSzVicW42V0xnS0pGN05kNHVfdjQ3R1BV?oc=5",
+          "published": "2026-09-08T10:22:03.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "DBS and Citi settle USD payments in minutes via tokenised deposits - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3lyUjY3T1hINW1VNTRDWVI3aXU1bWdXSVhwWFN4amVkVnI3SGhWamNjOGxoMy1UWVI4dE5qSTJYUE9zRGZCMjRxMFQyRENhOE44a085NGJtcEFMbGdYaEUyUGtLb0JJTGh1SnBSMVZpRkFEX0F3aEZkZFNjelh0WlFidnZxVzJJaGVkYVI3bw?oc=5",
+          "published": "2026-09-08T04:03:25.000Z"
         },
         {
           "tag": "Press",
@@ -253,11 +310,11 @@
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Citi Hong Kong to Launch Market-First Virtual Credit Card with Dynamic Card Validation Code (CVC) in Partnership with Mastercard, Setting a…",
+        "headline": "Circle Expands Global Payments Infrastructure with Agreement to Acquire Singapore-Based Cross-Border Payments Platform, Tazapay - Morningst…",
         "teaser": null,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0M0RVVoUTFpelRVUklJTVMteDgyWXdWWlBLU3J2amFPay0wRFFTTVVfQXZtY2xDbm1kb2JOWE9NZ1ByVGZHRksyZ0R0NllQUVU2TmVQM1hUUHB5SFdEMXFFZUJCdzZpOG9nWEppbWhyMTUya1ZoNmYxcDk2LWdkckpwemxCNnN2aGp1dWp2azJ2OWl4WFk2U3J3LWZuWHRqZUhNMGt2SQ?oc=5",
-        "published": "2026-09-04T03:00:00.000Z",
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOLWFRN3VSZ2g4YUExTlZjOThvMENFMFJ2SndNSERtLS12eWtHSkd6dFpTczhKSURHZjZnaTNLMkRPUUxOTVRUR3BqWU15R294bXNrdGozTzFwTF9iNWxZdllSdlU2RTFTRWs5VFQ0MmRZUGstVllqZzBDRXRpNGJ0dm1EcEwzcHRTNGFOel9WMUZlRzc0bzkyQjI5bEgzMkRpXzB2TXRwZ0E0eDNOU2RmLTM3TU1FNFFnNU0xWmY1dXNRR1BXcV9KMXFZZWluRjRTNnpkcGxPNzFuOFJFX0h3YTNadV9MNXNfSGZjbTI1VW1ocGlkaFhqWWkyNWczSVJDZURwa1dOYmdHaE5TV19iMWhEb0V4NDA?oc=5",
+        "published": "2026-09-08T10:05:00.000Z",
         "paywalled": false
       },
       "companyUpdates": [
