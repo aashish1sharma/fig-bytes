@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:18:12.470Z",
+  "generatedAt": "2026-09-13T06:39:11.315Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,29 +32,57 @@
       "name": "Asset Management",
       "bullets": [
         {
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan UCITS ETF Dist: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0xCMjc4YjNTTVZNbF9ya1hmaEROU091dExqMzlmeXFLZ1hQSk5OUVdvX3hWZmM1N1c2M2FERXJBX25pejNHcGU5OG1sWUtuOTVZMm5PTllUcVVjakFna1hjRkhueXRFeXdIRHFyTUdHTXdqR29iVTNlZldKRVIyUHRUcVBEYThUQUwtZTRxSzdHTU03YjRxc0Rxc2hCOU8xQXNvM2dndGxIems?oc=5",
+          "published": "2026-09-11T07:08:00.000Z"
+        },
+        {
           "tag": "Press",
-          "headline": "Metaplanet Sets Up Hong Kong Unit to Expand Bitcoin-Focused Asset Management - TipRanks",
-          "source": "TipRanks",
+          "headline": "Metaplanet to Establish Asset Management Subsidiary in Hong Kong, Strengthening Asian-Hours Operations - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NVkpNMVQxaXFBd1ZUYzFFWkRXeXJIMmRuUFdrQXhTSU5GOEFCcDZkUjQzUGhKSVBVQnY0ckZpdmR2XzdtblJESml3bkVZek43YlNXdkREYjBVdjFhR2pLMmROcWFIX1dQNUVZeDlhUndFc3gzbnc?oc=5",
+          "published": "2026-09-11T21:35:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Metaplanet Sets Up Hong Kong Unit to Expand Bitcoin-Focused Asset Management - tipranks.com",
+          "source": "tipranks.com",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeV9VekxUQlZiWGc5SzVna2ZLTkVXTmlaTFl5dVZxa005UnVmR0R2Q0RPTlpKX3NiWm8ybHFiV2ttdERJYTNldDBjemVjQU5XN1A5enJfSFd1b0dHQW9XTWxBMThLeHd3UC1hUmYwb09QM01UejdQZnNmLURCclhlTjc3SlhZNkpzcG5GLTBaSTVpaFVRNlM4dVF0eFpXRVhEOXpTbEQwODlBYUlnX0JieWFvYjYtMmg3QkNqb002dC1xNDJNeG5J?oc=5",
           "published": "2026-09-11T12:50:11.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan UCITS ETF Dist: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0xCMjc4YjNTTVZNbF9ya1hmaEROU091dExqMzlmeXFLZ1hQSk5OUVdvX3hWZmM1N1c2M2FERXJBX25pejNHcGU5OG1sWUtuOTVZMm5PTllUcVVjakFna1hjRkhueXRFeXdIRHFyTUdHTXdqR29iVTNlZldKRVIyUHRUcVBEYThUQUwtZTRxSzdHTU03YjRxc0Rxc2hCOU8xQXNvM2dndGxIems?oc=5",
+          "published": "2026-09-11T07:08:00.000Z"
+        },
+        {
           "tag": "Press",
-          "headline": "Metaplanet Sets Up Hong Kong Unit to Expand Bitcoin-Focused Asset Management - TipRanks",
-          "source": "TipRanks",
+          "headline": "Metaplanet to Establish Asset Management Subsidiary in Hong Kong, Strengthening Asian-Hours Operations - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NVkpNMVQxaXFBd1ZUYzFFWkRXeXJIMmRuUFdrQXhTSU5GOEFCcDZkUjQzUGhKSVBVQnY0ckZpdmR2XzdtblJESml3bkVZek43YlNXdkREYjBVdjFhR2pLMmROcWFIX1dQNUVZeDlhUndFc3gzbnc?oc=5",
+          "published": "2026-09-11T21:35:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Metaplanet Sets Up Hong Kong Unit to Expand Bitcoin-Focused Asset Management - tipranks.com",
+          "source": "tipranks.com",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeV9VekxUQlZiWGc5SzVna2ZLTkVXTmlaTFl5dVZxa005UnVmR0R2Q0RPTlpKX3NiWm8ybHFiV2ttdERJYTNldDBjemVjQU5XN1A5enJfSFd1b0dHQW9XTWxBMThLeHd3UC1hUmYwb09QM01UejdQZnNmLURCclhlTjc3SlhZNkpzcG5GLTBaSTVpaFVRNlM4dVF0eFpXRVhEOXpTbEQwODlBYUlnX0JieWFvYjYtMmg3QkNqb002dC1xNDJNeG5J?oc=5",
           "published": "2026-09-11T12:50:11.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "EPP – iShares MSCI Pacific ex Japan ETF – ETF Investment Strategy - Morningstar",
+        "headline": "Fidelity Series Developed Markets Ex North America Ex Hong Kong Index Fund - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tSUtSU1FPUW1qd0d6ZGZxaGxxTG1DMVoydFN0ODBWNFhmcE1rcGlDZ1BEODNtWEpPaWFnRUVKU0tDdlJhU29ZMGVtMHo5MUJZeUN3bUdJOVlqQWJCRS1r?oc=5",
-        "published": "2026-09-11T13:03:31.000Z",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeWUwdTlFdmsyVUtNd3U4TF9YTVVNRXFoWkdWUmdVbzZVQzhtMlVTVzNueUQ5dEZPRmltZkdhNl80MDkxa3dMbUtwaG40SGlNc2hDdl9ialBVWnRpTUx3?oc=5",
+        "published": "2026-09-12T21:03:41.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -86,13 +114,6 @@
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWEUwTmExYnhvTk8zVmhsS2NJVVI2YTJUMlJzYXBzMHVSNk5NWmV3SVYwSzBKOUluV3ZYTHUtUnVMNFVmM1dialpQejBqbWxYdnBoZ2Roc3l2aVlOOVJHTTdyRUxheTZiSFJxTzVnQTZPQUFGcm5UUGxJUjBWUGMzYlpobWdyVC1zNGhyRmNKZ3VYU1NNTHNjMk5UNlY0Z0laemxpejdCWGJ1ekxhekt6OVJGXzhFNUhDWHM2dDFTc3dfeVRSNWZKZEUwX2NZc1Rvc2MtSlZWanZiaXpqdXNUbmhhbW5jTndGd3lOZDY4azJYV0g2cVg0?oc=5",
           "published": "2026-09-11T08:00:08.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore’s Family Office Boom Puts Talent in the Spotlight - newfortunetimes.com",
-          "source": "newfortunetimes.com",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1VieVFkdHF1T2haeHlLcXZ3Sks3dHVZalJxbC1VWXkwRV83MlRycG85cUlUdGxFRUNNRzdpcDRha3NtcVhpd1FRNEpJQ0FVUHNVVGY1WXI4YklJRVRBR1BQY19nUmptdFhsODJ5V2Zoa1k0TjBZYkRBcmFlVkN5dGZZc29La3pHeWFxa3UwV2ZVY1R4dlE?oc=5",
-          "published": "2026-09-09T17:10:59.000Z"
         }
       ],
       "candidates": [
@@ -102,13 +123,6 @@
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWEUwTmExYnhvTk8zVmhsS2NJVVI2YTJUMlJzYXBzMHVSNk5NWmV3SVYwSzBKOUluV3ZYTHUtUnVMNFVmM1dialpQejBqbWxYdnBoZ2Roc3l2aVlOOVJHTTdyRUxheTZiSFJxTzVnQTZPQUFGcm5UUGxJUjBWUGMzYlpobWdyVC1zNGhyRmNKZ3VYU1NNTHNjMk5UNlY0Z0laemxpejdCWGJ1ekxhekt6OVJGXzhFNUhDWHM2dDFTc3dfeVRSNWZKZEUwX2NZc1Rvc2MtSlZWanZiaXpqdXNUbmhhbW5jTndGd3lOZDY4azJYV0g2cVg0?oc=5",
           "published": "2026-09-11T08:00:08.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore’s Family Office Boom Puts Talent in the Spotlight - newfortunetimes.com",
-          "source": "newfortunetimes.com",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1VieVFkdHF1T2haeHlLcXZ3Sks3dHVZalJxbC1VWXkwRV83MlRycG85cUlUdGxFRUNNRzdpcDRha3NtcVhpd1FRNEpJQ0FVUHNVVGY1WXI4YklJRVRBR1BQY19nUmptdFhsODJ5V2Zoa1k0TjBZYkRBcmFlVkN5dGZZc29La3pHeWFxa3UwV2ZVY1R4dlE?oc=5",
-          "published": "2026-09-09T17:10:59.000Z"
         }
       ],
       "insight": {
@@ -125,9 +139,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
-          "published": "2026-09-10T14:49:22.000Z"
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-09-12T03:24:03.000Z"
         },
         {
           "company": "Netwealth Group",
@@ -142,24 +156,8 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Malaysia’s Non-Life Insurance Segment - FinancialContent",
-          "source": "FinancialContent",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZWhvV1NsdS1ub1dsRXFKMGxaN0ZaVDJXOXZMbmJJQWhmZG1RNFctTDZpRnAtQTVHS3Y3bk14a2xrUzNXV1RHdFE0YWRlLXZpczg1ZkRxRGxSMU9yYjhUamgwSVl4TlBfdlpGaDdaNUtxTUxIX0FQZW9nOXlLMDRLR1ZsZ3VCVjRpS19ZRkhrV21JbUdlVG1UZ0FxeEhkOTZ6RlVsWkRpenIzRFRUMTNVN3lRR3ZoMkRsVjl3ekZtSldPN21vekk5ZTdEMlhndHhxR0czelg2UHNZb25YTU9GSnhGS1B2NnZuVFZuX2J3Znc?oc=5",
-          "published": "2026-09-10T00:00:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Malaysia’s Non-Life Insurance Segment - FinancialContent",
-          "source": "FinancialContent",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZWhvV1NsdS1ub1dsRXFKMGxaN0ZaVDJXOXZMbmJJQWhmZG1RNFctTDZpRnAtQTVHS3Y3bk14a2xrUzNXV1RHdFE0YWRlLXZpczg1ZkRxRGxSMU9yYjhUamgwSVl4TlBfdlpGaDdaNUtxTUxIX0FQZW9nOXlLMDRLR1ZsZ3VCVjRpS19ZRkhrV21JbUdlVG1UZ0FxeEhkOTZ6RlVsWkRpenIzRFRUMTNVN3lRR3ZoMkRsVjl3ekZtSldPN21vekk5ZTdEMlhndHhxR0czelg2UHNZb25YTU9GSnhGS1B2NnZuVFZuX2J3Znc?oc=5",
-          "published": "2026-09-10T00:00:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Malaysia’s Non-Life Insurance Segment - Morningstar",
@@ -174,9 +172,9 @@
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Prudential posts strong H1 2026 growth, stock slips premarket - Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM09kZWp0WkF3Vy1LTl9NaEd4MU1XTnBDVVpfSkZCanVQVXp3SnZMdkg0ZkwzTTBQTzZfMUE3bVdBUXItWTAtWFJnY3RGMlNNTDBhR2p1d3lIRlN2ZjVnNUt2QXJ0emhRaC1DUGljYUljc2xKQjZOUS1KVVRhekM3dHB4S05VUzkzdWFwaXBOSjcyVS1hamxGZXIzRG1CbGRKamFObngybWUwR3hwMU80RXBLZGt3OHlyVjJGQTluMWJ6X2VZRi1PVlNpdWt6cFBrZGltdnJuMTlLbzRwTzE4?oc=5",
-          "published": "2026-08-27T10:04:30.000Z"
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-09-11T23:52:27.000Z"
         },
         {
           "company": "AIA Group",
@@ -190,9 +188,9 @@
           "company": "QBE Insurance",
           "ticker": "QBE.AX",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNm5PQ1JfVExFd2o0c0drQzZlZnZ6Z205enNOaXVaUXlBMk5HaTNMZ0MxQ09fZnJybW8yaWVqM2YxSUFrcUZhY0RacXJCRlVIZVFYdHdlWHZ1endVYlUydE9LQWVTd0RZTEdzb2c0QVFZUzRvU1F1anZSVVhJeUNnNHF4eFpaTDlUWmd4N0ExTDZJU1VWczBTQjdIQW5hN2U1QmxGOWhtRmZTd0VrTUhyMEEyNDJ6MWw2aHN6UU5rMklHcHBYTU11Nkh3NA?oc=5",
-          "published": "2026-08-13T07:00:00.000Z"
+          "headline": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3% - Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWQtXzAwcHFocFBYU2VyVGRwcDN4TFppS0ZMWl9oNDFNcHpDa0VrWjVOT2lObW9GSVVUaTBUb2o1NllRVTgyNURZeS1TdjQwUF9TRUx5OHZVV3lMS2NJcW80aXBZXzQ3ano1LThFdUlzRkpoMkFWYzEtZ2cxSnZGek9hd2RKcTVPOVZLTFVJb0FMTzdCZWhvX3l5M1o3ZGRJNXhZa2RGS2xJcHNlUmplSjhmdDZqX0tpeU81S2NiRkxYNFFnS0dRM2Zn?oc=5",
+          "published": "2026-08-14T07:00:00.000Z"
         }
       ]
     },
@@ -205,7 +203,7 @@
           "headline": "An overview: Best credit card promotions in Singapore (September 2026) - MoneySmart",
           "source": "MoneySmart",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-09-10T23:40:29.000Z"
+          "published": "2026-09-10T07:00:00.000Z"
         },
         {
           "tag": "Leadership",
@@ -213,13 +211,6 @@
           "source": "Báo VietNamNet",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2Z0OTVZRzZaekNBVlpiT28xODNuX2FHVEtITXlYcE1odWU1dGRKRmJITXFkM1pjOXBibjJNUTR5VWpRWDdrWW1pZUJDZGg0ZTFjd2FucjRFenNNYjNOMFQ0cWtDcnI1TjI2TVVDU2xiMjdTX3JldGlZUkN4OFpBbVFtNUhSMXh3RTB4TkRid1IwbEZKSHc4WFln?oc=5",
           "published": "2026-09-11T03:10:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore banks complete tokenised deposit pilots - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcDFoTklNakpuZHhIYVl2b1E4b3JzcGVzSjhZaGx1Z09QanVFYV96Z3l2b0lJZV9lVGt0d0pacVFBSzR0d0pobTA0cmdQTWZRSmZSOHlBWTJzdXBGVUY2VXFuWl9pTDRmN1pHYUowUWx6cWY1SjI1Ujd4N1RRZmEwYWluTDJNcE5aOHBPRnlOTjBQR2s?oc=5",
-          "published": "2026-09-10T03:40:40.000Z"
         }
       ],
       "candidates": [
@@ -228,7 +219,7 @@
           "headline": "An overview: Best credit card promotions in Singapore (September 2026) - MoneySmart",
           "source": "MoneySmart",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-09-10T23:40:29.000Z"
+          "published": "2026-09-10T07:00:00.000Z"
         },
         {
           "tag": "Leadership",
@@ -236,13 +227,6 @@
           "source": "Báo VietNamNet",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2Z0OTVZRzZaekNBVlpiT28xODNuX2FHVEtITXlYcE1odWU1dGRKRmJITXFkM1pjOXBibjJNUTR5VWpRWDdrWW1pZUJDZGg0ZTFjd2FucjRFenNNYjNOMFQ0cWtDcnI1TjI2TVVDU2xiMjdTX3JldGlZUkN4OFpBbVFtNUhSMXh3RTB4TkRid1IwbEZKSHc4WFln?oc=5",
           "published": "2026-09-11T03:10:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore banks complete tokenised deposit pilots - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcDFoTklNakpuZHhIYVl2b1E4b3JzcGVzSjhZaGx1Z09QanVFYV96Z3l2b0lJZV9lVGt0d0pacVFBSzR0d0pobTA0cmdQTWZRSmZSOHlBWTJzdXBGVUY2VXFuWl9pTDRmN1pHYUowUWx6cWY1SjI1Ujd4N1RRZmEwYWluTDJNcE5aOHBPRnlOTjBQR2s?oc=5",
-          "published": "2026-09-10T03:40:40.000Z"
         }
       ],
       "insight": {
