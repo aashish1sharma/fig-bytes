@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:32:34.498Z",
+  "generatedAt": "2026-09-16T06:32:04.484Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,31 +33,53 @@
       "bullets": [
         {
           "tag": "Strategy",
-          "headline": "Pictet's global multi-asset fund triples to $5 billion on China inflows - finance.yahoo.com",
-          "source": "finance.yahoo.com",
+          "headline": "Pictet's global multi-asset fund triples to $5 billion on China inflows - Yahoo Finance",
+          "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkdwMktuSkdZMEowbmVTU1lXOFcwbG5hSkoyVFdZVEZWWldrU0tPZWhBWkRGR1hhcTRaUE52Z254WnNSVGQ3SmhQM1ZMbkZpYUtBUVpRNUxUY2Rva21DZU5kN3RoYXZ2V0RMcl9tWGhzQmpJdXVqVjNwZ2FhTW45cnA3ZEpuNG9nNnMxX041TkszeDY5QW5Kd3U2RjA?oc=5",
           "published": "2026-09-15T03:41:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Global X launches KOSPI 200 ETF in Hong Kong - Vietnam Investment Review - VIR",
+          "source": "Vietnam Investment Review - VIR",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmlNZlZzUEMzSkxhUXZjZUx2c0FBRVQ2OXVGSDV5bElHOVVQSVRaeHBHM01zeDkyT014Umo4d09lLVFpVXYtVFNkRl9tdFF3S0ZyT0ZtSndlb3NwNmx5MExqSk11NEFXN2tJYmZJNlpmSVB6akxTVnBYb3ZZWTdEZQ?oc=5",
+          "published": "2026-09-15T08:02:45.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Strategy",
-          "headline": "Pictet's global multi-asset fund triples to $5 billion on China inflows - finance.yahoo.com",
-          "source": "finance.yahoo.com",
+          "headline": "Pictet's global multi-asset fund triples to $5 billion on China inflows - Yahoo Finance",
+          "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkdwMktuSkdZMEowbmVTU1lXOFcwbG5hSkoyVFdZVEZWWldrU0tPZWhBWkRGR1hhcTRaUE52Z254WnNSVGQ3SmhQM1ZMbkZpYUtBUVpRNUxUY2Rva21DZU5kN3RoYXZ2V0RMcl9tWGhzQmpJdXVqVjNwZ2FhTW45cnA3ZEpuNG9nNnMxX041TkszeDY5QW5Kd3U2RjA?oc=5",
           "published": "2026-09-15T03:41:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Global X launches KOSPI 200 ETF in Hong Kong - Vietnam Investment Review - VIR",
+          "source": "Vietnam Investment Review - VIR",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmlNZlZzUEMzSkxhUXZjZUx2c0FBRVQ2OXVGSDV5bElHOVVQSVRaeHBHM01zeDkyT014Umo4d09lLVFpVXYtVFNkRl9tdFF3S0ZyT0ZtSndlb3NwNmx5MExqSk11NEFXN2tJYmZJNlpmSVB6akxTVnBYb3ZZWTdEZQ?oc=5",
+          "published": "2026-09-15T08:02:45.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Fidelity Series Developed Markets Ex North America Ex Hong Kong Index Fund - Morningstar",
+        "headline": "CNY – HSBC MSCI China ETF – ETF Investment Strategy - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeWUwdTlFdmsyVUtNd3U4TF9YTVVNRXFoWkdWUmdVbzZVQzhtMlVTVzNueUQ5dEZPRmltZkdhNl80MDkxa3dMbUtwaG40SGlNc2hDdl9ialBVWnRpTUx3?oc=5",
-        "published": "2026-09-12T21:03:41.000Z",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tb2JrMlQyaUFPU1liUlBxOWxRejVtUUJvX1JBa1NQRzdJNnhlTVMxdklBTWpoUVdxdzRCUTE0WU1PbGRHUUlVTnY1UFR1Qll3TklONnhjT3dfdDVGYjVZ?oc=5",
+        "published": "2026-09-15T10:29:13.000Z",
         "paywalled": false
       },
       "companyUpdates": [
+        {
+          "company": "Schroders",
+          "ticker": "SDR",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: Schroders Capital Global Innovation Trust H1 2026 lifts NAV - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVWpNcFBqTHJNZ1Y1RlUtMTFrWW1kX3VsdUtKakRtcGxfUG5vMDE1bmxqdkhSV0VVZFJsMjVPWDVaN2lxZ2U4TXE1dks4QUJaQ2VSd0FEb1dGUF9RSjIxSFBlTXJYTG93YjU0ci1RaENLSWdsUV9RNmNaYUtCUW9wOTdXaFY1VFNoVHFqUmlGVTlRUndjd2hYY3VTTUhINkdyQ1pmZ0RXNlBhZVRnMWRwVDAzMVJFcU9fUlZSQzBJYl9zQm8xVGlVNk1zTXZhVktsYzlTNnRXMA?oc=5",
+          "published": "2026-09-16T06:23:22.000Z"
+        },
         {
           "company": "BlackRock",
           "ticker": "BLK",
@@ -65,14 +87,6 @@
           "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
           "published": "2026-09-10T21:14:29.000Z"
-        },
-        {
-          "company": "Schroders",
-          "ticker": "SDR",
-          "tag": "Presentation",
-          "headline": "Investor Presentation - mybrand.schroders.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
-          "published": "2026-09-05T09:57:00.000Z"
         }
       ]
     },
@@ -99,11 +113,11 @@
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Webull Enters Next Phase of Growth in Thailand Following Pi Securities Acquisition, Targets THB 200 Billion in AUM - Morningstar",
+        "headline": "A new approach to wealth management: Latest News and Updates - South China Morning Post",
         "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRGFLcnQ4YkdrMTRYalJaQUZoSzg0MDVjMUlYaC1fejJHYTExSjhvSXYwNDlQX05MXzBwU3RvbkVJeGJtWHByZ1FvUXczcXFXRmFsTjdVY3I1OWFFNUFNakdtY092SUlNTll0TGc2RmV0aGpSdlYzUnJWSXl3ZDg1dlY3THNqZHIzQkM4MFhtdU93bGNlVHhtbjVsU1cwNWFWQnFmLTJGOWFBaEpjTEJBRXpvbUpNMVVISkQyaVdhMmxfOHhrdW91YU5kV3cxYWxLaEpUQXFINDFMalZ2Z0FlT0Rfc185WVJQZ1JfdVhEWExzOVNnUVNhV0tCMEdQZ1oybmV2Tg?oc=5",
-        "published": "2026-09-09T02:32:20.000Z",
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xY3FQUGlvVlBQdk13T0VmREVxTkZRMG1LejJWZXJTRVlrRDZnZVQxNTlibVdRSWc3eXk4UklXcVZYbU1NWWw0QXFMRFBPVzFoMEpjVy1qQkpXR2Z0TVphSmhCT2pTVG9TbXc?oc=5",
+        "published": "2026-09-11T22:04:07.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -128,8 +142,24 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Japan's FSA Launches On-Site Inspection of Sony Life Insurance Over Ex-Employee Fraud Exceeding ¥180 Million - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dkFUM1lzUjdKWlRHWGxUbXFlS29CYzRoVERqZ194NEpLVlNxWHh3RlZ5bXJnY29nV1pPVjU0NUg4UktRVTlLcWlFVVVIYXBkNGpsZkZqVFpOR0ROaFN4VWhsbUhnMTgwVEpTeDVtVzdZa0hRTnc?oc=5",
+          "published": "2026-09-15T06:26:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Japan's FSA Launches On-Site Inspection of Sony Life Insurance Over Ex-Employee Fraud Exceeding ¥180 Million - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dkFUM1lzUjdKWlRHWGxUbXFlS29CYzRoVERqZ194NEpLVlNxWHh3RlZ5bXJnY29nV1pPVjU0NUg4UktRVTlLcWlFVVVIYXBkNGpsZkZqVFpOR0ROaFN4VWhsbUhnMTgwVEpTeDVtVzdZa0hRTnc?oc=5",
+          "published": "2026-09-15T06:26:00.000Z"
+        }
+      ],
       "insight": {
         "tag": "Research",
         "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Malaysia’s Non-Life Insurance Segment - Morningstar",
@@ -147,14 +177,6 @@
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
           "published": "2026-09-13T04:05:09.000Z"
-        },
-        {
-          "company": "AIA Group",
-          "ticker": "AIA",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: AIA Group lifts H1 2026 profit outlook as growth accelerates - Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRk1JcXFkWDJab0R6X1JuZ3FWYndGbW8tLUx1bDFlZDQ0czI5N2p4bkdmZGlpOXRZajg4R3ZGSzE5UWw3NEZockVwTU50Xy1YQnhjNnJ1TF9Cb2t6YlJndWg0dkllOHNIMkFQNGtwc2pvYzRBeGRLOFpHc25zN185TTR1anNodGptVVVoWFJaV200UUNzNVFRLTZsUWxNS0FwLVAyU0w3LWk3M3RNRFJJRkpHemNwU0NyRWxKcFlHcUttZVNiUERVOTlBd2ZSZzBpSFkzZ0VLSQ?oc=5",
-          "published": "2026-08-20T02:54:40.000Z"
         }
       ]
     },
@@ -173,15 +195,15 @@
           "tag": "Product",
           "headline": "Kazakhstan to launch QR payments with China, expanding yuan’s reach in retail - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOElGVmhjOVFVQnVEVWdsRHVSNDNsS2dRUUl6QlVMSmx5V2pjcmxzNVpSLWNSY1ZRTFgxT2dKalJkTmJVOTZfQXBOcFhSNlVDbEp5QzlEbUNfalRUMUh5NTRhTTFFb1hZZXJFbW9FSjZPaFB1aWZhXy1ISlIyTFJiYy1FOFJGa1Y0TkpJaVNVTkQ3cTJaMi1FTzkzdnd5RXBjcnhvc2g2bzRXNjlobEo5dVNvSVU3N1RBbUg4SVRKZmZtZE9TVElJU1NDRE56X3lJNnd2cG5odVnSAdgBQVVfeXFMUDhJRlZoYzlRVUJ1RFVnbER1UjQzbEtnUVFJekJVTEpseVdqY3JsczVaUi1jUmNWUUxYMU9nSmpSZE5iVTk2X0FwTnBYUjZVQ2xKeUM5RG1DX2pUVDFIeTU0YU0xRW9YWWVyRW1vRUo2T2hQdWlmYV8tSEpSMkxSYmMtRThSRmtWNE5KSWlTVU5EN3EyWjItRU85M3Z3eUVwY3J4b3NoNm80VzY5aGxKOXVTb0lVNzdUQW1IOElUSmZmbWRPU1RJSVNTQ0ROel95STZ3dnBuaHVZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXFGOGRHQVBJRWFFemNrQ1c5emQ1NkszazVtSUs5aDhFU0pEYi0yUFMyaS03VHBsTVNyR3lUTV9mWGg2Tmtiel9lUFR0MHVVOVJkUTAzM1RnNEtYdVhSZ2hsY2dOZjN0UU95OEloYUZSRVdBeVk5YzB4TlNPVThiTHMwWU5kRFdIZDh1cmVtYkZyamVia2xuckt5eEpwNXJvdDlwZmxJOWY5N2Z1NUlNYVFnRkJzem54ek04TmlSNFlaVHVNZk9rRGV4SWN6Q05fdEs2N1kwNEfSAdgBQVVfeXFMUDhJRlZoYzlRVUJ1RFVnbER1UjQzbEtnUVFJekJVTEpseVdqY3JsczVaUi1jUmNWUUxYMU9nSmpSZE5iVTk2X0FwTnBYUjZVQ2xKeUM5RG1DX2pUVDFIeTU0YU0xRW9YWWVyRW1vRUo2T2hQdWlmYV8tSEpSMkxSYmMtRThSRmtWNE5KSWlTVU5EN3EyWjItRU85M3Z3eUVwY3J4b3NoNm80VzY5aGxKOXVTb0lVNzdUQW1IOElUSmZmbWRPU1RJSVNTQ0ROel95STZ3dnBuaHVZ?oc=5",
           "published": "2026-09-14T08:30:33.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Best PayID Casinos Australia 2026 – 5 Top Instant PayID Deposit Sites For Real Money - Muddy River Sports",
-          "source": "Muddy River Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb1FXLVdSR21TaFUxQ0tHNl9kWjI5Z2lkQm9RRG03ektCNHh2djZqaG5RbTVXa3E3WGtidTRWMGJZZXZNTldycEhid1RFMDh6SUdrRG0wN2ppdFF0bHQwNVY0cFVZb2t3UTF4MmdUTGdxZnlONUwtZ1BCU2dpTHY1bjFvajRJZ2RHX0RzYjJOLTNTQkw3TkRoYk80TTZSUEFsc1YtcFZ5QWdjdlFqZ0hwS09fOXVoSEZ5Si10OHp3SzAzZmZfZXB2YS0wOTlYMmFyUkRyZXNMdVBnQnZrLVE?oc=5",
-          "published": "2026-09-14T12:47:08.000Z"
+          "headline": "China cracks down on big firms delaying payments to cash-strapped SMEs - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTZGeHZ6SzNnT1RpZ3ZFLXF1NE9DQWh5Y0tjUXFaUk9xdnJzQi0wVjJfSFd4a2xfVzlWbTVjVWJ4aEIza3FuQ3lsc2JEem5uaHZGR0xrWThYSU0xd2hJMUJ0S3pOaFF5SzRBV0lFa0tHYzZRTGZDTFBtOXFxNFRxOXJ3SkFlUjJsaHBCTHRwYWQyOFU0aVlHcnlQYWh1N2VjazFISWMwSTNGTnBnUTduVUl2TnhfUlhmMzZFZGFaUENLaEVnV2JQMHVYazhseWRR?oc=5",
+          "published": "2026-09-15T06:33:52.000Z"
         }
       ],
       "candidates": [
@@ -196,38 +218,31 @@
           "tag": "Product",
           "headline": "Kazakhstan to launch QR payments with China, expanding yuan’s reach in retail - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOElGVmhjOVFVQnVEVWdsRHVSNDNsS2dRUUl6QlVMSmx5V2pjcmxzNVpSLWNSY1ZRTFgxT2dKalJkTmJVOTZfQXBOcFhSNlVDbEp5QzlEbUNfalRUMUh5NTRhTTFFb1hZZXJFbW9FSjZPaFB1aWZhXy1ISlIyTFJiYy1FOFJGa1Y0TkpJaVNVTkQ3cTJaMi1FTzkzdnd5RXBjcnhvc2g2bzRXNjlobEo5dVNvSVU3N1RBbUg4SVRKZmZtZE9TVElJU1NDRE56X3lJNnd2cG5odVnSAdgBQVVfeXFMUDhJRlZoYzlRVUJ1RFVnbER1UjQzbEtnUVFJekJVTEpseVdqY3JsczVaUi1jUmNWUUxYMU9nSmpSZE5iVTk2X0FwTnBYUjZVQ2xKeUM5RG1DX2pUVDFIeTU0YU0xRW9YWWVyRW1vRUo2T2hQdWlmYV8tSEpSMkxSYmMtRThSRmtWNE5KSWlTVU5EN3EyWjItRU85M3Z3eUVwY3J4b3NoNm80VzY5aGxKOXVTb0lVNzdUQW1IOElUSmZmbWRPU1RJSVNTQ0ROel95STZ3dnBuaHVZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXFGOGRHQVBJRWFFemNrQ1c5emQ1NkszazVtSUs5aDhFU0pEYi0yUFMyaS03VHBsTVNyR3lUTV9mWGg2Tmtiel9lUFR0MHVVOVJkUTAzM1RnNEtYdVhSZ2hsY2dOZjN0UU95OEloYUZSRVdBeVk5YzB4TlNPVThiTHMwWU5kRFdIZDh1cmVtYkZyamVia2xuckt5eEpwNXJvdDlwZmxJOWY5N2Z1NUlNYVFnRkJzem54ek04TmlSNFlaVHVNZk9rRGV4SWN6Q05fdEs2N1kwNEfSAdgBQVVfeXFMUDhJRlZoYzlRVUJ1RFVnbER1UjQzbEtnUVFJekJVTEpseVdqY3JsczVaUi1jUmNWUUxYMU9nSmpSZE5iVTk2X0FwTnBYUjZVQ2xKeUM5RG1DX2pUVDFIeTU0YU0xRW9YWWVyRW1vRUo2T2hQdWlmYV8tSEpSMkxSYmMtRThSRmtWNE5KSWlTVU5EN3EyWjItRU85M3Z3eUVwY3J4b3NoNm80VzY5aGxKOXVTb0lVNzdUQW1IOElUSmZmbWRPU1RJSVNTQ0ROel95STZ3dnBuaHVZ?oc=5",
           "published": "2026-09-14T08:30:33.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Best PayID Casinos Australia 2026 – 5 Top Instant PayID Deposit Sites For Real Money - Muddy River Sports",
-          "source": "Muddy River Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb1FXLVdSR21TaFUxQ0tHNl9kWjI5Z2lkQm9RRG03ektCNHh2djZqaG5RbTVXa3E3WGtidTRWMGJZZXZNTldycEhid1RFMDh6SUdrRG0wN2ppdFF0bHQwNVY0cFVZb2t3UTF4MmdUTGdxZnlONUwtZ1BCU2dpTHY1bjFvajRJZ2RHX0RzYjJOLTNTQkw3TkRoYk80TTZSUEFsc1YtcFZ5QWdjdlFqZ0hwS09fOXVoSEZ5Si10OHp3SzAzZmZfZXB2YS0wOTlYMmFyUkRyZXNMdVBnQnZrLVE?oc=5",
-          "published": "2026-09-14T12:47:08.000Z"
+          "headline": "China cracks down on big firms delaying payments to cash-strapped SMEs - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTZGeHZ6SzNnT1RpZ3ZFLXF1NE9DQWh5Y0tjUXFaUk9xdnJzQi0wVjJfSFd4a2xfVzlWbTVjVWJ4aEIza3FuQ3lsc2JEem5uaHZGR0xrWThYSU0xd2hJMUJ0S3pOaFF5SzRBV0lFa0tHYzZRTGZDTFBtOXFxNFRxOXJ3SkFlUjJsaHBCTHRwYWQyOFU0aVlHcnlQYWh1N2VjazFISWMwSTNGTnBnUTduVUl2TnhfUlhmMzZFZGFaUENLaEVnV2JQMHVYazhseWRR?oc=5",
+          "published": "2026-09-15T06:33:52.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Singapore banks complete live SGD tokenized-deposit transactions - TNGlobal",
-          "source": "TNGlobal",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3RvT0pUT3hFYjV3VDBuOEtLQlJJMGNKa2FOMjViT3U2WldIMUllSzFweU0zTGdENUdtMVRZNHJNWkhCdXVkbnNOblBqbjFwT003S2NnWS1lZkJrWWI4bzRoUGg0eVNCOGh3RUZRV3kyUHJEem84NlFidDVlaHhRYzdTYVc2Mkh4U0l5YXdKTVB3cWN2VVE?oc=5",
-          "published": "2026-09-13T14:29:12.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Best Neosurf Casinos Australia : Top Aussie Sites With Neosurf Payments (Easy Deposits) - Muddy River Sports",
-          "source": "Muddy River Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeDF1dl8wSC1Dang2UE1HbGtZazMwaUptVW54SUlIY0VqSmNLOUlaNXpvY19jbWRuTVJBMURXbkpYV2sxc1VaS3hRMUVPVndOTlJrR3dEMXdCOWdHTUFBLXlYWmMyUHlEY3JnZXpYVDI0cWhDR3lnamp3Zy00UlJOWmZ4dVFGQ1hBWUsxcHdOYTJ0TUtJQnZlckVtVDIyZDNNY0NKZkR4bzBzX1UwUUQ5Uk9YbjVjay1ka0tFRFZteUkzMDdwTFF6RU9kOEZCWHpRSnY1T2xSSi1IdnVSN2ZR?oc=5",
-          "published": "2026-09-12T12:32:21.000Z"
+          "headline": "Bank Islam Now Has Two Former Digital Bank CEOs on Its Leadership Team - Fintech News Malaysia",
+          "source": "Fintech News Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4bjdrSTMtNEhnTFE0cmwtUWVYRm1PQkZ2dkRZNEZIMkROaU51M1dZMnpETUE4bjNZSnBvZnhHOW9xeTFaUzNMQ3VUX1BXdHRGMlA3ZHJLTWVQcGFqc1o5S1ZyS1lsRFJRTmdn?oc=5",
+          "published": "2026-09-16T03:53:39.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Circle Expands Global Payments Infrastructure with Agreement to Acquire Singapore-Based Cross-Border Payments Platform, Tazapay - Morningst…",
+        "headline": "China cracks down on big firms delaying payments to cash-strapped SMEs - South China Morning Post",
         "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOLWFRN3VSZ2g4YUExTlZjOThvMENFMFJ2SndNSERtLS12eWtHSkd6dFpTczhKSURHZjZnaTNLMkRPUUxOTVRUR3BqWU15R294bXNrdGozTzFwTF9iNWxZdllSdlU2RTFTRWs5VFQ0MmRZUGstVllqZzBDRXRpNGJ0dm1EcEwzcHRTNGFOel9WMUZlRzc0bzkyQjI5bEgzMkRpXzB2TXRwZ0E0eDNOU2RmLTM3TU1FNFFnNU0xWmY1dXNRR1BXcV9KMXFZZWluRjRTNnpkcGxPNzFuOFJFX0h3YTNadV9MNXNfSGZjbTI1VW1ocGlkaFhqWWkyNWczSVJDZURwa1dOYmdHaE5TV19iMWhEb0V4NDA?oc=5",
-        "published": "2026-09-08T10:05:00.000Z",
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWg3bEdaUHI4aXJ2YWlGSWNzZ3F3WXVVdDZHSDcyY2UtYWwwaEJCWmhLRnZqelhWQUttcTFXYzd5cDhTWl8zZlk5QmVuMFc2R051eTkyYUdRTVUzRmphVVA0YXpETTV2VWJiRTV5eXBhV3hMd3pTOVhJc2dmVnJhaFBmWGpvUmx2NVE4MmFIYzlHa0FrcF9qdkVMb1drZkxFTE9xb2hYcGFJZXQ2VElvaTJoU3lYVHA4SnFtRUFSZknSAcABQVVfeXFMTmFRU01iZTFxTzVwZEc5UlNZcUpQeXdFeWphd1dwZm9GOGl1bmVSdkF6QU9TcFhNS2VwTkk4TVh3eWxQUHFIcUgzLWxYYUNDRDJzUUNTU2xjcVd3SHZacFpSTU1fcXNpTHE1NlFScFBPMmhoUGpRZVFTN2dQZzZTTlZIc3YzNHVVMlNjaXhWQkYtNkNHSlZrRlRFZmQ5MFdsNnZnZ0pCSmZXemp6NUQyLXJMaDFKMjlsTFpLT3E5Ym9K?oc=5",
+        "published": "2026-09-15T06:33:52.000Z",
         "paywalled": false
       },
       "companyUpdates": []
