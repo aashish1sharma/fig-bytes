@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T06:32:04.484Z",
+  "generatedAt": "2026-09-17T06:31:38.285Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -64,11 +64,11 @@
       ],
       "insight": {
         "tag": "Research",
-        "headline": "CNY – HSBC MSCI China ETF – ETF Investment Strategy - Morningstar",
+        "headline": "H4Z6 – HSBC MSCI China ETF USD (Acc) – ETF Investment Strategy - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tb2JrMlQyaUFPU1liUlBxOWxRejVtUUJvX1JBa1NQRzdJNnhlTVMxdklBTWpoUVdxdzRCUTE0WU1PbGRHUUlVTnY1UFR1Qll3TklONnhjT3dfdDVGYjVZ?oc=5",
-        "published": "2026-09-15T10:29:13.000Z",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NcUppTUVoQzBfSmZNWHNTYTJna3NQUlZwbVNsbl94b1pnQ2E4b0pReVYzNjlNTlI3ZVJHbXRvRk1rUTIyYmRFQkhKVTVHYXdyU1FsZ1dNMjFTaXA4aUxLQ1Vn?oc=5",
+        "published": "2026-09-14T21:15:02.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -79,38 +79,14 @@
           "headline": "Earnings call transcript: Schroders Capital Global Innovation Trust H1 2026 lifts NAV - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVWpNcFBqTHJNZ1Y1RlUtMTFrWW1kX3VsdUtKakRtcGxfUG5vMDE1bmxqdkhSV0VVZFJsMjVPWDVaN2lxZ2U4TXE1dks4QUJaQ2VSd0FEb1dGUF9RSjIxSFBlTXJYTG93YjU0ci1RaENLSWdsUV9RNmNaYUtCUW9wOTdXaFY1VFNoVHFqUmlGVTlRUndjd2hYY3VTTUhINkdyQ1pmZ0RXNlBhZVRnMWRwVDAzMVJFcU9fUlZSQzBJYl9zQm8xVGlVNk1zTXZhVktsYzlTNnRXMA?oc=5",
           "published": "2026-09-16T06:23:22.000Z"
-        },
-        {
-          "company": "BlackRock",
-          "ticker": "BLK",
-          "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFk1M19IeXZDbXJTWUFyeGdYY3JpalBFbW9IVzZUbW5hOFhpbktOOXJBRmh1THhnNjh3ZjNtcXVOZkVLU0JUQ0VKT1ZJdk52Y2t4a3FGcDEzQ24wcDZZejVkSU93QQ?oc=5",
-          "published": "2026-09-10T21:14:29.000Z"
         }
       ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Citi Private Bank Convenes Asia's Leading Family Offices in Hong Kong to Explore the Next Decade of Wealth Creation - Malay Mail",
-          "source": "Malay Mail",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSzNaa3NCeGd3eUlkTEc4VTN6NGROOVBTYmpIaDdqNHV2T040Q042ZG1RcFdrUUlkdk9lb2FGMDJBUnZpaklRcnhqVlc2dk1sUUlacmd3MjV0R2Y1OENjWmg0TGVCeGdPQWlvUzJoaV9MNDY1TU1sT094b2FyZHE5Q0VOUVluWm1waVlEZlcxR3VyNXZUOVBjdDBJcGppa3Y5UnFYdWxZQnh2QlcwWTdIWHlTVk1lbnR2cVEwRWFhVEVjUzhTa0E2dW1seVRGX2JMcEdHVjlCWktrZ3R6eE9SbE5HckxaaFpfODhQZzdBX082b2hIVEhDRURtODRoa0FoMWxYUGZoMXFPWHkzRlFZaVhoTVUyQdIBlgJBVV95cUxOSzNaa3NCeGd3eUlkTEc4VTN6NGROOVBTYmpIaDdqNHV2T040Q042ZG1RcFdrUUlkdk9lb2FGMDJBUnZpaklRcnhqVlc2dk1sUUlacmd3MjV0R2Y1OENjWmg0TGVCeGdPQWlvUzJoaV9MNDY1TU1sT094b2FyZHE5Q0VOUVluWm1waVlEZlcxR3VyNXZUOVBjdDBJcGppa3Y5UnFYdWxZQnh2QlcwWTdIWHlTVk1lbnR2cVEwRWFhVEVjUzhTa0E2dW1seVRGX2JMcEdHVjlCWktrZ3R6eE9SbE5HckxaaFpfODhQZzdBX082b2hIVEhDRURtODRoa0FoMWxYUGZoMXFPWHkzRlFZaVhoTVUyQQ?oc=5",
-          "published": "2026-09-14T06:25:39.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Citi Private Bank Convenes Asia's Leading Family Offices in Hong Kong to Explore the Next Decade of Wealth Creation - Malay Mail",
-          "source": "Malay Mail",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSzNaa3NCeGd3eUlkTEc4VTN6NGROOVBTYmpIaDdqNHV2T040Q042ZG1RcFdrUUlkdk9lb2FGMDJBUnZpaklRcnhqVlc2dk1sUUlacmd3MjV0R2Y1OENjWmg0TGVCeGdPQWlvUzJoaV9MNDY1TU1sT094b2FyZHE5Q0VOUVluWm1waVlEZlcxR3VyNXZUOVBjdDBJcGppa3Y5UnFYdWxZQnh2QlcwWTdIWHlTVk1lbnR2cVEwRWFhVEVjUzhTa0E2dW1seVRGX2JMcEdHVjlCWktrZ3R6eE9SbE5HckxaaFpfODhQZzdBX082b2hIVEhDRURtODRoa0FoMWxYUGZoMXFPWHkzRlFZaVhoTVUyQdIBlgJBVV95cUxOSzNaa3NCeGd3eUlkTEc4VTN6NGROOVBTYmpIaDdqNHV2T040Q042ZG1RcFdrUUlkdk9lb2FGMDJBUnZpaklRcnhqVlc2dk1sUUlacmd3MjV0R2Y1OENjWmg0TGVCeGdPQWlvUzJoaV9MNDY1TU1sT094b2FyZHE5Q0VOUVluWm1waVlEZlcxR3VyNXZUOVBjdDBJcGppa3Y5UnFYdWxZQnh2QlcwWTdIWHlTVk1lbnR2cVEwRWFhVEVjUzhTa0E2dW1seVRGX2JMcEdHVjlCWktrZ3R6eE9SbE5HckxaaFpfODhQZzdBX082b2hIVEhDRURtODRoa0FoMWxYUGZoMXFPWHkzRlFZaVhoTVUyQQ?oc=5",
-          "published": "2026-09-14T06:25:39.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "A new approach to wealth management: Latest News and Updates - South China Morning Post",
@@ -142,33 +118,9 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "Japan's FSA Launches On-Site Inspection of Sony Life Insurance Over Ex-Employee Fraud Exceeding ¥180 Million - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dkFUM1lzUjdKWlRHWGxUbXFlS29CYzRoVERqZ194NEpLVlNxWHh3RlZ5bXJnY29nV1pPVjU0NUg4UktRVTlLcWlFVVVIYXBkNGpsZkZqVFpOR0ROaFN4VWhsbUhnMTgwVEpTeDVtVzdZa0hRTnc?oc=5",
-          "published": "2026-09-15T06:26:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Japan's FSA Launches On-Site Inspection of Sony Life Insurance Over Ex-Employee Fraud Exceeding ¥180 Million - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dkFUM1lzUjdKWlRHWGxUbXFlS29CYzRoVERqZ194NEpLVlNxWHh3RlZ5bXJnY29nV1pPVjU0NUg4UktRVTlLcWlFVVVIYXBkNGpsZkZqVFpOR0ROaFN4VWhsbUhnMTgwVEpTeDVtVzdZa0hRTnc?oc=5",
-          "published": "2026-09-15T06:26:00.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Malaysia’s Non-Life Insurance Segment - Morningstar",
-        "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdVhCdTItdkl6QzdSMU1XN2F0WEZZcUpKLWFOb2lPZVJnb0JpRnMyanRlbnhGVHB1WGdCSGdoMWgtTF9TNFJpZzJPNUI2ZkIyQkxUdmhMdzZvLW9fNE0yZ0dpelNYanZ3Zm96azg5c25JeHgxV25yVmk1Y0w0eTNkMnF1eWtkcnFTam1CY3JXc3ZlbTZWYThJcExXVFItbG8xeDlvVl9OZl9fV05YMFV2ZEEwZ0J6MjF5T0l0aFh4V2FqdVpucENHUDVKZzFPWGRxRVM0QmVkVHpnOGc5OGh3WjhrUXMwRzhVX3g0WVR6VDBZSjJy?oc=5",
-        "published": "2026-09-10T00:59:02.000Z",
-        "paywalled": false
-      },
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Prudential plc",
@@ -186,13 +138,6 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Number of suspicious credit card transactions involving iPhones surges to 1,209 - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemEzaDNVM3JiQWdtVFNGMjIwa3V2ZEEydzlPbG80MjRja0VzRURaNXNvbUZDc09xdVV4b1gtdWwzUzA5dnMtTWhRZENmRExxamhndjdScWhzQmhtYWVXZ2szaHZYUXpDcm1sSW95azJVU1ZSdWpRa0FZa3dCWG4xRjFyN1UxbEtBSlk1bXM3RDlNdURWd1BTbF82WkI5QnB5TTBKLXFLOWFWbTBNb2VMVDhIdEd5LVg0S1RwWVdpYWd0QVo1LXBveVAyMktDd1p1cE5XbmxvMNIB1wFBVV95cUxOelpQTktQLWpSMTFkNWdkOUlxUzREVFJmLVlCWHZTaWhYTG9zUjZtT1J2bU1BSWlEdGxkMXlKRjlwUkt6Z05HaDVTaXNnbGJLUjV0YXJWbjJ2bnR2bXk0aG15SW9CWkdVNnlIbVNieXV0MkEzdjhHRFJ6UDhjWHBydGVOdkd3d3YySGpfMWs1c0JHRnpRbGZWTm5nbHhrdDhYbklmM0xuTDN6YUJHeU5JOTRxUE9Ea1BXanVoN2xvZ2lhMWtLNFduT3JEYUQtSHlCeEVnR2o2RQ?oc=5",
-          "published": "2026-09-14T03:56:58.000Z"
-        },
-        {
-          "tag": "Product",
           "headline": "Kazakhstan to launch QR payments with China, expanding yuan’s reach in retail - South China Morning Post",
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXFGOGRHQVBJRWFFemNrQ1c5emQ1NkszazVtSUs5aDhFU0pEYi0yUFMyaS03VHBsTVNyR3lUTV9mWGg2Tmtiel9lUFR0MHVVOVJkUTAzM1RnNEtYdVhSZ2hsY2dOZjN0UU95OEloYUZSRVdBeVk5YzB4TlNPVThiTHMwWU5kRFdIZDh1cmVtYkZyamVia2xuckt5eEpwNXJvdDlwZmxJOWY5N2Z1NUlNYVFnRkJzem54ek04TmlSNFlaVHVNZk9rRGV4SWN6Q05fdEs2N1kwNEfSAdgBQVVfeXFMUDhJRlZoYzlRVUJ1RFVnbER1UjQzbEtnUVFJekJVTEpseVdqY3JsczVaUi1jUmNWUUxYMU9nSmpSZE5iVTk2X0FwTnBYUjZVQ2xKeUM5RG1DX2pUVDFIeTU0YU0xRW9YWWVyRW1vRUo2T2hQdWlmYV8tSEpSMkxSYmMtRThSRmtWNE5KSWlTVU5EN3EyWjItRU85M3Z3eUVwY3J4b3NoNm80VzY5aGxKOXVTb0lVNzdUQW1IOElUSmZmbWRPU1RJSVNTQ0ROel95STZ3dnBuaHVZ?oc=5",
@@ -204,16 +149,16 @@
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTZGeHZ6SzNnT1RpZ3ZFLXF1NE9DQWh5Y0tjUXFaUk9xdnJzQi0wVjJfSFd4a2xfVzlWbTVjVWJ4aEIza3FuQ3lsc2JEem5uaHZGR0xrWThYSU0xd2hJMUJ0S3pOaFF5SzRBV0lFa0tHYzZRTGZDTFBtOXFxNFRxOXJ3SkFlUjJsaHBCTHRwYWQyOFU0aVlHcnlQYWh1N2VjazFISWMwSTNGTnBnUTduVUl2TnhfUlhmMzZFZGFaUENLaEVnV2JQMHVYazhseWRR?oc=5",
           "published": "2026-09-15T06:33:52.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Bank Islam Now Has Two Former Digital Bank CEOs on Its Leadership Team - Fintech News Malaysia",
+          "source": "Fintech News Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4bjdrSTMtNEhnTFE0cmwtUWVYRm1PQkZ2dkRZNEZIMkROaU51M1dZMnpETUE4bjNZSnBvZnhHOW9xeTFaUzNMQ3VUX1BXdHRGMlA3ZHJLTWVQcGFqc1o5S1ZyS1lsRFJRTmdn?oc=5",
+          "published": "2026-09-16T03:53:39.000Z"
         }
       ],
       "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Number of suspicious credit card transactions involving iPhones surges to 1,209 - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemEzaDNVM3JiQWdtVFNGMjIwa3V2ZEEydzlPbG80MjRja0VzRURaNXNvbUZDc09xdVV4b1gtdWwzUzA5dnMtTWhRZENmRExxamhndjdScWhzQmhtYWVXZ2szaHZYUXpDcm1sSW95azJVU1ZSdWpRa0FZa3dCWG4xRjFyN1UxbEtBSlk1bXM3RDlNdURWd1BTbF82WkI5QnB5TTBKLXFLOWFWbTBNb2VMVDhIdEd5LVg0S1RwWVdpYWd0QVo1LXBveVAyMktDd1p1cE5XbmxvMNIB1wFBVV95cUxOelpQTktQLWpSMTFkNWdkOUlxUzREVFJmLVlCWHZTaWhYTG9zUjZtT1J2bU1BSWlEdGxkMXlKRjlwUkt6Z05HaDVTaXNnbGJLUjV0YXJWbjJ2bnR2bXk0aG15SW9CWkdVNnlIbVNieXV0MkEzdjhHRFJ6UDhjWHBydGVOdkd3d3YySGpfMWs1c0JHRnpRbGZWTm5nbHhrdDhYbklmM0xuTDN6YUJHeU5JOTRxUE9Ea1BXanVoN2xvZ2lhMWtLNFduT3JEYUQtSHlCeEVnR2o2RQ?oc=5",
-          "published": "2026-09-14T03:56:58.000Z"
-        },
         {
           "tag": "Product",
           "headline": "Kazakhstan to launch QR payments with China, expanding yuan’s reach in retail - South China Morning Post",
