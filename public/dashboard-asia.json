@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T06:31:38.285Z",
+  "generatedAt": "2026-09-18T06:37:10.385Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,90 +30,18 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Strategy",
-          "headline": "Pictet's global multi-asset fund triples to $5 billion on China inflows - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkdwMktuSkdZMEowbmVTU1lXOFcwbG5hSkoyVFdZVEZWWldrU0tPZWhBWkRGR1hhcTRaUE52Z254WnNSVGQ3SmhQM1ZMbkZpYUtBUVpRNUxUY2Rva21DZU5kN3RoYXZ2V0RMcl9tWGhzQmpJdXVqVjNwZ2FhTW45cnA3ZEpuNG9nNnMxX041TkszeDY5QW5Kd3U2RjA?oc=5",
-          "published": "2026-09-15T03:41:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Global X launches KOSPI 200 ETF in Hong Kong - Vietnam Investment Review - VIR",
-          "source": "Vietnam Investment Review - VIR",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmlNZlZzUEMzSkxhUXZjZUx2c0FBRVQ2OXVGSDV5bElHOVVQSVRaeHBHM01zeDkyT014Umo4d09lLVFpVXYtVFNkRl9tdFF3S0ZyT0ZtSndlb3NwNmx5MExqSk11NEFXN2tJYmZJNlpmSVB6akxTVnBYb3ZZWTdEZQ?oc=5",
-          "published": "2026-09-15T08:02:45.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Strategy",
-          "headline": "Pictet's global multi-asset fund triples to $5 billion on China inflows - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkdwMktuSkdZMEowbmVTU1lXOFcwbG5hSkoyVFdZVEZWWldrU0tPZWhBWkRGR1hhcTRaUE52Z254WnNSVGQ3SmhQM1ZMbkZpYUtBUVpRNUxUY2Rva21DZU5kN3RoYXZ2V0RMcl9tWGhzQmpJdXVqVjNwZ2FhTW45cnA3ZEpuNG9nNnMxX041TkszeDY5QW5Kd3U2RjA?oc=5",
-          "published": "2026-09-15T03:41:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Global X launches KOSPI 200 ETF in Hong Kong - Vietnam Investment Review - VIR",
-          "source": "Vietnam Investment Review - VIR",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmlNZlZzUEMzSkxhUXZjZUx2c0FBRVQ2OXVGSDV5bElHOVVQSVRaeHBHM01zeDkyT014Umo4d09lLVFpVXYtVFNkRl9tdFF3S0ZyT0ZtSndlb3NwNmx5MExqSk11NEFXN2tJYmZJNlpmSVB6akxTVnBYb3ZZWTdEZQ?oc=5",
-          "published": "2026-09-15T08:02:45.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "H4Z6 – HSBC MSCI China ETF USD (Acc) – ETF Investment Strategy - Morningstar",
-        "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NcUppTUVoQzBfSmZNWHNTYTJna3NQUlZwbVNsbl94b1pnQ2E4b0pReVYzNjlNTlI3ZVJHbXRvRk1rUTIyYmRFQkhKVTVHYXdyU1FsZ1dNMjFTaXA4aUxLQ1Vn?oc=5",
-        "published": "2026-09-14T21:15:02.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "Schroders",
-          "ticker": "SDR",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Schroders Capital Global Innovation Trust H1 2026 lifts NAV - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVWpNcFBqTHJNZ1Y1RlUtMTFrWW1kX3VsdUtKakRtcGxfUG5vMDE1bmxqdkhSV0VVZFJsMjVPWDVaN2lxZ2U4TXE1dks4QUJaQ2VSd0FEb1dGUF9RSjIxSFBlTXJYTG93YjU0ci1RaENLSWdsUV9RNmNaYUtCUW9wOTdXaFY1VFNoVHFqUmlGVTlRUndjd2hYY3VTTUhINkdyQ1pmZ0RXNlBhZVRnMWRwVDAzMVJFcU9fUlZSQzBJYl9zQm8xVGlVNk1zTXZhVktsYzlTNnRXMA?oc=5",
-          "published": "2026-09-16T06:23:22.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
       "bullets": [],
       "candidates": [],
-      "insight": {
-        "tag": "Research",
-        "headline": "A new approach to wealth management: Latest News and Updates - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xY3FQUGlvVlBQdk13T0VmREVxTkZRMG1LejJWZXJTRVlrRDZnZVQxNTlibVdRSWc3eXk4UklXcVZYbU1NWWw0QXFMRFBPVzFoMEpjVy1qQkpXR2Z0TVphSmhCT2pTVG9TbXc?oc=5",
-        "published": "2026-09-11T22:04:07.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "UnitedHealth Group (UNH) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaTlN0Y2E4MEdHUUo5UWJxenRGd1ZFc1UzWWtrMTFrQlZHYjJPLVBIRjNTeWl3djlQNkVZQUNBX0NGeG52c00wYk1rNDBJNEJYb2JqUmVIQzZzZVBUbGFmalFZSTRsaXJsQmpyWndrUi1GZw?oc=5",
-          "published": "2026-09-13T04:06:04.000Z"
-        },
-        {
-          "company": "Netwealth Group",
-          "ticker": "NWL.AX",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObFF2Qmx4SHJHNjhUb21sZTJQSE0ybmdlODY5YXZweDc3bjUzLWdMQjBJNUZTX1FpTjRKWkUxTkJuVldrU2dGdUhpT1BHeDRham9tT0M4Z0Fmc0JzaHFWUU9hbE5Mc3g3Q0RwTlJLMjllN1lIOVJ5QVBzbjVuazVrQXV6VF8tdl9yTWx6Mnc5NXJYN0hPY0hibU9TdDNUWEtZc3R1NzlLcTNkRlphWi0zbjhCYkFWcUlmc2dnX3FycEQ2RlR6X0lXT2N6M0NWYWl2QTdDU2hVVjU5Sl9Ea0RHag?oc=5",
-          "published": "2026-08-26T00:36:06.000Z"
-        }
-      ]
+      "insight": null,
+      "companyUpdates": []
     },
     {
       "id": "insurance",
@@ -121,75 +49,14 @@
       "bullets": [],
       "candidates": [],
       "insight": null,
-      "companyUpdates": [
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-09-13T04:05:09.000Z"
-        }
-      ]
+      "companyUpdates": []
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "Kazakhstan to launch QR payments with China, expanding yuan’s reach in retail - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXFGOGRHQVBJRWFFemNrQ1c5emQ1NkszazVtSUs5aDhFU0pEYi0yUFMyaS03VHBsTVNyR3lUTV9mWGg2Tmtiel9lUFR0MHVVOVJkUTAzM1RnNEtYdVhSZ2hsY2dOZjN0UU95OEloYUZSRVdBeVk5YzB4TlNPVThiTHMwWU5kRFdIZDh1cmVtYkZyamVia2xuckt5eEpwNXJvdDlwZmxJOWY5N2Z1NUlNYVFnRkJzem54ek04TmlSNFlaVHVNZk9rRGV4SWN6Q05fdEs2N1kwNEfSAdgBQVVfeXFMUDhJRlZoYzlRVUJ1RFVnbER1UjQzbEtnUVFJekJVTEpseVdqY3JsczVaUi1jUmNWUUxYMU9nSmpSZE5iVTk2X0FwTnBYUjZVQ2xKeUM5RG1DX2pUVDFIeTU0YU0xRW9YWWVyRW1vRUo2T2hQdWlmYV8tSEpSMkxSYmMtRThSRmtWNE5KSWlTVU5EN3EyWjItRU85M3Z3eUVwY3J4b3NoNm80VzY5aGxKOXVTb0lVNzdUQW1IOElUSmZmbWRPU1RJSVNTQ0ROel95STZ3dnBuaHVZ?oc=5",
-          "published": "2026-09-14T08:30:33.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "China cracks down on big firms delaying payments to cash-strapped SMEs - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTZGeHZ6SzNnT1RpZ3ZFLXF1NE9DQWh5Y0tjUXFaUk9xdnJzQi0wVjJfSFd4a2xfVzlWbTVjVWJ4aEIza3FuQ3lsc2JEem5uaHZGR0xrWThYSU0xd2hJMUJ0S3pOaFF5SzRBV0lFa0tHYzZRTGZDTFBtOXFxNFRxOXJ3SkFlUjJsaHBCTHRwYWQyOFU0aVlHcnlQYWh1N2VjazFISWMwSTNGTnBnUTduVUl2TnhfUlhmMzZFZGFaUENLaEVnV2JQMHVYazhseWRR?oc=5",
-          "published": "2026-09-15T06:33:52.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Bank Islam Now Has Two Former Digital Bank CEOs on Its Leadership Team - Fintech News Malaysia",
-          "source": "Fintech News Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4bjdrSTMtNEhnTFE0cmwtUWVYRm1PQkZ2dkRZNEZIMkROaU51M1dZMnpETUE4bjNZSnBvZnhHOW9xeTFaUzNMQ3VUX1BXdHRGMlA3ZHJLTWVQcGFqc1o5S1ZyS1lsRFJRTmdn?oc=5",
-          "published": "2026-09-16T03:53:39.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Kazakhstan to launch QR payments with China, expanding yuan’s reach in retail - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXFGOGRHQVBJRWFFemNrQ1c5emQ1NkszazVtSUs5aDhFU0pEYi0yUFMyaS03VHBsTVNyR3lUTV9mWGg2Tmtiel9lUFR0MHVVOVJkUTAzM1RnNEtYdVhSZ2hsY2dOZjN0UU95OEloYUZSRVdBeVk5YzB4TlNPVThiTHMwWU5kRFdIZDh1cmVtYkZyamVia2xuckt5eEpwNXJvdDlwZmxJOWY5N2Z1NUlNYVFnRkJzem54ek04TmlSNFlaVHVNZk9rRGV4SWN6Q05fdEs2N1kwNEfSAdgBQVVfeXFMUDhJRlZoYzlRVUJ1RFVnbER1UjQzbEtnUVFJekJVTEpseVdqY3JsczVaUi1jUmNWUUxYMU9nSmpSZE5iVTk2X0FwTnBYUjZVQ2xKeUM5RG1DX2pUVDFIeTU0YU0xRW9YWWVyRW1vRUo2T2hQdWlmYV8tSEpSMkxSYmMtRThSRmtWNE5KSWlTVU5EN3EyWjItRU85M3Z3eUVwY3J4b3NoNm80VzY5aGxKOXVTb0lVNzdUQW1IOElUSmZmbWRPU1RJSVNTQ0ROel95STZ3dnBuaHVZ?oc=5",
-          "published": "2026-09-14T08:30:33.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "China cracks down on big firms delaying payments to cash-strapped SMEs - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTZGeHZ6SzNnT1RpZ3ZFLXF1NE9DQWh5Y0tjUXFaUk9xdnJzQi0wVjJfSFd4a2xfVzlWbTVjVWJ4aEIza3FuQ3lsc2JEem5uaHZGR0xrWThYSU0xd2hJMUJ0S3pOaFF5SzRBV0lFa0tHYzZRTGZDTFBtOXFxNFRxOXJ3SkFlUjJsaHBCTHRwYWQyOFU0aVlHcnlQYWh1N2VjazFISWMwSTNGTnBnUTduVUl2TnhfUlhmMzZFZGFaUENLaEVnV2JQMHVYazhseWRR?oc=5",
-          "published": "2026-09-15T06:33:52.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Bank Islam Now Has Two Former Digital Bank CEOs on Its Leadership Team - Fintech News Malaysia",
-          "source": "Fintech News Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4bjdrSTMtNEhnTFE0cmwtUWVYRm1PQkZ2dkRZNEZIMkROaU51M1dZMnpETUE4bjNZSnBvZnhHOW9xeTFaUzNMQ3VUX1BXdHRGMlA3ZHJLTWVQcGFqc1o5S1ZyS1lsRFJRTmdn?oc=5",
-          "published": "2026-09-16T03:53:39.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "China cracks down on big firms delaying payments to cash-strapped SMEs - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWg3bEdaUHI4aXJ2YWlGSWNzZ3F3WXVVdDZHSDcyY2UtYWwwaEJCWmhLRnZqelhWQUttcTFXYzd5cDhTWl8zZlk5QmVuMFc2R051eTkyYUdRTVUzRmphVVA0YXpETTV2VWJiRTV5eXBhV3hMd3pTOVhJc2dmVnJhaFBmWGpvUmx2NVE4MmFIYzlHa0FrcF9qdkVMb1drZkxFTE9xb2hYcGFJZXQ2VElvaTJoU3lYVHA4SnFtRUFSZknSAcABQVVfeXFMTmFRU01iZTFxTzVwZEc5UlNZcUpQeXdFeWphd1dwZm9GOGl1bmVSdkF6QU9TcFhNS2VwTkk4TVh3eWxQUHFIcUgzLWxYYUNDRDJzUUNTU2xjcVd3SHZacFpSTU1fcXNpTHE1NlFScFBPMmhoUGpRZVFTN2dQZzZTTlZIc3YzNHVVMlNjaXhWQkYtNkNHSlZrRlRFZmQ5MFdsNnZnZ0pCSmZXemp6NUQyLXJMaDFKMjlsTFpLT3E5Ym9K?oc=5",
-        "published": "2026-09-15T06:33:52.000Z",
-        "paywalled": false
-      },
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
       "companyUpdates": []
     }
   ]

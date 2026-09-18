@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T06:31:07.923Z",
+  "generatedAt": "2026-09-18T06:25:56.505Z",
   "region": "India",
   "title": "India FIG Bytes",
   "regionId": "india",
@@ -34,336 +34,48 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "New UPI charges: what changes for your QR payments, SIPs and mutual fund investments - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalpKZERNVUZPU01Kd2ZnamNsbzlUWjdEZS16azItZExlRkg3WWg4Q3UyVl8xdWhTQUVXY2VmcDd6blJwQVhNbFJWYW5LcTdzaVZZRjlHcFR1UmZPZmxwd0tPYkFwNUtXRENmNm44dVh4MjNXdmxpSVFPRDl0RWc1ckdUdXltbWhEZHIya190U0dDS2Jfd0ItT2NEU1lDdXZBSXBJd2ZMemNDeGliTmdOaEFJSUtKeENTYlJrRUZ1UXFiTk0yeHBSbUUzNGp1UdIBzgFBVV95cUxNalpKZERNVUZPU01Kd2ZnamNsbzlUWjdEZS16azItZExlRkg3WWg4Q3UyVl8xdWhTQUVXY2VmcDd6blJwQVhNbFJWYW5LcTdzaVZZRjlHcFR1UmZPZmxwd0tPYkFwNUtXRENmNm44dVh4MjNXdmxpSVFPRDl0RWc1ckdUdXltbWhEZHIya190U0dDS2Jfd0ItT2NEU1lDdXZBSXBJd2ZMemNDeGliTmdOaEFJSUtKeENTYlJrRUZ1UXFiTk0yeHBSbUUzNGp1UQ?oc=5",
-          "published": "2026-09-16T09:05:54.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "SEBI is said to ease arbitrage mutual fund rules to aid closing auction session - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOU1kZFctVVJ1V0FfY0xiTnBubzVYYnlsM21NR044RGR2SkxZbkc4LWxqWHNKNXdvQUxZNnlWcHFhazZmT1ZaMDg4NWpUNDRTNUJtc3NFekdCc01kRm9DRFNWSWlNVmFXX3ZfZGpjeHFTVzJFR1NGR0NLRm0tN2toN1lRQ1dNcHdjWjBZNldnX2kwX3dBRDhuVU45eVBDTzVPbUhGQk1zYjVVS3dWZWtBM20wQkNrdFlyc2JkNExDa2E3MDhkRDNDcnByenR0dkFXWDYtblBYdVEyaXEyM3o4Y3pzUdIB6AFBVV95cUxORXhIbzZWempiUWpvSVZ4ZW5Yc05KcGpDYUFnNWZGS2xSdGd0TDMxYUxYdzV6RkJUZ0RlTVlPVnFHc210Y1VqZWRsSFVkdFJ5N283OUNIcDMxNkJybDJWZzdFR28ySHVlNWJTWEFfb1J1a0gxWmN5NjQwd3hfckhSNEx3NUFGYU8wVm1LUHZRdVhrdWN2cnJxZE4ybVE0WFVaZTBDQ2hSbEdpN0YwTm9ZU0MydjFhcXdpRGMxa0ZQWU1TYVBhSWFYRWUtQklRRXR5WXlKYkEwbEF3UWlYaVhqQUFCZ2lRSVZt?oc=5",
-          "published": "2026-09-16T07:15:34.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Upcoming NFO: Carnelian Small Cap Fund - know its investment strategy and other key points - Upstox",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdFZSUGx6Y1NGaXpQRV9udDM3cXJyWXBFMU9ZUUw3RG5Vc3hPcDB6cW5NdFZyS1lDYVUxcUxJaG1aZEp3MHVVNTBuWXBUQVVhektCSnJuNW1NeUdBU2Z0eXZZM1dqbFQ0dUdZS3JIV2FYTWUzMjhPMUtMQ1dqOEFaZG1hYmZ1eC1YMTY5ZXhNeTdRa0sxQ1NmU3NsNXJRT04zMXZrQktJMHluYXdoUjdfV0pjMWpzUWgxWDdFNDVqMW5WTC1JbzNZRVhnb2FCUE0zOGFBaEhXM3RYR3pEQWVNZG4zcl9pdzBI?oc=5",
-          "published": "2026-09-17T05:26:39.000Z"
+          "tag": "Press",
+          "headline": "Is Punjab heading towards UPS-like pension scheme? Here’s what its notification suggests]]>",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/save/nps-vs-ops-vs-ups-ispunjab-heading-towards-ups-like-pension-scheme-heres-what-its-notificationsuggests/articleshow/134311485.cms",
+          "published": "2026-09-17T12:05:50.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "New UPI charges: what changes for your QR payments, SIPs and mutual fund investments - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalpKZERNVUZPU01Kd2ZnamNsbzlUWjdEZS16azItZExlRkg3WWg4Q3UyVl8xdWhTQUVXY2VmcDd6blJwQVhNbFJWYW5LcTdzaVZZRjlHcFR1UmZPZmxwd0tPYkFwNUtXRENmNm44dVh4MjNXdmxpSVFPRDl0RWc1ckdUdXltbWhEZHIya190U0dDS2Jfd0ItT2NEU1lDdXZBSXBJd2ZMemNDeGliTmdOaEFJSUtKeENTYlJrRUZ1UXFiTk0yeHBSbUUzNGp1UdIBzgFBVV95cUxNalpKZERNVUZPU01Kd2ZnamNsbzlUWjdEZS16azItZExlRkg3WWg4Q3UyVl8xdWhTQUVXY2VmcDd6blJwQVhNbFJWYW5LcTdzaVZZRjlHcFR1UmZPZmxwd0tPYkFwNUtXRENmNm44dVh4MjNXdmxpSVFPRDl0RWc1ckdUdXltbWhEZHIya190U0dDS2Jfd0ItT2NEU1lDdXZBSXBJd2ZMemNDeGliTmdOaEFJSUtKeENTYlJrRUZ1UXFiTk0yeHBSbUUzNGp1UQ?oc=5",
-          "published": "2026-09-16T09:05:54.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "SEBI is said to ease arbitrage mutual fund rules to aid closing auction session - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOU1kZFctVVJ1V0FfY0xiTnBubzVYYnlsM21NR044RGR2SkxZbkc4LWxqWHNKNXdvQUxZNnlWcHFhazZmT1ZaMDg4NWpUNDRTNUJtc3NFekdCc01kRm9DRFNWSWlNVmFXX3ZfZGpjeHFTVzJFR1NGR0NLRm0tN2toN1lRQ1dNcHdjWjBZNldnX2kwX3dBRDhuVU45eVBDTzVPbUhGQk1zYjVVS3dWZWtBM20wQkNrdFlyc2JkNExDa2E3MDhkRDNDcnByenR0dkFXWDYtblBYdVEyaXEyM3o4Y3pzUdIB6AFBVV95cUxORXhIbzZWempiUWpvSVZ4ZW5Yc05KcGpDYUFnNWZGS2xSdGd0TDMxYUxYdzV6RkJUZ0RlTVlPVnFHc210Y1VqZWRsSFVkdFJ5N283OUNIcDMxNkJybDJWZzdFR28ySHVlNWJTWEFfb1J1a0gxWmN5NjQwd3hfckhSNEx3NUFGYU8wVm1LUHZRdVhrdWN2cnJxZE4ybVE0WFVaZTBDQ2hSbEdpN0YwTm9ZU0MydjFhcXdpRGMxa0ZQWU1TYVBhSWFYRWUtQklRRXR5WXlKYkEwbEF3UWlYaVhqQUFCZ2lRSVZt?oc=5",
-          "published": "2026-09-16T07:15:34.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Upcoming NFO: Carnelian Small Cap Fund - know its investment strategy and other key points - Upstox",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdFZSUGx6Y1NGaXpQRV9udDM3cXJyWXBFMU9ZUUw3RG5Vc3hPcDB6cW5NdFZyS1lDYVUxcUxJaG1aZEp3MHVVNTBuWXBUQVVhektCSnJuNW1NeUdBU2Z0eXZZM1dqbFQ0dUdZS3JIV2FYTWUzMjhPMUtMQ1dqOEFaZG1hYmZ1eC1YMTY5ZXhNeTdRa0sxQ1NmU3NsNXJRT04zMXZrQktJMHluYXdoUjdfV0pjMWpzUWgxWDdFNDVqMW5WTC1JbzNZRVhnb2FCUE0zOGFBaEhXM3RYR3pEQWVNZG4zcl9pdzBI?oc=5",
-          "published": "2026-09-17T05:26:39.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Why I Exited India’s Largest Flexi Cap Mutual Fund After 5 Years - Myinvestmentideas",
-          "source": "Myinvestmentideas",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNmZ0WTJvQnpCbXJiaHhkSzV2c3VRbjJNeV9qSm4yRWRHSDJUaFRVYXdnWGlCVjNXdkxTVnhGemtGNWVrVEFzUjJrRXlUM2p5V1pqT25RdkZiMElpcnljT3JjbE01VWZQNFFyMkZUTS0tUFUxQml6VE5yMlJpUVpHUDNqekxVeWxEd0JWekdKdTJzVTZxWlRUWF93?oc=5",
-          "published": "2026-09-16T17:52:08.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "DSP Conservative Hybrid Fund Direct-IDCW Monthly (₹ 14.01) - NAV, Reviews & asset allocation - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTlBREdvLW94aTJVUFFlN3FEbXZLWEtWR214cXZnaFBxUzlVNG1oQ3U4VHlTaWNIbHZSblhEbmtSbTExTHk1d3MtdHJ0ZjI2clA3Umo2VC03eFJGblBicGx4Rk9Ub19XMUdOM056QTNDbkRCT3Etc0pOb0F1RVdVN1g3Ul9yN1hMVW9feS1jRFUzSXl6bEY1T3VNX21qaWct?oc=5",
-          "published": "2026-09-17T01:17:35.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Axis Ultra Short to Short Term Fund Retail-IDCW Daily (₹ 1,012.04) - NAV, Reviews & asset allocation - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlVlenEzTmNDeWxRcG5XS2lWM2dFa24wazdrZDFFVEZ3M1B4XzRoZk1rU3lkWlNhQjczXzhMVVVCT0NNNmJ0cUp2Uk5RRmtLX00yN0hUNzZaRGFtSG9CaFNzYmVrU05janpzUHBkaE1iZ2cyWXB0SVlYNDNvM2xSNlhRX0RoWHhWTnp3NGh0bWJyQzFRZjc2UFFSd0wtalpPTzlRclREZi1LUQ?oc=5",
-          "published": "2026-09-16T15:33:08.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "Aditya Birla Sun Life AMC to hold investor meet at Anand Rathi summit - scanx.trade",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTVrNUVFVURxVWxkV3B4LU44VHgzVUZJUUtWdjQwUm5pWmJ2dTd1VnhVRXNweWJLdVhVV1k1cXVqbFRJdXVvNUdfVkdTazZzbkJXNmNNckpONXJBRTdYX0NxN0ZINExGTlh0UE5qNTJXSlhfZTZEQi1WY1NMS0NKUmhtOHZUOFJVY3A1bWt1OFNrUjQ5UmhJcDY4dFJ3ajNiY29fTWh5eDRlNTR1TWNHbnIwdFhXQUl5VGdPcQ?oc=5",
-          "published": "2026-09-16T13:34:37.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Gaja Alternative Asset Management Ltd. - Moneycontrol.com",
-          "source": "Moneycontrol",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORmIwcWZPSlo4OUdidzBSa2tKT1I0dURibUtWMFB0eW9JZG5obzlfYlVNS05tTkI1RFRudTg2a2FlcUo4TXdRNGRtOW12OFJmbXFKenFqWUktSXFEbHdBalVWTEd6SDlXVUtZNlZ1YmtRNHFrMEhSSmJKODAtRmNLMlZodDBVWHFvbDhWNHhZZWRlajVzMlNQYlREd0dacnR5eU9teHhETQ?oc=5",
-          "published": "2026-09-17T01:36:18.000Z"
+          "headline": "Is Punjab heading towards UPS-like pension scheme? Here’s what its notification suggests]]>",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/save/nps-vs-ops-vs-ups-ispunjab-heading-towards-ups-like-pension-scheme-heres-what-its-notificationsuggests/articleshow/134311485.cms",
+          "published": "2026-09-17T12:05:50.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Sebi bars two entities over alleged cross-derivatives manipulation - The Economic Times",
-        "teaser": null,
-        "source": "Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTDRqYVJVZEljSEhLQS1YeFctZTFyRE9SUGdMTkIyT3diY3pRZ25ZYWppVE5ubzF2dlhXbmhIZzU3eE4zOHQzUnFJZlNjSjRRdUpRcVFmMktHeW1pVlZnc1AzZ1ZzU3RLNldqbHZ2cHI3TS1jemxLRFVCUlRRb2pIM2VORlM1SjR1MWhPWmwzTnVCajh5Q2ctUFdvei1UbWpEeEdRV1dkTWo2Mld3QTBvNGhtZ2J0bmJoMzkwMHhKZkRfWWJubjUwM0hmV3RyOHp5OFNoeFZpMXdWTUlKUnI3a3JuVm02UUMzSnFQRUE3MkUybTE1ZHR1VUNvNU9SREJKdThnblZLTVFkRTZ0RUNTUkV2d2g2RHA2Z1dfQ3FoX29kSnJxV0x2RXVGMkdCUUoxNlA2QWVkQ1NJY0tIR05kM3VKaTZNSXctdlNWOXh2T3jSAewBQVVfeXFMTVBMS1BreDB4N1Y5NUY5TW5nY1lvUnBxWFpEVzZXMmdlWndPU1pRTjZZOWFKUnBsVnVwOVFVdm5Pc3k5RlBKd0ZIUEpxXzFGSXhYZmxHSzdHOGtfbFVyV3FHbXVpa0staXpxRDF3UEdTT1gySEFSOXA4d3hGRGhEOHBtMVpzR0xIVlhpSEJfeEoyd1BvTzBUZlNudlpUcFRyVElsRlY4X1JZaHJ6ckV3dmZvV3E2MzZYS2tkMVNuTUh4V0hONFBBcUVTTHl6Z0huNnV2dm1qN1lrVndHZkc1VHRGdE5FdXJES0hVOTA?oc=5",
-        "published": "2026-09-16T15:51:53.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": []
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "SBI targets Rs 2.4 lakh crore wealth management market, eyes shareholder value growth - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZvalpjTndvUmFiTkJWa2JxdUZOX3c1YnluRzIxVlo4clQyWlVKZ2ZFU08xYmdTU1FxdFNycEpvNjY5ZUs0VGxJWXoxOG5oVE1vWFhFNEM4V0dVc1BBdTZfMzFxaDg0TVhpMTBtVlItMjlya1FjRWIwVTBHdy1Db0o2WkVlZw?oc=5",
-          "published": "2026-09-17T02:09:14.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "AI, algorithms and human judgement: The future of portfolio management - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd1dEWElyc0ozMl9STl9ETW14N2l2R0p4eVZ0NlFqQzE3TjRrRDZDclVYeDA5QUxrUVFRcXJaVEZFTHhDNnhObE5fUERoWVVNelkyTWJGcEhtM3RnN3V6djZuOUgyeldKUDBwR0VoMFJscV8xLWMyV3F5NHNXbjhFRlN1WVl2ZGhIUFF6NzNOQ01sTVNqRVk2eGdfSzZJbFlybktOT2F4WmhzcWphZGtyTFJnRkpxZTlhNGI3dWFoV1dsMnN5WE10NDJISU1ncDhDYmVRVW03SXRveWxWVGluT1FDQW5QQdIB3wFBVV95cUxPa1UybV9ZYndMV0lJNEkya0p6Qk5Rb2JlbDNtM0tFc1h1LVdLRHowSmVGVFFfbUE4MHhpemJSME5DczZfekZ0VmQ4cGxzVVNodnB0emRrM3VaYjJreFVNZWhudi1jT2p1aVVYVHV4UHE5eDdPZ3hPVEFmMW9uSVZzNDUxcXNOdDR4U00zem4zbGFtVDJVSnJLbG05RU1aby1iM05Dc3VqNHpKdWhjT2M5VmxIUmpJaW1mMlg2VmliV0pMNzRxM1prOVRLRlB5MWFkdHJWMUptbGdtR1dURmdv?oc=5",
-          "published": "2026-09-16T10:42:11.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "SBI targets Rs 2.4 lakh crore wealth management market, eyes shareholder value growth - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZvalpjTndvUmFiTkJWa2JxdUZOX3c1YnluRzIxVlo4clQyWlVKZ2ZFU08xYmdTU1FxdFNycEpvNjY5ZUs0VGxJWXoxOG5oVE1vWFhFNEM4V0dVc1BBdTZfMzFxaDg0TVhpMTBtVlItMjlya1FjRWIwVTBHdy1Db0o2WkVlZw?oc=5",
-          "published": "2026-09-17T02:09:14.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "AI, algorithms and human judgement: The future of portfolio management - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd1dEWElyc0ozMl9STl9ETW14N2l2R0p4eVZ0NlFqQzE3TjRrRDZDclVYeDA5QUxrUVFRcXJaVEZFTHhDNnhObE5fUERoWVVNelkyTWJGcEhtM3RnN3V6djZuOUgyeldKUDBwR0VoMFJscV8xLWMyV3F5NHNXbjhFRlN1WVl2ZGhIUFF6NzNOQ01sTVNqRVk2eGdfSzZJbFlybktOT2F4WmhzcWphZGtyTFJnRkpxZTlhNGI3dWFoV1dsMnN5WE10NDJISU1ncDhDYmVRVW03SXRveWxWVGluT1FDQW5QQdIB3wFBVV95cUxPa1UybV9ZYndMV0lJNEkya0p6Qk5Rb2JlbDNtM0tFc1h1LVdLRHowSmVGVFFfbUE4MHhpemJSME5DczZfekZ0VmQ4cGxzVVNodnB0emRrM3VaYjJreFVNZWhudi1jT2p1aVVYVHV4UHE5eDdPZ3hPVEFmMW9uSVZzNDUxcXNOdDR4U00zem4zbGFtVDJVSnJLbG05RU1aby1iM05Dc3VqNHpKdWhjT2M5VmxIUmpJaW1mMlg2VmliV0pMNzRxM1prOVRLRlB5MWFkdHJWMUptbGdtR1dURmdv?oc=5",
-          "published": "2026-09-16T10:42:11.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
-      "companyUpdates": [
-        {
-          "company": "HDFC Securities",
-          "ticker": "HDFCSEC",
-          "tag": "Analyst Report",
-          "headline": "HDFC Securities Initiates Coverage on Alcohol Stocks - whalesbook.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObndMWkR1OXVwVTJSakotd2pHR0lEVy1pcDN2Z2Q1VWczaXhiQ1hNRjktX3VtYjU5WHFuMUIwOEhHZ1ZGMGVZZG1NQ1BYeTdBdTI2M2FCYXlXTVFxbUdPajNINVZkSkxfQ2NLWU14ZkpBQjVaZFkxbmE5QktzR09sNjVzTUl5VWxnZFBWbG1EZDRxaWRyYkFQRWpzcEJfT05ibWNnTlliWUJHbERRTlJjUk1SVFlocG1uYW40QTZ1RlkyY3RpancwXzBVVU1EZmEt?oc=5",
-          "published": "2026-09-08T05:58:22.000Z"
-        }
-      ]
+      "companyUpdates": []
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Regulatory",
-          "headline": "Exclusive: IRDAI consultation paper likely soon; banks may face big cuts - CNBC TV18",
-          "source": "CNBC-TV18",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ19qY0Z3Zjl1b2hzWE42OWJzYk1ycE0zbnhVUm1FSjFMT2hrbHF4bmJxeFBBTjM1SGpPbThNMVllY3Ntbzh5b0w3c2NYdkpxWjE3M09MTE1ldGswTnRFWmZjQ0F3UWN6bjM2TWNHOFdDLWRjalFvLTBpODNfX0JNX2pkTUhkZ3QzNEw5aXE4VXJCeWxfaEM3amFKNXR6S3RINDhIN2IxaXBhQlpjdFgxQXJSdDhWOVliOXdjamZVTzQ?oc=5",
-          "published": "2026-09-16T08:50:33.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "He trusted Canara Bank for 31 Years, then was sold a life insurance plan that pays at age 93; IRDAI orders - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNQlM3R1ozeFFLOEVDRzlSYkJYZWRrTmNseHNwX3FKVVFsSV8xVUt1Qnk3RVJVM29nUXpybkl3ZlhlcXhaRmhVTEFlbzZ6S2NsRDdFWGFPeFI3WG1lcGZUWl85TEI5dlpsUmdxZjdDclJ3M2Z1X1FGZ2ZlaU5FUi04c2FLRFYydHN6TU5pTmVCRUNSSkp0MnlReDBTM1dHTUxuTGVST0FYUkQxRTRPN19tVmdBUWtCUWJYZGJqUTE5ZGRlWDhzb1NHUDdQemZuUUd5QXFneW5yekFuT04yZzJTUEZRZmNsVVZUUTBiLXdFcjN3dW53R1FxQS1ORjFLRFVNcXg2bG51Skg3ZFkxWW90Vkc0eXRWd0plQzZxU2ozcldDcUhfNzFyV1I1LXVTRlAwLVI5NDRfQWVwTGNvZVRWd2ZIWHhoeGtjVmVlUlJBQmrSAdYCQVVfeXFMT1lSVnJ4RVprQWhPa05hUXd0a3pMSXRUZ0xEMW1YdjgzNXVUb3JOUWJ0bU5uMGxMMFh0WTNGNVM5MzJ6Q2twYzhqX2VsN3E3a0JFV1I2dGV2V19QUEowTXpSYmhjV29MM2tTekhfcEQ5QkZLRE9YTjE5MzIzTy1DTXh6Q1I2Vy1wSkxkdDFCQVlubmNCR01JN3NEckN3WTU5WmVSal9PWXZObmNobC0yaHdQanlMcFlwei12OHEtc2R5bUxLaHdReVlJalE5YTA1V2FqempoOFpFSjlIWUNweE5HOGxxMnp2RmNYZl9JZHZBQ3RrY2I4OENlUjM4djRkSGowOFYwTmRLdUN3ZkdCcjVKRHNHZ3VnenNSa1FsdGZuMVZvNXZZZTN4RlRiZTNJR19vWGt0TVNtM2FRbzYyYzhGc1ZVdVp1ZW9uczEwUWpZanBJZU9n?oc=5",
-          "published": "2026-09-16T07:05:55.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "Max Financial Services rises 2.85% on IRDAI commission cut report, bouncing off its 52-week low - Business Upturn",
-          "source": "Business Upturn",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNFJmTXVVR0RhNWltMEtnLUN3NW1FMTJ5dmVvbTNValc4dHl1Yi05X0s4QTRjbTF2RmhYQU56TVFGbThtbE9oNE4ySGtpZGZsREU1UTM4ZktfQUlTOU95T2xFY3ZzaGl6OUNmRDBrNXUyWkV0NFRPNi1yTlNUTGJlS3QtZEFLZW96MlU1eFZYMTBZZVo1Yng5YlpldklOdHVBUVZSak1aaDlyakR4ajZlTEpFNnQwanBtdlhXa0owWHlER3FOd0VnSU1xbkFldzNlQkozUVdwVGtEdw?oc=5",
-          "published": "2026-09-16T07:32:21.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Regulatory",
-          "headline": "Exclusive: IRDAI consultation paper likely soon; banks may face big cuts - CNBC TV18",
-          "source": "CNBC-TV18",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ19qY0Z3Zjl1b2hzWE42OWJzYk1ycE0zbnhVUm1FSjFMT2hrbHF4bmJxeFBBTjM1SGpPbThNMVllY3Ntbzh5b0w3c2NYdkpxWjE3M09MTE1ldGswTnRFWmZjQ0F3UWN6bjM2TWNHOFdDLWRjalFvLTBpODNfX0JNX2pkTUhkZ3QzNEw5aXE4VXJCeWxfaEM3amFKNXR6S3RINDhIN2IxaXBhQlpjdFgxQXJSdDhWOVliOXdjamZVTzQ?oc=5",
-          "published": "2026-09-16T08:50:33.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "He trusted Canara Bank for 31 Years, then was sold a life insurance plan that pays at age 93; IRDAI orders - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNQlM3R1ozeFFLOEVDRzlSYkJYZWRrTmNseHNwX3FKVVFsSV8xVUt1Qnk3RVJVM29nUXpybkl3ZlhlcXhaRmhVTEFlbzZ6S2NsRDdFWGFPeFI3WG1lcGZUWl85TEI5dlpsUmdxZjdDclJ3M2Z1X1FGZ2ZlaU5FUi04c2FLRFYydHN6TU5pTmVCRUNSSkp0MnlReDBTM1dHTUxuTGVST0FYUkQxRTRPN19tVmdBUWtCUWJYZGJqUTE5ZGRlWDhzb1NHUDdQemZuUUd5QXFneW5yekFuT04yZzJTUEZRZmNsVVZUUTBiLXdFcjN3dW53R1FxQS1ORjFLRFVNcXg2bG51Skg3ZFkxWW90Vkc0eXRWd0plQzZxU2ozcldDcUhfNzFyV1I1LXVTRlAwLVI5NDRfQWVwTGNvZVRWd2ZIWHhoeGtjVmVlUlJBQmrSAdYCQVVfeXFMT1lSVnJ4RVprQWhPa05hUXd0a3pMSXRUZ0xEMW1YdjgzNXVUb3JOUWJ0bU5uMGxMMFh0WTNGNVM5MzJ6Q2twYzhqX2VsN3E3a0JFV1I2dGV2V19QUEowTXpSYmhjV29MM2tTekhfcEQ5QkZLRE9YTjE5MzIzTy1DTXh6Q1I2Vy1wSkxkdDFCQVlubmNCR01JN3NEckN3WTU5WmVSal9PWXZObmNobC0yaHdQanlMcFlwei12OHEtc2R5bUxLaHdReVlJalE5YTA1V2FqempoOFpFSjlIWUNweE5HOGxxMnp2RmNYZl9JZHZBQ3RrY2I4OENlUjM4djRkSGowOFYwTmRLdUN3ZkdCcjVKRHNHZ3VnenNSa1FsdGZuMVZvNXZZZTN4RlRiZTNJR19vWGt0TVNtM2FRbzYyYzhGc1ZVdVp1ZW9uczEwUWpZanBJZU9n?oc=5",
-          "published": "2026-09-16T07:05:55.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "Max Financial Services rises 2.85% on IRDAI commission cut report, bouncing off its 52-week low - Business Upturn",
-          "source": "Business Upturn",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNFJmTXVVR0RhNWltMEtnLUN3NW1FMTJ5dmVvbTNValc4dHl1Yi05X0s4QTRjbTF2RmhYQU56TVFGbThtbE9oNE4ySGtpZGZsREU1UTM4ZktfQUlTOU95T2xFY3ZzaGl6OUNmRDBrNXUyWkV0NFRPNi1yTlNUTGJlS3QtZEFLZW96MlU1eFZYMTBZZVo1Yng5YlpldklOdHVBUVZSak1aaDlyakR4ajZlTEpFNnQwanBtdlhXa0owWHlER3FOd0VnSU1xbkFldzNlQkozUVdwVGtEdw?oc=5",
-          "published": "2026-09-16T07:32:21.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Should you choose zero copay for your health insurance? Why? Why not? Explained - Livemint",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdi1ib1p5OFJ0eWpyUDN0X2l3VThseUJ4djFHNXJpNFdrVzNzSmpqd3Q1bS1nSU1wbjZsOVk0UEZlTDVJR0pqSjRuRnpVMnk1eGRvelJQWWp2T1NtSW5IQzM0a3RVN2FCZmtLLWhpQ0NYQUczbEdyVmxJVjdZQ3Y2VzJxeTA0VWxwRjMzOXltMHNGcGQzb1Y4aDFER3FCeUIzcUlvejFSS2F4cGQyU1dhQUpYRDkzbVo4TmhnZEVNNFg3OW1haTZMMtIBzgFBVV95cUxQOWlZX1E5QkdTSDhrbnBYTWhMXzhxajBYX2NpSU9mQmxZYmhWT2ZjMjhqR2NSXzJoN0NwcHNZeTk5VWZMZmh0OERrbVgwWUhKNFk0cV9OZjRVdkxRRnRpMEJDSXlEVXY1M2l0cFZWZWU5NHpUR0NldDdpMUdESFpzTTVXdWRyM25iTkl4MzRxMGFSUmxSbFdKXzY0Q0lhT3RaOVJMOFJHYmdLY2U2NjFsNlhrTmY0S3BhWFZiVFJSWm0xVl9EVGJvSTdKYnVOdw?oc=5",
-          "published": "2026-09-16T16:23:24.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Acko General Insurance: The Digital-Only Distribution Model - MarkHub24",
-          "source": "MarkHub24",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFhpNkoxNjkzYVBuYnZadTlteTdZMjI3WnN2V2xZc0hjeDVkb2VLOGprSDNYY0k5UlllTkhNYm9nWlQ4VDNRLXhOUHdFdWxhaHRjeTRiampOOXVTMUx4RE1pU0k5LV83dXdEWnYwa3M1aXhsV1A0d2J5c1pyVEowTnhYMjUzOFNFbkswOUNDT3dqZ2M?oc=5",
-          "published": "2026-09-17T03:30:06.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "He trusted Canara Bank for 31 Years, then was sold a life insurance plan that pays at age 93; IRDAI orders - The Economic Times",
-        "teaser": null,
-        "source": "Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQUkFiaVdmSzlpTDlWMFRPOHRXWDVVT2tiZmlEU2JzMTcxTTJVZGF6V1JLNFZHSnFidGFPcDBoeVRhc0E0b0lNZVp5cEx2RXJRaS1DVVVRbzI0Y1hkVTZVUUVyNEhHR1RHdE1tcVljMDF2bHRXZXVsZ2JFVG05a1g1WE5LN2dsRGs2Nl9zU1IxY0RHTjVBZU0yTllPZDBIM0pjeEp0Wl83MlR0blBWaWtSalRtcWd2a2Q0eURlNGFZTVBTVWhFVFJub0g5LWNSN1NaOFl5cWZWaGdoM1liV2J0NmNWaVQ0N3BiQkJ3anlMcGh4UWZwMmUxZnhNVFZmTWtrN0thOEk4UnFxUlY5MVJ3a0JvNGhHQktSYXJPYXhlUmxZZDAwNXV3SnpiS0pzaXZBbWh1a0RINWQ2dFBuck5vQWh6NEVFd0dQZ1RmcHBOM0NSOUxnUW9JZVpIcHPSAdYCQVVfeXFMT1lSVnJ4RVprQWhPa05hUXd0a3pMSXRUZ0xEMW1YdjgzNXVUb3JOUWJ0bU5uMGxMMFh0WTNGNVM5MzJ6Q2twYzhqX2VsN3E3a0JFV1I2dGV2V19QUEowTXpSYmhjV29MM2tTekhfcEQ5QkZLRE9YTjE5MzIzTy1DTXh6Q1I2Vy1wSkxkdDFCQVlubmNCR01JN3NEckN3WTU5WmVSal9PWXZObmNobC0yaHdQanlMcFlwei12OHEtc2R5bUxLaHdReVlJalE5YTA1V2FqempoOFpFSjlIWUNweE5HOGxxMnp2RmNYZl9JZHZBQ3RrY2I4OENlUjM4djRkSGowOFYwTmRLdUN3ZkdCcjVKRHNHZ3VnenNSa1FsdGZuMVZvNXZZZTN4RlRiZTNJR19vWGt0TVNtM2FRbzYyYzhGc1ZVdVp1ZW9uczEwUWpZanBJZU9n?oc=5",
-        "published": "2026-09-16T07:05:55.000Z",
-        "paywalled": false
-      },
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
       "companyUpdates": []
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [
-        {
-          "tag": "Leadership",
-          "headline": "UPI fee: Why govt is putting a price on big merchant payments - cfo.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaWhoV2tpUUtFeEZlaExDWXdpMWJ3SlV3VUtNNFpsdUdpWXdDZzdsaDFoVkZES2RNcjVSOFdYNm1LNVNWSHI1ZjNXWTJ3VlBEOVhqWGlmTXhESUx1SUh4R09HUFl6QUFZTjc2NlNYbk1CaUNTSnRrX2JOME5iUG1Sa2p1NndVUDlrZlItZ054ZEI2WE1yazU0Y1BNNVFyMFdqVk9nckNsd1BSN3hIVzhNV3dQOUlURWQ3TnAyT0xyN1lwM1h1ZEU4bDZrU0tPNzVqTUHSAdcBQVVfeXFMUE1aTWZaY1pRd3NoOURCaDZOczA5ajBDR3VzcjZrOXI2RWdWNXhvLUY1WWRsa1ZBMjRWeU9ONFk3VW1ERFFTX2hGaXZrc25qeER1Z0lscHFQN2wtVHlzejE5U2swUDNvRUQ2dXdYRmQ1VTdra0kxUl92RE1nT1RLM1E3dFVacmpNbVgzbUZGQXlQNkdUS1ZFdHRsMmNxbEdXVy1URnVJSGM5S2xZM3RBYzFldnU0NTZTNlNNMUdXYjVqTFVMeGdXOFFYWnMzMEVROGxVSVJFRjg?oc=5",
-          "published": "2026-09-16T12:34:21.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "‘Fed’ up with inflation? US rate hike leaves RBI with an October-or-December dilemma, economists say - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOa0dUUkhYa2syRi02UWF1M2NOcnQ3dEp1bEZsSl96bHlIdVhjNm9OTjdYWkszcW5KMEgwZFU1TVFhRG95SkxGSFJIRTMycFV3OE9qUF9rUG50N0RVMTNjWXBaUUdZUm1GZUtnenJmUmJuZ2pVa0Y5WHBYOWtoWllEaUNsUTJablBQSVFNM3lVeVgwNFBXMGVJUTVVM295V2lEOGxjOUlhbHZCY2J0dEd2TlE3c0VVTzVBU3dNMDNoTWw1MXlCTlJscW9KcVBRZFJJaVpwOHIxcG9NcGxVcElYM1M1STl4MEtNUGhUVkNVeWZ3aEpOcTB2dnZUVXhsSUIzTWdqX01rUTByRERWZUd0c2tsNFZHVHdmRVNSZnlnQXFDN05qd3l4XzJpaW5BRjZVWHQ3UEp1NEFLWnRC?oc=5",
-          "published": "2026-09-17T06:15:59.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "Tata Sons board to mull asking Chandrasekaran to stay on amid RBI IPO push - Business Standard",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVVZWSGlMSlh5SGhVMTRhZndRX1c1YXhKZDF6cFpEQUk0enFGeDI0eXVqMjdaaWFldnhwbnQ0bE01bXpPMVlTLXFmUnlsaDZNeDlPU3lTMm1nVnRhc2toTUdhWmxyVE9JUXp2YnhxbVg0bnJ2dmlDa2thNkVKQjNlbzNHV0hhcUYtRVVLNVhWWGV3S2JZanBIckZjLUdaQXhZMjlzVzNaT1kxN21MVUx6eFlmTURUUDlUaERzVExlOTJqMW1lTmlWRjFSUF9ncXVNMWlhcHRFZHNEZjDSAeABQVVfeXFMUENOT1BfOHZ1Y2xSaS1UT1NKOF9IbWlibE9yOXdFcWRXeXByREYyVXFLMURSS2hwWVlyU3d3TTFZNWJ6WEM5bHp2azdUUy1fM3ZBQnlBVF9rZ3ZxNWxwVm94SWl1aFZUaUZPRm85aVRURnh1bnhLUXdkMy0zd2E3bVRuTmlDTzY0YXk1UHZxM0tlbWM4elc1R1F2TjRfR2FkUzVRS0Z6X2REamRUOTVHUERfam52RXNySWE2RVZXLXdSMW5RWWJlVG1weHpkWTBYajllM2hkZ1NiLVVYLXhCRDQ?oc=5",
-          "published": "2026-09-17T03:31:43.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Leadership",
-          "headline": "UPI fee: Why govt is putting a price on big merchant payments - cfo.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaWhoV2tpUUtFeEZlaExDWXdpMWJ3SlV3VUtNNFpsdUdpWXdDZzdsaDFoVkZES2RNcjVSOFdYNm1LNVNWSHI1ZjNXWTJ3VlBEOVhqWGlmTXhESUx1SUh4R09HUFl6QUFZTjc2NlNYbk1CaUNTSnRrX2JOME5iUG1Sa2p1NndVUDlrZlItZ054ZEI2WE1yazU0Y1BNNVFyMFdqVk9nckNsd1BSN3hIVzhNV3dQOUlURWQ3TnAyT0xyN1lwM1h1ZEU4bDZrU0tPNzVqTUHSAdcBQVVfeXFMUE1aTWZaY1pRd3NoOURCaDZOczA5ajBDR3VzcjZrOXI2RWdWNXhvLUY1WWRsa1ZBMjRWeU9ONFk3VW1ERFFTX2hGaXZrc25qeER1Z0lscHFQN2wtVHlzejE5U2swUDNvRUQ2dXdYRmQ1VTdra0kxUl92RE1nT1RLM1E3dFVacmpNbVgzbUZGQXlQNkdUS1ZFdHRsMmNxbEdXVy1URnVJSGM5S2xZM3RBYzFldnU0NTZTNlNNMUdXYjVqTFVMeGdXOFFYWnMzMEVROGxVSVJFRjg?oc=5",
-          "published": "2026-09-16T12:34:21.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "‘Fed’ up with inflation? US rate hike leaves RBI with an October-or-December dilemma, economists say - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOa0dUUkhYa2syRi02UWF1M2NOcnQ3dEp1bEZsSl96bHlIdVhjNm9OTjdYWkszcW5KMEgwZFU1TVFhRG95SkxGSFJIRTMycFV3OE9qUF9rUG50N0RVMTNjWXBaUUdZUm1GZUtnenJmUmJuZ2pVa0Y5WHBYOWtoWllEaUNsUTJablBQSVFNM3lVeVgwNFBXMGVJUTVVM295V2lEOGxjOUlhbHZCY2J0dEd2TlE3c0VVTzVBU3dNMDNoTWw1MXlCTlJscW9KcVBRZFJJaVpwOHIxcG9NcGxVcElYM1M1STl4MEtNUGhUVkNVeWZ3aEpOcTB2dnZUVXhsSUIzTWdqX01rUTByRERWZUd0c2tsNFZHVHdmRVNSZnlnQXFDN05qd3l4XzJpaW5BRjZVWHQ3UEp1NEFLWnRC?oc=5",
-          "published": "2026-09-17T06:15:59.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "Tata Sons board to mull asking Chandrasekaran to stay on amid RBI IPO push - Business Standard",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVVZWSGlMSlh5SGhVMTRhZndRX1c1YXhKZDF6cFpEQUk0enFGeDI0eXVqMjdaaWFldnhwbnQ0bE01bXpPMVlTLXFmUnlsaDZNeDlPU3lTMm1nVnRhc2toTUdhWmxyVE9JUXp2YnhxbVg0bnJ2dmlDa2thNkVKQjNlbzNHV0hhcUYtRVVLNVhWWGV3S2JZanBIckZjLUdaQXhZMjlzVzNaT1kxN21MVUx6eFlmTURUUDlUaERzVExlOTJqMW1lTmlWRjFSUF9ncXVNMWlhcHRFZHNEZjDSAeABQVVfeXFMUENOT1BfOHZ1Y2xSaS1UT1NKOF9IbWlibE9yOXdFcWRXeXByREYyVXFLMURSS2hwWVlyU3d3TTFZNWJ6WEM5bHp2azdUUy1fM3ZBQnlBVF9rZ3ZxNWxwVm94SWl1aFZUaUZPRm85aVRURnh1bnhLUXdkMy0zd2E3bVRuTmlDTzY0YXk1UHZxM0tlbWM4elc1R1F2TjRfR2FkUzVRS0Z6X2REamRUOTVHUERfam52RXNySWE2RVZXLXdSMW5RWWJlVG1weHpkWTBYajllM2hkZ1NiLVVYLXhCRDQ?oc=5",
-          "published": "2026-09-17T03:31:43.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "RBI clarifies principal business rules for NBFCs, CIC definition after Tata Sons CoR rejection - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFRkUUxIT0tEbVZSdlppTDFlRzl5R1ZPYWh0SUdGUEtxVmt2cXdTYnc1MWNPaDdTNVEzY1VVWW9XNDRQbklPRkpCT2FPNm1rUVUxVnRqTFJ0NnhoVnlKWW9HZmRpQ20xRVdUaW1RVHlzaWVvSWc4UldGZjJkTlJKdndvRQ?oc=5",
-          "published": "2026-09-16T20:01:03.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "Tata Sons should commit to long-delayed IPO after RBI setback, proxy adviser says - The Economic Times",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hb3lKclNpc3ZESFItSmpSVFg4ZnUtaE1nZVlEMDFCTFJlMmlrR3JCV0xERmlMMkxKVGxodElibUZxczNvX1FiZjVFX29icnRtb2FDa2dRalJPZzBtRHMwYjRpUlBhZ254M0ZF?oc=5",
-          "published": "2026-09-16T19:47:23.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "SC asks RBI to ensure banks, NBFCs seize financed vehicle lawfully - Business Standard",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc3cyU295eXRFNFlXSXhfcVRFemJOZnlDM21SUHV1YlcyaXBNdFNNd19XRVdaTmw0OTFKb0s1OF9xaW9nTE5TQ3ZHeDhQMi03RXdRXzR3NVhDQUVMWDNBcFh0WXVZZ1IwNzdEcnNfOWx4RUxGdWNJSEFwZHJpeWZpNGlURl80MGlJRmp4alU3b29kYjZIeTVEbFpibmFpeVRYSm1sZ1BRZGZtU0VVM01kTWJMbHRCLXFDVlpwdDczQ3UtVlVpSlBRdVJR0gHPAUFVX3lxTE5mNm8tNExUdFNNYjJkclZuczMyU1JGeFpsNGJYMFprczdONkRWbkJ4aXlZYU9IeWNhZ0lhLWJqUlZqNmZTS25VX1E5ZjE1NzlUZ1A0NjBGWUxyNU5McUNkejhYWTdERmFkS0o0MU1OWFg5dV9vS0ViUV9sSVJFazBKMWZDQ2pKZ3B4YjRHcWF5RHFyZzZEM3pJd0twakNLR1dfRzYxRG56QkJheDcza2VjX0tMN3hHWm9YU2c4RGl4b1hETS1EU3JWU1JIWU83OA?oc=5",
-          "published": "2026-09-16T14:47:19.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "SC asks RBI to secure compliance of norms on seizure of financed vehicles by NBFCs, banks - bfsi.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDh4UVhyaFJLTGxpUTZiWlhCVi1GMHBybGIwdEZHWU0zYU5VN0V6WGdKNkJUTlhzcDFYbGh6bm9UbDd3NHdyWVM0MFIzRTlBbnRndHpOaTRFblBsQ2NJQzlKYndxcGx4VW9tMWRsdHh1WjFCeDJXMHNuM1RQQnJhRkp3UjhnUXZ1RVRnUlBTU0ZiQkRNRkhySUJZM21xTDRMOGhrQXQ5VkRVdFh1M1liZnRtVFVBSnpmUWlWZnVHQ3A4bndwUTFyZVg1YmJNcmhaWjcxbG00LUx3RHFFN2pVZUpPNzlDUExk0gHuAUFVX3lxTFBBYi03ejFtQnNObXhaYU1abUZTcWpSbWh6NWtBZW5lNGZ5a2NsYThsS0FHbFZHRHJFdWZVRWdxbmlkOHBjdnNfSDNiUXg0eFl6aEFEbDdKSXRsUUQtY05PcDB6c0IyTm1yUEhYZE5HUW94RkFOVFJRQzU4cWNaejZQbi0yaEFQb20zME4xTURXbXhaY2o5ZG03Vkx4WFdjNnZYTnRHR3c2YUhFcWxWWXBKRlRfeTBRZ1NEVVVodnNlQVNrcDhYc1FnWUV2bXVFQjE1ZXNPWTROd0NtUW4wU1JMWE5ISEtXaXI4Y1hlckE?oc=5",
-          "published": "2026-09-16T14:19:02.000Z"
-        },
-        {
-          "tag": "Regulatory",
-          "headline": "INDIA RUPEE-Rupee languishes at six-week low ahead of Fed outcome, RBI limits losses - bfsi.economictimes.indiatimes.com",
-          "source": "Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWDhBMzZjYTVCX0pvRHEyNTNTclphb2lRdWVFWDFFVUpLYUFQUWllcTc4UzZBLUJlTURicHJKUklDNjV5Yzl3aHQ1SDZ2cVhNRDVhcEYxclVSdmdWZmxseVpLbDRRT1VSbU9kUnhUSzBhazhQN05Pa0ZjVzVPWXAtY3lkYWlwUVdhODk2UDlwY1hUMFdZbEZPTDJSY2RzejNwbHNRRUJkT1R3emVwdnVXX2pLY3ZkaXdOQ3ZUd2pfRzU5S3ItTXRERUZnaHNwcUZSeFdRdm5FekRRWmZOMDJwc3BRd0RvU0xiR0Q3MkxZUjbSAfYBQVVfeXFMTk93dnFlWTNKUWhuTjVUOVNvOTBZTzNEa0ppQnhqMVJUVGtuMWlGaU5NVF9VUmZPQTljSWpUXzlXTkJaYVphWm52UDdhb1RzaU5VS0dxYjF6Zm5QTEZ0dy1peWNrWVlZUzl5RjItbnJUVmRGVV84aml0RS1KUlUtYmhnUkNEMFZPNVcyWkE4QmpsejZMUUl1dDNxT19hcHphOE00cWEySnp5TGFRYzFZUVAtNjlGbUc3emtCSGp1emZVajdLN1BrelJMOU10MGpNMVRXVTdEWkdYLTNveXVqRnFGX2xMMWh1clhfdUhoWkE3ZVZGZWJR?oc=5",
-          "published": "2026-09-16T10:44:03.000Z"
-        }
-      ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Tata Trusts may urge Tata Sons to seek RBI review of public listing order before legal action - Livemint",
-        "teaser": null,
-        "source": "Livemint",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYXNaLV9DNmtMcVIxcWcyaERTLW51dU5RRW9HdUg1SEVSMng5SXd1VlFBOHBHQVh6Qno1TnRzaHRPa1RHQXNBcU5IbXI0WnlfVmJpS3NnVFhDNmVGbS1yZEhXc1Q2LWpQaldoTlgxM1JJMFZ3Z0xxNDc0c2hwalVJNS1zU2hmbmZKTVNBaVU3T3AxaTdsWUlSMEN2UE9tTmZkNFRMMU80WWVVVUIwb1lhWHV0OHpjQ1JTOS05blJ5STFhX0xKNVNsNXRCNk13c0FITENOSUtCSnlMM2c5UzctYzVqXy1ScFlOc2hYOHlxZndFMy1LOEdoZNIB_gFBVV95cUxPMlQtYjZhTHRoSDIzdDNpZU5ua1lPczFMWXhZNFRUOVBGcnYxMkx5S2lSa0xDYnRROW0wRWR4LTVJUE9uU0I1ODh5QmVwZGVYOXlrQTBiZXJxTGM3VFo5dlpmY1ZJMjdra1JyYXVwRzBOSi1OTDFEUEFoa0FOUS0yZndaTWdKazZ0WnNDYi04aGVOR1U2TTJFLUIyZExWVDVTbng1MlZrV3dnTEMzdnp2ZmhOOHhrV0ZhVVNTakNPSUF5ZFYzYXN5SlhCMks2eDdHZEI5cHlGT0NVWlN4SzJwc19VMTJWbWwxZXY1VWdqWW1hd2FDajBPTUlRNWFXdw?oc=5",
-        "published": "2026-09-15T14:45:20.000Z",
-        "paywalled": false
-      },
-      "companyUpdates": [
-        {
-          "company": "Kotak Mahindra Bank",
-          "ticker": "KOTAKBANK",
-          "tag": "Transcript",
-          "headline": "Kotak Bank Q1FY27 PAT rises 23% to ₹5,480 crore; earnings call transcript released - scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE5wbXpUa3FvZ0VGSnlNWENjb210Y01NQ0RLQ1dQS0NjM2xTYTlxdGZscU9YMGwyc2dodEd5R2txRFY2X2M2YjFuS0ZXZnk0eDRqUkl0SXdIR29CV3A4M3pUZWhReFFLdThTcUVhSWxfN2JUcThEZ1E5RUJYa2ZjVldhdVc3a1NlVjB2Y19kenVBZWU2b1UxZmlUcXBPTk9wektZdUUwREpycFZBd1A5VnFScVI?oc=5",
-          "published": "2026-09-15T17:53:30.000Z"
-        },
-        {
-          "company": "State Bank of India",
-          "ticker": "SBIN",
-          "tag": "Transcript",
-          "headline": "Q1 2027 State Bank of India Earnings Call Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rbGRrQnFZTlRqdmRpTzQwUFdweF9uMXQzVk50WEllb2t4cTgwc2M4dkpUc0pYX19oa05qbTR6dGIzLVhCMTdzUHNWQXMxQ0xBSjZ6WHhwM1RmLWtDMlFKRDFkUmZGNnRObkVsQw?oc=5",
-          "published": "2026-09-13T09:55:22.000Z"
-        },
-        {
-          "company": "Federal Bank",
-          "ticker": "FEDERALBNK",
-          "tag": "Presentation",
-          "headline": "Federal Bank unveils investor presentation reflecting Q1 FY27 achievements - Business Upturn",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFJlV251VUoxT1NvYzVTRE1hcE1qN3NmS19JaXBXSjNsanhSZ1JkclNSbU5PQXpJc2N3aWVuZjFOdXdsOVVqZ3llM3FYaGJnMUIzQ180aDMwRWVJLWNvR0FkOFFUOGlENlpqMXczdUk5MERLY1BVdERaRVc5b2VFdnZCRUtGNHoyM0NRaktCb2xfbTltc1AzeTBUR0JKbHROeEZtTGtSdWtaRUNuNzdPeA?oc=5",
-          "published": "2026-09-08T13:30:45.000Z"
-        }
-      ]
+      "bullets": [],
+      "candidates": [],
+      "insight": null,
+      "companyUpdates": []
     }
   ]
 }
