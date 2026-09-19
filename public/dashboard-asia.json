@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T06:37:10.385Z",
+  "generatedAt": "2026-09-19T06:25:23.340Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,10 +30,71 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Taiwan's ETF Penetration Rate Tops Asia-Pacific at 53%; Nearly One in Five Investors Use AI for Fund Selection - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45OVMwU3dDRXhnSlJHMTh5TWlPVk05WnlwbENZWWc4QVRlYkxlVDVPbEVBQWNMNWRGdks5aXBpVmVCVHVOQk8yeWlRa255WG5rdTJRYlVnVnBZTlR5a3FTOVVBN21zSjNOcTVFcklwcHlfZktLSEE?oc=5",
+          "published": "2026-09-17T09:25:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "New World proposes to spin off Shanghai tower for REIT listing in Shanghai - The Standard (HK)",
+          "source": "The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaTIxekpYeWEtczhqbjItUXlkVDg2SHpKR1NJVGpMTmZBTTRReExRUmJhUDlXQkZBa2J0cEJtUzg3SXhjcFF0bHJzTGVkLUtUclhmOTZLakFUUjZhQjFGeEVKelFtSk81Ul9maTd4aXlLX0dCYnJDa0paUGFqZ1F2TlpkUUN0cUZ5aDZTUDZ0V3hjY0szLWpKS3FnODBJWHczOGJNV3FNZUhiWjBNTm52V2xIOGhWYUdQbWR3eEN5MjdPdWhDcUtuRA?oc=5",
+          "published": "2026-09-17T13:59:54.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "New World Development Plans to Spin Off Shanghai K11 Property for Public REIT Listing on Shanghai Stock Exchange - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAydHlmQXJ0QkZ1TnlwY1VhZ2tOUXhNSWJlSm81RVNPUFg0QnpXZEFKQjRhbXRBYVhFaFBqQVBqSDhKT3ZHTmpBVk1vTC0wLUVsc2lQUmRtWGQ1TjRyWDBla1l0VXA5Nk9YQVNkbUFETFp4VDEwUnc?oc=5",
+          "published": "2026-09-17T13:55:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Taiwan's ETF Penetration Rate Tops Asia-Pacific at 53%; Nearly One in Five Investors Use AI for Fund Selection - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45OVMwU3dDRXhnSlJHMTh5TWlPVk05WnlwbENZWWc4QVRlYkxlVDVPbEVBQWNMNWRGdks5aXBpVmVCVHVOQk8yeWlRa255WG5rdTJRYlVnVnBZTlR5a3FTOVVBN21zSjNOcTVFcklwcHlfZktLSEE?oc=5",
+          "published": "2026-09-17T09:25:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "New World proposes to spin off Shanghai tower for REIT listing in Shanghai - The Standard (HK)",
+          "source": "The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaTIxekpYeWEtczhqbjItUXlkVDg2SHpKR1NJVGpMTmZBTTRReExRUmJhUDlXQkZBa2J0cEJtUzg3SXhjcFF0bHJzTGVkLUtUclhmOTZLakFUUjZhQjFGeEVKelFtSk81Ul9maTd4aXlLX0dCYnJDa0paUGFqZ1F2TlpkUUN0cUZ5aDZTUDZ0V3hjY0szLWpKS3FnODBJWHczOGJNV3FNZUhiWjBNTm52V2xIOGhWYUdQbWR3eEN5MjdPdWhDcUtuRA?oc=5",
+          "published": "2026-09-17T13:59:54.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "New World Development Plans to Spin Off Shanghai K11 Property for Public REIT Listing on Shanghai Stock Exchange - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAydHlmQXJ0QkZ1TnlwY1VhZ2tOUXhNSWJlSm81RVNPUFg0QnpXZEFKQjRhbXRBYVhFaFBqQVBqSDhKT3ZHTmpBVk1vTC0wLUVsc2lQUmRtWGQ1TjRyWDBla1l0VXA5Nk9YQVNkbUFETFp4VDEwUnc?oc=5",
+          "published": "2026-09-17T13:55:00.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Fidelity Series Developed Markets Ex North America Ex Hong Kong Index Fund - Morningstar",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeWUwdTlFdmsyVUtNd3U4TF9YTVVNRXFoWkdWUmdVbzZVQzhtMlVTVzNueUQ5dEZPRmltZkdhNl80MDkxa3dMbUtwaG40SGlNc2hDdl9ialBVWnRpTUx3?oc=5",
+        "published": "2026-09-12T21:03:41.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "Schroders",
+          "ticker": "SDR",
+          "tag": "Transcript",
+          "headline": "Schroders Capital Global Innovation Trust plc - INOV H1 2026 Earnings Call Transcript - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0ZHOC04UTJOVmpiSzVmN1RnRlV3RFg3TTFVb0VWY3VQcUN5dnRLSXdicXh6Qm9pVzJFaWVfR2lybjZjNndUYkoxSWdxS3lRdjFuM2YzYkRyZlNCSEdNSDdJaEt4Q2NqMlltbjdYTFFFT2JORGw5bWxCMUNGQmMwbzFzUWN0YlNVZGIteWVwX01adkRIZG0ydDREMjg2QQ?oc=5",
+          "published": "2026-09-16T09:29:09.000Z"
+        }
+      ]
     },
     {
       "id": "wealth-management",
@@ -41,7 +102,32 @@
       "bullets": [],
       "candidates": [],
       "insight": null,
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "UnitedHealth Group (UNH) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaTlN0Y2E4MEdHUUo5UWJxenRGd1ZFc1UzWWtrMTFrQlZHYjJPLVBIRjNTeWl3djlQNkVZQUNBX0NGeG52c00wYk1rNDBJNEJYb2JqUmVIQzZzZVBUbGFmalFZSTRsaXJsQmpyWndrUi1GZw?oc=5",
+          "published": "2026-09-18T19:47:31.000Z"
+        },
+        {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "Video Transcript - HSBC Private Bank",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSkF3R3k2VnpCOFdOcTh1R21oRlRpSnZlc0gyenZGcjQ2ZEc4VWpNOGZZQ21oYms3UzBmTmM0dVMyTVFoYUp2Vm0wMTI2WGVhdFZBenUtSDZpUkhiMXp1eEw5c2RmR2p5VmVhbi1VSDJJXzYyaGVVZHhNa2VmNXMxWEFkZzh1MUhGenBCT0loTmFobmZmeGlPekVPb3d3a1FLZ3l6LWNEWnhsc2tsd3FmZklXU21sUlVYeXhONFNNWmpKeVMzUEUzb3R5TmRrai13dDd1cUw0Ulc1V2l6Yzk3MURTVGM?oc=5",
+          "published": "2026-09-15T13:00:30.000Z"
+        },
+        {
+          "company": "Netwealth Group",
+          "ticker": "NWL.AX",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObFF2Qmx4SHJHNjhUb21sZTJQSE0ybmdlODY5YXZweDc3bjUzLWdMQjBJNUZTX1FpTjRKWkUxTkJuVldrU2dGdUhpT1BHeDRham9tT0M4Z0Fmc0JzaHFWUU9hbE5Mc3g3Q0RwTlJLMjllN1lIOVJ5QVBzbjVuazVrQXV6VF8tdl9yTWx6Mnc5NXJYN0hPY0hibU9TdDNUWEtZc3R1NzlLcTNkRlphWi0zbjhCYkFWcUlmc2dnX3FycEQ2RlR6X0lXT2N6M0NWYWl2QTdDU2hVVjU5Sl9Ea0RHag?oc=5",
+          "published": "2026-08-26T00:36:06.000Z"
+        }
+      ]
     },
     {
       "id": "insurance",
@@ -49,15 +135,92 @@
       "bullets": [],
       "candidates": [],
       "insight": null,
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-09-13T04:05:09.000Z"
+        }
+      ]
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
+          "source": "Syfe",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
+          "published": "2026-09-18T17:45:32.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore Banks Take Swift Ledger Into Live SGD Payments as BTCPressWire Tracks Tokenized Deposits - openPR.com",
+          "source": "openPR.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWt5aXFtT21yTFBHajQtQmlZNDRzMWpUU3lVTWwzSDM2cnZjcnBLTVVrRUh6N0Zrc1IyQTRtaFJNRU9EWldlRW0xbDlKakhWbWlCOHNFd2dOczlzT014WWxXR1l0dTlMWXdaaW5obTZGRUNJMjZoMHJTNmVYbjg0eFZCOXo0UTRLOWVvX19kMjNqc2JoQldpMXpKdw?oc=5",
+          "published": "2026-09-17T13:51:50.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "UK Islamic fintech Ayan Capital secures £75 million ($100 million) facility originated by Triple Point as it builds towards a halal digit…",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkhVaDktQjM4TWFRRlljY3d2VEdYTHRILUNUYmN0QmtlRmlyVDVSQ1JTMDUyUXh0NVc5RU51ek1ack5MWFZodHRKSkpUV2xORmpHRV9Wc084UFJMUnNiV1ZmX1dObUFVSkF5dEVveUI1SVBweWk3dm8weWFndVBoQ1duN1Q4c2s?oc=5",
+          "published": "2026-09-17T10:06:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
+          "source": "Syfe",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
+          "published": "2026-09-18T17:45:32.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore Banks Take Swift Ledger Into Live SGD Payments as BTCPressWire Tracks Tokenized Deposits - openPR.com",
+          "source": "openPR.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWt5aXFtT21yTFBHajQtQmlZNDRzMWpUU3lVTWwzSDM2cnZjcnBLTVVrRUh6N0Zrc1IyQTRtaFJNRU9EWldlRW0xbDlKakhWbWlCOHNFd2dOczlzT014WWxXR1l0dTlMWXdaaW5obTZGRUNJMjZoMHJTNmVYbjg0eFZCOXo0UTRLOWVvX19kMjNqc2JoQldpMXpKdw?oc=5",
+          "published": "2026-09-17T13:51:50.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "UK Islamic fintech Ayan Capital secures £75 million ($100 million) facility originated by Triple Point as it builds towards a halal digit…",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkhVaDktQjM4TWFRRlljY3d2VEdYTHRILUNUYmN0QmtlRmlyVDVSQ1JTMDUyUXh0NVc5RU51ek1ack5MWFZodHRKSkpUV2xORmpHRV9Wc084UFJMUnNiV1ZmX1dObUFVSkF5dEVveUI1SVBweWk3dm8weWFndVBoQ1duN1Q4c2s?oc=5",
+          "published": "2026-09-17T10:06:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Australia’s digital payments future hinging on regulation - investordaily.com.au",
+          "source": "investordaily.com.au",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOendEVk9lcHJ1VTcxOHp3VEJwamE5WEpQOTg0NkVxTUh6cFdTOGk2RHNfVzI1dmFaOHp5RHJGVElQb2g1VG9zb1NQSnE2RWgxV29VMWRvZW9wMmU5a3RuclFUd21iN2NYVzU2bmlwLWVwUVRwcnFGNXBGNXI5ejFtVmNUOUpXYnYtYzJrS2lOTzFoOEhf?oc=5",
+          "published": "2026-09-17T08:46:15.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "China’s economy to see slower loan growth amid sluggish consumption, investment - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmtYMS1fT2Y5c3pZdkNJUVV2cDgxQjJQbXZsalhtemVJanlLOTlVOU8tVEQ1OENtMTUwZGkxa1hqcFY5Nm5OTlFsUEM1TlJrOFRMUWJxX09qMVFxc05yVVBJZ0lWdVdkRzh3RVgwNWhJeFlzZkJUa1hiZ2ZxeVZFbzFhOGZSTEhqQ3M5VkxqTmtjcUY3bGlWNkcxb3g1ZmJ1UDZVXzFOc3gxVGpQaU1mNFRB0gGyAUFVX3lxTFBTLU5VV0VCYThJQTdKMlpSaFVZZGdHanhpYTFSUkpPaWVnZEdrVGtLaGtEblZub2NidktvYTh4SW5sZFlNZlhFaV9pZjhpZTZaTFRmQUtxOERYTTRROGpsaHVaNUpNTlhLbFNQWE81bGEwZFk3WW42MXhzSW8weFh2cE9MR0tqUUpmWkstUk9GRkRkS0ZtODRpQjZxbTZJb3RzdS03eFdLVEV0MnVtR0diNUE?oc=5",
+        "published": "2026-09-15T09:27:55.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "Video Transcript - HSBC Private Bank",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSkF3R3k2VnpCOFdOcTh1R21oRlRpSnZlc0gyenZGcjQ2ZEc4VWpNOGZZQ21oYms3UzBmTmM0dVMyTVFoYUp2Vm0wMTI2WGVhdFZBenUtSDZpUkhiMXp1eEw5c2RmR2p5VmVhbi1VSDJJXzYyaGVVZHhNa2VmNXMxWEFkZzh1MUhGenBCT0loTmFobmZmeGlPekVPb3d3a1FLZ3l6LWNEWnhsc2tsd3FmZklXU21sUlVYeXhONFNNWmpKeVMzUEUzb3R5TmRrai13dDd1cUw0Ulc1V2l6Yzk3MURTVGM?oc=5",
+          "published": "2026-09-15T13:00:30.000Z"
+        }
+      ]
     }
   ]
 }

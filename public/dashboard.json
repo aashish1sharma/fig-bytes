@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T06:25:56.505Z",
+  "generatedAt": "2026-09-19T06:24:31.335Z",
   "region": "India",
   "title": "India FIG Bytes",
   "regionId": "india",
@@ -34,48 +34,343 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Press",
-          "headline": "Is Punjab heading towards UPS-like pension scheme? Here’s what its notification suggests]]>",
+          "tag": "Product",
+          "headline": "Monarch Mutual Fund - The Economic Times",
           "source": "Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/save/nps-vs-ops-vs-ups-ispunjab-heading-towards-ups-like-pension-scheme-heres-what-its-notificationsuggests/articleshow/134311485.cms",
-          "published": "2026-09-17T12:05:50.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1FSdjM1bjJuNVgzdjYwN2h4eVBmUU8xbHNnLUZlMVJORDM2TEdjQmlBWFlqV1pVWjhTWmNBSHhzOUp5RHJ4a3JWemVpV2lqbTdCR0R2YUdrTnhMOHBESmNzRGtRRFFSNVZ6Y1FiVXlERkNWT1dJemFxX3RkV25EUGFkaWN0NVlNa25seEdyV0t3TUFzeGVF?oc=5",
+          "published": "2026-09-19T01:50:50.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "TRUSTMF Short Term Fund - Direct (IDCW-M), Short Duration Fund, Trust Mutual Fund, Aum(Rs Cr) - 1164.61 - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX25zaDRaYVVkdGJqaWFMV0ZTOHZ0NTBCSnd2SE1fSDFzTWRWQlItczNKLTVmZk9XRV84N2l5djg2RTV5Um94TEhmWGJIcGdFQmtIUGRnTjI4M0F3UUV3VGVRb3ZYNjlrcUxJWnhGUzEyczRBcVJwMHo2SHRlY0VMVXpkam51WFJnM0UzMjVwQ01WRURMb2NVcm9LdU01UQ?oc=5",
+          "published": "2026-09-19T00:09:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "UPI MDR explained for investors: How will new charges impact your mutual fund SIPs and stock investments? - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FcmlTQnB5ck1IaXQzMW82THpiMkRLYjBZdm1DM3hYalV1ckRHNnN6dWVYVE9KVWRSTlBvTjl0LXhaWGhGRVNaUk43X3NGVTl1QXF6dWtWTHFPLTFzRXBfc1ZKVmxBMTV0MmxfTDA4dmVJeTZsNXZz?oc=5",
+          "published": "2026-09-18T22:11:03.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Press",
-          "headline": "Is Punjab heading towards UPS-like pension scheme? Here’s what its notification suggests]]>",
+          "tag": "Product",
+          "headline": "Monarch Mutual Fund - The Economic Times",
           "source": "Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/save/nps-vs-ops-vs-ups-ispunjab-heading-towards-ups-like-pension-scheme-heres-what-its-notificationsuggests/articleshow/134311485.cms",
-          "published": "2026-09-17T12:05:50.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1FSdjM1bjJuNVgzdjYwN2h4eVBmUU8xbHNnLUZlMVJORDM2TEdjQmlBWFlqV1pVWjhTWmNBSHhzOUp5RHJ4a3JWemVpV2lqbTdCR0R2YUdrTnhMOHBESmNzRGtRRFFSNVZ6Y1FiVXlERkNWT1dJemFxX3RkV25EUGFkaWN0NVlNa25seEdyV0t3TUFzeGVF?oc=5",
+          "published": "2026-09-19T01:50:50.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "TRUSTMF Short Term Fund - Direct (IDCW-M), Short Duration Fund, Trust Mutual Fund, Aum(Rs Cr) - 1164.61 - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX25zaDRaYVVkdGJqaWFMV0ZTOHZ0NTBCSnd2SE1fSDFzTWRWQlItczNKLTVmZk9XRV84N2l5djg2RTV5Um94TEhmWGJIcGdFQmtIUGRnTjI4M0F3UUV3VGVRb3ZYNjlrcUxJWnhGUzEyczRBcVJwMHo2SHRlY0VMVXpkam51WFJnM0UzMjVwQ01WRURMb2NVcm9LdU01UQ?oc=5",
+          "published": "2026-09-19T00:09:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "UPI MDR explained for investors: How will new charges impact your mutual fund SIPs and stock investments? - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FcmlTQnB5ck1IaXQzMW82THpiMkRLYjBZdm1DM3hYalV1ckRHNnN6dWVYVE9KVWRSTlBvTjl0LXhaWGhGRVNaUk43X3NGVTl1QXF6dWtWTHFPLTFzRXBfc1ZKVmxBMTV0MmxfTDA4dmVJeTZsNXZz?oc=5",
+          "published": "2026-09-18T22:11:03.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Monarch Overnight Fund - Direct (IDCW-M), Overnight Fund, Monarch Mutual Fund, Aum(Rs Cr) - 1001.33 - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVNIZXBmS2ZQLTRYaWZTbk50QVpHYndTekJ0WnNpZzRYNHFyZzYyVEt2MmctUk81cXVITzVnbm4yZW1SUnVBdk1vb3paTW13RVhSbEJ2c0Z4Q040QUtiaXZ1ZDQ3Vms4bVVZU1ZOT2xKVHJud1gyVmk0alJhZ1FqaGJsV1VPTVVyZmNPX2RUeWVCSUZqU3VfaXBOLXU?oc=5",
+          "published": "2026-09-18T21:13:09.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "HDFC Mutual Fund buys 13.9 lakh Entero Healthcare shares from Prasid Uno Family Trust in Rs 236 crore block deal - The Economic Times",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05UkYwS1gtY1RMLUNqenFmcElYb2FUNHRUMmxid05UZVh4SXJOaVhyS2FGaWQxT0ZPbE9HOHVfM2cxOWpKZEJlR2loNmItOFBSVER1NDFkNU9sdlRQZ2hzOElTNVVHdDBWeTRac2x3OEx5Nm9yTGx3Z2l5Zw?oc=5",
+          "published": "2026-09-18T15:23:06.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Ashika Global Securities incorporates two subsidiaries for mutual fund business - scanx.trade",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWNuV1NMZzNwc1BCYUl3MXVuY3JEel9jRkNIUm1ZeWJ1alRwUHVhTEVXdG5Cd2pCNlNRN0htaElHS3FCSE1kaERYVVFsaTNqQVFoMkxZWVd6bUlyUml0Sk9PMG9Ydm41Y3VPRkd1Zm5iZ1Y0NmhWMWRfdGJiYmVFdF9xdjQ5RUlYdFhuUGM2WEtXM0kwQXFRRU9WY2p6MThjeGVWZDc3ai14QTJYZk5zWGVFMTU0d0MtRzdNT0ZsTkc?oc=5",
+          "published": "2026-09-18T08:39:39.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Bandhan Mutual Fund: Increases Mastek Stake to 5.05% - InvestyWise",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91X2s5UDVabmVKYzhSSUpoblhlaVA4WTI3SlVreTdkNm5xY0tXZlEwc2o0cWZNZkRBekxfNFNlRlVBajBpTmF3dlhic0VvSUFRV0k2OERRWFdFWE5CbTZubFlaV19kQjVlVU1iSVVNNkxVUnFReUdWNUtB?oc=5",
+          "published": "2026-09-18T07:34:10.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Mirae Asset BSE Select IPO ETF - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM2EyaVRQOUx3b3hKZW5VTl84RVR2cTQyenVFaEhKMU5nU3JOT2xpWGpPREhsNnF2MzNlZ1IwdjFGa0FmMzh2WDFwa29ndm5EaE96YnlHZEVELTh4a0l6Sl8xOFNVckVlUGxOVWFBclhVNVhRdU1nbE9iNnVYSUpSZ1A1U1hOcUpwWkE?oc=5",
+          "published": "2026-09-18T09:31:00.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "Monarch Mutual Fund - The Economic Times",
+        "teaser": null,
+        "source": "Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1FSdjM1bjJuNVgzdjYwN2h4eVBmUU8xbHNnLUZlMVJORDM2TEdjQmlBWFlqV1pVWjhTWmNBSHhzOUp5RHJ4a3JWemVpV2lqbTdCR0R2YUdrTnhMOHBESmNzRGtRRFFSNVZ6Y1FiVXlERkNWT1dJemFxX3RkV25EUGFkaWN0NVlNa25seEdyV0t3TUFzeGVF?oc=5",
+        "published": "2026-09-19T01:50:50.000Z",
+        "paywalled": false
+      },
       "companyUpdates": []
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Regulatory",
+          "headline": "Sebi board may discuss PMS, ad code, settlement rules at 24 September meet - Livemint",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnQ4OF9PRWpkWF9rZ21QbzVXOVp3V0syc0lYbm9DcFhEbHVmM1luNjJBVjdlaEk4Unc2bk9HNHBKSFJrcmw4WWpaTDVVNTl6Y2ZCT1pQZ0lONk9lR3FTWm5PTExTTVhyZkZxYnhRLVRwS2g2OF9JTkdhaGpGZmRUNzZOUVVITXdBQU16QWV6bm1Gb2U0OEtwaUxYWGhGTHBQODVzUFJZY1QwSVRjSDdzX0pZMGNDZGx2NkNVQmlJbVdycE3SAcMBQVVfeXFMTmJ0ODhfT0VqZFhfa2dtUG81Vzlad1dLMnNJWG5vQ3BYRGx1ZjNZbjYyQVY3ZWhJOFJ3Nm5PRzRwSkhSa3JsOFlqWkw1VTU5emNmQk9aUGdJTjZPZUdxU1puT0xMU01YcmZGcWJ4US1UcEtoNjhfSU5HYWhqRmZkVDc2TlFVSE13QUFNekFlem5tRm9lNDhLcGlMWFhoRkxwUDg1c1BSWWNUMElUY0g3c19KWTBjQ2RsdjZDVUJpSW1XcnBN?oc=5",
+          "published": "2026-09-18T07:53:41.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Deutsche Bank weighs deeper ties between asset and wealth units - Traders Union",
+          "source": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUG9hLU92NWRteUhTOFQyUldjNmJaOTdXbDZxTVc4RnZUU200NHZtak5tV1lNa3NRRGl6WnBxWFM2N3NBTmFIaXQyUmh1SlVoNW1sdHhRZVF3anF5bXlLQWZzMlMxZl9CVEhoWjA1N1lWTUVoNlBpNmtXSmJ0MFNpNVpLdGh5WVVrS0VCQVBvUFpWZw?oc=5",
+          "published": "2026-09-18T15:10:38.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "India’s wealth management sector may grow 2.5 times to $436 billion by 2034 - Telangana Today",
+          "source": "Telangana Today",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTR1T3A3b2luRHFreGt0TlBvNGZDSURlclF0ODEySDg2ekFRbVlKT0ZqUTl0cVMtZGR4cnc3dlEwaklnYTN0eUlTRXhaaGVzM2ZicXJBcllkSTBEZ29VM21rdlpSSnFmcVAxWVBwM04tMWkyeFJKaXVCSngwSnNfR2tLekNfRlZhZW84dVRjNHpuOWN4eTdpc3E0aHBBYXFrclE?oc=5",
+          "published": "2026-09-18T07:20:09.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Regulatory",
+          "headline": "Sebi board may discuss PMS, ad code, settlement rules at 24 September meet - Livemint",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnQ4OF9PRWpkWF9rZ21QbzVXOVp3V0syc0lYbm9DcFhEbHVmM1luNjJBVjdlaEk4Unc2bk9HNHBKSFJrcmw4WWpaTDVVNTl6Y2ZCT1pQZ0lONk9lR3FTWm5PTExTTVhyZkZxYnhRLVRwS2g2OF9JTkdhaGpGZmRUNzZOUVVITXdBQU16QWV6bm1Gb2U0OEtwaUxYWGhGTHBQODVzUFJZY1QwSVRjSDdzX0pZMGNDZGx2NkNVQmlJbVdycE3SAcMBQVVfeXFMTmJ0ODhfT0VqZFhfa2dtUG81Vzlad1dLMnNJWG5vQ3BYRGx1ZjNZbjYyQVY3ZWhJOFJ3Nm5PRzRwSkhSa3JsOFlqWkw1VTU5emNmQk9aUGdJTjZPZUdxU1puT0xMU01YcmZGcWJ4US1UcEtoNjhfSU5HYWhqRmZkVDc2TlFVSE13QUFNekFlem5tRm9lNDhLcGlMWFhoRkxwUDg1c1BSWWNUMElUY0g3c19KWTBjQ2RsdjZDVUJpSW1XcnBN?oc=5",
+          "published": "2026-09-18T07:53:41.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Deutsche Bank weighs deeper ties between asset and wealth units - Traders Union",
+          "source": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUG9hLU92NWRteUhTOFQyUldjNmJaOTdXbDZxTVc4RnZUU200NHZtak5tV1lNa3NRRGl6WnBxWFM2N3NBTmFIaXQyUmh1SlVoNW1sdHhRZVF3anF5bXlLQWZzMlMxZl9CVEhoWjA1N1lWTUVoNlBpNmtXSmJ0MFNpNVpLdGh5WVVrS0VCQVBvUFpWZw?oc=5",
+          "published": "2026-09-18T15:10:38.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "India’s wealth management sector may grow 2.5 times to $436 billion by 2034 - Telangana Today",
+          "source": "Telangana Today",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTR1T3A3b2luRHFreGt0TlBvNGZDSURlclF0ODEySDg2ekFRbVlKT0ZqUTl0cVMtZGR4cnc3dlEwaklnYTN0eUlTRXhaaGVzM2ZicXJBcllkSTBEZ29VM21rdlpSSnFmcVAxWVBwM04tMWkyeFJKaXVCSngwSnNfR2tLekNfRlZhZW84dVRjNHpuOWN4eTdpc3E0aHBBYXFrclE?oc=5",
+          "published": "2026-09-18T07:20:09.000Z"
+        }
+      ],
       "insight": null,
-      "companyUpdates": []
+      "companyUpdates": [
+        {
+          "company": "Anand Rathi Wealth",
+          "ticker": "ANANDRATHI",
+          "tag": "Presentation",
+          "headline": "J Kumar Infraprojects to host analyst meet at Anandrathi G20 Summit - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3lqZFFfaHU0SGlkLUM5M0Z3UC1LVkpmRVJGTzF0MWZRN2c5V0I0bkdYQlByS1I5OGtGLUlMWFhZMHJYY0VPajNpR0JRTm0tZDJDRWRyQ3hjeENfcERjOXRCVHY4aTNhOXFmQ3JNeHJBcEVKMklyQXJQMVF5Y0hvYWMzellyT1dSS2RlVk1vZVhxNFFMcmtlZC1hOU91RElseVpESkRfcXp3Z1VaNnZ4U3dhdW1XX3JFUkE?oc=5",
+          "published": "2026-09-17T13:36:45.000Z"
+        }
+      ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
+      "bullets": [
+        {
+          "tag": "Regulatory",
+          "headline": "Life insurers go 99% digital amid IRDAI's distribution overhaul - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3FFNHpCSGNZUE9iWEZwNzRURm55bVVUNmh0UGdPRjBNb0gwZWtlZ21nblczcE1STEdUY2EySHZuVTJ6bW5md2Z6emxFcDkycWRSNnIyQnQ0MHRtVGNEUUV6T0dhOWRkR2pfbFR2SlpySHFEVm51bXR0VWJmeElXcTZXelNudm1pYUx3N1R4dE8xblJOX2FSSDVqMUxHNDZFMGxBUFpySHotenRwbHdmWEI3WG5OdHZYRTlEbW5n0gHDAUFVX3lxTE9xcFVjRzQtdF9SWmpFU3hpaEJBaEpJb2J1Q0l3eTNpWHIybVJTc1pnU1ItMXVyNHhyNWJEWFU1R25oTlUwS1F6YnJWOTZheGZfbHhLcHhNbmY3Tjd4ZU1lbGZVWDlKRmYzWDltYnBLeFB0bUloaFhJR2N3bkxWZlN6UG9MS3VJazRjLUpoci1mU1Q3c2UxcVhkUmtFeTZReExUQ3VGcUFHWHl4WGtSR2YzeE4tOGVDaHhqbTVkTWIyTjJGSQ?oc=5",
+          "published": "2026-09-18T09:04:25.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Is your agent pushing you for health insurance portability? Read this first - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbnlnVG8xUE0tcjktdDRUNDJWMmtuZndiM0wxTklTd3RuUjhGaHR0Z1BiTkgtOEl5UFZCT3BvdDJoendtQWVQMjRrSzZPalFZUk5sVGh4TENhZ3ZIcDN0UnNqTVhxUlpiLXdGT29nM1ExaVAxcmpua0l6WnZ3aDVnVjdUV1NJRUlYTkhGQ3pQQUpucDlIdU5pUmhMRzlkampkUXdOTktxY2RiNkhGZHk1ajI3cGN1VWFwV0tCX2tsQXB1N3VQWlA3Y1RMVnZSaGxZTG5nbjQ4UzV2cm51dkJMQk5n0gHnAUFVX3lxTE5vOWZqWWhLbDVQRlYwRXFDeXQ0U0FQWEQ1RmRHZllHMjJlQlJCY2N5SlpZOE0wNHRBQ2ZHbFR5cjVTa2tYV2ZqTUxQUUs3NGVTUHUwMFlhWkdKUVJVTzN5T3ZrZmg0dXRqRDlLaF9hZ3Rtbm1TWnJfSkhlSF9qeDlZY1IwTUtMUDB2NjhSU2x1QmQxRHAySUk2Tkl5Q3kxQVNKVl9UWWY1YklUdGh2WjhhSi1uaE1mU05jWkRtV3RER3JfVlBYWU9BblVVUWNUVzY2UnNlb01YMkdkaFczaS1rVmNrNVRObw?oc=5",
+          "published": "2026-09-19T03:32:17.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Unlimited health insurance explained: Does it cover every medical expense? - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaGlMb0NLcGM4SmRaU0pKcUl1eHU5SklJbDNJbGZtc0RzN1JFYXZGSkR3WlpqVHZJYm94R2ZhNndmWElRcUJuLUpZSTJoRElOcTdaeE1mZ2ZLZVdkaXlkUVd2c3FNdVppZFFvR1FZdktNTE5rN0NZQ0txbE9kbngwVDhkUE9IUHp2VG84Sm9EMXBjM1E2Z0szclNLSFVRV1ZNTjBPalJjWnpFbmRaMWxDN3d1emRZbllRbm4zZkpTWkVFa180TDdLWlc0RlNYVm13d1dCdzROV29XME5YMVFj0gHkAUFVX3lxTFA3SlR2a29wdDJDck9BeWdJVGNna0pHdmlMNkpxdUY3SmpwZXctYTdvVTQ4cGN4Ni0tZW82d3V2MlRPdnkwUGpETks0NVh4T0U0dnNFLUtFSXo3cHVZQ2xqVmFmYWtxSUkybVE2a1lLUklnemx4YzlRVjN3anR4R2U1VWVLUTJmaHNqcDFJWHRZeDF1STRENVE0T3Q1Njl5OFNGNnA0cGQyT29nS01YNmpEWUozcGtPb3o2TnFkWlZhVEVVQUM2QVhxbURHdjhHWGdkbThUQjNycHNTR2s1ZjkxZGw0VA?oc=5",
+          "published": "2026-09-18T06:33:47.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Regulatory",
+          "headline": "Life insurers go 99% digital amid IRDAI's distribution overhaul - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3FFNHpCSGNZUE9iWEZwNzRURm55bVVUNmh0UGdPRjBNb0gwZWtlZ21nblczcE1STEdUY2EySHZuVTJ6bW5md2Z6emxFcDkycWRSNnIyQnQ0MHRtVGNEUUV6T0dhOWRkR2pfbFR2SlpySHFEVm51bXR0VWJmeElXcTZXelNudm1pYUx3N1R4dE8xblJOX2FSSDVqMUxHNDZFMGxBUFpySHotenRwbHdmWEI3WG5OdHZYRTlEbW5n0gHDAUFVX3lxTE9xcFVjRzQtdF9SWmpFU3hpaEJBaEpJb2J1Q0l3eTNpWHIybVJTc1pnU1ItMXVyNHhyNWJEWFU1R25oTlUwS1F6YnJWOTZheGZfbHhLcHhNbmY3Tjd4ZU1lbGZVWDlKRmYzWDltYnBLeFB0bUloaFhJR2N3bkxWZlN6UG9MS3VJazRjLUpoci1mU1Q3c2UxcVhkUmtFeTZReExUQ3VGcUFHWHl4WGtSR2YzeE4tOGVDaHhqbTVkTWIyTjJGSQ?oc=5",
+          "published": "2026-09-18T09:04:25.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Is your agent pushing you for health insurance portability? Read this first - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbnlnVG8xUE0tcjktdDRUNDJWMmtuZndiM0wxTklTd3RuUjhGaHR0Z1BiTkgtOEl5UFZCT3BvdDJoendtQWVQMjRrSzZPalFZUk5sVGh4TENhZ3ZIcDN0UnNqTVhxUlpiLXdGT29nM1ExaVAxcmpua0l6WnZ3aDVnVjdUV1NJRUlYTkhGQ3pQQUpucDlIdU5pUmhMRzlkampkUXdOTktxY2RiNkhGZHk1ajI3cGN1VWFwV0tCX2tsQXB1N3VQWlA3Y1RMVnZSaGxZTG5nbjQ4UzV2cm51dkJMQk5n0gHnAUFVX3lxTE5vOWZqWWhLbDVQRlYwRXFDeXQ0U0FQWEQ1RmRHZllHMjJlQlJCY2N5SlpZOE0wNHRBQ2ZHbFR5cjVTa2tYV2ZqTUxQUUs3NGVTUHUwMFlhWkdKUVJVTzN5T3ZrZmg0dXRqRDlLaF9hZ3Rtbm1TWnJfSkhlSF9qeDlZY1IwTUtMUDB2NjhSU2x1QmQxRHAySUk2Tkl5Q3kxQVNKVl9UWWY1YklUdGh2WjhhSi1uaE1mU05jWkRtV3RER3JfVlBYWU9BblVVUWNUVzY2UnNlb01YMkdkaFczaS1rVmNrNVRObw?oc=5",
+          "published": "2026-09-19T03:32:17.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Unlimited health insurance explained: Does it cover every medical expense? - Moneycontrol.com",
+          "source": "Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaGlMb0NLcGM4SmRaU0pKcUl1eHU5SklJbDNJbGZtc0RzN1JFYXZGSkR3WlpqVHZJYm94R2ZhNndmWElRcUJuLUpZSTJoRElOcTdaeE1mZ2ZLZVdkaXlkUVd2c3FNdVppZFFvR1FZdktNTE5rN0NZQ0txbE9kbngwVDhkUE9IUHp2VG84Sm9EMXBjM1E2Z0szclNLSFVRV1ZNTjBPalJjWnpFbmRaMWxDN3d1emRZbllRbm4zZkpTWkVFa180TDdLWlc0RlNYVm13d1dCdzROV29XME5YMVFj0gHkAUFVX3lxTFA3SlR2a29wdDJDck9BeWdJVGNna0pHdmlMNkpxdUY3SmpwZXctYTdvVTQ4cGN4Ni0tZW82d3V2MlRPdnkwUGpETks0NVh4T0U0dnNFLUtFSXo3cHVZQ2xqVmFmYWtxSUkybVE2a1lLUklnemx4YzlRVjN3anR4R2U1VWVLUTJmaHNqcDFJWHRZeDF1STRENVE0T3Q1Njl5OFNGNnA0cGQyT29nS01YNmpEWUozcGtPb3o2TnFkWlZhVEVVQUM2QVhxbURHdjhHWGdkbThUQjNycHNTR2s1ZjkxZGw0VA?oc=5",
+          "published": "2026-09-18T06:33:47.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Religare subsidiary Care Health Insurance allots debentures worth Rs. 100 crore - Business Upturn",
+          "source": "Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFdwLXhrN2JISWg0NTBRRFBZbUctU2ZSNkUweVVJZ2czUW9yekZQQ0VhVUNpaHptZzI0aFpOSWQyc0tPRjdWVDZaSlRPQmxrLWZnSnFXQXVGdl9GZkxSelR6M0NucmlCUDBqb1N2cnpBMXo2aXhLcFVFMFVsbzFZNXItX1RXa1RyUENlQmRVU2k2OElGdm9VWTRfQ1VpaHFtVTNZRjVPeDhLZFRGSE9vZXMzRmI2QQ?oc=5",
+          "published": "2026-09-18T12:55:32.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "He trusted Canara Bank for 31 Years, then was sold a life insurance plan that pays at age 93; IRDAI orders - The Economic Times",
+        "teaser": null,
+        "source": "Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQUkFiaVdmSzlpTDlWMFRPOHRXWDVVT2tiZmlEU2JzMTcxTTJVZGF6V1JLNFZHSnFidGFPcDBoeVRhc0E0b0lNZVp5cEx2RXJRaS1DVVVRbzI0Y1hkVTZVUUVyNEhHR1RHdE1tcVljMDF2bHRXZXVsZ2JFVG05a1g1WE5LN2dsRGs2Nl9zU1IxY0RHTjVBZU0yTllPZDBIM0pjeEp0Wl83MlR0blBWaWtSalRtcWd2a2Q0eURlNGFZTVBTVWhFVFJub0g5LWNSN1NaOFl5cWZWaGdoM1liV2J0NmNWaVQ0N3BiQkJ3anlMcGh4UWZwMmUxZnhNVFZmTWtrN0thOEk4UnFxUlY5MVJ3a0JvNGhHQktSYXJPYXhlUmxZZDAwNXV3SnpiS0pzaXZBbWh1a0RINWQ2dFBuck5vQWh6NEVFd0dQZ1RmcHBOM0NSOUxnUW9JZVpIcHPSAdYCQVVfeXFMT1lSVnJ4RVprQWhPa05hUXd0a3pMSXRUZ0xEMW1YdjgzNXVUb3JOUWJ0bU5uMGxMMFh0WTNGNVM5MzJ6Q2twYzhqX2VsN3E3a0JFV1I2dGV2V19QUEowTXpSYmhjV29MM2tTekhfcEQ5QkZLRE9YTjE5MzIzTy1DTXh6Q1I2Vy1wSkxkdDFCQVlubmNCR01JN3NEckN3WTU5WmVSal9PWXZObmNobC0yaHdQanlMcFlwei12OHEtc2R5bUxLaHdReVlJalE5YTA1V2FqempoOFpFSjlIWUNweE5HOGxxMnp2RmNYZl9JZHZBQ3RrY2I4OENlUjM4djRkSGowOFYwTmRLdUN3ZkdCcjVKRHNHZ3VnenNSa1FsdGZuMVZvNXZZZTN4RlRiZTNJR19vWGt0TVNtM2FRbzYyYzhGc1ZVdVp1ZW9uczEwUWpZanBJZU9n?oc=5",
+        "published": "2026-09-16T07:05:55.000Z",
+        "paywalled": false
+      },
       "companyUpdates": []
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "bullets": [
+        {
+          "tag": "Regulatory",
+          "headline": "UPI MDR apprehension unlikely to spur higher cash usage: RBI DG Murmu - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVpaeUR1SEdQNzgzTEhNVFU3aUl3TURmYVEtTWtUcGRDX0J3VkdLZ0R2VWx0ZWMzUlZPMlNHUFFFOWcyRkVWN0g1R1BLc1E2VzFIQXFWY3RuVXVMNzVjM3ZoeWlmVUhqVEYwNjlyVDhPdDA1UnB2WThhWS1aVHhhXy1HMW9YaFNLRWhnM3hBYXpWNUV1TWJYOFhZLXI4Q1FsREo5S2tUVFdDVVdnel9xdGtSaFhjb3o4bVhwcjgtOFNYcEI5NnZBSjE3RnNtTkkw0gHWAUFVX3lxTE5uTkdycWp3bFNSUzdhUXZxTnlsc3hwRFV4WnZSbllZdGhGS1luRV9Yc0tGNTdKTUFuVGpPSGdMRFE4WGhUOHBTeDhoRWYyV3Y5S3NUSlhiR2p0eTlLR2dEYm9iYVpGci1LVWd1aEZ0SjI2WHd1QjR6MmM4ZWtmMG92RVkwS0JhTXBab1ZPQ0Vvd1l3b2dCSU1SRTYwdHc1WC1rUTVBdFh5ZjY5VXM3SVEzY2h5Z0JGLWliZnBrZlB1eGE5Y0wyM2pTQWo1SC15Y3FLV2ZiaVE?oc=5",
+          "published": "2026-09-18T12:40:02.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI's Rs 2.23 lakh crore liquidity absorption: what happens to bank margins? - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGlveW4yX3ZHZEZSM2NYOW1IWGdKejQ2QVdsMEY5OUJGNEdSdUlOeFo4YTBYclotMlptUFVtX002VG9JVFZUOGRnVFJsajhwdkt6Z1AyTy15S0RUTzEtMk9GcFBqS3pLYXI0ekltblhNRVNPbEgzMnM3bFg0NG5WcWJIM3ZvbU1nVnZjOTVFUm9rQWhDcWJaWDRSa3E3RUFjN3lRQjZwWG91cG43cnF0TlNyci1UWWlRNWNUWVRhaGlKZ2lfcnhFeVhMQ1piWVXSAdQBQVVfeXFMTjJGVmVjb3FsMUtvM0FnN2o0aWdab1RPeEtkNmNXQWV0U3NxVC1FRGtybWs1YVR4NzdzR1FZRHU0T0MzbUFPM2hEd2VuQ0d5ZHE0ZXVuQlBQTkhGQVNDREI4cWM2VHZzdlRZWW03ektfU09JeXo3NzJ3YkNVM0F4dGlybUdzS25hWnJqRGhnYnhRYndXYUtWWkhWbjE0MW5IZGo5bGZaeU85aTVfWW8xaXFSYUFZZ0xIWXl6dGVySWJ0SkRPR3NaT0ZuM0ZuUUloNTJ6ZDA?oc=5",
+          "published": "2026-09-19T02:21:10.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI extends overseas KYC certification facility to FPIs - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkJRbkFQbDFjeXo0ankxa2hPNlpIWU11WGNVVFM2dmVNdkxRSmF6eVduc0VoQ0I3WVB1NWNudWVfVlpKdWIzZWJMamNZQ2oxOWE3dVVianJzSXUwQ3NPNGJGanZQQ1NlaDkyV3l3aFFQaVFMcFJyZUY5ZmpGbWFaeHI1aFRUWUVUSWxINFIyUV9ySmFud3pqVVBTc0tQdVA2RngtOFlLMXN6SEZmbVNUMmYteHdTVTQ0RElaZtIBvAFBVV95cUxPMkJRbkFQbDFjeXo0ankxa2hPNlpIWU11WGNVVFM2dmVNdkxRSmF6eVduc0VoQ0I3WVB1NWNudWVfVlpKdWIzZWJMamNZQ2oxOWE3dVVianJzSXUwQ3NPNGJGanZQQ1NlaDkyV3l3aFFQaVFMcFJyZUY5ZmpGbWFaeHI1aFRUWUVUSWxINFIyUV9ySmFud3pqVVBTc0tQdVA2RngtOFlLMXN6SEZmbVNUMmYteHdTVTQ0RElaZg?oc=5",
+          "published": "2026-09-18T13:46:11.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Regulatory",
+          "headline": "UPI MDR apprehension unlikely to spur higher cash usage: RBI DG Murmu - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVpaeUR1SEdQNzgzTEhNVFU3aUl3TURmYVEtTWtUcGRDX0J3VkdLZ0R2VWx0ZWMzUlZPMlNHUFFFOWcyRkVWN0g1R1BLc1E2VzFIQXFWY3RuVXVMNzVjM3ZoeWlmVUhqVEYwNjlyVDhPdDA1UnB2WThhWS1aVHhhXy1HMW9YaFNLRWhnM3hBYXpWNUV1TWJYOFhZLXI4Q1FsREo5S2tUVFdDVVdnel9xdGtSaFhjb3o4bVhwcjgtOFNYcEI5NnZBSjE3RnNtTkkw0gHWAUFVX3lxTE5uTkdycWp3bFNSUzdhUXZxTnlsc3hwRFV4WnZSbllZdGhGS1luRV9Yc0tGNTdKTUFuVGpPSGdMRFE4WGhUOHBTeDhoRWYyV3Y5S3NUSlhiR2p0eTlLR2dEYm9iYVpGci1LVWd1aEZ0SjI2WHd1QjR6MmM4ZWtmMG92RVkwS0JhTXBab1ZPQ0Vvd1l3b2dCSU1SRTYwdHc1WC1rUTVBdFh5ZjY5VXM3SVEzY2h5Z0JGLWliZnBrZlB1eGE5Y0wyM2pTQWo1SC15Y3FLV2ZiaVE?oc=5",
+          "published": "2026-09-18T12:40:02.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI's Rs 2.23 lakh crore liquidity absorption: what happens to bank margins? - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGlveW4yX3ZHZEZSM2NYOW1IWGdKejQ2QVdsMEY5OUJGNEdSdUlOeFo4YTBYclotMlptUFVtX002VG9JVFZUOGRnVFJsajhwdkt6Z1AyTy15S0RUTzEtMk9GcFBqS3pLYXI0ekltblhNRVNPbEgzMnM3bFg0NG5WcWJIM3ZvbU1nVnZjOTVFUm9rQWhDcWJaWDRSa3E3RUFjN3lRQjZwWG91cG43cnF0TlNyci1UWWlRNWNUWVRhaGlKZ2lfcnhFeVhMQ1piWVXSAdQBQVVfeXFMTjJGVmVjb3FsMUtvM0FnN2o0aWdab1RPeEtkNmNXQWV0U3NxVC1FRGtybWs1YVR4NzdzR1FZRHU0T0MzbUFPM2hEd2VuQ0d5ZHE0ZXVuQlBQTkhGQVNDREI4cWM2VHZzdlRZWW03ektfU09JeXo3NzJ3YkNVM0F4dGlybUdzS25hWnJqRGhnYnhRYndXYUtWWkhWbjE0MW5IZGo5bGZaeU85aTVfWW8xaXFSYUFZZ0xIWXl6dGVySWJ0SkRPR3NaT0ZuM0ZuUUloNTJ6ZDA?oc=5",
+          "published": "2026-09-19T02:21:10.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI extends overseas KYC certification facility to FPIs - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkJRbkFQbDFjeXo0ankxa2hPNlpIWU11WGNVVFM2dmVNdkxRSmF6eVduc0VoQ0I3WVB1NWNudWVfVlpKdWIzZWJMamNZQ2oxOWE3dVVianJzSXUwQ3NPNGJGanZQQ1NlaDkyV3l3aFFQaVFMcFJyZUY5ZmpGbWFaeHI1aFRUWUVUSWxINFIyUV9ySmFud3pqVVBTc0tQdVA2RngtOFlLMXN6SEZmbVNUMmYteHdTVTQ0RElaZtIBvAFBVV95cUxPMkJRbkFQbDFjeXo0ankxa2hPNlpIWU11WGNVVFM2dmVNdkxRSmF6eVduc0VoQ0I3WVB1NWNudWVfVlpKdWIzZWJMamNZQ2oxOWE3dVVianJzSXUwQ3NPNGJGanZQQ1NlaDkyV3l3aFFQaVFMcFJyZUY5ZmpGbWFaeHI1aFRUWUVUSWxINFIyUV9ySmFud3pqVVBTc0tQdVA2RngtOFlLMXN6SEZmbVNUMmYteHdTVTQ0RElaZg?oc=5",
+          "published": "2026-09-18T13:46:11.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "IDPIC running on pilot basis in 8 banks to boost cyber resilience: RBI Dy Governor Murmu - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOFc3NDRqZFdUM1ZLRElNazl0SDdjUTVnb0s0akl6OFhsaG9QbVlfWlk4WXhJN2tOV0hBcUl5a3FvX2liNTV2UDFDYlM2cEYyVEFLNEJJaEZSbmd0Rno4UlFnSU8zMWdkMDZyMTVEeE9hVVZvQnVCNTIzb0o1dncxa3Q0YnFtUmo0QjFMVHNEajlkd0FXbVRVQjJ3VzZHQmFfeWJPTkFvOHBTRzhVcnVqU1NpcERxZ1lHdTc3SnJLcmh0Wkl4WEZWbm8yNlRKeUVFTnU4dlAyMmhHelJfdlExZDBvNkgyQ1HSAewBQVVfeXFMTjRCdWlNRmRkVDdRM0FRelBwQWtmZjd3bU5NZlpIX3NVWVFCdDR6Rkpxbnc3NExyaUp5ck1SVHNGUDFjMjg2cE5pVEh0Ulcwb1phSHZHLTFSX3QxYWVTVFprZ2FsUVpnUWNQaXdhTXpwUEpuOUplUXJGLTVLZkowQ0ZmOFd6X19qUGE5cklFMkhnVUV5VlFxTnZOTk1nVGRrSS10VWotSzhITkd6aXZ5ZG9lQkJJWGNzcVhVTUFDdEpPTXo5SGtWamxxVnAyTUtfM1J5bmpFNHpyd19tdzJlOWJ0ZnB3cW5GNmY0ZHQ?oc=5",
+          "published": "2026-09-18T13:26:30.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "India's outbound FDI rises 23.3% to $3.8 billion in August: RBI data - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUV0RlBYUGtrVEVtSFAzWEgxck11RHZGTEpTU2xJMHM2VW1zbWhlYm5jaGE1aGttSUxQM3ZRUWJiSnB3LU1NcDNnOUVlLTFMV3JOOU0zbFFKdmtfb2VybmhXMDNhYzFEWUphNkdET1dJZmxzeUlnaHc1NFdzTWplVXpYeERTSDZoQWQtRHFCTDZoc0FibFVyZXFNWGxLUXQ4Mll1RjBYdTVzNXROb29SeW1XWWtfS281NENONUZzZWNsampJWDJQREpnNFPSAdIBQVVfeXFMUENMcjdUMHUwbXVnX0I0X0FWdTQwWVJ3NjFtV2g1R2RycmFNS0ZLa3NyRHFKN2VWRkRQQkJsX1R5X3plRklBTEU2d1lBSkhpRG5YeV93RzYwRGpXQlBWLXVjbm9HUWtua1I4N09UN0hqd1FrNEczcXVTRDZBejhDMU9hcERMOFpWZ0lnNVN0VFZ0Z2hjTTZCOUhLbEhTc000OUF3dEhyRXVLTjRIczNBcnRHRkZNWDd4TGpiZ0I3ZDExSnJsSERtVXg0OFgyMmFSd1lR?oc=5",
+          "published": "2026-09-18T13:02:16.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "RBI absorbs ₹2.23 trillion via variable rate reverse repo auction - Business Standard",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU3haOHBMeXlwbGI3VTBRcHpYbnZnNnJmYWhmMXpENmFCX3h2ZWNqZ21kUnpZVjFhc0M2VHUwTmlueGF6NDlVWUZ2eUpEd2RwbklHNkt1eGRRZ0FPdmZaT0VxSkl5Ny0xWjdLdkxlVVI1SURVYnpBM1d4WGVpbWFxcUY5Y1UtYVdOTm1HU003NklVNzdQQmJUUXB5RDFmMEpjRUZicnY4Y3laT2tfT3c1SjNiMVVvT0piUDJ5dHN6OGozLTN2T3dFNXdsNNIB0AFBVV95cUxPSURtNjY5NjR3OXA0ZFlaTXZod0x3MF85SWtSUXg2WUpJR05uRmRZYThwYlROMEpDSVJ6Y2pDam81MHFiMW1teWZfWWplRzdNcHNWb3dhMVo5aW9nUm94WnFwMUhrZzFUMHhZTVg3bG9NcnQ0X2NlVlF0dmRvYkEzMW5KT1lrNG5WRl8xSXdSV2d4aWFoYlJKZ1BIU0ZUUzFCNFotX09tWjVhcnpSU2VBRDlvRHlTX2g5a0Z5WERHMkJlWDMyRGtfal9QNUVJcWNz?oc=5",
+          "published": "2026-09-18T09:53:07.000Z"
+        },
+        {
+          "tag": "Regulatory",
+          "headline": "Tata Sons listing: Does RBI have the power to enforce it? We asked a few legal experts - CNBC TV18",
+          "source": "CNBC-TV18",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTFpHd0F4dUhUQ0lsRG9OWFBFNGFWNjlXTFE4ZkdKVEczVVBXZnF5ZEYxdUIxTUNlUC1pNVRjRnZHelA2RkxMVVYxWGI5UGloWGxhcEl0ZjY0VFBxSjJiT1RycEZVa1Q1QXExREVoaWQxbHBBbmM1SnRmaEN0TmkxR2tQNUhYOGNlanNpTlJZQmdUU2FsMnMwV0l1WFVJSmdHdkY0YWlVSGZzTmZDa0d4bVhXRWNqWWp0SE5yaS1XcDNMWGI5ejFfRFdZTi1pZkdPdHFReDZFbELSAd4BQVVfeXFMT2hPajlZOFo4c2w3UHpzNUMwY0tndXROZmJydl82MDU2N0g0UlhBcDhSMW8xMjJXZHotNU5mMDcya3dEOXIzTFpteU85b25MdFZGMjBSN3p3dHY5b01TaHhKdVVZNmFNanRickZTN0NEaW9tUDRBZFRpTjlGbXVESVptQjY0cXZ0UFBkU3lfakVpWjIzTGZvSlhPMWRvaDN0YUVnVVk0dUNBUXozNl9SNTU0cF9DUFhvRnRFd2lSOV9NTGN4UXVDZWY4cGE3OXU1WlB1X1gzaU0yaWlOMjBn?oc=5",
+          "published": "2026-09-18T07:49:10.000Z"
+        },
+        {
+          "tag": "Leadership",
+          "headline": "Cash-flow-based lending to become important for new-age sectors: SBI MD - bfsi.economictimes.indiatimes.com",
+          "source": "Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYk5FY3Z5YWF3S0tXU0trVGVNSEFMd3RvbjdfMlpJaGlXdHB6UzRzSy1GOHRhNVJTZ1VKUTYybFg5bFcwUE5UcXFxeFJMb21KRFNNVml0ZDdyQXhtbi0zdE02TUk2dFM5RmdHdmtwT1prY3RoWEdVYzBkY1FYbzdsVFAzTjUwbVF5MG90NzQtSWJxYlhjbFZRcEhlRGJpaWFrNWxlY3dWbFE5N08xRG9oTVMxbk9WeWlLRzFPTFd6N19KWnE0UnZ6LV82V19hZHhx0gHWAUFVX3lxTE1IMlI1TV9XMXItSXJRanp0WHY4WE5Jb0dzbzlvTGQzZHhodk9MUjNYUUFqb3ZxdXJQR0FHYkI1RXNRX3FVZ0MwZ1U5cV8zRFBhQ0c4a1g4WW9GUTdYSGFuQmJ2YkpBU1BKUnVmSU50c3hlZ0tyaENQVmxhakYzLTVMS0lzZUVZZE9yRlQ1X2puUXJ6RzR4b1RiWHNfYjQ0bnNXanFYUlhZd0s5bE83dExRQU4ybjJjcWdvcXRDVnY5VUpIcV91cW9rWFdxUF9LTzJYUFpTbnc?oc=5",
+          "published": "2026-09-18T09:40:46.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, September 19 - Livemint",
+        "teaser": null,
+        "source": "Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYUxMOGVfVHN3VmxkN1FyOExXdVl1R0ZUX1p0Q1VnYmZiRi1vYm1rMko5dWllVUd4THo5S3IyaDhmOHM5M3pEaDZXMVFjNWFfSEdUYXE5TS1Ha2I1aEI4eDlQUXQyOXBJNldNX003VnlpNThfaUVCckd5dTktaGNFaWFNSFAwODZYS1BvZ0FxbEswX215S3pDdWdfTTZXU1RYWlZrQ2hfVDVwYTV6VFdUOE05Qkd4bjljaElweUhRLWNkWmZSX2VtaGdZcVpGZHRtTWpsQ1IxVXY5OUZMOTRSREJGSFZtRzl4ZkFHc1lENGpHazQ5QkHSAfsBQVVfeXFMTnVWZW9GcEF2b01HSUNwMk1TSVZMc2g4T3NkdzRRS2FrSVVZXzJxX19zVG12X3IwelF2N3QyRnlTNlhRekpCR3gzdEphdEZ0amlIVHpNYXVxZVVLdE10bWhmcWlOdjVwX2ZQdDk2MVhCNEkyTmhCNmhPRjBGTGdxNF80R0xTUjliSlpIcjBpVVZyTFhkQUtRd2VFaWRRaVJEZlVQd1BxWUVKS3d4aDZtRnI1YXZWcWJxNlY5aHo0cEppYXNSUUo3N3lidnFrZkxvV2JvY0M2V2pwUjM3c2xBZUZhNHZialZxZ21na094Q3ppY1NFaDBuM2RULWc?oc=5",
+        "published": "2026-09-19T02:13:20.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "State Bank of India",
+          "ticker": "SBIN",
+          "tag": "Transcript",
+          "headline": "Q1 2027 State Bank of India Earnings Call Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rbGRrQnFZTlRqdmRpTzQwUFdweF9uMXQzVk50WEllb2t4cTgwc2M4dkpUc0pYX19oa05qbTR6dGIzLVhCMTdzUHNWQXMxQ0xBSjZ6WHhwM1RmLWtDMlFKRDFkUmZGNnRObkVsQw?oc=5",
+          "published": "2026-09-13T09:55:22.000Z"
+        },
+        {
+          "company": "Federal Bank",
+          "ticker": "FEDERALBNK",
+          "tag": "Presentation",
+          "headline": "Federal Bank unveils investor presentation reflecting Q1 FY27 achievements - Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFJlV251VUoxT1NvYzVTRE1hcE1qN3NmS19JaXBXSjNsanhSZ1JkclNSbU5PQXpJc2N3aWVuZjFOdXdsOVVqZ3llM3FYaGJnMUIzQ180aDMwRWVJLWNvR0FkOFFUOGlENlpqMXczdUk5MERLY1BVdERaRVc5b2VFdnZCRUtGNHoyM0NRaktCb2xfbTltc1AzeTBUR0JKbHROeEZtTGtSdWtaRUNuNzdPeA?oc=5",
+          "published": "2026-09-08T13:30:45.000Z"
+        },
+        {
+          "company": "Axis Bank",
+          "ticker": "AXISBANK",
+          "tag": "Presentation",
+          "headline": "Axis Bank provides link to August 26 institutional investor presentation - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2NCRzhlMjhaRWVhSmoxT1ZiVUhIWHJmQnoyY3RnUFBIWER0bjIzb3RZNlFiMWZSS0hpOGg0TXdZekZSZFZsNEtyQ29IQzMwcGk3djN2Z1RsS3hyVDF5RjFBQjdvSmh5UGxVVy00RFBjZU1UM19jU1ZMUjJCRlotdE9jaW01Wko4dERqampiZGlieTNPdGFYRmJKc05QWXlhOGl4WlRkOTFkNTQ?oc=5",
+          "published": "2026-08-31T07:00:00.000Z"
+        }
+      ]
     }
   ]
 }
