@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T06:47:46.533Z",
+  "generatedAt": "2026-09-21T06:54:06.449Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,34 +32,62 @@
       "name": "Asset Management",
       "bullets": [
         {
+          "tag": "Strategy",
+          "headline": "Vietnam enters FTSE emerging-market ranks, eyes billions in inflows - Nikkei Asia",
+          "source": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxabEJRTmtRSXdSQVpqbXZoQl9sZUVuQ3pwaUNKaFltb0FSVndjRzgtX0NxUEJXbm5pc0pTNmxnbzlOVVNIVVJJdUJCZnZyNmdkOF9iT2xmY2lqVzBiVlRHdW5xdWdreEtkTVowd1RzM01Pd0ZNbUlkU3V3VUpMQWxVVkNjYXdLcXdLQWhLd09TVFRCeF9fTDZMTHEyM3paenJGMFlvaXlmRDA?oc=5",
+          "published": "2026-09-21T00:58:00.000Z"
+        },
+        {
           "tag": "Product",
-          "headline": "Taiwan's ETF Penetration Rate Tops Asia-Pacific at 53%; Nearly One in Five Investors Use AI for Fund Selection - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45OVMwU3dDRXhnSlJHMTh5TWlPVk05WnlwbENZWWc4QVRlYkxlVDVPbEVBQWNMNWRGdks5aXBpVmVCVHVOQk8yeWlRa255WG5rdTJRYlVnVnBZTlR5a3FTOVVBN21zSjNOcTVFcklwcHlfZktLSEE?oc=5",
-          "published": "2026-09-17T09:25:00.000Z"
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkQ2Qm5GWko0NGQwcUt0RFN4NmpIZWVwUFNaaFpuRGRZb19oVmJpcElGX2tZeVZGaWtuX1Y1V2ZwS3N5SU1CeGE1eDg1dzVBNmo5bzZ2Q2d4bm52QnVYdUxZeHNKNXlhN2szWGlic0IyT19xV2xMdHFMb3V2ZzBESmtzQ0pKYWdpMmJwVkExZDUxVTJG?oc=5",
+          "published": "2026-09-21T06:45:00.000Z"
         },
         {
-          "tag": "Press",
-          "headline": "China Asset Management (Hong Kong) Makes Hong Kong’s First Digital-Asset Investment Using HKDAP - bloomingbit",
-          "source": "bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QaVhzV2N2SE1MN1lxSE5YUFB3bW5LZ2ItWkliRnJuOVVYd2FrT3VJVmxGUDBwOW5oMGhQTnlNaXJfWmdsRnV4VGNrY3dRMnZySDVGMQ?oc=5",
-          "published": "2026-09-19T07:03:14.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "New World proposes to spin off Shanghai tower for REIT listing in Shanghai - thestandard.com.hk",
-          "source": "thestandard.com.hk",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaTIxekpYeWEtczhqbjItUXlkVDg2SHpKR1NJVGpMTmZBTTRReExRUmJhUDlXQkZBa2J0cEJtUzg3SXhjcFF0bHJzTGVkLUtUclhmOTZLakFUUjZhQjFGeEVKelFtSk81Ul9maTd4aXlLX0dCYnJDa0paUGFqZ1F2TlpkUUN0cUZ5aDZTUDZ0V3hjY0szLWpKS3FnODBJWHczOGJNV3FNZUhiWjBNTm52V2xIOGhWYUdQbWR3eEN5MjdPdWhDcUtuRA?oc=5",
-          "published": "2026-09-17T13:59:54.000Z"
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVp6bXl6N05Sdm9mNno4UkpGV1UtVDdRdjRqZFpoV2YtZEF5bVBmZjdhQUdsUzUwaGVLSi1kVHRNMVhYRXhxdGpneDhQOWw2YzJoSGtFckxLQlhJMUVvSUNza0plVVFORF9iNDNfMnU2dEk3ZW9JbmNGOHI5amJsM2NENjFOSVk5aG01eWE3eGpHX1lWVEhlaFBOVGptV3RYN0tHcUVaYTh5NWs?oc=5",
+          "published": "2026-09-18T07:06:00.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Strategy",
+          "headline": "Vietnam enters FTSE emerging-market ranks, eyes billions in inflows - Nikkei Asia",
+          "source": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxabEJRTmtRSXdSQVpqbXZoQl9sZUVuQ3pwaUNKaFltb0FSVndjRzgtX0NxUEJXbm5pc0pTNmxnbzlOVVNIVVJJdUJCZnZyNmdkOF9iT2xmY2lqVzBiVlRHdW5xdWdreEtkTVowd1RzM01Pd0ZNbUlkU3V3VUpMQWxVVkNjYXdLcXdLQWhLd09TVFRCeF9fTDZMTHEyM3paenJGMFlvaXlmRDA?oc=5",
+          "published": "2026-09-21T00:58:00.000Z"
+        },
+        {
           "tag": "Product",
-          "headline": "Taiwan's ETF Penetration Rate Tops Asia-Pacific at 53%; Nearly One in Five Investors Use AI for Fund Selection - finance.biggo.com",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkQ2Qm5GWko0NGQwcUt0RFN4NmpIZWVwUFNaaFpuRGRZb19oVmJpcElGX2tZeVZGaWtuX1Y1V2ZwS3N5SU1CeGE1eDg1dzVBNmo5bzZ2Q2d4bm52QnVYdUxZeHNKNXlhN2szWGlic0IyT19xV2xMdHFMb3V2ZzBESmtzQ0pKYWdpMmJwVkExZDUxVTJG?oc=5",
+          "published": "2026-09-21T06:45:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVp6bXl6N05Sdm9mNno4UkpGV1UtVDdRdjRqZFpoV2YtZEF5bVBmZjdhQUdsUzUwaGVLSi1kVHRNMVhYRXhxdGpneDhQOWw2YzJoSGtFckxLQlhJMUVvSUNza0plVVFORF9iNDNfMnU2dEk3ZW9JbmNGOHI5amJsM2NENjFOSVk5aG01eWE3eGpHX1lWVEhlaFBOVGptV3RYN0tHcUVaYTh5NWs?oc=5",
+          "published": "2026-09-18T07:06:00.000Z"
+        },
+        {
+          "tag": "Strategy",
+          "headline": "Mirae Asset: South Korea's Token Securities Must Integrate Issuance, Distribution, and Settlement to Stem Capital Outflows - finance.bigg…",
           "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45OVMwU3dDRXhnSlJHMTh5TWlPVk05WnlwbENZWWc4QVRlYkxlVDVPbEVBQWNMNWRGdks5aXBpVmVCVHVOQk8yeWlRa255WG5rdTJRYlVnVnBZTlR5a3FTOVVBN21zSjNOcTVFcklwcHlfZktLSEE?oc=5",
-          "published": "2026-09-17T09:25:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EdHBDY0NwUkxVQnpCX3JmNmlQOTJfZmNKcE5pZDZhMkI1OGFJelc2cU5PNUxsOUlNcmJSRFVmUTJGZ0tNckJYejJGODVTZzRUaDZxZl9nLU1ZVkRnSEpvMHNmTEw0enVDRHBtQVNJLWloTlM1WkE?oc=5",
+          "published": "2026-09-21T05:55:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Taiwan Moves Forward on Long-Awaited Asset Management Center - Taiwan Business TOPICS",
+          "source": "Taiwan Business TOPICS",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaC1CUEV3NDY3Q3VMUkRIUUY5Zlc0UHZhTzd6ZW1RSXpNS0E1LVNkanZsM29IdGNxYi1BekZ1empxOVAybmdvdmlmdF9XMG9lTkF2RUNFSFN3TWktLXJzaDByWm1MYU1jeTRRZnZoSVZNRnNUd2NRVWo2a2l1UGhndHV3MHZ6QVlfMjQ5aEJRMjkxRzRReGw2bzd0d2J5Zjg?oc=5",
+          "published": "2026-09-21T01:00:00.000Z"
         },
         {
           "tag": "Press",
@@ -70,21 +98,30 @@
         },
         {
           "tag": "Press",
-          "headline": "New World proposes to spin off Shanghai tower for REIT listing in Shanghai - thestandard.com.hk",
-          "source": "thestandard.com.hk",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaTIxekpYeWEtczhqbjItUXlkVDg2SHpKR1NJVGpMTmZBTTRReExRUmJhUDlXQkZBa2J0cEJtUzg3SXhjcFF0bHJzTGVkLUtUclhmOTZLakFUUjZhQjFGeEVKelFtSk81Ul9maTd4aXlLX0dCYnJDa0paUGFqZ1F2TlpkUUN0cUZ5aDZTUDZ0V3hjY0szLWpKS3FnODBJWHczOGJNV3FNZUhiWjBNTm52V2xIOGhWYUdQbWR3eEN5MjdPdWhDcUtuRA?oc=5",
-          "published": "2026-09-17T13:59:54.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "New World Development Plans to Spin Off Shanghai K11 Property for Public REIT Listing on Shanghai Stock Exchange - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAydHlmQXJ0QkZ1TnlwY1VhZ2tOUXhNSWJlSm81RVNPUFg0QnpXZEFKQjRhbXRBYVhFaFBqQVBqSDhKT3ZHTmpBVk1vTC0wLUVsc2lQUmRtWGQ1TjRyWDBla1l0VXA5Nk9YQVNkbUFETFp4VDEwUnc?oc=5",
-          "published": "2026-09-17T13:55:00.000Z"
+          "headline": "Suntec Reit to increase Singapore focus, sell three Australia properties - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGx1R05COWNlb2NRS1BiTDd5OF91RlVLLTVHa0hyZndhcjNXblhlUHBGb05FNUg4U3ZsQ2JEVHV4bTRKYkJsdXVvbXdjcGZiSFFFUmx5MDJyc3VNMXJsMGcycGljZ1dIbVZCcVRBRjhySHN6SzZrRXdBdlJiVUxsOElvaXllMDhLeWFVQ0lYTjRFRWVsYmVaVTY5NzFqRklZRXFOUXdBWGd6MmZtdmJGRDc0UV96NWVmTzdUSjR0dUt4a21mdXlLRWpMcXhGQjQ?oc=5",
+          "published": "2026-09-21T00:31:00.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "82800 – Risk – Tracker Fund of Hong Kong ETF - morningstar.com",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsV1MySFRwV3dQVGR2UWRydVdGbFcwNXk2dm5NQi1Yb081NTNGdmJfZEw0SzZucEg1eWNYZk9PYXY0dHJ2eGx3TWVKTEFPT1V2SlVlSkZ3dzNtWWx5?oc=5",
+        "published": "2026-09-20T08:50:15.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
+        {
+          "company": "BlackRock",
+          "ticker": "BLK",
+          "tag": "Transcript",
+          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
+          "published": "2026-09-19T05:21:38.000Z"
+        },
         {
           "company": "Schroders",
           "ticker": "SDR",
@@ -106,9 +143,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
-          "published": "2026-09-17T09:11:30.000Z"
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-09-19T04:49:55.000Z"
         },
         {
           "company": "HSBC",
@@ -117,14 +154,6 @@
           "headline": "Video Transcript - HSBC Private Bank",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSkF3R3k2VnpCOFdOcTh1R21oRlRpSnZlc0gyenZGcjQ2ZEc4VWpNOGZZQ21oYms3UzBmTmM0dVMyTVFoYUp2Vm0wMTI2WGVhdFZBenUtSDZpUkhiMXp1eEw5c2RmR2p5VmVhbi1VSDJJXzYyaGVVZHhNa2VmNXMxWEFkZzh1MUhGenBCT0loTmFobmZmeGlPekVPb3d3a1FLZ3l6LWNEWnhsc2tsd3FmZklXU21sUlVYeXhONFNNWmpKeVMzUEUzb3R5TmRrai13dDd1cUw0Ulc1V2l6Yzk3MURTVGM?oc=5",
           "published": "2026-09-15T13:00:30.000Z"
-        },
-        {
-          "company": "Netwealth Group",
-          "ticker": "NWL.AX",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Netwealth posts record FY 2026 but shares fall 4.7% on guidance - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObFF2Qmx4SHJHNjhUb21sZTJQSE0ybmdlODY5YXZweDc3bjUzLWdMQjBJNUZTX1FpTjRKWkUxTkJuVldrU2dGdUhpT1BHeDRham9tT0M4Z0Fmc0JzaHFWUU9hbE5Mc3g3Q0RwTlJLMjllN1lIOVJ5QVBzbjVuazVrQXV6VF8tdl9yTWx6Mnc5NXJYN0hPY0hibU9TdDNUWEtZc3R1NzlLcTNkRlphWi0zbjhCYkFWcUlmc2dnX3FycEQ2RlR6X0lXT2N6M0NWYWl2QTdDU2hVVjU5Sl9Ea0RHag?oc=5",
-          "published": "2026-08-26T00:36:06.000Z"
         }
       ]
     },
@@ -133,14 +162,38 @@
       "name": "Insurance",
       "bullets": [],
       "candidates": [],
-      "insight": null,
-      "companyUpdates": []
+      "insight": {
+        "tag": "Op-ed",
+        "headline": "Opinion | A better heat stress warning system is still no substitute for policy - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTUVqcjVWajJpLXlRSG5TMzZNOV93UnkydFgtV1RMem5lMmhOd0I2ZGxJbFM3aVNsUDl5Y3VkZENhSExBTTlvMVoyclBPcFJNb0h2WDJ6cUdhOWJZcmc1VTMzZjZFY1pNeUJ3S2xhUUpockRTZlFDa1U2YWFRZ0hKQjJJR2d5STg3M2JIamRRQl81RWFoRDktZ0NON3ZyNUFCNDZwdlA4eW5TUUxkTHBLN3JkU3NEX0FCNUw5U9IBvAFBVV95cUxNcVlOWi00a29acDh1VkhYNDJNTFJIUm5COW0xZ09vZGZoYktsLWhWc2lkb2xYbWptZ1JMbFh1RkR3a0hkZXh4NFhLYWZnTXRXTl9wZHVFdVlmRWVKMUZLN0FZMU5qenpLX0RZaUJqdWREZnlJM1ZkenRTRmRJemZSUndfSmNOb0N1emZxZWhMZmN5TWlmSGxzcVVtMmZuaUQ0dGJPOTM0dHVTRUFuZDQtRUttYjdqbG5yT0JrMw?oc=5",
+        "published": "2026-09-16T08:30:05.000Z",
+        "paywalled": false
+      },
+      "companyUpdates": [
+        {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: Prudential posts strong H1 2026 growth, stock slips premarket - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlBBOVFpNVZEVjMwdlRRNG9rYzk4M2pJcXhpNVlHMjd6SlVIWVNIa291MXIyUDAxeVZCMjlPbXRacjByd05QNGRfR3k3U2RHVEE3SXVSVE0xcVctYVg3czNjV3NTYThpa0w2c0x1NE9LZUJjTHdCRVdoeDJnRzFuMTRqbzhDbEl5cVNzTUdHbFJPdjIzdlVkZ1l5M2lMbERSVnFnR0RQTjNXbk1VbjI1cXNmSlNkREtYbWFuX3drY2ItYUNBUHN4bUFHa09fN05oaDhjMEZnYmo?oc=5",
+          "published": "2026-08-27T07:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
       "bullets": [
         {
+          "tag": "Product",
+          "headline": "Singapore’s Trust Bank adds miles rewards to Freedom credit card - TNGlobal",
+          "source": "TNGlobal",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWklmOTJXNFhMYThwc1J0dkU0eG03d3pBWnQzQXhROFBwbl9zYTRwRUh6OFdUc3ZvVGVWN2xtb1l0azdkbG5CWUEySllXQ3pBUGJhTUJlZVotRElnSDBZcEJ2Uks4QWJiZkg4Y21xc3JxUnJjM25DOVNHMHRmZWVSZlZwQTI?oc=5",
+          "published": "2026-09-21T06:46:19.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
           "source": "Syfe",
@@ -149,21 +202,21 @@
         },
         {
           "tag": "Press",
-          "headline": "Singapore Banks Take Swift Ledger Into Live SGD Payments as BTCPressWire Tracks Tokenized Deposits - openPR.com",
-          "source": "openPR.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWt5aXFtT21yTFBHajQtQmlZNDRzMWpUU3lVTWwzSDM2cnZjcnBLTVVrRUh6N0Zrc1IyQTRtaFJNRU9EWldlRW0xbDlKakhWbWlCOHNFd2dOczlzT014WWxXR1l0dTlMWXdaaW5obTZGRUNJMjZoMHJTNmVYbjg0eFZCOXo0UTRLOWVvX19kMjNqc2JoQldpMXpKdw?oc=5",
-          "published": "2026-09-17T13:51:50.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "UK Islamic fintech Ayan Capital secures £75 million ($100 million) facility originated by Triple Point as it builds towards a halal digit…",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkhVaDktQjM4TWFRRlljY3d2VEdYTHRILUNUYmN0QmtlRmlyVDVSQ1JTMDUyUXh0NVc5RU51ek1ack5MWFZodHRKSkpUV2xORmpHRV9Wc084UFJMUnNiV1ZmX1dObUFVSkF5dEVveUI1SVBweWk3dm8weWFndVBoQ1duN1Q4c2s?oc=5",
-          "published": "2026-09-17T10:06:00.000Z"
+          "headline": "Singapore's next payments opportunity - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXBlSVp1WmV1SWZZaDAxSUVFbTFpLXFvYUJLU1Z4NDhKbHBONnlGZ2swcy1VbE9NQnk2QU1MaWtVckVQSWRaLXdNem42S01zSVh6ZDhrLTYwSzVVak9ENmFDOWU0ZnRPUGZTeDdJMG9TUXlDUjlCRnVSVzM2MC12VDNzb081TC14Z0E?oc=5",
+          "published": "2026-09-21T01:00:00.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Product",
+          "headline": "Singapore’s Trust Bank adds miles rewards to Freedom credit card - TNGlobal",
+          "source": "TNGlobal",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWklmOTJXNFhMYThwc1J0dkU0eG03d3pBWnQzQXhROFBwbl9zYTRwRUh6OFdUc3ZvVGVWN2xtb1l0azdkbG5CWUEySllXQ3pBUGJhTUJlZVotRElnSDBZcEJ2Uks4QWJiZkg4Y21xc3JxUnJjM25DOVNHMHRmZWVSZlZwQTI?oc=5",
+          "published": "2026-09-21T06:46:19.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
           "source": "Syfe",
@@ -172,24 +225,10 @@
         },
         {
           "tag": "Press",
-          "headline": "Singapore Banks Take Swift Ledger Into Live SGD Payments as BTCPressWire Tracks Tokenized Deposits - openPR.com",
-          "source": "openPR.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWt5aXFtT21yTFBHajQtQmlZNDRzMWpUU3lVTWwzSDM2cnZjcnBLTVVrRUh6N0Zrc1IyQTRtaFJNRU9EWldlRW0xbDlKakhWbWlCOHNFd2dOczlzT014WWxXR1l0dTlMWXdaaW5obTZGRUNJMjZoMHJTNmVYbjg0eFZCOXo0UTRLOWVvX19kMjNqc2JoQldpMXpKdw?oc=5",
-          "published": "2026-09-17T13:51:50.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "UK Islamic fintech Ayan Capital secures £75 million ($100 million) facility originated by Triple Point as it builds towards a halal digit…",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkhVaDktQjM4TWFRRlljY3d2VEdYTHRILUNUYmN0QmtlRmlyVDVSQ1JTMDUyUXh0NVc5RU51ek1ack5MWFZodHRKSkpUV2xORmpHRV9Wc084UFJMUnNiV1ZmX1dObUFVSkF5dEVveUI1SVBweWk3dm8weWFndVBoQ1duN1Q4c2s?oc=5",
-          "published": "2026-09-17T10:06:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Australia’s digital payments future hinging on regulation - investordaily.com.au",
-          "source": "investordaily.com.au",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOendEVk9lcHJ1VTcxOHp3VEJwamE5WEpQOTg0NkVxTUh6cFdTOGk2RHNfVzI1dmFaOHp5RHJGVElQb2g1VG9zb1NQSnE2RWgxV29VMWRvZW9wMmU5a3RuclFUd21iN2NYVzU2bmlwLWVwUVRwcnFGNXBGNXI5ejFtVmNUOUpXYnYtYzJrS2lOTzFoOEhf?oc=5",
-          "published": "2026-09-17T08:46:15.000Z"
+          "headline": "Singapore's next payments opportunity - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXBlSVp1WmV1SWZZaDAxSUVFbTFpLXFvYUJLU1Z4NDhKbHBONnlGZ2swcy1VbE9NQnk2QU1MaWtVckVQSWRaLXdNem42S01zSVh6ZDhrLTYwSzVVak9ENmFDOWU0ZnRPUGZTeDdJMG9TUXlDUjlCRnVSVzM2MC12VDNzb081TC14Z0E?oc=5",
+          "published": "2026-09-21T01:00:00.000Z"
         }
       ],
       "insight": {
