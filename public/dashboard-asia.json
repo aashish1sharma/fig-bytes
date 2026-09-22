@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:54:06.449Z",
+  "generatedAt": "2026-09-22T06:39:51.106Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,62 +32,41 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Strategy",
-          "headline": "Vietnam enters FTSE emerging-market ranks, eyes billions in inflows - Nikkei Asia",
-          "source": "Nikkei Asia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxabEJRTmtRSXdSQVpqbXZoQl9sZUVuQ3pwaUNKaFltb0FSVndjRzgtX0NxUEJXbm5pc0pTNmxnbzlOVVNIVVJJdUJCZnZyNmdkOF9iT2xmY2lqVzBiVlRHdW5xdWdreEtkTVowd1RzM01Pd0ZNbUlkU3V3VUpMQWxVVkNjYXdLcXdLQWhLd09TVFRCeF9fTDZMTHEyM3paenJGMFlvaXlmRDA?oc=5",
-          "published": "2026-09-21T00:58:00.000Z"
-        },
-        {
           "tag": "Product",
           "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkQ2Qm5GWko0NGQwcUt0RFN4NmpIZWVwUFNaaFpuRGRZb19oVmJpcElGX2tZeVZGaWtuX1Y1V2ZwS3N5SU1CeGE1eDg1dzVBNmo5bzZ2Q2d4bm52QnVYdUxZeHNKNXlhN2szWGlic0IyT19xV2xMdHFMb3V2ZzBESmtzQ0pKYWdpMmJwVkExZDUxVTJG?oc=5",
-          "published": "2026-09-21T06:45:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0dHU254TU1sbEdCMWotZjdBMGJHLUU2TlAxdmtYdU9sSWRHc1hQRldOZGlmaUpNY2Yyby1qcjNXQWJxTkxtT2dFUDlMdmJQVVRTeUhiWm5qUWQ1SHNsd3A5VmZndXdvanVWcERaU2RjVnBwX1JxR3JDRXdMU3lTalZqWlNVZlAwS0Z6VmItOVVJVkw3?oc=5",
+          "published": "2026-09-22T06:25:00.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVp6bXl6N05Sdm9mNno4UkpGV1UtVDdRdjRqZFpoV2YtZEF5bVBmZjdhQUdsUzUwaGVLSi1kVHRNMVhYRXhxdGpneDhQOWw2YzJoSGtFckxLQlhJMUVvSUNza0plVVFORF9iNDNfMnU2dEk3ZW9JbmNGOHI5amJsM2NENjFOSVk5aG01eWE3eGpHX1lWVEhlaFBOVGptV3RYN0tHcUVaYTh5NWs?oc=5",
-          "published": "2026-09-18T07:06:00.000Z"
+          "tag": "Strategy",
+          "headline": "Suntec REIT Plans $815M Australia Office Sell-Down in Singapore Pivot - Mingtiandi",
+          "source": "Mingtiandi",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX24yb2JyRjZhZzlzTXVzWkJNVVpVbHl3NWZKTXNWYXJmUUhKUUFxbXNLNV9CY3hjelpSNEN0OWVsV2dwZU12M1YzdTJ1NEQ5eGNZMXFMLVBFanRxT2V5dUhSV2Z2VlpienhxbEFvLUlMcEFKeDdvS0s0ZERTVzZ4X3hXdmhrYnB5NEZsM2pFUlo0Wk9UNmFMeDdZSFpxb2hBdU1EaXU2cUNndTA4TFBzbDk0Q01BblE?oc=5",
+          "published": "2026-09-21T16:02:44.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "China Asset Management (Hong Kong) Makes Hong Kong’s First Digital-Asset Investment Using HKDAP - bloomingbit",
+          "source": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QaVhzV2N2SE1MN1lxSE5YUFB3bW5LZ2ItWkliRnJuOVVYd2FrT3VJVmxGUDBwOW5oMGhQTnlNaXJfWmdsRnV4VGNrY3dRMnZySDVGMQ?oc=5",
+          "published": "2026-09-19T07:03:14.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Strategy",
-          "headline": "Vietnam enters FTSE emerging-market ranks, eyes billions in inflows - Nikkei Asia",
-          "source": "Nikkei Asia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxabEJRTmtRSXdSQVpqbXZoQl9sZUVuQ3pwaUNKaFltb0FSVndjRzgtX0NxUEJXbm5pc0pTNmxnbzlOVVNIVVJJdUJCZnZyNmdkOF9iT2xmY2lqVzBiVlRHdW5xdWdreEtkTVowd1RzM01Pd0ZNbUlkU3V3VUpMQWxVVkNjYXdLcXdLQWhLd09TVFRCeF9fTDZMTHEyM3paenJGMFlvaXlmRDA?oc=5",
-          "published": "2026-09-21T00:58:00.000Z"
-        },
-        {
           "tag": "Product",
           "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkQ2Qm5GWko0NGQwcUt0RFN4NmpIZWVwUFNaaFpuRGRZb19oVmJpcElGX2tZeVZGaWtuX1Y1V2ZwS3N5SU1CeGE1eDg1dzVBNmo5bzZ2Q2d4bm52QnVYdUxZeHNKNXlhN2szWGlic0IyT19xV2xMdHFMb3V2ZzBESmtzQ0pKYWdpMmJwVkExZDUxVTJG?oc=5",
-          "published": "2026-09-21T06:45:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVp6bXl6N05Sdm9mNno4UkpGV1UtVDdRdjRqZFpoV2YtZEF5bVBmZjdhQUdsUzUwaGVLSi1kVHRNMVhYRXhxdGpneDhQOWw2YzJoSGtFckxLQlhJMUVvSUNza0plVVFORF9iNDNfMnU2dEk3ZW9JbmNGOHI5amJsM2NENjFOSVk5aG01eWE3eGpHX1lWVEhlaFBOVGptV3RYN0tHcUVaYTh5NWs?oc=5",
-          "published": "2026-09-18T07:06:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0dHU254TU1sbEdCMWotZjdBMGJHLUU2TlAxdmtYdU9sSWRHc1hQRldOZGlmaUpNY2Yyby1qcjNXQWJxTkxtT2dFUDlMdmJQVVRTeUhiWm5qUWQ1SHNsd3A5VmZndXdvanVWcERaU2RjVnBwX1JxR3JDRXdMU3lTalZqWlNVZlAwS0Z6VmItOVVJVkw3?oc=5",
+          "published": "2026-09-22T06:25:00.000Z"
         },
         {
           "tag": "Strategy",
-          "headline": "Mirae Asset: South Korea's Token Securities Must Integrate Issuance, Distribution, and Settlement to Stem Capital Outflows - finance.bigg…",
-          "source": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EdHBDY0NwUkxVQnpCX3JmNmlQOTJfZmNKcE5pZDZhMkI1OGFJelc2cU5PNUxsOUlNcmJSRFVmUTJGZ0tNckJYejJGODVTZzRUaDZxZl9nLU1ZVkRnSEpvMHNmTEw0enVDRHBtQVNJLWloTlM1WkE?oc=5",
-          "published": "2026-09-21T05:55:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Taiwan Moves Forward on Long-Awaited Asset Management Center - Taiwan Business TOPICS",
-          "source": "Taiwan Business TOPICS",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaC1CUEV3NDY3Q3VMUkRIUUY5Zlc0UHZhTzd6ZW1RSXpNS0E1LVNkanZsM29IdGNxYi1BekZ1empxOVAybmdvdmlmdF9XMG9lTkF2RUNFSFN3TWktLXJzaDByWm1MYU1jeTRRZnZoSVZNRnNUd2NRVWo2a2l1UGhndHV3MHZ6QVlfMjQ5aEJRMjkxRzRReGw2bzd0d2J5Zjg?oc=5",
-          "published": "2026-09-21T01:00:00.000Z"
+          "headline": "Suntec REIT Plans $815M Australia Office Sell-Down in Singapore Pivot - Mingtiandi",
+          "source": "Mingtiandi",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX24yb2JyRjZhZzlzTXVzWkJNVVpVbHl3NWZKTXNWYXJmUUhKUUFxbXNLNV9CY3hjelpSNEN0OWVsV2dwZU12M1YzdTJ1NEQ5eGNZMXFMLVBFanRxT2V5dUhSV2Z2VlpienhxbEFvLUlMcEFKeDdvS0s0ZERTVzZ4X3hXdmhrYnB5NEZsM2pFUlo0Wk9UNmFMeDdZSFpxb2hBdU1EaXU2cUNndTA4TFBzbDk0Q01BblE?oc=5",
+          "published": "2026-09-21T16:02:44.000Z"
         },
         {
           "tag": "Press",
@@ -98,15 +77,22 @@
         },
         {
           "tag": "Press",
-          "headline": "Suntec Reit to increase Singapore focus, sell three Australia properties - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGx1R05COWNlb2NRS1BiTDd5OF91RlVLLTVHa0hyZndhcjNXblhlUHBGb05FNUg4U3ZsQ2JEVHV4bTRKYkJsdXVvbXdjcGZiSFFFUmx5MDJyc3VNMXJsMGcycGljZ1dIbVZCcVRBRjhySHN6SzZrRXdBdlJiVUxsOElvaXllMDhLeWFVQ0lYTjRFRWVsYmVaVTY5NzFqRklZRXFOUXdBWGd6MmZtdmJGRDc0UV96NWVmTzdUSjR0dUt4a21mdXlLRWpMcXhGQjQ?oc=5",
-          "published": "2026-09-21T00:31:00.000Z"
+          "headline": "Singapore’s Suntec REIT flags $1b sell-down of Australian office towers - AFR",
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcm9sQWVveHZIZ01kckQ2T2dlaWRzb1dVMm9CY1hwRlRqWmJ0M1p2S1docEpMM3B0TVlXcWd0TGxxUUpBc0lCUTdxSmRpUlpPd21uVTZpYU50WWxPUlRBQ3dtQ3VNWVlHRXpsX2tjT2VTVEZocDdwdmZ4WnIzQWFrQll2MXZLaWVSN1BMM3dwckIwaDZHVkZuNm9XYk9HUzE1QVZ3dzFjc1Jqem1TalF4dzNJNC1FeFp3X3hwSk1ZUzF3WmJ1?oc=5",
+          "published": "2026-09-21T07:02:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "New World Aims to Sell Shanghai Tower to REIT for $599M After Land Lease Extended - Mingtiandi",
+          "source": "Mingtiandi",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXBrMjJJYXE4RFRIcGJsUF9HUWNJNkJJZDA2c29MajRIdTZxME53cFdzYldtcGpoajVjUF9sbDV6QXhRanMtRmtvRVhFVHdLaW12d2lTQzhvcVFibmNaWjAxdEVadmlBNFdnbkxNQmtWc0o1azR2c1l3YWxCUE5PT0R5OGU5UHpGTmVTMmo3NjZpUk5qN2syNGZoSjZtSkpFNE13bmRSOA?oc=5",
+          "published": "2026-09-21T16:02:44.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "82800 – Risk – Tracker Fund of Hong Kong ETF - morningstar.com",
+        "headline": "82800 – Risk – Tracker Fund of Hong Kong ETF - Morningstar",
         "teaser": null,
         "source": "Morningstar",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsV1MySFRwV3dQVGR2UWRydVdGbFcwNXk2dm5NQi1Yb081NTNGdmJfZEw0SzZucEg1eWNYZk9PYXY0dHJ2eGx3TWVKTEFPT1V2SlVlSkZ3dzNtWWx5?oc=5",
@@ -135,8 +121,52 @@
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Strategy",
+          "headline": "Singapore's Syfe crosses S$20B in assets under management - TNGlobal",
+          "source": "TNGlobal",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzQ0VGhMcnZCVUxkalVOMENPb0lvOC11QWdNbDFzWS1TR1VEWjZoUDljd3ZjMzBWVkY0VHFQQXFxZ1dZWFNrWG0xWWFxWVNuTEFCMjVuSFhlNzhxWnZyMWY4SzdaeWdnVm1ZUC05QXJSRURDZTl1UnVuYWJadWl5U0dEU2kzMlFwcFZGbDQ5bw?oc=5",
+          "published": "2026-09-22T01:50:17.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "CICC GBA Wealth Management Forum gathers 400 financial leaders - Vietnam Investment Review - VIR",
+          "source": "Vietnam Investment Review - VIR",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVlQcHNJMFhVRVkzaWdrOHpFV3hCU2c5LWJlSFRWQ19GV2pQSTVqRDIyYTVTcTFTSi0xNDdFRHNKZVBqaGozS1Qzc00xeVZOV0JLSzU3YzJrUGpjZ1BtMi1qbjNaQ2Q1Z0VFeGtsMVhoeFd5NVV3V0pwTTV6WExkOW5qZDFtOEpjczViV2puQ2FvRm1jOHZGVg?oc=5",
+          "published": "2026-09-22T03:25:59.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "TheWealthNet - Singapore private bank holds nextgen wealth programme - Pam Insight",
+          "source": "Pam Insight",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1NYa0lSV3d2dGVNMWdDczNnaWNoV3ZCVWotaWFiRkl0QVU4WkVfbDBtM19qNUxERnZoWVZBLWFVRW5WOTQzd0lvZWltX1lfeXZDQ1RPT3p0MGVHeW9YYXd1N1g4Zk9JZjd4M2JIVjZjWnA3SzJMWmE4dDJLRVpsd3dEcUhTOTNZZThpY1M0TkFyMFZfajRZ?oc=5",
+          "published": "2026-09-21T13:09:38.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Strategy",
+          "headline": "Singapore's Syfe crosses S$20B in assets under management - TNGlobal",
+          "source": "TNGlobal",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzQ0VGhMcnZCVUxkalVOMENPb0lvOC11QWdNbDFzWS1TR1VEWjZoUDljd3ZjMzBWVkY0VHFQQXFxZ1dZWFNrWG0xWWFxWVNuTEFCMjVuSFhlNzhxWnZyMWY4SzdaeWdnVm1ZUC05QXJSRURDZTl1UnVuYWJadWl5U0dEU2kzMlFwcFZGbDQ5bw?oc=5",
+          "published": "2026-09-22T01:50:17.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "CICC GBA Wealth Management Forum gathers 400 financial leaders - Vietnam Investment Review - VIR",
+          "source": "Vietnam Investment Review - VIR",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVlQcHNJMFhVRVkzaWdrOHpFV3hCU2c5LWJlSFRWQ19GV2pQSTVqRDIyYTVTcTFTSi0xNDdFRHNKZVBqaGozS1Qzc00xeVZOV0JLSzU3YzJrUGpjZ1BtMi1qbjNaQ2Q1Z0VFeGtsMVhoeFd5NVV3V0pwTTV6WExkOW5qZDFtOEpjczViV2puQ2FvRm1jOHZGVg?oc=5",
+          "published": "2026-09-22T03:25:59.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "TheWealthNet - Singapore private bank holds nextgen wealth programme - Pam Insight",
+          "source": "Pam Insight",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1NYa0lSV3d2dGVNMWdDczNnaWNoV3ZCVWotaWFiRkl0QVU4WkVfbDBtM19qNUxERnZoWVZBLWFVRW5WOTQzd0lvZWltX1lfeXZDQ1RPT3p0MGVHeW9YYXd1N1g4Zk9JZjd4M2JIVjZjWnA3SzJMWmE4dDJLRVpsd3dEcUhTOTNZZThpY1M0TkFyMFZfajRZ?oc=5",
+          "published": "2026-09-21T13:09:38.000Z"
+        }
+      ],
       "insight": null,
       "companyUpdates": [
         {
@@ -160,8 +190,24 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Cigna Healthcare Hong Kong Simplifies Online Health Insurance Journey Enabling Customers to Choose Coverage with Confidence - bastillepos…",
+          "source": "bastillepost.com",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSDQ2bUw5TWFLN1M1VXFyS1pNTkF6czVGakVOajBRcDYwa1Y1UWFORFlfSUl1OV9qaFJmUW1BcjI2dGVzdFVhemVlNmVoV0lSenpMVVAyZ3FXQXkxVHh4VG9jRGc5ZzJMNGpucjFzb1Z4NjNNbml6QTBMU1g2SU1UamcwVExhUXZRV1lnSEJXUWFjWnY5Q19ad3VPNkx0WmsyS1pQeG8wTTZzWmNjYmhGT3laWWkwQktiT0R3ZjJma0h0WXJyaHpNUHRqV0VDVXJaZmptQlBpcTk5NWxURlhhaE1YYll3ZmE1eGZwMjJwdUFTcTQxOE9lc3poNUFEcERWQ0lnYUVB?oc=5",
+          "published": "2026-09-22T03:00:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Cigna Healthcare Hong Kong Simplifies Online Health Insurance Journey Enabling Customers to Choose Coverage with Confidence - bastillepos…",
+          "source": "bastillepost.com",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSDQ2bUw5TWFLN1M1VXFyS1pNTkF6czVGakVOajBRcDYwa1Y1UWFORFlfSUl1OV9qaFJmUW1BcjI2dGVzdFVhemVlNmVoV0lSenpMVVAyZ3FXQXkxVHh4VG9jRGc5ZzJMNGpucjFzb1Z4NjNNbml6QTBMU1g2SU1UamcwVExhUXZRV1lnSEJXUWFjWnY5Q19ad3VPNkx0WmsyS1pQeG8wTTZzWmNjYmhGT3laWWkwQktiT0R3ZjJma0h0WXJyaHpNUHRqV0VDVXJaZmptQlBpcTk5NWxURlhhaE1YYll3ZmE1eGZwMjJwdUFTcTQxOE9lc3poNUFEcERWQ0lnYUVB?oc=5",
+          "published": "2026-09-22T03:00:00.000Z"
+        }
+      ],
       "insight": {
         "tag": "Op-ed",
         "headline": "Opinion | A better heat stress warning system is still no substitute for policy - South China Morning Post",
@@ -191,19 +237,19 @@
           "headline": "Singapore’s Trust Bank adds miles rewards to Freedom credit card - TNGlobal",
           "source": "TNGlobal",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWklmOTJXNFhMYThwc1J0dkU0eG03d3pBWnQzQXhROFBwbl9zYTRwRUh6OFdUc3ZvVGVWN2xtb1l0azdkbG5CWUEySllXQ3pBUGJhTUJlZVotRElnSDBZcEJ2Uks4QWJiZkg4Y21xc3JxUnJjM25DOVNHMHRmZWVSZlZwQTI?oc=5",
-          "published": "2026-09-21T06:46:19.000Z"
+          "published": "2026-09-21T06:45:43.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjZiQXJ5Q0pTVjVMYTY4OURxZUd3djZFcHJrSk8zalRMbnl6YmtDWFpVd2hFR1BsUWU3WjdieHV2dWRtTTM4NTRlRVNndk52UW5mTGgzQ0xVTl8xSjE3YmQyUFFXSHl2MFlJZVpfcjcxX0E4bmhtTm9LY2p3dEVTc0dLeDFzY0FYTGYxMVlKdFhTR3FfWVdoYTdhdFVucGQ4bC1jeldXdDVyaUxqX0FOcmdHWmU5Tzdhei1qZE93VEJQajEtalVr0gHHAUFVX3lxTE8yNmJBcnlDSlNWNUxhNjg5RHFlR3d2NkVwcmtKTzNqVExueXpia0NYWlV3aEVHUGxRZTdaN2J4dXZ1ZG1NMzg1NGVFU2d2TnZRbmZMaDNDTFVOXzFKMTdiZDJQUVdIeXYwWUllWl9yNzFfQThuaG1Ob0tjand0RVNzR0t4MXNjQVhMZjExWUp0WFNHcV9ZV2hhN2F0VW5wZDhsLWN6V1d0NXJpTGpfQU5yZ0daZTlPN2F6LWpkT3dUQlBqMS1qVWs?oc=5",
+          "published": "2026-09-22T03:00:06.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
-          "source": "Syfe",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
-          "published": "2026-09-18T17:45:32.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore's next payments opportunity - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
+          "headline": "Singapore's next payments opportunity - asianbankingandfinance.net",
+          "source": "asianbankingandfinance.net",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXBlSVp1WmV1SWZZaDAxSUVFbTFpLXFvYUJLU1Z4NDhKbHBONnlGZ2swcy1VbE9NQnk2QU1MaWtVckVQSWRaLXdNem42S01zSVh6ZDhrLTYwSzVVak9ENmFDOWU0ZnRPUGZTeDdJMG9TUXlDUjlCRnVSVzM2MC12VDNzb081TC14Z0E?oc=5",
           "published": "2026-09-21T01:00:00.000Z"
         }
@@ -214,30 +260,30 @@
           "headline": "Singapore’s Trust Bank adds miles rewards to Freedom credit card - TNGlobal",
           "source": "TNGlobal",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWklmOTJXNFhMYThwc1J0dkU0eG03d3pBWnQzQXhROFBwbl9zYTRwRUh6OFdUc3ZvVGVWN2xtb1l0azdkbG5CWUEySllXQ3pBUGJhTUJlZVotRElnSDBZcEJ2Uks4QWJiZkg4Y21xc3JxUnJjM25DOVNHMHRmZWVSZlZwQTI?oc=5",
-          "published": "2026-09-21T06:46:19.000Z"
+          "published": "2026-09-21T06:45:43.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjZiQXJ5Q0pTVjVMYTY4OURxZUd3djZFcHJrSk8zalRMbnl6YmtDWFpVd2hFR1BsUWU3WjdieHV2dWRtTTM4NTRlRVNndk52UW5mTGgzQ0xVTl8xSjE3YmQyUFFXSHl2MFlJZVpfcjcxX0E4bmhtTm9LY2p3dEVTc0dLeDFzY0FYTGYxMVlKdFhTR3FfWVdoYTdhdFVucGQ4bC1jeldXdDVyaUxqX0FOcmdHWmU5Tzdhei1qZE93VEJQajEtalVr0gHHAUFVX3lxTE8yNmJBcnlDSlNWNUxhNjg5RHFlR3d2NkVwcmtKTzNqVExueXpia0NYWlV3aEVHUGxRZTdaN2J4dXZ1ZG1NMzg1NGVFU2d2TnZRbmZMaDNDTFVOXzFKMTdiZDJQUVdIeXYwWUllWl9yNzFfQThuaG1Ob0tjand0RVNzR0t4MXNjQVhMZjExWUp0WFNHcV9ZV2hhN2F0VW5wZDhsLWN6V1d0NXJpTGpfQU5yZ0daZTlPN2F6LWpkT3dUQlBqMS1qVWs?oc=5",
+          "published": "2026-09-22T03:00:06.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Fixed Deposit Rates in Singapore – September 2026 - Syfe",
-          "source": "Syfe",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
-          "published": "2026-09-18T17:45:32.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore's next payments opportunity - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
+          "headline": "Singapore's next payments opportunity - asianbankingandfinance.net",
+          "source": "asianbankingandfinance.net",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXBlSVp1WmV1SWZZaDAxSUVFbTFpLXFvYUJLU1Z4NDhKbHBONnlGZ2swcy1VbE9NQnk2QU1MaWtVckVQSWRaLXdNem42S01zSVh6ZDhrLTYwSzVVak9ENmFDOWU0ZnRPUGZTeDdJMG9TUXlDUjlCRnVSVzM2MC12VDNzb081TC14Z0E?oc=5",
           "published": "2026-09-21T01:00:00.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "China’s economy to see slower loan growth amid sluggish consumption, investment - South China Morning Post",
+        "headline": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - South China Morning Post",
         "teaser": null,
         "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmtYMS1fT2Y5c3pZdkNJUVV2cDgxQjJQbXZsalhtemVJanlLOTlVOU8tVEQ1OENtMTUwZGkxa1hqcFY5Nm5OTlFsUEM1TlJrOFRMUWJxX09qMVFxc05yVVBJZ0lWdVdkRzh3RVgwNWhJeFlzZkJUa1hiZ2ZxeVZFbzFhOGZSTEhqQ3M5VkxqTmtjcUY3bGlWNkcxb3g1ZmJ1UDZVXzFOc3gxVGpQaU1mNFRB0gGyAUFVX3lxTFBTLU5VV0VCYThJQTdKMlpSaFVZZGdHanhpYTFSUkpPaWVnZEdrVGtLaGtEblZub2NidktvYTh4SW5sZFlNZlhFaV9pZjhpZTZaTFRmQUtxOERYTTRROGpsaHVaNUpNTlhLbFNQWE81bGEwZFk3WW42MXhzSW8weFh2cE9MR0tqUUpmWkstUk9GRkRkS0ZtODRpQjZxbTZJb3RzdS03eFdLVEV0MnVtR0diNUE?oc=5",
-        "published": "2026-09-15T09:27:55.000Z",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjZiQXJ5Q0pTVjVMYTY4OURxZUd3djZFcHJrSk8zalRMbnl6YmtDWFpVd2hFR1BsUWU3WjdieHV2dWRtTTM4NTRlRVNndk52UW5mTGgzQ0xVTl8xSjE3YmQyUFFXSHl2MFlJZVpfcjcxX0E4bmhtTm9LY2p3dEVTc0dLeDFzY0FYTGYxMVlKdFhTR3FfWVdoYTdhdFVucGQ4bC1jeldXdDVyaUxqX0FOcmdHWmU5Tzdhei1qZE93VEJQajEtalVr0gHHAUFVX3lxTE8yNmJBcnlDSlNWNUxhNjg5RHFlR3d2NkVwcmtKTzNqVExueXpia0NYWlV3aEVHUGxRZTdaN2J4dXZ1ZG1NMzg1NGVFU2d2TnZRbmZMaDNDTFVOXzFKMTdiZDJQUVdIeXYwWUllWl9yNzFfQThuaG1Ob0tjand0RVNzR0t4MXNjQVhMZjExWUp0WFNHcV9ZV2hhN2F0VW5wZDhsLWN6V1d0NXJpTGpfQU5yZ0daZTlPN2F6LWpkT3dUQlBqMS1qVWs?oc=5",
+        "published": "2026-09-22T03:00:06.000Z",
         "paywalled": false
       },
       "companyUpdates": [
