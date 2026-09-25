@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T06:35:27.836Z",
+  "generatedAt": "2026-09-25T06:29:03.095Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,48 +32,20 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Strategy",
-          "headline": "Hong Kong stocks eye fresh inflows from mainland China’s insurers - SCMP",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTjE0dm9TMzVoTHlFLVdyN09HejFPRHgyY1F4RUl4SEdzTzBabkpYSkRJN1lIM19qYU5sR1JCeDhXcWdHTVlheUVJT2FCVnhhcENaV2o1SjZPTDVtQm44N1BoWFpDUGpZb3pPemFSaGVocFBuVTY0TWxtV1VaQmVxX0c0TUFGU1VxU3pURi1sMVpWdF9pNE8xX1p6SkxJSldSMGlkcmRobF8teUMxWEgyaEU1aWFieHpCMjNFSjJlWVFpQjJXRUZsRUNFdWd3MzRNUXBnWUZudmPSAdgBQVVfeXFMUENqcDJJdFRLWDJzeGticTd0VzRRMjc0UnZpZVNKSmF1RUtuQ2w0Y3pYZHR2UGtqbE5LTUY2b09CMHB5TUd4WlE2SUJidWZ1dHgwYkpmV3BkNWRMMUFDR3lhcFg0REdxSkM1SXJ3T0padmNJVW9kT2JHbWlycnlRN1RTU0tOVWZqRW5RRjZVOXhyN1hsQzBodnRBODJKQU9obWgydUxPenk4Wi1SNTRWMG90STc5aXZhM1dDeUh1VUIwU3pCV01uWExwNmFxdjJpSC1wc3RXYTM4?oc=5",
-          "published": "2026-09-22T04:20:56.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Chinese inflows drive Deutsche Bank’s Hong Kong wealth boom - businesstimes.com.sg",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEtMcE1TS0dQNDQ1Tzk2ekFrUDdEVDh1SV81SWcyTEhibEFzUm1LLWM2dlo4TmlVUUJwdmhWa1dBTURwRVd5alpGdTRldzZad2tjc3A0NmpBMmZBdHB1UlNEZXB0TEVZYjVKQUxRb3ZSR2Z5OUlCWlQ1Ynp5N2hZLWpUenBQd0JsNzQ1QTA1bkV6M3lQbnNSeVRzRkxHTEd2R3VySHpXQmRyMTFPTFpZVjFBYUlKZ1Q5SmVQMDgwazhhWmc?oc=5",
-          "published": "2026-09-22T01:45:00.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Suntec REIT Plans $815M Australia Office Sell-Down in Singapore Pivot - Mingtiandi",
-          "source": "Mingtiandi",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX24yb2JyRjZhZzlzTXVzWkJNVVpVbHl3NWZKTXNWYXJmUUhKUUFxbXNLNV9CY3hjelpSNEN0OWVsV2dwZU12M1YzdTJ1NEQ5eGNZMXFMLVBFanRxT2V5dUhSV2Z2VlpienhxbEFvLUlMcEFKeDdvS0s0ZERTVzZ4X3hXdmhrYnB5NEZsM2pFUlo0Wk9UNmFMeDdZSFpxb2hBdU1EaXU2cUNndTA4TFBzbDk0Q01BblE?oc=5",
-          "published": "2026-09-21T16:02:44.000Z"
+          "tag": "Press",
+          "headline": "Singapore Enhances Its Asset Management Ecosystem with New MAS Initiatives - Kroll",
+          "source": "Kroll",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQU1mSWxNaEZVV0U0MU93bnhwVWgwcFU0SVdlUFBJc3N6T2lrblN5cHhQN25fV1I3WkoxNjhERjQ4cVVtck1TY3VuYUp1b1VqbENaVzEzLVpkUFl5eEtGeVVEY3lDVmVwSHItek5wUnhNWWVLdG5vc29IRktmb1k4SzNKdTF5YVg5NzF0NGY4cTFJYjljWHhnSzZBWVhpV0JUWVF6OU5ncTFlOU5wTWxtZUpIem45NmJoLXZLeXdZZmhhUlA1V1JYWC01b2N3Y3VJ?oc=5",
+          "published": "2026-09-24T08:33:10.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Strategy",
-          "headline": "Hong Kong stocks eye fresh inflows from mainland China’s insurers - SCMP",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTjE0dm9TMzVoTHlFLVdyN09HejFPRHgyY1F4RUl4SEdzTzBabkpYSkRJN1lIM19qYU5sR1JCeDhXcWdHTVlheUVJT2FCVnhhcENaV2o1SjZPTDVtQm44N1BoWFpDUGpZb3pPemFSaGVocFBuVTY0TWxtV1VaQmVxX0c0TUFGU1VxU3pURi1sMVpWdF9pNE8xX1p6SkxJSldSMGlkcmRobF8teUMxWEgyaEU1aWFieHpCMjNFSjJlWVFpQjJXRUZsRUNFdWd3MzRNUXBnWUZudmPSAdgBQVVfeXFMUENqcDJJdFRLWDJzeGticTd0VzRRMjc0UnZpZVNKSmF1RUtuQ2w0Y3pYZHR2UGtqbE5LTUY2b09CMHB5TUd4WlE2SUJidWZ1dHgwYkpmV3BkNWRMMUFDR3lhcFg0REdxSkM1SXJ3T0padmNJVW9kT2JHbWlycnlRN1RTU0tOVWZqRW5RRjZVOXhyN1hsQzBodnRBODJKQU9obWgydUxPenk4Wi1SNTRWMG90STc5aXZhM1dDeUh1VUIwU3pCV01uWExwNmFxdjJpSC1wc3RXYTM4?oc=5",
-          "published": "2026-09-22T04:20:56.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Chinese inflows drive Deutsche Bank’s Hong Kong wealth boom - businesstimes.com.sg",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEtMcE1TS0dQNDQ1Tzk2ekFrUDdEVDh1SV81SWcyTEhibEFzUm1LLWM2dlo4TmlVUUJwdmhWa1dBTURwRVd5alpGdTRldzZad2tjc3A0NmpBMmZBdHB1UlNEZXB0TEVZYjVKQUxRb3ZSR2Z5OUlCWlQ1Ynp5N2hZLWpUenBQd0JsNzQ1QTA1bkV6M3lQbnNSeVRzRkxHTEd2R3VySHpXQmRyMTFPTFpZVjFBYUlKZ1Q5SmVQMDgwazhhWmc?oc=5",
-          "published": "2026-09-22T01:45:00.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "Suntec REIT Plans $815M Australia Office Sell-Down in Singapore Pivot - Mingtiandi",
-          "source": "Mingtiandi",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX24yb2JyRjZhZzlzTXVzWkJNVVpVbHl3NWZKTXNWYXJmUUhKUUFxbXNLNV9CY3hjelpSNEN0OWVsV2dwZU12M1YzdTJ1NEQ5eGNZMXFMLVBFanRxT2V5dUhSV2Z2VlpienhxbEFvLUlMcEFKeDdvS0s0ZERTVzZ4X3hXdmhrYnB5NEZsM2pFUlo0Wk9UNmFMeDdZSFpxb2hBdU1EaXU2cUNndTA4TFBzbDk0Q01BblE?oc=5",
-          "published": "2026-09-21T16:02:44.000Z"
+          "tag": "Press",
+          "headline": "Singapore Enhances Its Asset Management Ecosystem with New MAS Initiatives - Kroll",
+          "source": "Kroll",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQU1mSWxNaEZVV0U0MU93bnhwVWgwcFU0SVdlUFBJc3N6T2lrblN5cHhQN25fV1I3WkoxNjhERjQ4cVVtck1TY3VuYUp1b1VqbENaVzEzLVpkUFl5eEtGeVVEY3lDVmVwSHItek5wUnhNWWVLdG5vc29IRktmb1k4SzNKdTF5YVg5NzF0NGY4cTFJYjljWHhnSzZBWVhpV0JUWVF6OU5ncTFlOU5wTWxtZUpIem45NmJoLXZLeXdZZmhhUlA1V1JYWC01b2N3Y3VJ?oc=5",
+          "published": "2026-09-24T08:33:10.000Z"
         }
       ],
       "insight": {
@@ -90,7 +62,7 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
+          "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - fortune.com",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
           "published": "2026-09-19T05:21:38.000Z"
         },
@@ -109,45 +81,39 @@
       "name": "Wealth Management",
       "bullets": [
         {
-          "tag": "Strategy",
-          "headline": "Singapore's Syfe crosses S$20B in assets under management - TNGlobal",
-          "source": "TNGlobal",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzQ0VGhMcnZCVUxkalVOMENPb0lvOC11QWdNbDFzWS1TR1VEWjZoUDljd3ZjMzBWVkY0VHFQQXFxZ1dZWFNrWG0xWWFxWVNuTEFCMjVuSFhlNzhxWnZyMWY4SzdaeWdnVm1ZUC05QXJSRURDZTl1UnVuYWJadWl5U0dEU2kzMlFwcFZGbDQ5bw?oc=5",
-          "published": "2026-09-22T01:50:17.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "TheWealthNet - Singapore private bank holds nextgen wealth programme - Pam Insight",
-          "source": "Pam Insight",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1NYa0lSV3d2dGVNMWdDczNnaWNoV3ZCVWotaWFiRkl0QVU4WkVfbDBtM19qNUxERnZoWVZBLWFVRW5WOTQzd0lvZWltX1lfeXZDQ1RPT3p0MGVHeW9YYXd1N1g4Zk9JZjd4M2JIVjZjWnA3SzJMWmE4dDJLRVpsd3dEcUhTOTNZZThpY1M0TkFyMFZfajRZ?oc=5",
-          "published": "2026-09-21T13:09:38.000Z"
+          "headline": "185 Years of Private Banking Heritage, A Legacy of Forward-thinking Stewardship - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONXJjX3c3R3ljZ3NVX21zVGlFcWNFaXdvRUs3dnhQNi13enlncmdlYm96UU1TZlM5dlRSb3ZOSmpja2gyQ3RjdGxNMlduRTNqUTNiZzBEei0wZFdJZGJvaklCSUdiMm9jUUgzQzBPbGNySERDbVBBSTFQQ1gtTWFodVdsNkVSNzF0eGFERV9TLWpfYnREZkVPS2xkLTlqWWk5ckJ1YW5SLWNiQlI3RkRRaGJCaWVxZjlOWF9sb2hqUGJjaS1CdlZDeE1yTTdLNnZ1U0R6dU10cF9idDBGUlNFb0p2TjUtVFYzMTJ1NklLRy14dWJKbHV3?oc=5",
+          "published": "2026-09-22T16:00:07.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Strategy",
-          "headline": "Singapore's Syfe crosses S$20B in assets under management - TNGlobal",
-          "source": "TNGlobal",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzQ0VGhMcnZCVUxkalVOMENPb0lvOC11QWdNbDFzWS1TR1VEWjZoUDljd3ZjMzBWVkY0VHFQQXFxZ1dZWFNrWG0xWWFxWVNuTEFCMjVuSFhlNzhxWnZyMWY4SzdaeWdnVm1ZUC05QXJSRURDZTl1UnVuYWJadWl5U0dEU2kzMlFwcFZGbDQ5bw?oc=5",
-          "published": "2026-09-22T01:50:17.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "TheWealthNet - Singapore private bank holds nextgen wealth programme - Pam Insight",
-          "source": "Pam Insight",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1NYa0lSV3d2dGVNMWdDczNnaWNoV3ZCVWotaWFiRkl0QVU4WkVfbDBtM19qNUxERnZoWVZBLWFVRW5WOTQzd0lvZWltX1lfeXZDQ1RPT3p0MGVHeW9YYXd1N1g4Zk9JZjd4M2JIVjZjWnA3SzJMWmE4dDJLRVpsd3dEcUhTOTNZZThpY1M0TkFyMFZfajRZ?oc=5",
-          "published": "2026-09-21T13:09:38.000Z"
+          "headline": "185 Years of Private Banking Heritage, A Legacy of Forward-thinking Stewardship - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONXJjX3c3R3ljZ3NVX21zVGlFcWNFaXdvRUs3dnhQNi13enlncmdlYm96UU1TZlM5dlRSb3ZOSmpja2gyQ3RjdGxNMlduRTNqUTNiZzBEei0wZFdJZGJvaklCSUdiMm9jUUgzQzBPbGNySERDbVBBSTFQQ1gtTWFodVdsNkVSNzF0eGFERV9TLWpfYnREZkVPS2xkLTlqWWk5ckJ1YW5SLWNiQlI3RkRRaGJCaWVxZjlOWF9sb2hqUGJjaS1CdlZDeE1yTTdLNnZ1U0R6dU10cF9idDBGUlNFb0p2TjUtVFYzMTJ1NklLRy14dWJKbHV3?oc=5",
+          "published": "2026-09-22T16:00:07.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "185 Years of Private Banking Heritage, A Legacy of Forward-thinking Stewardship - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONXJjX3c3R3ljZ3NVX21zVGlFcWNFaXdvRUs3dnhQNi13enlncmdlYm96UU1TZlM5dlRSb3ZOSmpja2gyQ3RjdGxNMlduRTNqUTNiZzBEei0wZFdJZGJvaklCSUdiMm9jUUgzQzBPbGNySERDbVBBSTFQQ1gtTWFodVdsNkVSNzF0eGFERV9TLWpfYnREZkVPS2xkLTlqWWk5ckJ1YW5SLWNiQlI3RkRRaGJCaWVxZjlOWF9sb2hqUGJjaS1CdlZDeE1yTTdLNnZ1U0R6dU10cF9idDBGUlNFb0p2TjUtVFYzMTJ1NklLRy14dWJKbHV3?oc=5",
+        "published": "2026-09-22T16:00:07.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "EMCOR Group (EME) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PWnpEUTc0REl6OFd6dUtDUjVuamVJay1OcE5IME9fazZSUFgzZXNuMDRNTXZrd0M1LUhhck9yVm5BcWZ6UVgwRlExT2IyRFRETFFMbXUxZFViMlhJTTh0bE9SRmVvMFdR?oc=5",
-          "published": "2026-09-22T19:35:49.000Z"
+          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
+          "published": "2026-09-23T02:42:45.000Z"
         },
         {
           "company": "HSBC",
@@ -165,8 +131,15 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Cigna Healthcare Hong Kong Simplifies Online Health Insurance Journey Enabling Customers to Choose Coverage with Confidence - iHarare News",
-          "source": "iHarare News",
+          "headline": "Chow Tai Fook Enterprises posts 11% full-year profit growth; China Life Insurance to launch RMB 20 billion fund - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1cFJ4MTdJOF9meEpUNkI3NFVKVEZLVXNpZkxnN0xBM21jakh4MUNIM2FmNE5DR3dMQk9wdkJGZ2Zlby1MUlZPXzI2Z05veVpQdVZNNVItcW0xalBiT1NLSmJUcWltRGQ3RUYzTkprV0c4UnNScFE?oc=5",
+          "published": "2026-09-24T14:05:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Cigna Healthcare Hong Kong Simplifies Online Health Insurance Journey Enabling Customers to Choose Coverage with Confidence - iharare.com",
+          "source": "iharare.com",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONHp5el9ORjN4bzZXNm9nWGc5ZDNUeWlYNjlvRE5NaW1LWnRJU2swdzV6Tjk2Z0pBRnJDUWRUNWJyYk5RR0xVdGxLLU4zZ2NhcjZ5ejJnbElQZVl1Rm5pN3QydjFfZENDZ2s2cldpSHlyeGZIcm9ZUExHa1lyWkxTUERjLXU2SVNTUHRHMWxrWndhSTdTYVdMYnlMZFBGNFJvem5KOUdNdmVrTW5zUjRNOHZLX0xlcS1WZ0I3ajd2ZTBRVmo2QmVVWHBEc3NubmgySzFhSS1uX296X1hhUHJoTjdGTTZ1WmlZVUxSOWo1QlRPS0ZVOGhPbTJnNUZMLS00dGlQQzR5X2U?oc=5",
           "published": "2026-09-22T19:03:42.000Z"
         }
@@ -174,8 +147,15 @@
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Cigna Healthcare Hong Kong Simplifies Online Health Insurance Journey Enabling Customers to Choose Coverage with Confidence - iHarare News",
-          "source": "iHarare News",
+          "headline": "Chow Tai Fook Enterprises posts 11% full-year profit growth; China Life Insurance to launch RMB 20 billion fund - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1cFJ4MTdJOF9meEpUNkI3NFVKVEZLVXNpZkxnN0xBM21jakh4MUNIM2FmNE5DR3dMQk9wdkJGZ2Zlby1MUlZPXzI2Z05veVpQdVZNNVItcW0xalBiT1NLSmJUcWltRGQ3RUYzTkprV0c4UnNScFE?oc=5",
+          "published": "2026-09-24T14:05:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Cigna Healthcare Hong Kong Simplifies Online Health Insurance Journey Enabling Customers to Choose Coverage with Confidence - iharare.com",
+          "source": "iharare.com",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONHp5el9ORjN4bzZXNm9nWGc5ZDNUeWlYNjlvRE5NaW1LWnRJU2swdzV6Tjk2Z0pBRnJDUWRUNWJyYk5RR0xVdGxLLU4zZ2NhcjZ5ejJnbElQZVl1Rm5pN3QydjFfZENDZ2s2cldpSHlyeGZIcm9ZUExHa1lyWkxTUERjLXU2SVNTUHRHMWxrWndhSTdTYVdMYnlMZFBGNFJvem5KOUdNdmVrTW5zUjRNOHZLX0xlcS1WZ0I3ajd2ZTBRVmo2QmVVWHBEc3NubmgySzFhSS1uX296X1hhUHJoTjdGTTZ1WmlZVUxSOWo1QlRPS0ZVOGhPbTJnNUZMLS00dGlQQzR5X2U?oc=5",
           "published": "2026-09-22T19:03:42.000Z"
         }
@@ -198,17 +178,10 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Singapore’s Trust Bank adds miles rewards to Freedom credit card - TNGlobal",
-          "source": "TNGlobal",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWklmOTJXNFhMYThwc1J0dkU0eG03d3pBWnQzQXhROFBwbl9zYTRwRUh6OFdUc3ZvVGVWN2xtb1l0azdkbG5CWUEySllXQ3pBUGJhTUJlZVotRElnSDBZcEJ2Uks4QWJiZkg4Y21xc3JxUnJjM25DOVNHMHRmZWVSZlZwQTI?oc=5",
-          "published": "2026-09-21T06:45:43.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - SCMP",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWdaSGs5NE1oU0N6aTNoczNCdXZBWDk0Zjc5TmRZMGdadGpnbDhOLWRMN0lPNW1UUHJfaHpIZnRsQktYQnItb3ozOGZEVUJzTS11c1cyUFhWd0g3X0NIbDR1cmJCN1RnMng0SUNfZFRmZFJTaUZyWndLMWV5X2FXT3lzaVNDMTRpR3NNVHZDc2t5STJmd2VPM01FaEM1eVJ5WWNCb0VfTTBZcFRPUWNKeGdXaDV1X3J3eU9VR1V4czd4T0dzNjhB0gHHAUFVX3lxTE8yNmJBcnlDSlNWNUxhNjg5RHFlR3d2NkVwcmtKTzNqVExueXpia0NYWlV3aEVHUGxRZTdaN2J4dXZ1ZG1NMzg1NGVFU2d2TnZRbmZMaDNDTFVOXzFKMTdiZDJQUVdIeXYwWUllWl9yNzFfQThuaG1Ob0tjand0RVNzR0t4MXNjQVhMZjExWUp0WFNHcV9ZV2hhN2F0VW5wZDhsLWN6V1d0NXJpTGpfQU5yZ0daZTlPN2F6LWpkT3dUQlBqMS1qVWs?oc=5",
-          "published": "2026-09-22T03:00:06.000Z"
+          "headline": "Tencent launches payments app for ‘China-maxxing’ foreign tourists - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOclRQSnZqbGlZVGNYR09heC1BMHhzNy0yT1ZXZXQ4SHRUdGpSVi1SYnRjemg0dS1jS2FWZGpCUjdPVkpFYmFRaXdMeGpXTEotMlRpeHd5Nm9ucldYazBaQVNPUmtWXzByTlBXUF9fYkp5Sk1DRnVpWUswbVZ4dVM0eU5xQTY?oc=5",
+          "published": "2026-09-24T09:34:29.000Z"
         },
         {
           "tag": "Press",
@@ -221,17 +194,10 @@
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Singapore’s Trust Bank adds miles rewards to Freedom credit card - TNGlobal",
-          "source": "TNGlobal",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWklmOTJXNFhMYThwc1J0dkU0eG03d3pBWnQzQXhROFBwbl9zYTRwRUh6OFdUc3ZvVGVWN2xtb1l0azdkbG5CWUEySllXQ3pBUGJhTUJlZVotRElnSDBZcEJ2Uks4QWJiZkg4Y21xc3JxUnJjM25DOVNHMHRmZWVSZlZwQTI?oc=5",
-          "published": "2026-09-21T06:45:43.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - SCMP",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWdaSGs5NE1oU0N6aTNoczNCdXZBWDk0Zjc5TmRZMGdadGpnbDhOLWRMN0lPNW1UUHJfaHpIZnRsQktYQnItb3ozOGZEVUJzTS11c1cyUFhWd0g3X0NIbDR1cmJCN1RnMng0SUNfZFRmZFJTaUZyWndLMWV5X2FXT3lzaVNDMTRpR3NNVHZDc2t5STJmd2VPM01FaEM1eVJ5WWNCb0VfTTBZcFRPUWNKeGdXaDV1X3J3eU9VR1V4czd4T0dzNjhB0gHHAUFVX3lxTE8yNmJBcnlDSlNWNUxhNjg5RHFlR3d2NkVwcmtKTzNqVExueXpia0NYWlV3aEVHUGxRZTdaN2J4dXZ1ZG1NMzg1NGVFU2d2TnZRbmZMaDNDTFVOXzFKMTdiZDJQUVdIeXYwWUllWl9yNzFfQThuaG1Ob0tjand0RVNzR0t4MXNjQVhMZjExWUp0WFNHcV9ZV2hhN2F0VW5wZDhsLWN6V1d0NXJpTGpfQU5yZ0daZTlPN2F6LWpkT3dUQlBqMS1qVWs?oc=5",
-          "published": "2026-09-22T03:00:06.000Z"
+          "headline": "Tencent launches payments app for ‘China-maxxing’ foreign tourists - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOclRQSnZqbGlZVGNYR09heC1BMHhzNy0yT1ZXZXQ4SHRUdGpSVi1SYnRjemg0dS1jS2FWZGpCUjdPVkpFYmFRaXdMeGpXTEotMlRpeHd5Nm9ucldYazBaQVNPUmtWXzByTlBXUF9fYkp5Sk1DRnVpWUswbVZ4dVM0eU5xQTY?oc=5",
+          "published": "2026-09-24T09:34:29.000Z"
         },
         {
           "tag": "Press",
@@ -241,15 +207,7 @@
           "published": "2026-09-22T10:52:25.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Could Saudi Arabia’s mBridge exit dent China-led payments platform? - SCMP",
-        "teaser": null,
-        "source": "SCMP",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjZiQXJ5Q0pTVjVMYTY4OURxZUd3djZFcHJrSk8zalRMbnl6YmtDWFpVd2hFR1BsUWU3WjdieHV2dWRtTTM4NTRlRVNndk52UW5mTGgzQ0xVTl8xSjE3YmQyUFFXSHl2MFlJZVpfcjcxX0E4bmhtTm9LY2p3dEVTc0dLeDFzY0FYTGYxMVlKdFhTR3FfWVdoYTdhdFVucGQ4bC1jeldXdDVyaUxqX0FOcmdHWmU5Tzdhei1qZE93VEJQajEtalVr0gHHAUFVX3lxTE8yNmJBcnlDSlNWNUxhNjg5RHFlR3d2NkVwcmtKTzNqVExueXpia0NYWlV3aEVHUGxRZTdaN2J4dXZ1ZG1NMzg1NGVFU2d2TnZRbmZMaDNDTFVOXzFKMTdiZDJQUVdIeXYwWUllWl9yNzFfQThuaG1Ob0tjand0RVNzR0t4MXNjQVhMZjExWUp0WFNHcV9ZV2hhN2F0VW5wZDhsLWN6V1d0NXJpTGpfQU5yZ0daZTlPN2F6LWpkT3dUQlBqMS1qVWs?oc=5",
-        "published": "2026-09-22T03:00:06.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "HSBC",
