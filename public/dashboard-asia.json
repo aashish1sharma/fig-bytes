@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T07:22:15.522Z",
+  "generatedAt": "2026-09-30T07:12:44.311Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,38 +30,8 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "Korea launches its own version of popular US fund Roundhill Memory ETF DRAM - KED Global",
-          "source": "KED Global",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM1FXMGNZS01BRzcza0plNENIb3R1aUdsSG5hcWhOTUY3aFZRczE1U0czUGZqODFiYkFVUjRDNGlYT2ZMei1IZXRiWUxIRUdhQmZ6TWprREF6RW9qbGphLUF1cGdpQ1Qw?oc=5",
-          "published": "2026-09-29T07:00:24.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong Approves Solana ETF Ahead of United States - CoinMarketCap",
-          "source": "CoinMarketCap",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHh2SFRXWldFclNuUVl1M0xhT3gtU1o3alFVbzZqeWJIc1ZPTThhLWRjTDZCSUp0SzloSjVJemh1VmdqMkNyTDVwVlBTbWJJd1loSXFwZzBwSzA1bF9hUjVtREszX1pjSmhuSGdKX0JhVE02SEpxNHNFaUZEQXFkNmVnMEFDSGtDTy1oVXM4b1BTOHRpUGpaeFhn?oc=5",
-          "published": "2026-09-26T17:56:22.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Korea launches its own version of popular US fund Roundhill Memory ETF DRAM - KED Global",
-          "source": "KED Global",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM1FXMGNZS01BRzcza0plNENIb3R1aUdsSG5hcWhOTUY3aFZRczE1U0czUGZqODFiYkFVUjRDNGlYT2ZMei1IZXRiWUxIRUdhQmZ6TWprREF6RW9qbGphLUF1cGdpQ1Qw?oc=5",
-          "published": "2026-09-29T07:00:24.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong Approves Solana ETF Ahead of United States - CoinMarketCap",
-          "source": "CoinMarketCap",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHh2SFRXWldFclNuUVl1M0xhT3gtU1o3alFVbzZqeWJIc1ZPTThhLWRjTDZCSUp0SzloSjVJemh1VmdqMkNyTDVwVlBTbWJJd1loSXFwZzBwSzA1bF9hUjVtREszX1pjSmhuSGdKX0JhVE02SEpxNHNFaUZEQXFkNmVnMEFDSGtDTy1oVXM4b1BTOHRpUGpaeFhn?oc=5",
-          "published": "2026-09-26T17:56:22.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
@@ -87,6 +57,13 @@
       "name": "Wealth Management",
       "bullets": [
         {
+          "tag": "Press",
+          "headline": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWE1QW9mNXk5TERNT0RyR2dVYzlWYXVjaGJhcGxoLWtMRG1fbDlfemZjZ0dQdnV4WUxSUC11RnNxWXFrUXg0NXNNQ1pfVGY0aHY5NXhsa0hiMVFMWE96bUxYemVMOTRyR1VDVmhWVDdSSmVzUEVXZy1DTkJVTHMzakM1YTRLZkVOMU1ySU05dXdaNjI3MXozcWxWVHA4bF9vTjhJaFF2MldEcE1Vbmg0ZmZCckVtWDBtR3dLOEEwSFM4ZVVlS2dNN0lSQlE1V2Ez0gHQAUFVX3lxTFBmMl90VFRIQ0l2YVlaUm5zdzNFZDBfOG4xRVhDUktxbHFVSk1XeVpKSVREYWtKbFNHWTE5dkNOVEFrS24xY3J4aVpnRGFEb1dQY3VCaGpVVlhzQ0hQTFIyT0pTbVV4VjB6MXFrNTA4WGNtUDl3V0FPaUU2TF9NZVVVOF9lVnA3SHBTeUwyQlo3QWtJX2E3cjdPTHNRdmlfS01fQWNEU1d3TFBfSUZqcjdsc2RMSmdHYjlaSU1uVHNnU05CMXNqM3MwTUNTZHBxT1Y?oc=5",
+          "published": "2026-09-29T23:00:09.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Lombard Odier Adds To Hong Kong, Switzerland Private Client Teams - WealthBriefing",
           "source": "WealthBriefing",
@@ -95,19 +72,33 @@
         },
         {
           "tag": "Press",
-          "headline": "Lombard Odier expands Asia private banking team with hires in Hong Kong and Zurich - AsianInvestor Wealth",
-          "source": "AsianInvestor Wealth",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR21zMjA3RUxLMUN0cnB4WTNGWGRyNDRjeTEwTVVjbFJFNjRoc1NnMTUzQnJkYzgtZWZ6SDVNSXRnQVFjcmMxUXBFY0lHYndJX1VOMVRRLVJDZ3ZYRnVmWE1DWVVvUS1HNDBBQUo3VXFCbmJvekpvWThfU3BOMm9WbC01UFJvdFJEbDY4bFpmN0ZDUkhKRVBRR1h3RjlHVUxMM21TTHR3RmRqSEdCeWZjMFVKYTlYWGxqYjdXOXRpb2pZQ3dfdGVicFp2MWs?oc=5",
-          "published": "2026-09-28T15:53:14.000Z"
+          "headline": "OCBC Hong Kong Doubles Down On Wealth Management - Finimize",
+          "source": "Finimize",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeG9DSE91cjdrTkZEUndpSDR0a2pjbjRsVHNVTnQ4OXR2R3FrNjFCTVVjVldxSFZNcVR2WTN3eWZRdEI3WlFFQ3JIU3VVQ3djZ3Q5N2MzVTB2aXprbFpmWW02TE95Y05ZU182NkpDS2FVaDJWd0d0OW0tUzRtOVJ0T3pDVQ?oc=5",
+          "published": "2026-09-30T00:22:30.000Z"
         }
       ],
       "candidates": [
+        {
+          "tag": "Press",
+          "headline": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWE1QW9mNXk5TERNT0RyR2dVYzlWYXVjaGJhcGxoLWtMRG1fbDlfemZjZ0dQdnV4WUxSUC11RnNxWXFrUXg0NXNNQ1pfVGY0aHY5NXhsa0hiMVFMWE96bUxYemVMOTRyR1VDVmhWVDdSSmVzUEVXZy1DTkJVTHMzakM1YTRLZkVOMU1ySU05dXdaNjI3MXozcWxWVHA4bF9vTjhJaFF2MldEcE1Vbmg0ZmZCckVtWDBtR3dLOEEwSFM4ZVVlS2dNN0lSQlE1V2Ez0gHQAUFVX3lxTFBmMl90VFRIQ0l2YVlaUm5zdzNFZDBfOG4xRVhDUktxbHFVSk1XeVpKSVREYWtKbFNHWTE5dkNOVEFrS24xY3J4aVpnRGFEb1dQY3VCaGpVVlhzQ0hQTFIyT0pTbVV4VjB6MXFrNTA4WGNtUDl3V0FPaUU2TF9NZVVVOF9lVnA3SHBTeUwyQlo3QWtJX2E3cjdPTHNRdmlfS01fQWNEU1d3TFBfSUZqcjdsc2RMSmdHYjlaSU1uVHNnU05CMXNqM3MwTUNTZHBxT1Y?oc=5",
+          "published": "2026-09-29T23:00:09.000Z"
+        },
         {
           "tag": "Product",
           "headline": "Lombard Odier Adds To Hong Kong, Switzerland Private Client Teams - WealthBriefing",
           "source": "WealthBriefing",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRU1iVWFUc2JVLWZLejVBNUR4aVIxZTQ1WVFkRUFzREJBaGIyRk9IUjRwTjJVRVcwYzdMdkZkb1QxdFhrcHNtaUI3NVdzS3dZSDVvYV9VQ3hXc1BJMW9rV2FkUVFzaWR2NUdSUjFqblVuakMzVDVYMkdNSWh2cHVZVlhuTnVhNmplczdZRFQ2M0VBWlR0bGVNUVRjQW5QQWM0aUt5ODFvQkZVQy0wOEZYU2Z1WQ?oc=5",
           "published": "2026-09-27T21:02:19.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "OCBC Hong Kong Doubles Down On Wealth Management - Finimize",
+          "source": "Finimize",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeG9DSE91cjdrTkZEUndpSDR0a2pjbjRsVHNVTnQ4OXR2R3FrNjFCTVVjVldxSFZNcVR2WTN3eWZRdEI3WlFFQ3JIU3VVQ3djZ3Q5N2MzVTB2aXprbFpmWW02TE95Y05ZU182NkpDS2FVaDJWd0d0OW0tUzRtOVJ0T3pDVQ?oc=5",
+          "published": "2026-09-30T00:22:30.000Z"
         },
         {
           "tag": "Press",
@@ -119,11 +110,11 @@
       ],
       "insight": {
         "tag": "Research",
-        "headline": "185 Years of Private Banking Heritage, A Legacy of Forward-thinking Stewardship - South China Morning Post",
+        "headline": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets - South China Morning Post",
         "teaser": null,
         "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONXJjX3c3R3ljZ3NVX21zVGlFcWNFaXdvRUs3dnhQNi13enlncmdlYm96UU1TZlM5dlRSb3ZOSmpja2gyQ3RjdGxNMlduRTNqUTNiZzBEei0wZFdJZGJvaklCSUdiMm9jUUgzQzBPbGNySERDbVBBSTFQQ1gtTWFodVdsNkVSNzF0eGFERV9TLWpfYnREZkVPS2xkLTlqWWk5ckJ1YW5SLWNiQlI3RkRRaGJCaWVxZjlOWF9sb2hqUGJjaS1CdlZDeE1yTTdLNnZ1U0R6dU10cF9idDBGUlNFb0p2TjUtVFYzMTJ1NklLRy14dWJKbHV3?oc=5",
-        "published": "2026-09-22T16:00:07.000Z",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWE1QW9mNXk5TERNT0RyR2dVYzlWYXVjaGJhcGxoLWtMRG1fbDlfemZjZ0dQdnV4WUxSUC11RnNxWXFrUXg0NXNNQ1pfVGY0aHY5NXhsa0hiMVFMWE96bUxYemVMOTRyR1VDVmhWVDdSSmVzUEVXZy1DTkJVTHMzakM1YTRLZkVOMU1ySU05dXdaNjI3MXozcWxWVHA4bF9vTjhJaFF2MldEcE1Vbmg0ZmZCckVtWDBtR3dLOEEwSFM4ZVVlS2dNN0lSQlE1V2Ez0gHQAUFVX3lxTFBmMl90VFRIQ0l2YVlaUm5zdzNFZDBfOG4xRVhDUktxbHFVSk1XeVpKSVREYWtKbFNHWTE5dkNOVEFrS24xY3J4aVpnRGFEb1dQY3VCaGpVVlhzQ0hQTFIyT0pTbVV4VjB6MXFrNTA4WGNtUDl3V0FPaUU2TF9NZVVVOF9lVnA3SHBTeUwyQlo3QWtJX2E3cjdPTHNRdmlfS01fQWNEU1d3TFBfSUZqcjdsc2RMSmdHYjlaSU1uVHNnU05CMXNqM3MwTUNTZHBxT1Y?oc=5",
+        "published": "2026-09-29T23:00:09.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -131,9 +122,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
-          "published": "2026-09-26T10:56:52.000Z"
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-09-26T20:52:49.000Z"
         },
         {
           "company": "HSBC",
@@ -175,11 +166,18 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Australia’s Ban on Debit and Credit Card Surcharges Takes Effect - PaymentsJournal",
-          "source": "PaymentsJournal",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckxkY3hoc1FPSjBFTng2WF9fc1RlRU1VTktoMEc5WTVybVZXRGF6bk9ZbzNvS2E5bjZ5Ym0xQzZHUnFWLVBLVjZuRFRTbzZ0M1FFai1ZOWxDX3E4ckpBV0J1MWpfS2YtMkNHUk1Ta1k5TUdRd1cyRjd2cTVwdUQ0UlVaMlhPTXNBTGIzWDFxMks4bEk0bUdXaTJHeU_SAaIBQVVfeXFMUHVxQWZ0aW1sQXRUZ2NjbWlUTGNzZ3RBMGthUGRIVVNOX2tjVmtEXzlwek9VV2FUazF5OWtFYUFZUW1nQTgwbFUzMWRlc3VpVENaNGdUX29nTVd1MENnOFJOMFVyNnV0bE00TkxuVEN4SEZGS21kREljZXVhU1pQLXNCM1pxQUgyYWxVX1hESmhra3RvMTNGTlF3UUx5WkRuUU9B?oc=5",
-          "published": "2026-09-28T18:30:00.000Z"
+          "tag": "Press",
+          "headline": "China bans online financial promos by private brokers to stop loan misuse - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDBXb0pWVkd6Mk12ZmdZZXhJWnZDNTJoNlYzclhqZWlGQjd3YU1aN05RWjNhSHg5Ym1RQmIxV29JZXZtazdlcFBpbFhsRFpXTjZfZ2xUejVqbkpneHNJRzUwVUJMVkNBaFlaZ2JiOW42MGRab2RnVTZCUUFmbFZGNW03bER1QUtZbGp1RzF5LXpqTWptS3JIeXZocXNFb3BKRGwxb0w1TXN4OC05NEZOckF0S20zLXVod3d2WC16MUNfSE9JNWd4M2NrS1gyQnBJ0gHQAUFVX3lxTE93ZWVFWmFlVGNLUlhJMS1rdXI5U2oxeWJjVlVHdnBKZzZnSXl1Q2pqTy1RQllaTG03clg3ci0tbnRvd0RhM19LamRreEk0RHpxQVljdEE3T3oxcnJhR1R6QnFISE1PRy12X09xSVItOEhVeEFhMWo0cnhVNENzWnBOcDVyNURjeDhLX0Y5aFhobWpobzFVQ2VKdFR4RUtQbFhQeVBlcWZZRmRBSEpoWk03UVFial92X05BN0ZkQ0ZmNFl2bTRZWmtSYkRmcjhucEI?oc=5",
+          "published": "2026-09-30T02:00:12.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "OCBC Sees Seniors Make Nearly 60% More Digital Payments - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdE95R0xwNUo2NmNxc0s0XzBQQXJIeUNFMHFzdl9SQzRBVXB1ZFVGazExN2JlZFBwajJMT0dJN2xCRXlzVmlMSWdFNzRxczkwM3FjZVp4MFlrNzh3SFJrbTBldng1empscnFKQTBFMk41RVA2TTN4S2hIOS11VGUzWlNCR1ZvS1MxbGRENHAyemI?oc=5",
+          "published": "2026-09-30T02:56:32.000Z"
         },
         {
           "tag": "Press",
@@ -187,22 +185,22 @@
           "source": "Fintech Singapore",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaC1UNjN5eUxySnlOVUVHT3ZiTHEzYlh0bjlfaDFQUVJwSmdzN1pwS3Iyc2xuQVFGaHRTcGloQ2h2WnlwSzZrQ0lMUHpuSVhRazM2NWMycDNQcGlQX2xXUWJzT2Nhb1F0UUdhRTZydGU5dHpUYlJ6Z3daaW9VeHgxTlNKUlR5UQ?oc=5",
           "published": "2026-09-29T07:14:21.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "APAC Banks Rethink Legacy Issuing as Digital Payments Accelerate - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VMEQ1UFdaVkVjeFBnOGdNNHdyemxnNElfU1dzVEx2NEh2MkljYWxXY0NXQTJsX0liekpIVzFjQVZCSHhxQkRaU2J2ZmstUVlNQXZha2Vsci14SWZWcEdZb0I3d3ZfamhBQ2hwZnVqbGlPU2RSdG41YzR1MA?oc=5",
-          "published": "2026-09-29T02:11:22.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Australia’s Ban on Debit and Credit Card Surcharges Takes Effect - PaymentsJournal",
-          "source": "PaymentsJournal",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckxkY3hoc1FPSjBFTng2WF9fc1RlRU1VTktoMEc5WTVybVZXRGF6bk9ZbzNvS2E5bjZ5Ym0xQzZHUnFWLVBLVjZuRFRTbzZ0M1FFai1ZOWxDX3E4ckpBV0J1MWpfS2YtMkNHUk1Ta1k5TUdRd1cyRjd2cTVwdUQ0UlVaMlhPTXNBTGIzWDFxMks4bEk0bUdXaTJHeU_SAaIBQVVfeXFMUHVxQWZ0aW1sQXRUZ2NjbWlUTGNzZ3RBMGthUGRIVVNOX2tjVmtEXzlwek9VV2FUazF5OWtFYUFZUW1nQTgwbFUzMWRlc3VpVENaNGdUX29nTVd1MENnOFJOMFVyNnV0bE00TkxuVEN4SEZGS21kREljZXVhU1pQLXNCM1pxQUgyYWxVX1hESmhra3RvMTNGTlF3UUx5WkRuUU9B?oc=5",
-          "published": "2026-09-28T18:30:00.000Z"
+          "tag": "Press",
+          "headline": "China bans online financial promos by private brokers to stop loan misuse - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDBXb0pWVkd6Mk12ZmdZZXhJWnZDNTJoNlYzclhqZWlGQjd3YU1aN05RWjNhSHg5Ym1RQmIxV29JZXZtazdlcFBpbFhsRFpXTjZfZ2xUejVqbkpneHNJRzUwVUJMVkNBaFlaZ2JiOW42MGRab2RnVTZCUUFmbFZGNW03bER1QUtZbGp1RzF5LXpqTWptS3JIeXZocXNFb3BKRGwxb0w1TXN4OC05NEZOckF0S20zLXVod3d2WC16MUNfSE9JNWd4M2NrS1gyQnBJ0gHQAUFVX3lxTE93ZWVFWmFlVGNLUlhJMS1rdXI5U2oxeWJjVlVHdnBKZzZnSXl1Q2pqTy1RQllaTG03clg3ci0tbnRvd0RhM19LamRreEk0RHpxQVljdEE3T3oxcnJhR1R6QnFISE1PRy12X09xSVItOEhVeEFhMWo0cnhVNENzWnBOcDVyNURjeDhLX0Y5aFhobWpobzFVQ2VKdFR4RUtQbFhQeVBlcWZZRmRBSEpoWk03UVFial92X05BN0ZkQ0ZmNFl2bTRZWmtSYkRmcjhucEI?oc=5",
+          "published": "2026-09-30T02:00:12.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "OCBC Sees Seniors Make Nearly 60% More Digital Payments - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdE95R0xwNUo2NmNxc0s0XzBQQXJIeUNFMHFzdl9SQzRBVXB1ZFVGazExN2JlZFBwajJMT0dJN2xCRXlzVmlMSWdFNzRxczkwM3FjZVp4MFlrNzh3SFJrbTBldng1empscnFKQTBFMk41RVA2TTN4S2hIOS11VGUzWlNCR1ZvS1MxbGRENHAyemI?oc=5",
+          "published": "2026-09-30T02:56:32.000Z"
         },
         {
           "tag": "Press",
@@ -219,8 +217,24 @@
           "published": "2026-09-29T02:11:22.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "China bans online financial promos by private brokers to stop loan misuse - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDBXb0pWVkd6Mk12ZmdZZXhJWnZDNTJoNlYzclhqZWlGQjd3YU1aN05RWjNhSHg5Ym1RQmIxV29JZXZtazdlcFBpbFhsRFpXTjZfZ2xUejVqbkpneHNJRzUwVUJMVkNBaFlaZ2JiOW42MGRab2RnVTZCUUFmbFZGNW03bER1QUtZbGp1RzF5LXpqTWptS3JIeXZocXNFb3BKRGwxb0w1TXN4OC05NEZOckF0S20zLXVod3d2WC16MUNfSE9JNWd4M2NrS1gyQnBJ0gHQAUFVX3lxTE93ZWVFWmFlVGNLUlhJMS1rdXI5U2oxeWJjVlVHdnBKZzZnSXl1Q2pqTy1RQllaTG03clg3ci0tbnRvd0RhM19LamRreEk0RHpxQVljdEE3T3oxcnJhR1R6QnFISE1PRy12X09xSVItOEhVeEFhMWo0cnhVNENzWnBOcDVyNURjeDhLX0Y5aFhobWpobzFVQ2VKdFR4RUtQbFhQeVBlcWZZRmRBSEpoWk03UVFial92X05BN0ZkQ0ZmNFl2bTRZWmtSYkRmcjhucEI?oc=5",
+        "published": "2026-09-30T02:00:12.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
+        {
+          "company": "Standard Chartered",
+          "ticker": "STAN",
+          "tag": "Transcript",
+          "headline": "Transcript : Standard Chartered PLC Presents at Bank of America 31st Annual Financials CEO Conference, Sep-22-2026 09:1…",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEhUR2pkNFNxYXJsSGt6NVdUTTRIdzdtQzJnckowc1lfRE1LWVlTZHBtdS1hTE5VbzkzSFlQY1A5WWkwLTVlaS1NbEFlN2I1MHI5SWhUcTNfcHRjUk5IWkx3Y0Q0X3ozY21WYUVadGRrbEY4SklFUWEzZkk0MFAzSXZIaDIybWtENF9OY3NJb09wT2E0SVFWSjlkNlp3V2NBY29qSUhRaGRWOXRrcFVoTmY5SWFvUGtKSU5JUTJGWHoxbnA3NHl5aTBMNlUzbFZSY1Bic1doVV8xY0dvdDNYNHpLZXIzZw?oc=5",
+          "published": "2026-09-23T18:21:50.000Z"
+        },
         {
           "company": "HSBC",
           "ticker": "HSBC",
