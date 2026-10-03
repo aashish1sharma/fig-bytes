@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:24:02.856Z",
+  "generatedAt": "2026-10-03T06:57:14.550Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,24 +30,8 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "Korea launches its own version of popular US fund Roundhill Memory ETF DRAM - KED Global",
-          "source": "KED Global",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM1FXMGNZS01BRzcza0plNENIb3R1aUdsSG5hcWhOTUY3aFZRczE1U0czUGZqODFiYkFVUjRDNGlYT2ZMei1IZXRiWUxIRUdhQmZ6TWprREF6RW9qbGphLUF1cGdpQ1Qw?oc=5",
-          "published": "2026-09-29T22:59:07.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Korea launches its own version of popular US fund Roundhill Memory ETF DRAM - KED Global",
-          "source": "KED Global",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM1FXMGNZS01BRzcza0plNENIb3R1aUdsSG5hcWhOTUY3aFZRczE1U0czUGZqODFiYkFVUjRDNGlYT2ZMei1IZXRiWUxIRUdhQmZ6TWprREF6RW9qbGphLUF1cGdpQ1Qw?oc=5",
-          "published": "2026-09-29T22:59:07.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "EWH – iShares MSCI Hong Kong ETF – ETF Stock Quote - Morningstar",
@@ -73,30 +57,22 @@
           "headline": "Earnings call transcript: Schroders Capital Global Innovation Trust H1 2026 lifts NAV - Investing.com UK",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQnlUMnBFNFBJdnZ3UVR3WFF5M0UwQlVsS3ljTFE3a1lWSGw0Z2NQcjJOMnhtd3ZicVhFRFctRGpDemZUSUpKMDNoRy1pWFh4cU9OZXRFeGtrcWJfUXprSXh4OE5nemlvZXZZbE1TU2pWcDBhakZvODVmb3RjRG01b2RpcnVKNDZrRWhTTXRWN2xhNWdSQ2ZzN0E2TC15TEpWSkZqaFVVb01uUFZKdzJ4a0JFdEJvTC1lbGxkLVdYd1pQQklaY1MzSldxaUo1V3kyUG9wS0hRaER6VXQ2RGc?oc=5",
           "published": "2026-09-16T07:00:00.000Z"
+        },
+        {
+          "company": "Fidelity International",
+          "ticker": "FIL",
+          "tag": "Analyst Report",
+          "headline": "Fidelity Europe Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWVmc1BrWFBHbFBLdFJFUlUtTERaSjlJUW0yajR4Ymd2VUVzQ19QdFJ6c1AyVy1zT2lHakE2OUJUYXBMMEV2elZwV3RkRUFxUG5rS2lBaU1sWTNkNEc2X01CTFRNa1ZXS3BESncwcDdyV0VvdWRqVjB5WkZNOC1fb2RPN2p2ZFRjSm52LWsyV21TMk01MnFzTHVwVkp3VW5VOHY5TUcyQkJuQ2hpQjNhb19nMDU1VGF6emZmc1Y0U2h6dzFvS2VfaWozS3hyby1KTGF3T1o5TQ?oc=5",
+          "published": "2026-09-30T07:03:00.000Z"
         }
       ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets - scmp.com",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWE1QW9mNXk5TERNT0RyR2dVYzlWYXVjaGJhcGxoLWtMRG1fbDlfemZjZ0dQdnV4WUxSUC11RnNxWXFrUXg0NXNNQ1pfVGY0aHY5NXhsa0hiMVFMWE96bUxYemVMOTRyR1VDVmhWVDdSSmVzUEVXZy1DTkJVTHMzakM1YTRLZkVOMU1ySU05dXdaNjI3MXozcWxWVHA4bF9vTjhJaFF2MldEcE1Vbmg0ZmZCckVtWDBtR3dLOEEwSFM4ZVVlS2dNN0lSQlE1V2Ez0gHQAUFVX3lxTFBmMl90VFRIQ0l2YVlaUm5zdzNFZDBfOG4xRVhDUktxbHFVSk1XeVpKSVREYWtKbFNHWTE5dkNOVEFrS24xY3J4aVpnRGFEb1dQY3VCaGpVVlhzQ0hQTFIyT0pTbVV4VjB6MXFrNTA4WGNtUDl3V0FPaUU2TF9NZVVVOF9lVnA3SHBTeUwyQlo3QWtJX2E3cjdPTHNRdmlfS01fQWNEU1d3TFBfSUZqcjdsc2RMSmdHYjlaSU1uVHNnU05CMXNqM3MwTUNTZHBxT1Y?oc=5",
-          "published": "2026-09-29T23:00:09.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets - scmp.com",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWE1QW9mNXk5TERNT0RyR2dVYzlWYXVjaGJhcGxoLWtMRG1fbDlfemZjZ0dQdnV4WUxSUC11RnNxWXFrUXg0NXNNQ1pfVGY0aHY5NXhsa0hiMVFMWE96bUxYemVMOTRyR1VDVmhWVDdSSmVzUEVXZy1DTkJVTHMzakM1YTRLZkVOMU1ySU05dXdaNjI3MXozcWxWVHA4bF9vTjhJaFF2MldEcE1Vbmg0ZmZCckVtWDBtR3dLOEEwSFM4ZVVlS2dNN0lSQlE1V2Ez0gHQAUFVX3lxTFBmMl90VFRIQ0l2YVlaUm5zdzNFZDBfOG4xRVhDUktxbHFVSk1XeVpKSVREYWtKbFNHWTE5dkNOVEFrS24xY3J4aVpnRGFEb1dQY3VCaGpVVlhzQ0hQTFIyT0pTbVV4VjB6MXFrNTA4WGNtUDl3V0FPaUU2TF9NZVVVOF9lVnA3SHBTeUwyQlo3QWtJX2E3cjdPTHNRdmlfS01fQWNEU1d3TFBfSUZqcjdsc2RMSmdHYjlaSU1uVHNnU05CMXNqM3MwTUNTZHBxT1Y?oc=5",
-          "published": "2026-09-29T23:00:09.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets - scmp.com",
@@ -111,17 +87,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
-          "published": "2026-09-26T20:52:49.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Video Transcript - HSBC Private Bank",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOS0ZMTzNUb2RKS2ZuU1RScVVKc1lnRGt2SFpnSWF6Q3l6Vk5ET29iWWdQekZMd05GOFg1eUx1UHN4bFVrZkFFZm5DU2VzQ3pRTHJBcHpaZHRsdUpEUjBjaUUtU3RGb0NMbTJ6cHRfNm1CclMwNmljclktMXB6bm1Sd2ZxNUZCMlpiSWVyeGo4aVEzcjZITFdZZTVfczlUQXFEc2VRRnp3S0VkcFgxcWRSTi1KTUhmUW9fQU5fSjVqMFpPZmExRWpxQnRrVnpHX2VqS05SbHNkRTh2VUxGOEhSa3RMbW0yaDVockpGMXZTcTg2eDVoSnJV?oc=5",
-          "published": "2026-09-03T07:00:00.000Z"
+          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
+          "published": "2026-09-30T18:15:30.000Z"
         }
       ]
     },
@@ -159,21 +127,14 @@
           "headline": "An overview: Best credit card promotions in Singapore (October 2026) - MoneySmart",
           "source": "MoneySmart",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-10-01T12:02:34.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Use Grab daily? The GXS Credit Card is the best cashback credit card for Grab in Singapore , Money News - AsiaOne",
-          "source": "AsiaOne",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Pc2w4N1ZuTjRmaS1CZDhMWXlDdXlDZDBfeExqN2hqZVNFVUF4VVVtbWRrVi1tVmdJeUhqRHdaTnBOWnVKRnhIdnJ5U3hBT2hDVkdvMm4wdnU?oc=5",
-          "published": "2026-09-30T06:16:12.000Z"
+          "published": "2026-10-01T07:00:00.000Z"
         },
         {
           "tag": "Press",
-          "headline": "China bans online financial promos by private brokers to stop loan misuse - scmp.com",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDBXb0pWVkd6Mk12ZmdZZXhJWnZDNTJoNlYzclhqZWlGQjd3YU1aN05RWjNhSHg5Ym1RQmIxV29JZXZtazdlcFBpbFhsRFpXTjZfZ2xUejVqbkpneHNJRzUwVUJMVkNBaFlaZ2JiOW42MGRab2RnVTZCUUFmbFZGNW03bER1QUtZbGp1RzF5LXpqTWptS3JIeXZocXNFb3BKRGwxb0w1TXN4OC05NEZOckF0S20zLXVod3d2WC16MUNfSE9JNWd4M2NrS1gyQnBJ0gHQAUFVX3lxTE93ZWVFWmFlVGNLUlhJMS1rdXI5U2oxeWJjVlVHdnBKZzZnSXl1Q2pqTy1RQllaTG03clg3ci0tbnRvd0RhM19LamRreEk0RHpxQVljdEE3T3oxcnJhR1R6QnFISE1PRy12X09xSVItOEhVeEFhMWo0cnhVNENzWnBOcDVyNURjeDhLX0Y5aFhobWpobzFVQ2VKdFR4RUtQbFhQeVBlcWZZRmRBSEpoWk03UVFial92X05BN0ZkQ0ZmNFl2bTRZWmtSYkRmcjhucEI?oc=5",
-          "published": "2026-09-30T02:00:12.000Z"
+          "headline": "Volt Connects Australia to the Global A2A Payments Network - FinTech Magazine",
+          "source": "FinTech Magazine",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTTh0WVJicklORktnUWp1V0pEckVzbGZPM2NCWXRvd3lrVWUxVjRxanRrLW1sTnk4Nk5wSGZlbHhyVkdwZ1dfTnZobFVzM2loVHlkRmNvcWpWOUc4RVN4dTZQdmtLeWczSDBUelFzM213NTVzMlJhUTFMb2t5LTR6WU9peWtnZEF0QXNtRy12RFJrcDQzY2c?oc=5",
+          "published": "2026-09-30T16:51:11.000Z"
         }
       ],
       "candidates": [
@@ -182,28 +143,14 @@
           "headline": "An overview: Best credit card promotions in Singapore (October 2026) - MoneySmart",
           "source": "MoneySmart",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-10-01T12:02:34.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Use Grab daily? The GXS Credit Card is the best cashback credit card for Grab in Singapore , Money News - AsiaOne",
-          "source": "AsiaOne",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Pc2w4N1ZuTjRmaS1CZDhMWXlDdXlDZDBfeExqN2hqZVNFVUF4VVVtbWRrVi1tVmdJeUhqRHdaTnBOWnVKRnhIdnJ5U3hBT2hDVkdvMm4wdnU?oc=5",
-          "published": "2026-09-30T06:16:12.000Z"
+          "published": "2026-10-01T07:00:00.000Z"
         },
         {
           "tag": "Press",
-          "headline": "China bans online financial promos by private brokers to stop loan misuse - scmp.com",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDBXb0pWVkd6Mk12ZmdZZXhJWnZDNTJoNlYzclhqZWlGQjd3YU1aN05RWjNhSHg5Ym1RQmIxV29JZXZtazdlcFBpbFhsRFpXTjZfZ2xUejVqbkpneHNJRzUwVUJMVkNBaFlaZ2JiOW42MGRab2RnVTZCUUFmbFZGNW03bER1QUtZbGp1RzF5LXpqTWptS3JIeXZocXNFb3BKRGwxb0w1TXN4OC05NEZOckF0S20zLXVod3d2WC16MUNfSE9JNWd4M2NrS1gyQnBJ0gHQAUFVX3lxTE93ZWVFWmFlVGNLUlhJMS1rdXI5U2oxeWJjVlVHdnBKZzZnSXl1Q2pqTy1RQllaTG03clg3ci0tbnRvd0RhM19LamRreEk0RHpxQVljdEE3T3oxcnJhR1R6QnFISE1PRy12X09xSVItOEhVeEFhMWo0cnhVNENzWnBOcDVyNURjeDhLX0Y5aFhobWpobzFVQ2VKdFR4RUtQbFhQeVBlcWZZRmRBSEpoWk03UVFial92X05BN0ZkQ0ZmNFl2bTRZWmtSYkRmcjhucEI?oc=5",
-          "published": "2026-09-30T02:00:12.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "OCBC Sees Seniors Make Nearly 60% More Digital Payments - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdE95R0xwNUo2NmNxc0s0XzBQQXJIeUNFMHFzdl9SQzRBVXB1ZFVGazExN2JlZFBwajJMT0dJN2xCRXlzVmlMSWdFNzRxczkwM3FjZVp4MFlrNzh3SFJrbTBldng1empscnFKQTBFMk41RVA2TTN4S2hIOS11VGUzWlNCR1ZvS1MxbGRENHAyemI?oc=5",
-          "published": "2026-09-30T02:56:32.000Z"
+          "headline": "Volt Connects Australia to the Global A2A Payments Network - FinTech Magazine",
+          "source": "FinTech Magazine",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTTh0WVJicklORktnUWp1V0pEckVzbGZPM2NCWXRvd3lrVWUxVjRxanRrLW1sTnk4Nk5wSGZlbHhyVkdwZ1dfTnZobFVzM2loVHlkRmNvcWpWOUc4RVN4dTZQdmtLeWczSDBUelFzM213NTVzMlJhUTFMb2t5LTR6WU9peWtnZEF0QXNtRy12RFJrcDQzY2c?oc=5",
+          "published": "2026-09-30T16:51:11.000Z"
         }
       ],
       "insight": {
@@ -223,14 +170,6 @@
           "headline": "Transcript : Standard Chartered PLC Presents at Bank of America 31st Annual Financials CEO Conference, Sep-22-2026 09:1…",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEhUR2pkNFNxYXJsSGt6NVdUTTRIdzdtQzJnckowc1lfRE1LWVlTZHBtdS1hTE5VbzkzSFlQY1A5WWkwLTVlaS1NbEFlN2I1MHI5SWhUcTNfcHRjUk5IWkx3Y0Q0X3ozY21WYUVadGRrbEY4SklFUWEzZkk0MFAzSXZIaDIybWtENF9OY3NJb09wT2E0SVFWSjlkNlp3V2NBY29qSUhRaGRWOXRrcFVoTmY5SWFvUGtKSU5JUTJGWHoxbnA3NHl5aTBMNlUzbFZSY1Bic1doVV8xY0dvdDNYNHpLZXIzZw?oc=5",
           "published": "2026-09-23T18:21:50.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Video Transcript - HSBC Private Bank",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOS0ZMTzNUb2RKS2ZuU1RScVVKc1lnRGt2SFpnSWF6Q3l6Vk5ET29iWWdQekZMd05GOFg1eUx1UHN4bFVrZkFFZm5DU2VzQ3pRTHJBcHpaZHRsdUpEUjBjaUUtU3RGb0NMbTJ6cHRfNm1CclMwNmljclktMXB6bm1Sd2ZxNUZCMlpiSWVyeGo4aVEzcjZITFdZZTVfczlUQXFEc2VRRnp3S0VkcFgxcWRSTi1KTUhmUW9fQU5fSjVqMFpPZmExRWpxQnRrVnpHX2VqS05SbHNkRTh2VUxGOEhSa3RMbW0yaDVockpGMXZTcTg2eDVoSnJV?oc=5",
-          "published": "2026-09-03T07:00:00.000Z"
         }
       ]
     }
