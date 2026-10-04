@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:57:14.550Z",
+  "generatedAt": "2026-10-04T07:18:03.929Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,8 +30,24 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Ping An Asset Management HK lists AI and healthcare ETFs in Hong Kong - structuredretailproducts.com",
+          "source": "structuredretailproducts.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONElkRTYtb09QV3RuMWFiWHhEZnJVYmRscHpUd2U5Rnl2bkE0cE9pUzBBei1FYjFveVhENWFEelMzTlVaMVMyUFBwY0RXcFdpMHplSVJqekNyc0c4X01wTEhkbzdmdHJrVWp1M0Rrbk9VUlgyUVdtOFpRQUhYWlVBS0UzV2hob0lFV1ZwcW50X25yWWYtMkNEczFwVUNTWU9CakpaUEFhOEdxYU1ZTWRWdGk1X3FQRXc1RWVId29GSTl0c2s?oc=5",
+          "published": "2026-10-01T20:27:57.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Ping An Asset Management HK lists AI and healthcare ETFs in Hong Kong - structuredretailproducts.com",
+          "source": "structuredretailproducts.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONElkRTYtb09QV3RuMWFiWHhEZnJVYmRscHpUd2U5Rnl2bkE0cE9pUzBBei1FYjFveVhENWFEelMzTlVaMVMyUFBwY0RXcFdpMHplSVJqekNyc0c4X01wTEhkbzdmdHJrVWp1M0Rrbk9VUlgyUVdtOFpRQUhYWlVBS0UzV2hob0lFV1ZwcW50X25yWWYtMkNEczFwVUNTWU9CakpaUEFhOEdxYU1ZTWRWdGk1X3FQRXc1RWVId29GSTl0c2s?oc=5",
+          "published": "2026-10-01T20:27:57.000Z"
+        }
+      ],
       "insight": {
         "tag": "Research",
         "headline": "EWH – iShares MSCI Hong Kong ETF – ETF Stock Quote - Morningstar",
@@ -87,9 +103,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "APi Group (APG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VnpYMkVvMEZBY0tBamVHYU1sZWlpTnZzRzJuTmNNVmQ5S2FlcGh3aXVvVUwtR0ZpZF9WTVA0SjZWTnhhd1A1UVlOMkVwa0lfYmdESlhKaXREV0ZCQ0FLNkpHOXRTdw?oc=5",
-          "published": "2026-09-30T18:15:30.000Z"
+          "headline": "UnitedHealth Group (UNH) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaTlN0Y2E4MEdHUUo5UWJxenRGd1ZFc1UzWWtrMTFrQlZHYjJPLVBIRjNTeWl3djlQNkVZQUNBX0NGeG52c00wYk1rNDBJNEJYb2JqUmVIQzZzZVBUbGFmalFZSTRsaXJsQmpyWndrUi1GZw?oc=5",
+          "published": "2026-10-03T14:23:16.000Z"
         }
       ]
     },
@@ -101,20 +117,12 @@
       "insight": null,
       "companyUpdates": [
         {
-          "company": "AIA Group",
-          "ticker": "AIA",
-          "tag": "Transcript",
-          "headline": "AIA Group Ltd R (7A2.MU) H1 FY2025 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUFncmVEei1TejVTa2libXJvSUhJN0EzS1JuSFRQeThIQi16WGVwaEQ3ZkZvelFnRlJXVFFQaE52SkR5bEhDcVdNMmFPNjU3OXJKelZEQzBIVXF4NVduc1JnbngzMFlmTzNGdW1CVGV6dW5SMVdoM3lQY2JhOTREdW1TemVmTU1YVHdWcXFWcVlTZw?oc=5",
-          "published": "2026-09-24T20:45:55.000Z"
-        },
-        {
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
-          "published": "2026-09-17T21:25:51.000Z"
+          "published": "2026-10-03T01:57:26.000Z"
         }
       ]
     },
@@ -123,34 +131,20 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "An overview: Best credit card promotions in Singapore (October 2026) - MoneySmart",
-          "source": "MoneySmart",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-10-01T07:00:00.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "Volt Connects Australia to the Global A2A Payments Network - FinTech Magazine",
-          "source": "FinTech Magazine",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTTh0WVJicklORktnUWp1V0pEckVzbGZPM2NCWXRvd3lrVWUxVjRxanRrLW1sTnk4Nk5wSGZlbHhyVkdwZ1dfTnZobFVzM2loVHlkRmNvcWpWOUc4RVN4dTZQdmtLeWczSDBUelFzM213NTVzMlJhUTFMb2t5LTR6WU9peWtnZEF0QXNtRy12RFJrcDQzY2c?oc=5",
-          "published": "2026-09-30T16:51:11.000Z"
+          "headline": "WasabiCard to Join TOKEN2049 Singapore 2026 as Gold Sponsor, Accelerating Stablecoin Payments at Scale - markets.businessinsider.com",
+          "source": "markets.businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdU1UTkNuV09uSnFOT0xyUGQ2NzhZbllmSkZ2TGZuazVSd3RlZVIxLWVxLXNIM2FuMFFrX3ZHQUVoME1FalZwMkVPWGh3X1dPbEcwM2NaYXZBWGpqSEJNNzR0M3VJOWpIM3RGeGY1NzlReEZ3Y3Y4S1V2LTgxNUdDTVFKQmhPZ05DdHFyYjhtRG9sMGREb2hGRzBTenRWNXlDRVlLaFFuNWZaY0JpUGpqd19BcWZxYnhzOWw0MFcyc2pvaFBmNjlHMTlOcjB4ejM4YWVEaER0dTNIVzkxaUczcmQ3RlhDVUdUSDVLMzdNY1BMQQ?oc=5",
+          "published": "2026-10-01T11:18:34.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "An overview: Best credit card promotions in Singapore (October 2026) - MoneySmart",
-          "source": "MoneySmart",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnZreFpCMUZaeUdEMGx0OUdmRXNXQzlxZG41cHo3eU9XRUo3QzJHVDdFc0lhY1FnSVNBSE9xaGVOZkJfNnpzcUpyaU5uQWV6LS1oY1pVbW8wNm1QU2J3cjdjSG41NUJaWHlKb1VvOHVSSzEzN2pnb0FaaW5RSF91SVNqbl8?oc=5",
-          "published": "2026-10-01T07:00:00.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "Volt Connects Australia to the Global A2A Payments Network - FinTech Magazine",
-          "source": "FinTech Magazine",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTTh0WVJicklORktnUWp1V0pEckVzbGZPM2NCWXRvd3lrVWUxVjRxanRrLW1sTnk4Nk5wSGZlbHhyVkdwZ1dfTnZobFVzM2loVHlkRmNvcWpWOUc4RVN4dTZQdmtLeWczSDBUelFzM213NTVzMlJhUTFMb2t5LTR6WU9peWtnZEF0QXNtRy12RFJrcDQzY2c?oc=5",
-          "published": "2026-09-30T16:51:11.000Z"
+          "headline": "WasabiCard to Join TOKEN2049 Singapore 2026 as Gold Sponsor, Accelerating Stablecoin Payments at Scale - markets.businessinsider.com",
+          "source": "markets.businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdU1UTkNuV09uSnFOT0xyUGQ2NzhZbllmSkZ2TGZuazVSd3RlZVIxLWVxLXNIM2FuMFFrX3ZHQUVoME1FalZwMkVPWGh3X1dPbEcwM2NaYXZBWGpqSEJNNzR0M3VJOWpIM3RGeGY1NzlReEZ3Y3Y4S1V2LTgxNUdDTVFKQmhPZ05DdHFyYjhtRG9sMGREb2hGRzBTenRWNXlDRVlLaFFuNWZaY0JpUGpqd19BcWZxYnhzOWw0MFcyc2pvaFBmNjlHMTlOcjB4ejM4YWVEaER0dTNIVzkxaUczcmQ3RlhDVUdUSDVLMzdNY1BMQQ?oc=5",
+          "published": "2026-10-01T11:18:34.000Z"
         }
       ],
       "insight": {
