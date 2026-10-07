@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:59:04.248Z",
+  "generatedAt": "2026-10-07T07:36:57.078Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,22 +33,58 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Amova-StraitsTrading Asia ex Japan REIT Index ETF (CFA.SI) stock price, news, quote and history - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EenVwcU1uSnY3UDdsZnU3UGJfdUtoanVHM1h1bGdoT001LVA3VDV3cHEyNEF0MzMxaGxfU1pqR2tsa0dpb2I3Qkc2bkZ6WUxmS3FNTg?oc=5",
-          "published": "2026-10-05T10:51:59.000Z"
+          "headline": "Amundi MSCI Emerging Ex China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3k4cTd6ZWVkVXNxR0FwQThzdHhoYmExbk9WM0pndzNyOXd0Vm43dzVkVzNvbjdGU2VmcndOdmlMc3AyZ3h3RmYxOVZDM3lESVNfanVHenBqNDRFSzdFd1NBWThGN2RqQ1NTbmY3UndrUTBFdWU3eFg4bDRYQlNWVXBCdGJBQWNpdUtGNkZxZnlpY2EwV1dmekNCckEtd1BIdVUyMnBzanAzQmM?oc=5",
+          "published": "2026-10-07T07:08:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkNmSHhzUUVnUG9zYzBXaThaZEFSSUVncHFfYVJqYUNJVGl3a3N4empNWDUwa3FlOHFMUzVCemxIanFXSFRWc0huTWJmUi1qUXpsNGdRVnItdzF4eC1fVWFqN0pjbEhsQThVVTdfZGx2UlBVNTd6cVU4bXFsalhxUWxXNUpSWUJQOFg0OENibWtqYnNBaFB5YzVQdFk3eVJxTWw2Q3VYZmFGUkE?oc=5",
+          "published": "2026-10-06T07:07:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjNOdVlHUlZQSXdwSmR4bmN5RUE1UnBjbEc0WE1EZVlORThqcU9KcmdiU0hzSFdteFJDOE5hQVpzLWhURG5WdEJpcmhjSjJQVGpaTGZQZlpnVFZLVkljZmFxUzRLYUxlZzMza0NXeUNLRnFiXy1PbnFGU0sxQXN2UVVkWkNXWWt5NjVrZWdxRm5FLXNw?oc=5",
+          "published": "2026-10-06T06:15:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Amova-StraitsTrading Asia ex Japan REIT Index ETF (CFA.SI) stock price, news, quote and history - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EenVwcU1uSnY3UDdsZnU3UGJfdUtoanVHM1h1bGdoT001LVA3VDV3cHEyNEF0MzMxaGxfU1pqR2tsa0dpb2I3Qkc2bkZ6WUxmS3FNTg?oc=5",
-          "published": "2026-10-05T10:51:59.000Z"
+          "headline": "Amundi MSCI Emerging Ex China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3k4cTd6ZWVkVXNxR0FwQThzdHhoYmExbk9WM0pndzNyOXd0Vm43dzVkVzNvbjdGU2VmcndOdmlMc3AyZ3h3RmYxOVZDM3lESVNfanVHenBqNDRFSzdFd1NBWThGN2RqQ1NTbmY3UndrUTBFdWU3eFg4bDRYQlNWVXBCdGJBQWNpdUtGNkZxZnlpY2EwV1dmekNCckEtd1BIdVUyMnBzanAzQmM?oc=5",
+          "published": "2026-10-07T07:08:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkNmSHhzUUVnUG9zYzBXaThaZEFSSUVncHFfYVJqYUNJVGl3a3N4empNWDUwa3FlOHFMUzVCemxIanFXSFRWc0huTWJmUi1qUXpsNGdRVnItdzF4eC1fVWFqN0pjbEhsQThVVTdfZGx2UlBVNTd6cVU4bXFsalhxUWxXNUpSWUJQOFg0OENibWtqYnNBaFB5YzVQdFk3eVJxTWw2Q3VYZmFGUkE?oc=5",
+          "published": "2026-10-06T07:07:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjNOdVlHUlZQSXdwSmR4bmN5RUE1UnBjbEc0WE1EZVlORThqcU9KcmdiU0hzSFdteFJDOE5hQVpzLWhURG5WdEJpcmhjSjJQVGpaTGZQZlpnVFZLVkljZmFxUzRLYUxlZzMza0NXeUNLRnFiXy1PbnFGU0sxQXN2UVVkWkNXWWt5NjVrZWdxRm5FLXNw?oc=5",
+          "published": "2026-10-06T06:15:00.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "HMXA – HSBC MSCI Pacific ex Japan ETF USD (Acc) – ETF Investment Strategy - Morningstar",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oYTA4WHNQTk9CTU9teWx0VGlTUzcyZU9TZENjYjJhYzY3OVZ4UDd2YjYtTUFMOHZQeGlwdUVOWjU0Mm12VDE5b1JmVEtPd2N6NVI5MVFmNWItazBlVXlwNg?oc=5",
+        "published": "2026-10-05T20:38:19.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "Schroders",
@@ -65,39 +101,39 @@
           "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
           "published": "2026-09-30T15:30:26.000Z"
-        },
-        {
-          "company": "Fidelity International",
-          "ticker": "FIL",
-          "tag": "Analyst Report",
-          "headline": "Fidelity Europe Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWVmc1BrWFBHbFBLdFJFUlUtTERaSjlJUW0yajR4Ymd2VUVzQ19QdFJ6c1AyVy1zT2lHakE2OUJUYXBMMEV2elZwV3RkRUFxUG5rS2lBaU1sWTNkNEc2X01CTFRNa1ZXS3BESncwcDdyV0VvdWRqVjB5WkZNOC1fb2RPN2p2ZFRjSm52LWsyV21TMk01MnFzTHVwVkp3VW5VOHY5TUcyQkJuQ2hpQjNhb19nMDU1VGF6emZmc1Y0U2h6dzFvS2VfaWozS3hyby1KTGF3T1o5TQ?oc=5",
-          "published": "2026-09-30T07:03:00.000Z"
         }
       ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
-      "insight": {
-        "tag": "Research",
-        "headline": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWE1QW9mNXk5TERNT0RyR2dVYzlWYXVjaGJhcGxoLWtMRG1fbDlfemZjZ0dQdnV4WUxSUC11RnNxWXFrUXg0NXNNQ1pfVGY0aHY5NXhsa0hiMVFMWE96bUxYemVMOTRyR1VDVmhWVDdSSmVzUEVXZy1DTkJVTHMzakM1YTRLZkVOMU1ySU05dXdaNjI3MXozcWxWVHA4bF9vTjhJaFF2MldEcE1Vbmg0ZmZCckVtWDBtR3dLOEEwSFM4ZVVlS2dNN0lSQlE1V2Ez0gHQAUFVX3lxTFBmMl90VFRIQ0l2YVlaUm5zdzNFZDBfOG4xRVhDUktxbHFVSk1XeVpKSVREYWtKbFNHWTE5dkNOVEFrS24xY3J4aVpnRGFEb1dQY3VCaGpVVlhzQ0hQTFIyT0pTbVV4VjB6MXFrNTA4WGNtUDl3V0FPaUU2TF9NZVVVOF9lVnA3SHBTeUwyQlo3QWtJX2E3cjdPTHNRdmlfS01fQWNEU1d3TFBfSUZqcjdsc2RMSmdHYjlaSU1uVHNnU05CMXNqM3MwTUNTZHBxT1Y?oc=5",
-        "published": "2026-09-29T23:00:09.000Z",
-        "paywalled": false
-      },
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Digital tokens eye tax-exempt status as Singapore reviews family office list - Insurance Asia",
+          "source": "Insurance Asia",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmg2enp5NVFGalVhWHhSU0VrSl9ESy1DSXdLeHM4Tl9hNmhmTXpuZ1M1NER3aGhPYmxtbnNDUkQ5RmN6VHVzdUdPS0xMUVBwWWdJLW95VE00bXRkb2RKRGNBNHFtVkxKVUgtVFByYnRQWXA5dlpTajdPVFZnY29nRUNNbE5BdldjQ19hVl9qdFg2VlBqc2R2VlBtR3dySWtpM0Y3RFduUQ?oc=5",
+          "published": "2026-10-06T08:45:08.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Digital tokens eye tax-exempt status as Singapore reviews family office list - Insurance Asia",
+          "source": "Insurance Asia",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmg2enp5NVFGalVhWHhSU0VrSl9ESy1DSXdLeHM4Tl9hNmhmTXpuZ1M1NER3aGhPYmxtbnNDUkQ5RmN6VHVzdUdPS0xMUVBwWWdJLW95VE00bXRkb2RKRGNBNHFtVkxKVUgtVFByYnRQWXA5dlpTajdPVFZnY29nRUNNbE5BdldjQ19hVl9qdFg2VlBqc2R2VlBtR3dySWtpM0Y3RFduUQ?oc=5",
+          "published": "2026-10-06T08:45:08.000Z"
+        }
+      ],
+      "insight": null,
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "UnitedHealth Group (UNH) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaTlN0Y2E4MEdHUUo5UWJxenRGd1ZFc1UzWWtrMTFrQlZHYjJPLVBIRjNTeWl3djlQNkVZQUNBX0NGeG52c00wYk1rNDBJNEJYb2JqUmVIQzZzZVBUbGFmalFZSTRsaXJsQmpyWndrUi1GZw?oc=5",
-          "published": "2026-10-03T14:23:16.000Z"
+          "headline": "Citigroup Inc at UBS Financial Services Conference Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnUVFzaFBEMklTdi1tR1EwZzZQZ1pKbnYxVDdkaTNjYndtaFE5Qk5qZDhBaGJrYnhyQlpkMm91MFhTTGp6aGl1OHA5QXN0MXFodEYwdUV0TWx0Wlp3eEtwM3hIRDh2UTlnaW5zcHBn?oc=5",
+          "published": "2026-10-05T22:21:15.000Z"
         }
       ]
     },
@@ -124,20 +160,11 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "OCBC Tops Singapore Loan Bookrunner and MLA Tables for 9M 2026 - Moomoo",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbC1KaktnMlB2RXpUTThqZkNIdmRzU1QwR01veXI3bHFmOHV3anRoUnYtUVQyLWNGakVRTW43aV9tb01sV2dKT1dtSXdEZWdEMy10c0pVeko0NDIyR2FhY0xBSHQzc3RHcFk5b0FPWV9BRXVqdHFqdnRodVgxMGZLb0NydGJlMC1YVGhkUmV4eno2TFM1a0RJVmt5Y2JhWDVwN2lr?oc=5",
-          "published": "2026-10-05T02:26:46.000Z"
+          "headline": "Fixed Deposit Rates in Singapore [October 2026] - Syfe",
+          "source": "Syfe",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
+          "published": "2026-10-06T11:01:23.000Z"
         },
-        {
-          "tag": "Product",
-          "headline": "GXS Savings Account review: Earn up to 1.75% p.a. with Boost Pockets - Beansprout - Singapore’s Leading Financial Insights Platform - Gro…",
-          "source": "Beansprout - Singapore’s Leading Financial Insights Platform - Growbeansprout.com",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kRGJXZEN2SmtnV2oyVTRubHpEbUNJWTN0QXRQdWhKS2EyaWVORDBnSURWT0lhY2xxZWRkV2NYOVQxUEd2LXA3cFEzcElvTFpvRXlGQUlfbXF0MXRVSWV4QVZDcVpzWHZzUHc?oc=5",
-          "published": "2026-10-05T09:25:13.000Z"
-        }
-      ],
-      "candidates": [
         {
           "tag": "Press",
           "headline": "OCBC Tops Singapore Loan Bookrunner and MLA Tables for 9M 2026 - Moomoo",
@@ -146,22 +173,37 @@
           "published": "2026-10-05T02:26:46.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "GXS Savings Account review: Earn up to 1.75% p.a. with Boost Pockets - Beansprout - Singapore’s Leading Financial Insights Platform - Gro…",
-          "source": "Beansprout - Singapore’s Leading Financial Insights Platform - Growbeansprout.com",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kRGJXZEN2SmtnV2oyVTRubHpEbUNJWTN0QXRQdWhKS2EyaWVORDBnSURWT0lhY2xxZWRkV2NYOVQxUEd2LXA3cFEzcElvTFpvRXlGQUlfbXF0MXRVSWV4QVZDcVpzWHZzUHc?oc=5",
-          "published": "2026-10-05T09:25:13.000Z"
+          "tag": "Press",
+          "headline": "Stablecoin payments are going mainstream. Hong Kong and APAC are showing how - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzVjdnBxeS1IYy1nRW1HemhvdFZDcThoWU5qdXE1VnpIMXdCZUhQa1N3M0Z4VzR3SWx4NXpuT1NyT09NMU5kVUNVNk5pQlNOb2p6WnJST3Y2YkYtQlF2OVROVHU1R1h4cG53TUhUTTNqaWVhRzdYZDBiY1g5Y3lLNU9uQ3FYWVRnNnlCbUZKd3dIRWpUU21La1FNSXRmNHVHQTVVVnlReGlCdzZjSWZ1MC1VYXhJamEwdzFvcFIwZGRKRTBoRlR4UFFiSzFvVTlMTnRxbnRmRTkxUQ?oc=5",
+          "published": "2026-10-06T02:00:00.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "China bans online financial promos by private brokers to stop loan misuse - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDBXb0pWVkd6Mk12ZmdZZXhJWnZDNTJoNlYzclhqZWlGQjd3YU1aN05RWjNhSHg5Ym1RQmIxV29JZXZtazdlcFBpbFhsRFpXTjZfZ2xUejVqbkpneHNJRzUwVUJMVkNBaFlaZ2JiOW42MGRab2RnVTZCUUFmbFZGNW03bER1QUtZbGp1RzF5LXpqTWptS3JIeXZocXNFb3BKRGwxb0w1TXN4OC05NEZOckF0S20zLXVod3d2WC16MUNfSE9JNWd4M2NrS1gyQnBJ0gHQAUFVX3lxTE93ZWVFWmFlVGNLUlhJMS1rdXI5U2oxeWJjVlVHdnBKZzZnSXl1Q2pqTy1RQllaTG03clg3ci0tbnRvd0RhM19LamRreEk0RHpxQVljdEE3T3oxcnJhR1R6QnFISE1PRy12X09xSVItOEhVeEFhMWo0cnhVNENzWnBOcDVyNURjeDhLX0Y5aFhobWpobzFVQ2VKdFR4RUtQbFhQeVBlcWZZRmRBSEpoWk03UVFial92X05BN0ZkQ0ZmNFl2bTRZWmtSYkRmcjhucEI?oc=5",
-        "published": "2026-09-30T02:00:12.000Z",
-        "paywalled": false
-      },
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Fixed Deposit Rates in Singapore [October 2026] - Syfe",
+          "source": "Syfe",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
+          "published": "2026-10-06T11:01:23.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "OCBC Tops Singapore Loan Bookrunner and MLA Tables for 9M 2026 - Moomoo",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbC1KaktnMlB2RXpUTThqZkNIdmRzU1QwR01veXI3bHFmOHV3anRoUnYtUVQyLWNGakVRTW43aV9tb01sV2dKT1dtSXdEZWdEMy10c0pVeko0NDIyR2FhY0xBSHQzc3RHcFk5b0FPWV9BRXVqdHFqdnRodVgxMGZLb0NydGJlMC1YVGhkUmV4eno2TFM1a0RJVmt5Y2JhWDVwN2lr?oc=5",
+          "published": "2026-10-05T02:26:46.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Stablecoin payments are going mainstream. Hong Kong and APAC are showing how - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzVjdnBxeS1IYy1nRW1HemhvdFZDcThoWU5qdXE1VnpIMXdCZUhQa1N3M0Z4VzR3SWx4NXpuT1NyT09NMU5kVUNVNk5pQlNOb2p6WnJST3Y2YkYtQlF2OVROVHU1R1h4cG53TUhUTTNqaWVhRzdYZDBiY1g5Y3lLNU9uQ3FYWVRnNnlCbUZKd3dIRWpUU21La1FNSXRmNHVHQTVVVnlReGlCdzZjSWZ1MC1VYXhJamEwdzFvcFIwZGRKRTBoRlR4UFFiSzFvVTlMTnRxbnRmRTkxUQ?oc=5",
+          "published": "2026-10-06T02:00:00.000Z"
+        }
+      ],
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Standard Chartered",
