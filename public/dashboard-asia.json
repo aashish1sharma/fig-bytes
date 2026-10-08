@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T07:36:57.078Z",
+  "generatedAt": "2026-10-08T07:53:10.373Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,52 +30,8 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI Emerging Ex China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3k4cTd6ZWVkVXNxR0FwQThzdHhoYmExbk9WM0pndzNyOXd0Vm43dzVkVzNvbjdGU2VmcndOdmlMc3AyZ3h3RmYxOVZDM3lESVNfanVHenBqNDRFSzdFd1NBWThGN2RqQ1NTbmY3UndrUTBFdWU3eFg4bDRYQlNWVXBCdGJBQWNpdUtGNkZxZnlpY2EwV1dmekNCckEtd1BIdVUyMnBzanAzQmM?oc=5",
-          "published": "2026-10-07T07:08:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkNmSHhzUUVnUG9zYzBXaThaZEFSSUVncHFfYVJqYUNJVGl3a3N4empNWDUwa3FlOHFMUzVCemxIanFXSFRWc0huTWJmUi1qUXpsNGdRVnItdzF4eC1fVWFqN0pjbEhsQThVVTdfZGx2UlBVNTd6cVU4bXFsalhxUWxXNUpSWUJQOFg0OENibWtqYnNBaFB5YzVQdFk3eVJxTWw2Q3VYZmFGUkE?oc=5",
-          "published": "2026-10-06T07:07:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjNOdVlHUlZQSXdwSmR4bmN5RUE1UnBjbEc0WE1EZVlORThqcU9KcmdiU0hzSFdteFJDOE5hQVpzLWhURG5WdEJpcmhjSjJQVGpaTGZQZlpnVFZLVkljZmFxUzRLYUxlZzMza0NXeUNLRnFiXy1PbnFGU0sxQXN2UVVkWkNXWWt5NjVrZWdxRm5FLXNw?oc=5",
-          "published": "2026-10-06T06:15:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI Emerging Ex China ESG Selection UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3k4cTd6ZWVkVXNxR0FwQThzdHhoYmExbk9WM0pndzNyOXd0Vm43dzVkVzNvbjdGU2VmcndOdmlMc3AyZ3h3RmYxOVZDM3lESVNfanVHenBqNDRFSzdFd1NBWThGN2RqQ1NTbmY3UndrUTBFdWU3eFg4bDRYQlNWVXBCdGJBQWNpdUtGNkZxZnlpY2EwV1dmekNCckEtd1BIdVUyMnBzanAzQmM?oc=5",
-          "published": "2026-10-07T07:08:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Amundi MSCI Pacific Ex Japan SRI Climate Paris Aligned UCITS ETF USD Acc: Net Asset Value(s) - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkNmSHhzUUVnUG9zYzBXaThaZEFSSUVncHFfYVJqYUNJVGl3a3N4empNWDUwa3FlOHFMUzVCemxIanFXSFRWc0huTWJmUi1qUXpsNGdRVnItdzF4eC1fVWFqN0pjbEhsQThVVTdfZGx2UlBVNTd6cVU4bXFsalhxUWxXNUpSWUJQOFg0OENibWtqYnNBaFB5YzVQdFk3eVJxTWw2Q3VYZmFGUkE?oc=5",
-          "published": "2026-10-06T07:07:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjNOdVlHUlZQSXdwSmR4bmN5RUE1UnBjbEc0WE1EZVlORThqcU9KcmdiU0hzSFdteFJDOE5hQVpzLWhURG5WdEJpcmhjSjJQVGpaTGZQZlpnVFZLVkljZmFxUzRLYUxlZzMza0NXeUNLRnFiXy1PbnFGU0sxQXN2UVVkWkNXWWt5NjVrZWdxRm5FLXNw?oc=5",
-          "published": "2026-10-06T06:15:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "HMXA – HSBC MSCI Pacific ex Japan ETF USD (Acc) – ETF Investment Strategy - Morningstar",
@@ -140,10 +96,42 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Indonesia’s Non-Life Insurance Segment - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVNRdkpCbjVPUHM3RXQxcXJyTlFoeDNLTlowYmpQOGR2dWswMHlDYlRNX1ZmVThrZUdnTm52QThWRmlhWTlGRlZFZ0tzenNMWWtIMVNZZWNaNm8zNlBmVVUzU1Y1VnNoNmhheWxtSXdpNGZkSVA0S1VFTjk3WkhFVTlfT0JsaDFZanVYaUFCVmkwOVBMS0ZKU2FXbUlTZC1ERFFzM0s1YmlfTU1lRU1FVU1zVnRaNnozX3Nab0lEdVg4a3BfSEc0NGl1WGt0b1NLc0g2dWRiaUhTOUh4QlRKcnpPUFVKYkdCYmxJb29wbw?oc=5",
+          "published": "2026-10-08T01:00:49.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Indonesia’s Non-Life Insurance Segment - Business Wire",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVNRdkpCbjVPUHM3RXQxcXJyTlFoeDNLTlowYmpQOGR2dWswMHlDYlRNX1ZmVThrZUdnTm52QThWRmlhWTlGRlZFZ0tzenNMWWtIMVNZZWNaNm8zNlBmVVUzU1Y1VnNoNmhheWxtSXdpNGZkSVA0S1VFTjk3WkhFVTlfT0JsaDFZanVYaUFCVmkwOVBMS0ZKU2FXbUlTZC1ERFFzM0s1YmlfTU1lRU1FVU1zVnRaNnozX3Nab0lEdVg4a3BfSEc0NGl1WGt0b1NLc0g2dWRiaUhTOUh4QlRKcnpPUFVKYkdCYmxJb29wbw?oc=5",
+          "published": "2026-10-08T01:00:49.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Indonesia’s Non-Life Insurance Segment - Morningstar",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWHg0NlBpbzJGZFBJcWltS3N6R2xZZXJ0VXNEMVdfSUdab3RZcDIwNlR3R2F0LUpKMElYY0wtVVVtQ2gxYnFaTUtsUG1lOEg5MmxDMDdvdWdrREQ3dGlWNUNJSURFZDRmLXBYaW56dURwZVIycjBCVlRqTHNKRlJSNmhrZkNJcTJXMFpwZ01HaTRJNU0zdTR2al9WZGxyNDN5azdVVWJ2MnFwLTRObkhpWEtpWjRYVWxqUm1FTE5kRi03MWZUMWlkMEIzaW9DQ2dJbkZrWGFPVGRWdW9QbjZneFEzYVFBeExpWVd6cVV5V3FZeG9qS2c?oc=5",
+        "published": "2026-10-08T01:22:26.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
+        {
+          "company": "AIA Group",
+          "ticker": "AIA",
+          "tag": "Transcript",
+          "headline": "Half Year 2025 AIA Group Ltd Earnings Presentation (Pre-Recorded) Transcript - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02blo4dEhKcF9DSmZuRWlDcDc0V3BlUGkwdzFoTXdqN2xCa3MyczMzSmswWHNKZnlobW9rZFRhbkxxcmNSNmFMSUpDbHZRX1ptdXIzdzZLSnVrYTM5Wl90eU9rVjhFeFUxaWRSUA?oc=5",
+          "published": "2026-10-07T15:24:59.000Z"
+        },
         {
           "company": "Prudential plc",
           "ticker": "PRU",
@@ -160,17 +148,17 @@
       "bullets": [
         {
           "tag": "Press",
+          "headline": "Loan competition may weigh on Singapore banks’ margins - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGhmVnh4QS1XcHFRY3VBaVE2V20xbFZEX3pZSVdPNHVSM1FUMmxiSUlVR1FOcVBPR3RyVEJLdnMzajJic2FPYlRscUJPX3QybjZ0SVV1VFdTeDZXVEpXNTVvWTNPYmF6Q09MY3NtaWc0VUJEcTJNU09YMUs5eDdRcDhsajAzXzBOQlV6SENNSXoxTVAtd29faWV3?oc=5",
+          "published": "2026-10-06T21:30:00.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Fixed Deposit Rates in Singapore [October 2026] - Syfe",
           "source": "Syfe",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
           "published": "2026-10-06T11:01:23.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "OCBC Tops Singapore Loan Bookrunner and MLA Tables for 9M 2026 - Moomoo",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbC1KaktnMlB2RXpUTThqZkNIdmRzU1QwR01veXI3bHFmOHV3anRoUnYtUVQyLWNGakVRTW43aV9tb01sV2dKT1dtSXdEZWdEMy10c0pVeko0NDIyR2FhY0xBSHQzc3RHcFk5b0FPWV9BRXVqdHFqdnRodVgxMGZLb0NydGJlMC1YVGhkUmV4eno2TFM1a0RJVmt5Y2JhWDVwN2lr?oc=5",
-          "published": "2026-10-05T02:26:46.000Z"
         },
         {
           "tag": "Press",
@@ -183,17 +171,17 @@
       "candidates": [
         {
           "tag": "Press",
+          "headline": "Loan competition may weigh on Singapore banks’ margins - Asian Banking & Finance",
+          "source": "Asian Banking & Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGhmVnh4QS1XcHFRY3VBaVE2V20xbFZEX3pZSVdPNHVSM1FUMmxiSUlVR1FOcVBPR3RyVEJLdnMzajJic2FPYlRscUJPX3QybjZ0SVV1VFdTeDZXVEpXNTVvWTNPYmF6Q09MY3NtaWc0VUJEcTJNU09YMUs5eDdRcDhsajAzXzBOQlV6SENNSXoxTVAtd29faWV3?oc=5",
+          "published": "2026-10-06T21:30:00.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Fixed Deposit Rates in Singapore [October 2026] - Syfe",
           "source": "Syfe",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
           "published": "2026-10-06T11:01:23.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "OCBC Tops Singapore Loan Bookrunner and MLA Tables for 9M 2026 - Moomoo",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbC1KaktnMlB2RXpUTThqZkNIdmRzU1QwR01veXI3bHFmOHV3anRoUnYtUVQyLWNGakVRTW43aV9tb01sV2dKT1dtSXdEZWdEMy10c0pVeko0NDIyR2FhY0xBSHQzc3RHcFk5b0FPWV9BRXVqdHFqdnRodVgxMGZLb0NydGJlMC1YVGhkUmV4eno2TFM1a0RJVmt5Y2JhWDVwN2lr?oc=5",
-          "published": "2026-10-05T02:26:46.000Z"
         },
         {
           "tag": "Press",
@@ -204,16 +192,7 @@
         }
       ],
       "insight": null,
-      "companyUpdates": [
-        {
-          "company": "Standard Chartered",
-          "ticker": "STAN",
-          "tag": "Transcript",
-          "headline": "Transcript : Standard Chartered PLC Presents at Bank of America 31st Annual Financials CEO Conference, Sep-22-2026 09:1…",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEhUR2pkNFNxYXJsSGt6NVdUTTRIdzdtQzJnckowc1lfRE1LWVlTZHBtdS1hTE5VbzkzSFlQY1A5WWkwLTVlaS1NbEFlN2I1MHI5SWhUcTNfcHRjUk5IWkx3Y0Q0X3ozY21WYUVadGRrbEY4SklFUWEzZkk0MFAzSXZIaDIybWtENF9OY3NJb09wT2E0SVFWSjlkNlp3V2NBY29qSUhRaGRWOXRrcFVoTmY5SWFvUGtKSU5JUTJGWHoxbnA3NHl5aTBMNlUzbFZSY1Bic1doVV8xY0dvdDNYNHpLZXIzZw?oc=5",
-          "published": "2026-09-23T18:21:50.000Z"
-        }
-      ]
+      "companyUpdates": []
     }
   ]
 }
