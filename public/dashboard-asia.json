@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:53:10.373Z",
+  "generatedAt": "2026-10-09T07:51:42.015Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,15 +30,45 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzdDbUs5STNTMFpXSDllZjFqcjVOWUJKUUlSWVpVUFljRGpKMVlYUVc5YXZzZzlWUHFFQVkzTzhwMjhWeHB1VGlyOXE0bkI4QnVOSk5pSUVmLUh4MUpyNWdydWVwWHRlNThxNElVTjQ2N1VweEdVdnN2Ym9fa3AzallVaXNSdlhEdnM4S0VDVjNmMkFXNTZQLWx3eG9qZ2Rvd3l4S0ZXbV9mUFk?oc=5",
+          "published": "2026-10-09T07:07:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Innovating with liquid alternative and buffer ETFs - BNPP AM Hong Kong - EN - BNP Paribas Asset Management",
+          "source": "BNP Paribas Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzZHU0FaNzY0Y29ibWN5aHBuZXdxWXFra0IxR0t0ek1sU21HeHc4MmhOQzhkekNlQVVZUHJsZk92RjFkdjBKbE45NGt2X3h2OFFtWTVLM3J5eUs3Y000UzZyMjVGOFE1aUk3SEdFcGFhR0s2MTBWX1FfX2pRTUptYmhyRGNHenV3R3gyT0xDNFZsY2psQ3Q5Qm5xT0hydDFLYWVybU5iWkg1Ni1DcmZZ?oc=5",
+          "published": "2026-10-08T16:51:54.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzdDbUs5STNTMFpXSDllZjFqcjVOWUJKUUlSWVpVUFljRGpKMVlYUVc5YXZzZzlWUHFFQVkzTzhwMjhWeHB1VGlyOXE0bkI4QnVOSk5pSUVmLUh4MUpyNWdydWVwWHRlNThxNElVTjQ2N1VweEdVdnN2Ym9fa3AzallVaXNSdlhEdnM4S0VDVjNmMkFXNTZQLWx3eG9qZ2Rvd3l4S0ZXbV9mUFk?oc=5",
+          "published": "2026-10-09T07:07:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Innovating with liquid alternative and buffer ETFs - BNPP AM Hong Kong - EN - BNP Paribas Asset Management",
+          "source": "BNP Paribas Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzZHU0FaNzY0Y29ibWN5aHBuZXdxWXFra0IxR0t0ek1sU21HeHc4MmhOQzhkekNlQVVZUHJsZk92RjFkdjBKbE45NGt2X3h2OFFtWTVLM3J5eUs3Y000UzZyMjVGOFE1aUk3SEdFcGFhR0s2MTBWX1FfX2pRTUptYmhyRGNHenV3R3gyT0xDNFZsY2psQ3Q5Qm5xT0hydDFLYWVybU5iWkg1Ni1DcmZZ?oc=5",
+          "published": "2026-10-08T16:51:54.000Z"
+        }
+      ],
       "insight": {
         "tag": "Research",
-        "headline": "HMXA – HSBC MSCI Pacific ex Japan ETF USD (Acc) – ETF Investment Strategy - Morningstar",
+        "headline": "HMXJ – HSBC MSCI Pacific ex Japan ETF – ETF Investment Strategy - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oYTA4WHNQTk9CTU9teWx0VGlTUzcyZU9TZENjYjJhYzY3OVZ4UDd2YjYtTUFMOHZQeGlwdUVOWjU0Mm12VDE5b1JmVEtPd2N6NVI5MVFmNWItazBlVXlwNg?oc=5",
-        "published": "2026-10-05T20:38:19.000Z",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSXNlX1lJbm5uMmtZN3RDejZTR3JuNU5neFdqLWYyWHJvZS03cXhqUTJ4eUhpYzBWZ3pXQzJjazZuMHZuemM3cmljYVcwYTA4UlRSRDE2dlI0ZHVZcmV5LQ?oc=5",
+        "published": "2026-10-07T12:57:19.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -57,6 +87,14 @@
           "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
           "published": "2026-09-30T15:30:26.000Z"
+        },
+        {
+          "company": "Fidelity International",
+          "ticker": "FIL",
+          "tag": "Analyst Report",
+          "headline": "Fidelity US Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQazNLNlJ2bU5sclhnQV9nOE9McGkzNDBRbnAxMjVLeUNLX0xjbDhVV3dld282M2hwbkpDbS1wNlZINlA0US1sRU5aWTNpMnZ2Z3gxazl6NUNRR0d0S1pJN2tZdVN6YzZCTkEzdThIVGVWWllGTUFEMGpVUElkN3ljNkcydWxsQ2Joc2JxemtEYXc3dmRISFhiTnBmZk1RdHZrUWU4bXROWk9TYUhyZHRLbjBob21tTEJsaW9Md3dvQmR4YnVONXNpTWZZdmhEVHJNWHc?oc=5",
+          "published": "2026-10-06T07:15:00.000Z"
         }
       ]
     },
@@ -66,6 +104,13 @@
       "bullets": [
         {
           "tag": "Press",
+          "headline": "Ping An Digital Bank Becomes Hong Kong’s First Digital Bank to Enter High-End Wealth Management Segment - vietnamnews.vn",
+          "source": "vietnamnews.vn",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWE0c3gtRTdJV0tJNXc4Y0tsM3AxN0s5bEktNnFvN2c1cjBwU1Y3MTJoelNaZ0IteWlILWF4YUxDN3JpVEs5ZGltbkczeGo3RWFqT1hLVm1iR0dmaXR2Ri1QT1R6dzFUTGt5aklrLXRRM1ZqWldWRjBRYm5FSVpJc2doUk9RNDgyM0dHUldBZTFINmo0eVJjVFZQc0YwWWNuWWt1UmRtUEhHRGR3Zmd0TEx2djlBRFphY0ZMemF2RGNfYnlzUG93aVVYV0VzTVM2dzNDRmVSWlk4N2p6RVFVTk81YWxyclY3Z0E?oc=5",
+          "published": "2026-10-09T04:45:00.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Digital tokens eye tax-exempt status as Singapore reviews family office list - Insurance Asia",
           "source": "Insurance Asia",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmg2enp5NVFGalVhWHhSU0VrSl9ESy1DSXdLeHM4Tl9hNmhmTXpuZ1M1NER3aGhPYmxtbnNDUkQ5RmN6VHVzdUdPS0xMUVBwWWdJLW95VE00bXRkb2RKRGNBNHFtVkxKVUgtVFByYnRQWXA5dlpTajdPVFZnY29nRUNNbE5BdldjQ19hVl9qdFg2VlBqc2R2VlBtR3dySWtpM0Y3RFduUQ?oc=5",
@@ -73,6 +118,13 @@
         }
       ],
       "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Ping An Digital Bank Becomes Hong Kong’s First Digital Bank to Enter High-End Wealth Management Segment - vietnamnews.vn",
+          "source": "vietnamnews.vn",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWE0c3gtRTdJV0tJNXc4Y0tsM3AxN0s5bEktNnFvN2c1cjBwU1Y3MTJoelNaZ0IteWlILWF4YUxDN3JpVEs5ZGltbkczeGo3RWFqT1hLVm1iR0dmaXR2Ri1QT1R6dzFUTGt5aklrLXRRM1ZqWldWRjBRYm5FSVpJc2doUk9RNDgyM0dHUldBZTFINmo0eVJjVFZQc0YwWWNuWWt1UmRtUEhHRGR3Zmd0TEx2djlBRFphY0ZMemF2RGNfYnlzUG93aVVYV0VzTVM2dzNDRmVSWlk4N2p6RVFVTk81YWxyclY3Z0E?oc=5",
+          "published": "2026-10-09T04:45:00.000Z"
+        },
         {
           "tag": "Press",
           "headline": "Digital tokens eye tax-exempt status as Singapore reviews family office list - Insurance Asia",
@@ -87,9 +139,9 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Citigroup Inc at UBS Financial Services Conference Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnUVFzaFBEMklTdi1tR1EwZzZQZ1pKbnYxVDdkaTNjYndtaFE5Qk5qZDhBaGJrYnhyQlpkMm91MFhTTGp6aGl1OHA5QXN0MXFodEYwdUV0TWx0Wlp3eEtwM3hIRDh2UTlnaW5zcHBn?oc=5",
-          "published": "2026-10-05T22:21:15.000Z"
+          "headline": "UnitedHealth Group (UNH) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaTlN0Y2E4MEdHUUo5UWJxenRGd1ZFc1UzWWtrMTFrQlZHYjJPLVBIRjNTeWl3djlQNkVZQUNBX0NGeG52c00wYk1rNDBJNEJYb2JqUmVIQzZzZVBUbGFmalFZSTRsaXJsQmpyWndrUi1GZw?oc=5",
+          "published": "2026-10-08T13:08:32.000Z"
         }
       ]
     },
@@ -99,19 +151,19 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Indonesia’s Non-Life Insurance Segment - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVNRdkpCbjVPUHM3RXQxcXJyTlFoeDNLTlowYmpQOGR2dWswMHlDYlRNX1ZmVThrZUdnTm52QThWRmlhWTlGRlZFZ0tzenNMWWtIMVNZZWNaNm8zNlBmVVUzU1Y1VnNoNmhheWxtSXdpNGZkSVA0S1VFTjk3WkhFVTlfT0JsaDFZanVYaUFCVmkwOVBMS0ZKU2FXbUlTZC1ERFFzM0s1YmlfTU1lRU1FVU1zVnRaNnozX3Nab0lEdVg4a3BfSEc0NGl1WGt0b1NLc0g2dWRiaUhTOUh4QlRKcnpPUFVKYkdCYmxJb29wbw?oc=5",
-          "published": "2026-10-08T01:00:49.000Z"
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Indonesia’s Non-Life Insurance Segment - Carroll County Mirror-Democrat",
+          "source": "Carroll County Mirror-Democrat",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFNjWkxnYlZWVlNXbVJFTW1VdjdRRF9ENEpDMUJWWU5NUHJ3YnJxT2hHZVV0cFVFb29DT3dKVVNVUkRkdkpSNUhtU0VEelI4VlNySzF0b01sNkNnZlRCaXJPdlV1WjZFNFprQjh1eDBMSVE3UDhrT3RLTzRaTWRwOHozZC1xMXpqUlF4dnU0emItcXFjVTVUc2t1RnNqZkduQW5CUVV1cDY4NE40Xzk1NFppMV9ac00?oc=5",
+          "published": "2026-10-08T01:00:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Indonesia’s Non-Life Insurance Segment - Business Wire",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVNRdkpCbjVPUHM3RXQxcXJyTlFoeDNLTlowYmpQOGR2dWswMHlDYlRNX1ZmVThrZUdnTm52QThWRmlhWTlGRlZFZ0tzenNMWWtIMVNZZWNaNm8zNlBmVVUzU1Y1VnNoNmhheWxtSXdpNGZkSVA0S1VFTjk3WkhFVTlfT0JsaDFZanVYaUFCVmkwOVBMS0ZKU2FXbUlTZC1ERFFzM0s1YmlfTU1lRU1FVU1zVnRaNnozX3Nab0lEdVg4a3BfSEc0NGl1WGt0b1NLc0g2dWRiaUhTOUh4QlRKcnpPUFVKYkdCYmxJb29wbw?oc=5",
-          "published": "2026-10-08T01:00:49.000Z"
+          "headline": "Best’s Market Segment Report: AM Best Maintains Stable Outlook on Indonesia’s Non-Life Insurance Segment - Carroll County Mirror-Democrat",
+          "source": "Carroll County Mirror-Democrat",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFNjWkxnYlZWVlNXbVJFTW1VdjdRRF9ENEpDMUJWWU5NUHJ3YnJxT2hHZVV0cFVFb29DT3dKVVNVUkRkdkpSNUhtU0VEelI4VlNySzF0b01sNkNnZlRCaXJPdlV1WjZFNFprQjh1eDBMSVE3UDhrT3RLTzRaTWRwOHozZC1xMXpqUlF4dnU0emItcXFjVTVUc2t1RnNqZkduQW5CUVV1cDY4NE40Xzk1NFppMV9ac00?oc=5",
+          "published": "2026-10-08T01:00:00.000Z"
         }
       ],
       "insight": {
@@ -162,10 +214,10 @@
         },
         {
           "tag": "Press",
-          "headline": "Stablecoin payments are going mainstream. Hong Kong and APAC are showing how - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzVjdnBxeS1IYy1nRW1HemhvdFZDcThoWU5qdXE1VnpIMXdCZUhQa1N3M0Z4VzR3SWx4NXpuT1NyT09NMU5kVUNVNk5pQlNOb2p6WnJST3Y2YkYtQlF2OVROVHU1R1h4cG53TUhUTTNqaWVhRzdYZDBiY1g5Y3lLNU9uQ3FYWVRnNnlCbUZKd3dIRWpUU21La1FNSXRmNHVHQTVVVnlReGlCdzZjSWZ1MC1VYXhJamEwdzFvcFIwZGRKRTBoRlR4UFFiSzFvVTlMTnRxbnRmRTkxUQ?oc=5",
-          "published": "2026-10-06T02:00:00.000Z"
+          "headline": "Singapore’s cheque cut-off: Why this property player is switching to e-payments now - The Straits Times",
+          "source": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYkg1MGFQbFhCbDY4UXVtdzZzaHFydFdTcjA4b2lhZ0EyZmpsaUlBV1kwWHg5VmJqbVYxcDVQVVBCa0RIUUpqd3RPcVJXV0JRZFl3cmJhXzFGNHJZRFAtaUFxakN4WDZBX2xSVmx3U2RoQm5lT1hCb09BM1BsaEpPdzhLd1M3cHlHRGFNQTI2bVNnY3RIam1qd0ZDb2VJX3dQRUZjSGNxRkwzMVpLWDhXdHo3RnJBVm9IMkswWlhVQVBYdFkyRUNpRjBmUWJRUQ?oc=5",
+          "published": "2026-10-08T20:00:00.000Z"
         }
       ],
       "candidates": [
@@ -185,10 +237,10 @@
         },
         {
           "tag": "Press",
-          "headline": "Stablecoin payments are going mainstream. Hong Kong and APAC are showing how - Asian Banking & Finance",
-          "source": "Asian Banking & Finance",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzVjdnBxeS1IYy1nRW1HemhvdFZDcThoWU5qdXE1VnpIMXdCZUhQa1N3M0Z4VzR3SWx4NXpuT1NyT09NMU5kVUNVNk5pQlNOb2p6WnJST3Y2YkYtQlF2OVROVHU1R1h4cG53TUhUTTNqaWVhRzdYZDBiY1g5Y3lLNU9uQ3FYWVRnNnlCbUZKd3dIRWpUU21La1FNSXRmNHVHQTVVVnlReGlCdzZjSWZ1MC1VYXhJamEwdzFvcFIwZGRKRTBoRlR4UFFiSzFvVTlMTnRxbnRmRTkxUQ?oc=5",
-          "published": "2026-10-06T02:00:00.000Z"
+          "headline": "Singapore’s cheque cut-off: Why this property player is switching to e-payments now - The Straits Times",
+          "source": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYkg1MGFQbFhCbDY4UXVtdzZzaHFydFdTcjA4b2lhZ0EyZmpsaUlBV1kwWHg5VmJqbVYxcDVQVVBCa0RIUUpqd3RPcVJXV0JRZFl3cmJhXzFGNHJZRFAtaUFxakN4WDZBX2xSVmx3U2RoQm5lT1hCb09BM1BsaEpPdzhLd1M3cHlHRGFNQTI2bVNnY3RIam1qd0ZDb2VJX3dQRUZjSGNxRkwzMVpLWDhXdHo3RnJBVm9IMkswWlhVQVBYdFkyRUNpRjBmUWJRUQ?oc=5",
+          "published": "2026-10-08T20:00:00.000Z"
         }
       ],
       "insight": null,
