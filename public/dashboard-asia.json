@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:38:02.646Z",
+  "generatedAt": "2026-10-11T07:42:53.227Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,6 +33,13 @@
       "bullets": [
         {
           "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzdDbUs5STNTMFpXSDllZjFqcjVOWUJKUUlSWVpVUFljRGpKMVlYUVc5YXZzZzlWUHFFQVkzTzhwMjhWeHB1VGlyOXE0bkI4QnVOSk5pSUVmLUh4MUpyNWdydWVwWHRlNThxNElVTjQ2N1VweEdVdnN2Ym9fa3AzallVaXNSdlhEdnM4S0VDVjNmMkFXNTZQLWx3eG9qZ2Rvd3l4S0ZXbV9mUFk?oc=5",
+          "published": "2026-10-09T07:07:00.000Z"
+        },
+        {
+          "tag": "Product",
           "headline": "Ping An Digital Bank enters high-end wealth with private fund launch - Hong Kong Business",
           "source": "Hong Kong Business",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc05UemZ0ZUh3MzJ2cmJFVHk0emlNLTFoSmdyXzkxUEJtNzhva1NmX0wtSmxfdVNlTHp1d1BVcnBqLW0yMUVXcTd1azdQS0RHSWdIMlo4U1drcWNJSkVKTVc5bElqSTlzQ2RuQ1dCT1B0aFZ5MHNCSmlPOWY5VDRSUVh3T0xmTGdHT25MM1F0elFLNzdEUlR4Zg?oc=5",
@@ -47,6 +54,13 @@
         }
       ],
       "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc: Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzdDbUs5STNTMFpXSDllZjFqcjVOWUJKUUlSWVpVUFljRGpKMVlYUVc5YXZzZzlWUHFFQVkzTzhwMjhWeHB1VGlyOXE0bkI4QnVOSk5pSUVmLUh4MUpyNWdydWVwWHRlNThxNElVTjQ2N1VweEdVdnN2Ym9fa3AzallVaXNSdlhEdnM4S0VDVjNmMkFXNTZQLWx3eG9qZ2Rvd3l4S0ZXbV9mUFk?oc=5",
+          "published": "2026-10-09T07:07:00.000Z"
+        },
         {
           "tag": "Product",
           "headline": "Ping An Digital Bank enters high-end wealth with private fund launch - Hong Kong Business",
@@ -87,14 +101,6 @@
           "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
           "published": "2026-09-30T15:30:26.000Z"
-        },
-        {
-          "company": "Fidelity International",
-          "ticker": "FIL",
-          "tag": "Analyst Report",
-          "headline": "Fidelity US Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQazNLNlJ2bU5sclhnQV9nOE9McGkzNDBRbnAxMjVLeUNLX0xjbDhVV3dld282M2hwbkpDbS1wNlZINlA0US1sRU5aWTNpMnZ2Z3gxazl6NUNRR0d0S1pJN2tZdVN6YzZCTkEzdThIVGVWWllGTUFEMGpVUElkN3ljNkcydWxsQ2Joc2JxemtEYXc3dmRISFhiTnBmZk1RdHZrUWU4bXROWk9TYUhyZHRLbjBob21tTEJsaW9Md3dvQmR4YnVONXNpTWZZdmhEVHJNWHc?oc=5",
-          "published": "2026-10-06T07:15:00.000Z"
         }
       ]
     },
@@ -170,6 +176,13 @@
       "bullets": [
         {
           "tag": "Press",
+          "headline": "127 arrested as Hong Kong police bust Vietnamese-led loan-sharking syndicate",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
+          "published": "2026-10-10T12:02:09.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Cake receives Euromoney's Vietnam Best Digital Bank 2026 award - VnExpress International",
           "source": "VnExpress International",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmpVS0ZDdklHYUdEMzZ3cXFCdHowOEFYTDJsVGh2WHFYUzNMQkV3UDl6SlUxZzVIWGotcER1MXllOXN4M2Y0ZmptRklfSFZ5WlFlbV8wWW42ejE4RXQyeGJucUREazdkc0xwbHVHWnhEUEJPX2JNRndkck41ZmtXcHBxRFpjOWwxSm1EOXFMbGU4MUFzVTlPQi1reDBlSUNGaE1JdnRGamJpeTVoYV9idlRRMA?oc=5",
@@ -184,6 +197,13 @@
         }
       ],
       "candidates": [
+        {
+          "tag": "Press",
+          "headline": "127 arrested as Hong Kong police bust Vietnamese-led loan-sharking syndicate",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
+          "published": "2026-10-10T12:02:09.000Z"
+        },
         {
           "tag": "Press",
           "headline": "Cake receives Euromoney's Vietnam Best Digital Bank 2026 award - VnExpress International",
