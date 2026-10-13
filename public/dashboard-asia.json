@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T07:51:12.803Z",
+  "generatedAt": "2026-10-13T08:15:11.690Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,64 +32,92 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Hong Kong Solana ETF to Launch With Lower Fees - The Cryptonomist",
-          "source": "The Cryptonomist",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XVksxUUNsUHoxRzhWQkNpbDJPd1lzemdXNWtGckpLUG1xRUFYTXU0UHZwZ2E4bU5nMWo4dDNTX0pGWl9uNFliUUE2RkNqZlJNU3RvWUc5VzM0X0R3c3phVWVSNHJsLUFtOUNB?oc=5",
-          "published": "2026-10-12T07:14:27.000Z"
+          "tag": "Strategy",
+          "headline": "Hong Kong Launches Solana ETF as U.S. Funds Experience $24.8M Outflow - KuCoin",
+          "source": "KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalkyTnBqYmZNeHBhVHVmeTZYSmZPaGtuRmw5NHU2QjBwSFdfWUJzeTVaTlZpeUtGa1I0Zm1iTHpneHdnaXlpbTFVLUhOR1NIeXhHcHlOWnR6ZDBrTW1pR1A0Zy10aFJNRFQxM09sTWZuYmNYTGdaVUhOT3RkS29SbllIbmJUUy1WY0hSdVFSUDlhSU45N2xES1Zn?oc=5",
+          "published": "2026-10-12T21:23:27.000Z"
         },
         {
           "tag": "Product",
-          "headline": "Pandu to launch Hong Kong’s second spot Solana ETF on October 13 - Crypto News",
-          "source": "Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUJNWkc0VThZZkJkX01UdjF5TkxINHB3UVhSZ3Z1Y0hFdmMxb3RMWFNkZVhmX1VsZnd4VHNoS3pKc0lENXg0ZVpBalR6OExyS3AwU1FqTVZoQVhLMl9KdXRPRmdyRlMxal9QSVFnemprUWFiS2htcE1OUFNSRWxCZGt4dmd3THNETDhXVA?oc=5",
-          "published": "2026-10-12T06:18:00.000Z"
+          "headline": "Solana ETF Launch Set for Hong Kong as U.S. Funds Lose $24.8M in One Week - Coinpaper",
+          "source": "Coinpaper",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDBFMVA4THJramFoVHhTb2REQmFLVldCZXZkTnFhTTItR2ptNUlYbjRDZ25ISmtFTkhvcXE2YUI0U0tTeTcyUUZjOWdQQXRCYzZhXzN3bndTd1JTVFhkUUs1b0Vzby1BRmRCaTBZOWM4U3FLbzl0RTNnVHpBdzRHVFF2bGJWY3pUV3RYWGxsYm9GQjBhQ1FuTWdNejhOdw?oc=5",
+          "published": "2026-10-12T19:19:57.000Z"
         },
         {
           "tag": "Product",
-          "headline": "Hong Kong ETF Turnover Surges As Market Expands Virtual-Asset Products - Crowdfund Insider",
-          "source": "Crowdfund Insider",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHhndFVaWXViM0ZTZlNsRFhYdGZJZXFRMFhIdmJKNzN0WGphRzJIQ2NUV3djSmw5S2JoUXJtLXhKNEVTTkNfbGRtNkx1TFRlYzdWVWoySzRPVWZ4Mks4LVJiY2lhNTg1Tmg2eGlDZkRoWFZXVl9jMU5iZXpSTk5SMjRKRFJpNnNmMFJHSDU2TFdFaEhCNnRheDlRS3RJN18tSjJoUUI4N0Qta0hBSm0wdTNmRFRlcUtMT3Fn?oc=5",
-          "published": "2026-10-11T20:34:30.000Z"
+          "headline": "Pando Finance to List Hong Kong's Second Spot Solana ETF on October 13 - BigGo Finance",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mdUx5N2xFci0xQl9IYWIyNk1mMGNrNlVhQnV6OHdsWkJ6cVhzLTZ2TGJtYTVodWxYNEFNY0NaUThMenhVQVZXbzZUMHpiX1I0SHJqY1dSZmRBVkZrajZ5Wll3M3F3QzNad2h1TGtfMlQtMmdZc2c?oc=5",
+          "published": "2026-10-12T18:27:00.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Strategy",
+          "headline": "Hong Kong Launches Solana ETF as U.S. Funds Experience $24.8M Outflow - KuCoin",
+          "source": "KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalkyTnBqYmZNeHBhVHVmeTZYSmZPaGtuRmw5NHU2QjBwSFdfWUJzeTVaTlZpeUtGa1I0Zm1iTHpneHdnaXlpbTFVLUhOR1NIeXhHcHlOWnR6ZDBrTW1pR1A0Zy10aFJNRFQxM09sTWZuYmNYTGdaVUhOT3RkS29SbllIbmJUUy1WY0hSdVFSUDlhSU45N2xES1Zn?oc=5",
+          "published": "2026-10-12T21:23:27.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Solana ETF Launch Set for Hong Kong as U.S. Funds Lose $24.8M in One Week - Coinpaper",
+          "source": "Coinpaper",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDBFMVA4THJramFoVHhTb2REQmFLVldCZXZkTnFhTTItR2ptNUlYbjRDZ25ISmtFTkhvcXE2YUI0U0tTeTcyUUZjOWdQQXRCYzZhXzN3bndTd1JTVFhkUUs1b0Vzby1BRmRCaTBZOWM4U3FLbzl0RTNnVHpBdzRHVFF2bGJWY3pUV3RYWGxsYm9GQjBhQ1FuTWdNejhOdw?oc=5",
+          "published": "2026-10-12T19:19:57.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Pando Finance to List Hong Kong's Second Spot Solana ETF on October 13 - BigGo Finance",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mdUx5N2xFci0xQl9IYWIyNk1mMGNrNlVhQnV6OHdsWkJ6cVhzLTZ2TGJtYTVodWxYNEFNY0NaUThMenhVQVZXbzZUMHpiX1I0SHJqY1dSZmRBVkZrajZ5Wll3M3F3QzNad2h1TGtfMlQtMmdZc2c?oc=5",
+          "published": "2026-10-12T18:27:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Pando Sets Oct. 13 Hong Kong Listing for Spot Solana ETF - The Defiant",
+          "source": "The Defiant",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlJ1RWZSOEI3UmsweWFQNFRQMUIwcl9MZDh0Y2c1LXdFTUZQZUREX1cyd2V2Q09HQWFMQVJxRkpoY1lYVHdpTVBlRnZtX0p2OUNHUDdwX2pEcWpsNDJQUkFIaGhZdVJEXzZoSXgxNlZqS3JKOGFoSHc5b1dJWm5acGw2VmY5NUw4Ym5pQTZzY2Z3cXRGM0R3M1J3MWMyMkE5WHNnckVTLVQ?oc=5",
+          "published": "2026-10-12T16:24:56.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Solana SOL Price Analysis as Pando ETF Enters Hong Kong Market - The Coin Republic",
+          "source": "The Coin Republic",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3dodGtoLUNLVkx1enpoZnNvNXRFYlV6TDZ4bzJqdi00anZHVTVwbC15cHRGZU9PMnp3aUU3eU56bG92bWhDTWZYQ3pCOFFvYWlTazVPSW1RVmN0eUVZbExzd2hUbmhDakpGcUJOTDRna2JJTXFucms2NkxSMldVc3JYVEVfc2NlNjVVdkp6VTBXVG5JQ1lpOUtvTHVZcVc0TWYybEFDVzJfUdIBrwFBVV95cUxPOC1FM1RmY2NaT05yTlRabF9YZmVoZ04zS2JjcTlEeFpEOWE4LURjQW92eThpNkRHVUZPTjlEMXZyOFZrQi1wUWZ3OXEtcWg1TjRvY0JwLTZBUXZOZC1IT1hWeGdUSjR3LXFVbzNpdGlicW5SbW1oUWs0YjVIcUtXa0JyUUtaOFBxYUxoRURqSUpwODhyT3JfdzVDWmt5Wm1PZ3g2N3hiRU9aRnhJdTlV?oc=5",
+          "published": "2026-10-12T16:00:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Pando Solana ETF Set for October 13 Hong Kong Exchange Debut - NameCoinNews",
+          "source": "NameCoinNews",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SeTRFM1dkVlVaNU84bERjNzIzbkNyZllEM1l1MUZSNTJ1SGc5eFQ4U2lKVU9qTUo5dGJpOUZMNkZza3pnb0p5dHpyUXBIVk40VjhiN01nc3FHaUNqeTlTUVhqc3FhZVZGRkJDNk5hRl9HNGpnN2tHbkUyMA?oc=5",
+          "published": "2026-10-12T12:58:46.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong’s Second Spot Solana ETF Debuts Oct 13 as Pando Undercuts ChinaAMC with 0.6% Fee - CoinGape",
+          "source": "CoinGape",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVJXcml2WF9kano3QWtQTjBJdGxUYktlTzlNUGtYOGZSZllfOVIxLUtvRHJscGdEUGFralJyQ3U5NjRFNnRCTTllaXdHLUIxRGdpU2hxby1RUlJNcDdVeWdUdm1Oc1B0X1BRdHhUemlyOFZDbVBCUnBmM08tcjh5UFhWeFp5ZnJRMVVXOTluZ0tENUVDVHIwTzJDeG0waVIxQjQwN21naVZldm0yV2k4?oc=5",
+          "published": "2026-10-12T08:38:21.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Hong Kong Solana ETF to Launch With Lower Fees - The Cryptonomist",
           "source": "The Cryptonomist",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XVksxUUNsUHoxRzhWQkNpbDJPd1lzemdXNWtGckpLUG1xRUFYTXU0UHZwZ2E4bU5nMWo4dDNTX0pGWl9uNFliUUE2RkNqZlJNU3RvWUc5VzM0X0R3c3phVWVSNHJsLUFtOUNB?oc=5",
           "published": "2026-10-12T07:14:27.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Pandu to launch Hong Kong’s second spot Solana ETF on October 13 - Crypto News",
-          "source": "Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUJNWkc0VThZZkJkX01UdjF5TkxINHB3UVhSZ3Z1Y0hFdmMxb3RMWFNkZVhmX1VsZnd4VHNoS3pKc0lENXg0ZVpBalR6OExyS3AwU1FqTVZoQVhLMl9KdXRPRmdyRlMxal9QSVFnemprUWFiS2htcE1OUFNSRWxCZGt4dmd3THNETDhXVA?oc=5",
-          "published": "2026-10-12T06:18:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong ETF Turnover Surges As Market Expands Virtual-Asset Products - Crowdfund Insider",
-          "source": "Crowdfund Insider",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHhndFVaWXViM0ZTZlNsRFhYdGZJZXFRMFhIdmJKNzN0WGphRzJIQ2NUV3djSmw5S2JoUXJtLXhKNEVTTkNfbGRtNkx1TFRlYzdWVWoySzRPVWZ4Mks4LVJiY2lhNTg1Tmg2eGlDZkRoWFZXVl9jMU5iZXpSTk5SMjRKRFJpNnNmMFJHSDU2TFdFaEhCNnRheDlRS3RJN18tSjJoUUI4N0Qta0hBSm0wdTNmRFRlcUtMT3Fn?oc=5",
-          "published": "2026-10-11T20:34:30.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Ping An Digital Bank enters high-end wealth with private fund launch - Hong Kong Business",
-          "source": "Hong Kong Business",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc05UemZ0ZUh3MzJ2cmJFVHk0emlNLTFoSmdyXzkxUEJtNzhva1NmX0wtSmxfdVNlTHp1d1BVcnBqLW0yMUVXcTd1azdQS0RHSWdIMlo4U1drcWNJSkVKTVc5bElqSTlzQ2RuQ1dCT1B0aFZ5MHNCSmlPOWY5VDRSUVh3T0xmTGdHT25MM1F0elFLNzdEUlR4Zg?oc=5",
-          "published": "2026-10-09T08:14:34.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "MXJ – HSBC MSCI Pacific ex Japan ETF – ETF Investment Strategy - Morningstar",
+        "headline": "HFEJLN – HSBC MSCI AC FAR EAST ex JAPAN ETF $ Inc – ETF Investment Strategy - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pNmg0ZGIxSktzcmV2TDZmWnJ6Z1NGR2E3MERpbkFnTGZEZm1qSDhpbnQyQzYzTS11SERmekZmWUQwRFZ0TVlpekM0MjJDNzlJME14YTlvZjRZakFaQjVv?oc=5",
-        "published": "2026-10-09T17:32:25.000Z",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41d05oeUM4R2NUSzBhOEIyaUp2ZElsR2d4LVFfa1dFRmw3Vy1rNzNYQlRqV3A2OV84YUxxd0pab01KLXp1Y3R2WXRIcG9ZV2Ewd3poQS1tZ05FXzRHclNOcmNwSQ?oc=5",
+        "published": "2026-10-12T03:21:29.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -108,23 +136,47 @@
           "headline": "Earnings call transcript: Schroders Capital Global Innovation Trust H1 2026 lifts NAV - Investing.com UK",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQnlUMnBFNFBJdnZ3UVR3WFF5M0UwQlVsS3ljTFE3a1lWSGw0Z2NQcjJOMnhtd3ZicVhFRFctRGpDemZUSUpKMDNoRy1pWFh4cU9OZXRFeGtrcWJfUXprSXh4OE5nemlvZXZZbE1TU2pWcDBhakZvODVmb3RjRG01b2RpcnVKNDZrRWhTTXRWN2xhNWdSQ2ZzN0E2TC15TEpWSkZqaFVVb01uUFZKdzJ4a0JFdEJvTC1lbGxkLVdYd1pQQklaY1MzSldxaUo1V3kyUG9wS0hRaER6VXQ2RGc?oc=5",
           "published": "2026-09-16T07:00:00.000Z"
+        },
+        {
+          "company": "Fidelity International",
+          "ticker": "FIL",
+          "tag": "Analyst Report",
+          "headline": "Fidelity Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Sharecast.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTRaN2VtSUYwZmNKSVNjd0JmRWlnc2ZZVXROVHZhR1hNRlo3WkhCWC1nMWJoRnVkWnlMTTNvYkFwS3ZBNEs5eGJNdHpuQTUtOExqZUkzMU9iVHlEWWEwZE9wNzkySE9vdzBzSWxhanZPUWhTbDkzNkFnQllXaVB0c21LYUQ5Q0xrdGgxeHdRek5UVndNQVBsZmVUNzNCdFVyOVlxVUNVbzYyQW9iLVBUZkJlSW12dzRXQTFKSkJNaDcwVkFFalFNUHN4a2RGNFNQUXFJQWVB?oc=5",
+          "published": "2026-10-08T07:15:00.000Z"
         }
       ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Singapore’s wealth management success should extend to everyday families - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTFoRU5ZRzdUdVYxSlYxMEdCTmlxTEpURnIxZnpERmVMS29ncnU2bjNTV3hYOHpoTVVHMGllX3FGNDNlU3BObVZuUjQ5OEhsQldUUUlycnY0c0F1RVZadEZFV0lOV1JfYTZ5dzRYN0NZOVZCN1JETWFuS21FMHdFMDNJc29VVkJJQ1k3SDFGRGpUR1g3dVRfU1R5a1N6OXlFUUtkbjFPVmMyZ0xFNWlaNGRpS2N2RXhmYWc?oc=5",
+          "published": "2026-10-12T23:00:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "Singapore’s wealth management success should extend to everyday families - The Business Times",
+          "source": "Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTFoRU5ZRzdUdVYxSlYxMEdCTmlxTEpURnIxZnpERmVMS29ncnU2bjNTV3hYOHpoTVVHMGllX3FGNDNlU3BObVZuUjQ5OEhsQldUUUlycnY0c0F1RVZadEZFV0lOV1JfYTZ5dzRYN0NZOVZCN1JETWFuS21FMHdFMDNJc29VVkJJQ1k3SDFGRGpUR1g3dVRfU1R5a1N6OXlFUUtkbjFPVmMyZ0xFNWlaNGRpS2N2RXhmYWc?oc=5",
+          "published": "2026-10-12T23:00:00.000Z"
+        }
+      ],
       "insight": null,
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "UnitedHealth Group (UNH) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaTlN0Y2E4MEdHUUo5UWJxenRGd1ZFc1UzWWtrMTFrQlZHYjJPLVBIRjNTeWl3djlQNkVZQUNBX0NGeG52c00wYk1rNDBJNEJYb2JqUmVIQzZzZVBUbGFmalFZSTRsaXJsQmpyWndrUi1GZw?oc=5",
-          "published": "2026-10-08T13:08:32.000Z"
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-10-08T05:28:53.000Z"
         }
       ]
     },
@@ -174,6 +226,13 @@
         },
         {
           "tag": "Press",
+          "headline": "11 Best Fixed Deposit Rates in Singapore (October 2026): RHB Pays 2.10% p.a., Singapura Finance 2.08% and HL Bank 2.05% - www.misslobang.com",
+          "source": "www.misslobang.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnWVZmd3ZfRm9BOWE1MkxmcFFKTktTUzRlRFBBdVpKaWlqOEFCLTE4X3pBOTkxbW1nSnNjblZCSV9OcnVUZmlzQ1VMc1BaSzdYV3FGNHlRWXlGWGVmeEQ1bngtVTgybWpUTGFPVTZ4TkFlY3hNRzdPYmtMS2djTTQ?oc=5",
+          "published": "2026-10-12T08:17:02.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Singapore Banking Monthly – Loan growth at 13% outpaces rising funding costs - StocksBNB",
           "source": "StocksBNB",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb19ZS2M1U0ZlckhSOTZXV2doTW9uTlVzdWE4aVJEOVFWYWNmdFl2eVVNaHhIUVFBYWpVdjJiNkZVckJudTN2S0g1SktUaHB4M0xqY2FKZXU5bC13R09XTVg3ZktCOUllWmFBd21CT3lhT0I3c1JrVnlrb0ZjVEZsUGg2MFZaNzFvXzR5SlRobFRGVzE3NzNmbGhXcTZ4SENiSk5FdjZFRUpkckpM?oc=5",
@@ -190,10 +249,31 @@
         },
         {
           "tag": "Press",
+          "headline": "11 Best Fixed Deposit Rates in Singapore (October 2026): RHB Pays 2.10% p.a., Singapura Finance 2.08% and HL Bank 2.05% - www.misslobang.com",
+          "source": "www.misslobang.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnWVZmd3ZfRm9BOWE1MkxmcFFKTktTUzRlRFBBdVpKaWlqOEFCLTE4X3pBOTkxbW1nSnNjblZCSV9OcnVUZmlzQ1VMc1BaSzdYV3FGNHlRWXlGWGVmeEQ1bngtVTgybWpUTGFPVTZ4TkFlY3hNRzdPYmtMS2djTTQ?oc=5",
+          "published": "2026-10-12T08:17:02.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Singapore Banking Monthly – Loan growth at 13% outpaces rising funding costs - StocksBNB",
           "source": "StocksBNB",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb19ZS2M1U0ZlckhSOTZXV2doTW9uTlVzdWE4aVJEOVFWYWNmdFl2eVVNaHhIUVFBYWpVdjJiNkZVckJudTN2S0g1SktUaHB4M0xqY2FKZXU5bC13R09XTVg3ZktCOUllWmFBd21CT3lhT0I3c1JrVnlrb0ZjVEZsUGg2MFZaNzFvXzR5SlRobFRGVzE3NzNmbGhXcTZ4SENiSk5FdjZFRUpkckpM?oc=5",
           "published": "2026-10-11T17:54:17.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore Gulf Bank expands 24/7 USD payments through BNY - Crypto News",
+          "source": "Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vbzdPOUt6WHJPV3EtODYzYjNCNHg4a1BfWDJlTlRqMmhrNG15MnlsblpUTTI4Y0FNemVfeEItVTg2OWY5Ml9qaFJmal9OUFc1VkpmV2hmTFc5dEtCeGZZSGZkbUEtRk1mTGZkVzBrekY3MnRQdklNS013?oc=5",
+          "published": "2026-10-12T18:15:16.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Why Payments Execs Are Suddenly Hot Hires in Australia - Tech Business News",
+          "source": "Tech Business News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLTBNNFBIZWhqUlo1TUUtZDFlMkFkZmxPeUxTUDhSbVlvd0ZIdHRlM3VjSFZjekJ4Y1YwVW9rd1NKXzNXYnNMeTA5UXB4a1BRSXk0UkVkSmwtdmcwV0NfcEFiRjNsT0R4bDh2dWU0WmZGMzB3RW1BbldTbWQyQ3FPVVRVQTlKWTVwVnZHOVpvTGNiS0I4ZEE?oc=5",
+          "published": "2026-10-12T15:03:39.000Z"
         }
       ],
       "insight": null,
