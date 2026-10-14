@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:15:11.690Z",
+  "generatedAt": "2026-10-14T06:35:11.471Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,10 +33,17 @@
       "bullets": [
         {
           "tag": "Strategy",
-          "headline": "Hong Kong Launches Solana ETF as U.S. Funds Experience $24.8M Outflow - KuCoin",
-          "source": "KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalkyTnBqYmZNeHBhVHVmeTZYSmZPaGtuRmw5NHU2QjBwSFdfWUJzeTVaTlZpeUtGa1I0Zm1iTHpneHdnaXlpbTFVLUhOR1NIeXhHcHlOWnR6ZDBrTW1pR1A0Zy10aFJNRFQxM09sTWZuYmNYTGdaVUhOT3RkS29SbllIbmJUUy1WY0hSdVFSUDlhSU45N2xES1Zn?oc=5",
-          "published": "2026-10-12T21:23:27.000Z"
+          "headline": "Solana ETF Inflow Streak Ends as Hong Kong Gets Second Spot SOL ETF - Altcoin Buzz",
+          "source": "Altcoin Buzz",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLS0za2toVW5LWXVvQlNMaFZfZDVzczhTeEJ1WVE2SWhicTV1NEtnaVNteHpkcDZuNE9YNG1CT3p5SkZVT2N4UkFHWVNkbHA2LVE1VllKZVJUcVh6NjBydGw0QU5ZcWdLdmlpWkp5RDhhYm53RlJ4X2VHcWdtcm9LbzVOYjJuQUJaNmNMSFgzWEFIMDVHZkNhTWxoeVRxZw?oc=5",
+          "published": "2026-10-13T18:28:08.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Jabal advances Hong Kong ETF plans with 50% Oman allocation - Oman Observer",
+          "source": "Oman Observer",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43UVd4SUlwbGVucVJsQ0lYN3ZfMFRUa0RrdFg1NEMtSGVab1Bab3EzdHVSREhXczkyYURnbzBaUFd1c0dDYWQ4NWNDN3psY1pQWVFNNUdyWkFyQdIBWkFVX3lxTE43UVd4SUlwbGVucVJsQ0lYN3ZfMFRUa0RrdFg1NEMtSGVab1Bab3EzdHVSREhXczkyYURnbzBaUFd1c0dDYWQ4NWNDN3psY1pQWVFNNUdyWkFyQQ?oc=5",
+          "published": "2026-10-13T10:00:32.000Z"
         },
         {
           "tag": "Product",
@@ -44,22 +51,22 @@
           "source": "Coinpaper",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDBFMVA4THJramFoVHhTb2REQmFLVldCZXZkTnFhTTItR2ptNUlYbjRDZ25ISmtFTkhvcXE2YUI0U0tTeTcyUUZjOWdQQXRCYzZhXzN3bndTd1JTVFhkUUs1b0Vzby1BRmRCaTBZOWM4U3FLbzl0RTNnVHpBdzRHVFF2bGJWY3pUV3RYWGxsYm9GQjBhQ1FuTWdNejhOdw?oc=5",
           "published": "2026-10-12T19:19:57.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Pando Finance to List Hong Kong's Second Spot Solana ETF on October 13 - BigGo Finance",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mdUx5N2xFci0xQl9IYWIyNk1mMGNrNlVhQnV6OHdsWkJ6cVhzLTZ2TGJtYTVodWxYNEFNY0NaUThMenhVQVZXbzZUMHpiX1I0SHJqY1dSZmRBVkZrajZ5Wll3M3F3QzNad2h1TGtfMlQtMmdZc2c?oc=5",
-          "published": "2026-10-12T18:27:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Strategy",
-          "headline": "Hong Kong Launches Solana ETF as U.S. Funds Experience $24.8M Outflow - KuCoin",
-          "source": "KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalkyTnBqYmZNeHBhVHVmeTZYSmZPaGtuRmw5NHU2QjBwSFdfWUJzeTVaTlZpeUtGa1I0Zm1iTHpneHdnaXlpbTFVLUhOR1NIeXhHcHlOWnR6ZDBrTW1pR1A0Zy10aFJNRFQxM09sTWZuYmNYTGdaVUhOT3RkS29SbllIbmJUUy1WY0hSdVFSUDlhSU45N2xES1Zn?oc=5",
-          "published": "2026-10-12T21:23:27.000Z"
+          "headline": "Solana ETF Inflow Streak Ends as Hong Kong Gets Second Spot SOL ETF - Altcoin Buzz",
+          "source": "Altcoin Buzz",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLS0za2toVW5LWXVvQlNMaFZfZDVzczhTeEJ1WVE2SWhicTV1NEtnaVNteHpkcDZuNE9YNG1CT3p5SkZVT2N4UkFHWVNkbHA2LVE1VllKZVJUcVh6NjBydGw0QU5ZcWdLdmlpWkp5RDhhYm53RlJ4X2VHcWdtcm9LbzVOYjJuQUJaNmNMSFgzWEFIMDVHZkNhTWxoeVRxZw?oc=5",
+          "published": "2026-10-13T18:28:08.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Jabal advances Hong Kong ETF plans with 50% Oman allocation - Oman Observer",
+          "source": "Oman Observer",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43UVd4SUlwbGVucVJsQ0lYN3ZfMFRUa0RrdFg1NEMtSGVab1Bab3EzdHVSREhXczkyYURnbzBaUFd1c0dDYWQ4NWNDN3psY1pQWVFNNUdyWkFyQdIBWkFVX3lxTE43UVd4SUlwbGVucVJsQ0lYN3ZfMFRUa0RrdFg1NEMtSGVab1Bab3EzdHVSREhXczkyYURnbzBaUFd1c0dDYWQ4NWNDN3psY1pQWVFNNUdyWkFyQQ?oc=5",
+          "published": "2026-10-13T10:00:32.000Z"
         },
         {
           "tag": "Product",
@@ -83,32 +90,18 @@
           "published": "2026-10-12T16:24:56.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Solana SOL Price Analysis as Pando ETF Enters Hong Kong Market - The Coin Republic",
-          "source": "The Coin Republic",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3dodGtoLUNLVkx1enpoZnNvNXRFYlV6TDZ4bzJqdi00anZHVTVwbC15cHRGZU9PMnp3aUU3eU56bG92bWhDTWZYQ3pCOFFvYWlTazVPSW1RVmN0eUVZbExzd2hUbmhDakpGcUJOTDRna2JJTXFucms2NkxSMldVc3JYVEVfc2NlNjVVdkp6VTBXVG5JQ1lpOUtvTHVZcVc0TWYybEFDVzJfUdIBrwFBVV95cUxPOC1FM1RmY2NaT05yTlRabF9YZmVoZ04zS2JjcTlEeFpEOWE4LURjQW92eThpNkRHVUZPTjlEMXZyOFZrQi1wUWZ3OXEtcWg1TjRvY0JwLTZBUXZOZC1IT1hWeGdUSjR3LXFVbzNpdGlicW5SbW1oUWs0YjVIcUtXa0JyUUtaOFBxYUxoRURqSUpwODhyT3JfdzVDWmt5Wm1PZ3g2N3hiRU9aRnhJdTlV?oc=5",
-          "published": "2026-10-12T16:00:00.000Z"
+          "tag": "Press",
+          "headline": "AirTrunk Delays $1B Singapore Data Centre REIT IPO and More APAC Real Estate Headlines - Mingtiandi",
+          "source": "Mingtiandi",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc014OUlYMVNHSW5xcFlIcWZOV3NvVWhEajAxQkMtNVM2WF9xSkNDVDdEcklhV2M2SlpQNjZ5cW56ai14QV94MFdwTjBRZzNmLWl5V3BkNG9xYzc2a0k2RW96VnFsVGZ2c284MmhNcFNaUi00R1lqeHhQSktoNTVmQmZhRFF1ZW5BcnowWkduQ1ZjVzRPaHE2Z0NtVDN5SEZYcW56N3hnWkQ?oc=5",
+          "published": "2026-10-14T04:39:55.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Pando Solana ETF Set for October 13 Hong Kong Exchange Debut - NameCoinNews",
-          "source": "NameCoinNews",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SeTRFM1dkVlVaNU84bERjNzIzbkNyZllEM1l1MUZSNTJ1SGc5eFQ4U2lKVU9qTUo5dGJpOUZMNkZza3pnb0p5dHpyUXBIVk40VjhiN01nc3FHaUNqeTlTUVhqc3FhZVZGRkJDNk5hRl9HNGpnN2tHbkUyMA?oc=5",
-          "published": "2026-10-12T12:58:46.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong’s Second Spot Solana ETF Debuts Oct 13 as Pando Undercuts ChinaAMC with 0.6% Fee - CoinGape",
-          "source": "CoinGape",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVJXcml2WF9kano3QWtQTjBJdGxUYktlTzlNUGtYOGZSZllfOVIxLUtvRHJscGdEUGFralJyQ3U5NjRFNnRCTTllaXdHLUIxRGdpU2hxby1RUlJNcDdVeWdUdm1Oc1B0X1BRdHhUemlyOFZDbVBCUnBmM08tcjh5UFhWeFp5ZnJRMVVXOTluZ0tENUVDVHIwTzJDeG0waVIxQjQwN21naVZldm0yV2k4?oc=5",
-          "published": "2026-10-12T08:38:21.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong Solana ETF to Launch With Lower Fees - The Cryptonomist",
-          "source": "The Cryptonomist",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XVksxUUNsUHoxRzhWQkNpbDJPd1lzemdXNWtGckpLUG1xRUFYTXU0UHZwZ2E4bU5nMWo4dDNTX0pGWl9uNFliUUE2RkNqZlJNU3RvWUc5VzM0X0R3c3phVWVSNHJsLUFtOUNB?oc=5",
-          "published": "2026-10-12T07:14:27.000Z"
+          "tag": "Press",
+          "headline": "Roundup: Starhill Global REIT Exits Japan With $39M Tokyo Sale - Mingtiandi",
+          "source": "Mingtiandi",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2VqN3pJUml6VnQwcGJJd0NXeHhxRFMtblVFRTZwdEdIeXZkV2hYel82bGEyRXNaT3FRS00wRldKeFY2cFZsODZrc0hMWWxpM2w4OFBScVRDRFhjX2FjRTk3UWVXSG4yY1ZmYnRlcVAzY01fcnd0ZVVONTFPZWxzaVhyLThfaXpQcVQ4eWc2WTBCeU1aV2lNMzJUS2UzVXFsQUgyVWJCR1pYQXBP?oc=5",
+          "published": "2026-10-13T04:25:07.000Z"
         }
       ],
       "insight": {
@@ -127,7 +120,7 @@
           "tag": "Transcript",
           "headline": "BlackRock (BLK) Q2 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNDJrMFd5b294dVNlNWR3Qmd2R2dWY3dfTkphUTlhc0RoazRZRWRyd1lQNWxUS0lGei1vWm94MDB2WXlhOEtzcFZTVHV3V1AyeC1sUmtkU3RCaWs5SFJlY3A1Y3Qzdw?oc=5",
-          "published": "2026-09-30T15:30:26.000Z"
+          "published": "2026-10-12T06:25:23.000Z"
         },
         {
           "company": "Schroders",
@@ -150,33 +143,17 @@
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Singapore’s wealth management success should extend to everyday families - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTFoRU5ZRzdUdVYxSlYxMEdCTmlxTEpURnIxZnpERmVMS29ncnU2bjNTV3hYOHpoTVVHMGllX3FGNDNlU3BObVZuUjQ5OEhsQldUUUlycnY0c0F1RVZadEZFV0lOV1JfYTZ5dzRYN0NZOVZCN1JETWFuS21FMHdFMDNJc29VVkJJQ1k3SDFGRGpUR1g3dVRfU1R5a1N6OXlFUUtkbjFPVmMyZ0xFNWlaNGRpS2N2RXhmYWc?oc=5",
-          "published": "2026-10-12T23:00:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Singapore’s wealth management success should extend to everyday families - The Business Times",
-          "source": "Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTFoRU5ZRzdUdVYxSlYxMEdCTmlxTEpURnIxZnpERmVMS29ncnU2bjNTV3hYOHpoTVVHMGllX3FGNDNlU3BObVZuUjQ5OEhsQldUUUlycnY0c0F1RVZadEZFV0lOV1JfYTZ5dzRYN0NZOVZCN1JETWFuS21FMHdFMDNJc29VVkJJQ1k3SDFGRGpUR1g3dVRfU1R5a1N6OXlFUUtkbjFPVmMyZ0xFNWlaNGRpS2N2RXhmYWc?oc=5",
-          "published": "2026-10-12T23:00:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
-          "published": "2026-10-08T05:28:53.000Z"
+          "headline": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
+          "published": "2026-10-13T10:03:29.000Z"
         }
       ]
     },
@@ -196,20 +173,20 @@
       },
       "companyUpdates": [
         {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
+          "published": "2026-10-10T23:21:13.000Z"
+        },
+        {
           "company": "AIA Group",
           "ticker": "AIA",
           "tag": "Transcript",
           "headline": "Half Year 2025 AIA Group Ltd Earnings Presentation (Pre-Recorded) Transcript - GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02blo4dEhKcF9DSmZuRWlDcDc0V3BlUGkwdzFoTXdqN2xCa3MyczMzSmswWHNKZnlobW9rZFRhbkxxcmNSNmFMSUpDbHZRX1ptdXIzdzZLSnVrYTM5Wl90eU9rVjhFeFUxaWRSUA?oc=5",
           "published": "2026-10-07T15:24:59.000Z"
-        },
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
-          "published": "2026-10-03T01:57:26.000Z"
         }
       ]
     },
@@ -218,34 +195,62 @@
       "name": "Retail Banking",
       "bullets": [
         {
+          "tag": "Press",
+          "headline": "Singapore’s PDG Seeks $1.2 Billion Loan for Malaysia Data Center - Bloomberg.com",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV18zVFhFWTN5TkQ0bGV5dDF3TV9FSEJrdTl4Z2RWMDVfekVBU0I4NkVJY3VpNGtyTC10dHAtN2hpaE5sWVA5MUs4bUx6ZUlxWVpoQWdSUFFDRzFVYVg0YURHWnBnNzN3SHdTVXB5ck1sSV9HVy16NV8yMlExVjVkZ3Q4VU43aFgtSkgteG5WQ0JPMmZfY1RMbWo3X0tsbEwxV2FfWEVURWFVbEt5WHJjdjVNMFc?oc=5",
+          "published": "2026-10-14T04:28:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Chinese team finds 11,700 new viruses in world’s biggest seabed metal deposit",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3370762/chinese-team-finds-11700-new-viruses-worlds-biggest-seabed-metal-deposit?utm_source=rss_feed",
+          "published": "2026-10-14T04:00:09.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Revolut Pursues Digital Banking Licence in the Philippines - www.briefasia.com",
           "source": "www.briefasia.com",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc09DcTNrckVPRC1zaGpuWFFrYUlsaVh2NnJDMkZmRkVFLXVWUkw3OFpPY3JnV2Z3c1B2UjRGQ0o3TnlJd0N0Nmx5dmxmeHZaYnA4Z252QThWaDhfRDlLUHV2OGhTNnB2dTN1ZGdTZFloUkxKUFZvS29PUzBoZ0syZmJpWmZ3NjFLQ0dudEVB?oc=5",
           "published": "2026-10-11T16:03:15.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "11 Best Fixed Deposit Rates in Singapore (October 2026): RHB Pays 2.10% p.a., Singapura Finance 2.08% and HL Bank 2.05% - www.misslobang.com",
-          "source": "www.misslobang.com",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnWVZmd3ZfRm9BOWE1MkxmcFFKTktTUzRlRFBBdVpKaWlqOEFCLTE4X3pBOTkxbW1nSnNjblZCSV9OcnVUZmlzQ1VMc1BaSzdYV3FGNHlRWXlGWGVmeEQ1bngtVTgybWpUTGFPVTZ4TkFlY3hNRzdPYmtMS2djTTQ?oc=5",
-          "published": "2026-10-12T08:17:02.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore Banking Monthly – Loan growth at 13% outpaces rising funding costs - StocksBNB",
-          "source": "StocksBNB",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb19ZS2M1U0ZlckhSOTZXV2doTW9uTlVzdWE4aVJEOVFWYWNmdFl2eVVNaHhIUVFBYWpVdjJiNkZVckJudTN2S0g1SktUaHB4M0xqY2FKZXU5bC13R09XTVg3ZktCOUllWmFBd21CT3lhT0I3c1JrVnlrb0ZjVEZsUGg2MFZaNzFvXzR5SlRobFRGVzE3NzNmbGhXcTZ4SENiSk5FdjZFRUpkckpM?oc=5",
-          "published": "2026-10-11T17:54:17.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Press",
+          "headline": "Singapore’s PDG Seeks $1.2 Billion Loan for Malaysia Data Center - Bloomberg.com",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV18zVFhFWTN5TkQ0bGV5dDF3TV9FSEJrdTl4Z2RWMDVfekVBU0I4NkVJY3VpNGtyTC10dHAtN2hpaE5sWVA5MUs4bUx6ZUlxWVpoQWdSUFFDRzFVYVg0YURHWnBnNzN3SHdTVXB5ck1sSV9HVy16NV8yMlExVjVkZ3Q4VU43aFgtSkgteG5WQ0JPMmZfY1RMbWo3X0tsbEwxV2FfWEVURWFVbEt5WHJjdjVNMFc?oc=5",
+          "published": "2026-10-14T04:28:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Chinese team finds 11,700 new viruses in world’s biggest seabed metal deposit",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/science/article/3370762/chinese-team-finds-11700-new-viruses-worlds-biggest-seabed-metal-deposit?utm_source=rss_feed",
+          "published": "2026-10-14T04:00:09.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Revolut Pursues Digital Banking Licence in the Philippines - www.briefasia.com",
           "source": "www.briefasia.com",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc09DcTNrckVPRC1zaGpuWFFrYUlsaVh2NnJDMkZmRkVFLXVWUkw3OFpPY3JnV2Z3c1B2UjRGQ0o3TnlJd0N0Nmx5dmxmeHZaYnA4Z252QThWaDhfRDlLUHV2OGhTNnB2dTN1ZGdTZFloUkxKUFZvS29PUzBoZ0syZmJpWmZ3NjFLQ0dudEVB?oc=5",
           "published": "2026-10-11T16:03:15.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Princeton Digital Group seeks up to $1.2 billion loan for Malaysia data centers - Crypto Briefing",
+          "source": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1N6MEdXMmZYYXJETWRnOFN1MzdrT2trTzNqUE5YX3JPeHUwbHFfNmFWNVJncTlZbmxoTWx0elo3di1IV19QMUpWc0JELVpuekdCd01qX1hyU2ZsdHZkbzFPeXZUYV9PZ2dwVlczWC1EVTFiMndzLVYxLWhZNlBjLVlMNA?oc=5",
+          "published": "2026-10-14T05:03:54.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore banks' fixed-deposit promotions unlikely to spark price war - Singapore Business Review",
+          "source": "Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnB3dVQwSjlOV3k0Q193cXhHcXBWNWxXbERTdmZZbkVOWXBLeE45emN5T0JYc01NRVEteHpXbkZtNElybkFRemM5cERSenlXUkhPcWhYa0FpT1JMQXFuV0NQdGhmV1lneGwzUEdHdUk3dXJBRzRYZzgwUWYyWXRQWVRtNTZpQWlKYURPbjI4QmwtdEU?oc=5",
+          "published": "2026-10-14T04:11:31.000Z"
         },
         {
           "tag": "Press",
@@ -267,13 +272,6 @@
           "source": "Crypto News",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vbzdPOUt6WHJPV3EtODYzYjNCNHg4a1BfWDJlTlRqMmhrNG15MnlsblpUTTI4Y0FNemVfeEItVTg2OWY5Ml9qaFJmal9OUFc1VkpmV2hmTFc5dEtCeGZZSGZkbUEtRk1mTGZkVzBrekY3MnRQdklNS013?oc=5",
           "published": "2026-10-12T18:15:16.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Why Payments Execs Are Suddenly Hot Hires in Australia - Tech Business News",
-          "source": "Tech Business News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLTBNNFBIZWhqUlo1TUUtZDFlMkFkZmxPeUxTUDhSbVlvd0ZIdHRlM3VjSFZjekJ4Y1YwVW9rd1NKXzNXYnNMeTA5UXB4a1BRSXk0UkVkSmwtdmcwV0NfcEFiRjNsT0R4bDh2dWU0WmZGMzB3RW1BbldTbWQyQ3FPVVRVQTlKWTVwVnZHOVpvTGNiS0I4ZEE?oc=5",
-          "published": "2026-10-12T15:03:39.000Z"
         }
       ],
       "insight": null,
