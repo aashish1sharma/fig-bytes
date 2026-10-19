@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:27:13.919Z",
+  "generatedAt": "2026-10-19T06:38:58.377Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,52 +30,8 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [
-        {
-          "tag": "Strategy",
-          "headline": "Thailand moves to launch first crypto ETFs; CoinShares sees limited early inflows - 디지털투데이",
-          "source": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0NrM1pSMVJCNi1SRHBYaTdZbHRlUGVjc21FVFpBcml2aUpQZlFMS0FMR0l5b2dZZkpvTjVydENBRE1iSVQ2cHRSVGZWb0FDWk9vc3dhSmYyOU9pN1RvWWpERzFhZ2NNcTMzak8ycS11R0NLVnlkQkpCN3FJREY1V3JGVUczd2JXNmd3aVFOUXdnSzJna1ZMc1ZPMDlvNlkyQWZ1TEUwSnpnMWhqRHRhYnh4LW5KRXVycndvLVBOVFFRaVRr?oc=5",
-          "published": "2026-10-16T01:07:35.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong Approves Solana ETF Ahead of United States - CoinMarketCap",
-          "source": "CoinMarketCap",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHh2SFRXWldFclNuUVl1M0xhT3gtU1o3alFVbzZqeWJIc1ZPTThhLWRjTDZCSUp0SzloSjVJemh1VmdqMkNyTDVwVlBTbWJJd1loSXFwZzBwSzA1bF9hUjVtREszX1pjSmhuSGdKX0JhVE02SEpxNHNFaUZEQXFkNmVnMEFDSGtDTy1oVXM4b1BTOHRpUGpaeFhn?oc=5",
-          "published": "2026-10-16T03:56:27.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "CoinShares: Thailand Crypto ETF Rules Likely Won’t Spark Fast Start - KuCoin",
-          "source": "KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNktacWVTVmROYll0Tmx6NVExRi1fTDBQdFJ5RUdQTUtyY3k5aVlsMlNHV1R5X1EtbXBOdEQzckN5OFRXOWV2TjM0ZlFSVFE0QXUtdXBPMjVfWEtCb0M3R2F1ZTN0OTZJQ1kzcm1IN1pjOTdybUxsWFVZbnNCdnRsWEUzcmwtd3lvajI0ZFhIOHc0RmpheEU2V0V4VnNFZGZuWWc?oc=5",
-          "published": "2026-10-15T19:13:59.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Strategy",
-          "headline": "Thailand moves to launch first crypto ETFs; CoinShares sees limited early inflows - 디지털투데이",
-          "source": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0NrM1pSMVJCNi1SRHBYaTdZbHRlUGVjc21FVFpBcml2aUpQZlFMS0FMR0l5b2dZZkpvTjVydENBRE1iSVQ2cHRSVGZWb0FDWk9vc3dhSmYyOU9pN1RvWWpERzFhZ2NNcTMzak8ycS11R0NLVnlkQkpCN3FJREY1V3JGVUczd2JXNmd3aVFOUXdnSzJna1ZMc1ZPMDlvNlkyQWZ1TEUwSnpnMWhqRHRhYnh4LW5KRXVycndvLVBOVFFRaVRr?oc=5",
-          "published": "2026-10-16T01:07:35.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong Approves Solana ETF Ahead of United States - CoinMarketCap",
-          "source": "CoinMarketCap",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHh2SFRXWldFclNuUVl1M0xhT3gtU1o3alFVbzZqeWJIc1ZPTThhLWRjTDZCSUp0SzloSjVJemh1VmdqMkNyTDVwVlBTbWJJd1loSXFwZzBwSzA1bF9hUjVtREszX1pjSmhuSGdKX0JhVE02SEpxNHNFaUZEQXFkNmVnMEFDSGtDTy1oVXM4b1BTOHRpUGpaeFhn?oc=5",
-          "published": "2026-10-16T03:56:27.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "CoinShares: Thailand Crypto ETF Rules Likely Won’t Spark Fast Start - KuCoin",
-          "source": "KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNktacWVTVmROYll0Tmx6NVExRi1fTDBQdFJ5RUdQTUtyY3k5aVlsMlNHV1R5X1EtbXBOdEQzckN5OFRXOWV2TjM0ZlFSVFE0QXUtdXBPMjVfWEtCb0M3R2F1ZTN0OTZJQ1kzcm1IN1pjOTdybUxsWFVZbnNCdnRsWEUzcmwtd3lvajI0ZFhIOHc0RmpheEU2V0V4VnNFZGZuWWc?oc=5",
-          "published": "2026-10-15T19:13:59.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "HFEJ – HSBC MSCI AC FAR EAST ex JAPAN ETF $ Inc – ETF Investment Strategy - Morningstar",
@@ -90,8 +46,8 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock Inc. (UU2.SG) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWXA4bUp0bkRfekRmMkZFZGV1WTdZejJYLUJHOVE5dHh6NXBkQlVKRzNyM24yNnl6XzdEUzJnQ1AzSDB1VHdhTFc0bTNaVVBFZ1ZwMVRyRXdHSUtqcC1Bc1YxOGRBTWJ0OWF6by1PUGZrUlV5ajA1ZUZndVptckRkLVp1V1RjaFR5TUNnRU01X3ZCZw?oc=5",
+          "headline": "BlackRock, Inc. (BLK) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWI2SEdTWjhIc2RvTjlkOUVKNld1XzY2bjktLXg5SUhCSDdnYXk2TDcyNTVmejlnaUxITmMwdXBfbGY4aTBKNGQ4MGVUSXptTGUxdEFobWVTT3d5QjRWM0Q0OVVuaUVDcVplVWFPSXhfNzR4WVliOXFLUTV3VEZGZVZtb29BSmM0WEE?oc=5",
           "published": "2026-10-14T11:30:00.000Z"
         },
         {
@@ -136,44 +92,28 @@
       "insight": null,
       "companyUpdates": [
         {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "Citizens Financial Group (CFG) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWXBOUUYyNmxkaGs5cHpMOUtRQ1JhbzJfVVpMY00xRVgtSlBySjJHSkNVZ3RhMUhQVXl4LWFYVThtdDdJX3pzc1pFMFhKX1oyeGxXZDJjTlpZYmhvY0szclJqRUJWNXFreUZuZVlrTHRZaFFFbTFPZ09n?oc=5",
+          "published": "2026-10-16T07:44:08.000Z"
+        },
+        {
           "company": "DBS Group",
           "ticker": "D05.SI",
           "tag": "Transcript",
           "headline": "DBS GROUP HOLDINGS LTD. R (DEVL.MU) Q2 FY2026 earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHIwWFI5OV9OTlpyMlRGeXJqcndmaXI3NXlldzBOX1pLcHl2aVRzTWZINXg2ZF95WHJkdGtnXzExNnVIVjExZkdyWjNZZEl3bk9CT3ZEVGpCRG9aNDNwQW1maF84MnNpRTBqRFY4UFFxNVZydWFqQmZSa1ZZQWxNRjBrcTFrNGJybElSaHhmWUx6Ql9r?oc=5",
           "published": "2026-10-16T07:36:41.000Z"
-        },
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "UnitedHealth Group (UNH) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaTlN0Y2E4MEdHUUo5UWJxenRGd1ZFc1UzWWtrMTFrQlZHYjJPLVBIRjNTeWl3djlQNkVZQUNBX0NGeG52c00wYk1rNDBJNEJYb2JqUmVIQzZzZVBUbGFmalFZSTRsaXJsQmpyWndrUi1GZw?oc=5",
-          "published": "2026-10-16T04:20:08.000Z"
         }
       ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Singapore's Growing Market For Wealth-Linked Life Insurance – In Conversation With Singlife - Wealth Briefing Asia",
-          "source": "Wealth Briefing Asia",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeDZfdFc5aHg1SGJ6aU0xUXRlTHUxLWIzUTB5TlFSR2tXeTNXNFZ0aDh1b1lWNGVBaDNnQ1dUUlVKOUNnZko5TTRCeG5lR2FORGUzek1pbHducC1xWVQybHVTZE1NWEZpWExzRkJwOHR0bGFrSmFOSEJTdi1ZcmZXRnl4T1RWUUFoZGxfalJYUEwwUTEzUXlqT2psTHpfZ1dTUjRJLVExdkFaa3lDSFhyczV3VVNQbUpEN2w2VHNmOW1MM3N2d0ctMUhrWnFrc3VuZUhRTDl0bllvTkRkUlhRWDJnSlRkWDN2LUtJNlpwa19FN00?oc=5",
-          "published": "2026-10-15T16:58:39.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Singapore's Growing Market For Wealth-Linked Life Insurance – In Conversation With Singlife - Wealth Briefing Asia",
-          "source": "Wealth Briefing Asia",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeDZfdFc5aHg1SGJ6aU0xUXRlTHUxLWIzUTB5TlFSR2tXeTNXNFZ0aDh1b1lWNGVBaDNnQ1dUUlVKOUNnZko5TTRCeG5lR2FORGUzek1pbHducC1xWVQybHVTZE1NWEZpWExzRkJwOHR0bGFrSmFOSEJTdi1ZcmZXRnl4T1RWUUFoZGxfalJYUEwwUTEzUXlqT2psTHpfZ1dTUjRJLVExdkFaa3lDSFhyczV3VVNQbUpEN2w2VHNmOW1MM3N2d0ctMUhrWnFrc3VuZUhRTDl0bllvTkRkUlhRWDJnSlRkWDN2LUtJNlpwa19FN00?oc=5",
-          "published": "2026-10-15T16:58:39.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
@@ -216,7 +156,7 @@
           "tag": "Press",
           "headline": "Ex-father-in-law failed to repay HK$250,000 loan, Abby Choi murder trial hears - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQnBtNXVGZ3ZqUS1oY3NoNlNzRlhWVUdXSTJCWnpwQ2JTVTJGaUdFeXVteHFqLWEyTTJhSVJ5R1RZNUhtRUdpaVhObkdOYjhHWVNyY2J1WUlLMTNnZmJoQnBpaVZ5QlZtZkxNMzhZSUoxbmxzdUJhN24wby1mdTkyOWgtOGxaWDd1QW1zeFE0WlpUTHdQNF9TcjhqSXZJWjk4NzkyWjlJRE9VcTg4TWw4TjFmR3VmckRWTmJxWkNQZnhvTG9XOWgzUGN6MV9nUHdz0gHQAUFVX3lxTE9CcG01dUZndmpRLWhjc2g2U3NGWFZVR1dJMkJaenBDYlNVMkZpR0V5dW14cWotYTJNMmFJUnlHVFk1SG1FR2lpWE5uR05iOEdZU3JjYnVZSUsxM2dmYmhCcGlpVnlCVm1mTE0zOFlJSjFubHN1QmE3bjBvLWZ1OTI5aC04bFpYN3VBbXN4UTRaWlRMd1A0X1NyOGpJdklaOTg3OTJaOUlET1VxODhNbDhOMWZHdWZyRFZOYnFaQ1BmeG9Mb1c5aDNQY3oxX2dQd3M?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2tXR2N0aF9NbExRMW5jRUtCaHpyY0U0Y0M2SWdSOHBsOGpjMERWRm5vVkh5TUZIMm1jQWRDbG90S2NOYTNRYWRyNWJheWNaVTZzc1psT1pxZGdoOVJTTGxja2dmdGxwTm5nbzhEdzViMHFwX2tTOXNyQUU4aGRmM0VkUGdZdGJ5bHgtSUNveEc1MXlHUzh0MWVZV0FMV0hZZE93dGd6U3hKZnRyZHktTG5KZ1IwMkN0ZzZuanV2Um4ySTdfa1c0aTZvbXlnQUZw0gHQAUFVX3lxTE9CcG01dUZndmpRLWhjc2g2U3NGWFZVR1dJMkJaenBDYlNVMkZpR0V5dW14cWotYTJNMmFJUnlHVFk1SG1FR2lpWE5uR05iOEdZU3JjYnVZSUsxM2dmYmhCcGlpVnlCVm1mTE0zOFlJSjFubHN1QmE3bjBvLWZ1OTI5aC04bFpYN3VBbXN4UTRaWlRMd1A0X1NyOGpJdklaOTg3OTJaOUlET1VxODhNbDhOMWZHdWZyRFZOYnFaQ1BmeG9Mb1c5aDNQY3oxX2dQd3M?oc=5",
           "published": "2026-10-16T10:40:16.000Z"
         }
       ],
@@ -239,8 +179,22 @@
           "tag": "Press",
           "headline": "Ex-father-in-law failed to repay HK$250,000 loan, Abby Choi murder trial hears - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQnBtNXVGZ3ZqUS1oY3NoNlNzRlhWVUdXSTJCWnpwQ2JTVTJGaUdFeXVteHFqLWEyTTJhSVJ5R1RZNUhtRUdpaVhObkdOYjhHWVNyY2J1WUlLMTNnZmJoQnBpaVZ5QlZtZkxNMzhZSUoxbmxzdUJhN24wby1mdTkyOWgtOGxaWDd1QW1zeFE0WlpUTHdQNF9TcjhqSXZJWjk4NzkyWjlJRE9VcTg4TWw4TjFmR3VmckRWTmJxWkNQZnhvTG9XOWgzUGN6MV9nUHdz0gHQAUFVX3lxTE9CcG01dUZndmpRLWhjc2g2U3NGWFZVR1dJMkJaenBDYlNVMkZpR0V5dW14cWotYTJNMmFJUnlHVFk1SG1FR2lpWE5uR05iOEdZU3JjYnVZSUsxM2dmYmhCcGlpVnlCVm1mTE0zOFlJSjFubHN1QmE3bjBvLWZ1OTI5aC04bFpYN3VBbXN4UTRaWlRMd1A0X1NyOGpJdklaOTg3OTJaOUlET1VxODhNbDhOMWZHdWZyRFZOYnFaQ1BmeG9Mb1c5aDNQY3oxX2dQd3M?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2tXR2N0aF9NbExRMW5jRUtCaHpyY0U0Y0M2SWdSOHBsOGpjMERWRm5vVkh5TUZIMm1jQWRDbG90S2NOYTNRYWRyNWJheWNaVTZzc1psT1pxZGdoOVJTTGxja2dmdGxwTm5nbzhEdzViMHFwX2tTOXNyQUU4aGRmM0VkUGdZdGJ5bHgtSUNveEc1MXlHUzh0MWVZV0FMV0hZZE93dGd6U3hKZnRyZHktTG5KZ1IwMkN0ZzZuanV2Um4ySTdfa1c0aTZvbXlnQUZw0gHQAUFVX3lxTE9CcG01dUZndmpRLWhjc2g2U3NGWFZVR1dJMkJaenBDYlNVMkZpR0V5dW14cWotYTJNMmFJUnlHVFk1SG1FR2lpWE5uR05iOEdZU3JjYnVZSUsxM2dmYmhCcGlpVnlCVm1mTE0zOFlJSjFubHN1QmE3bjBvLWZ1OTI5aC04bFpYN3VBbXN4UTRaWlRMd1A0X1NyOGpJdklaOTg3OTJaOUlET1VxODhNbDhOMWZHdWZyRFZOYnFaQ1BmeG9Mb1c5aDNQY3oxX2dQd3M?oc=5",
           "published": "2026-10-16T10:40:16.000Z"
+        },
+        {
+          "tag": "Leadership",
+          "headline": "Singapore monetary authority chief says tokenised payments must be backed by central bank money - 디지털투데이",
+          "source": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVE0ZmZRWGcwaHdvOTFNYmR0bDctV0p6Wm9uUTR5RmxDSjgzVFlEYk9ENmhOQWZFZTNsNmYzcTM2MnU2aEVWYVpSNlBsX3lmaFVxelBmWGRISWNBejk4SWdYVnQ3Zm1LZHJmNG5XcDVsN1hkLTZBS21xQUd2MXRYNzd6MDZ5Ny1MYXd2aGRsS3RwenQwQ3gxbG9hR2xVTDZmR19reTB2dFN5dmhlYnlxSktwWHRybkkyZEJrYzVQTXlnd0l5eFJFUGZyZmlKbFhoSzZ0WlFKR2g?oc=5",
+          "published": "2026-10-18T21:06:10.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "UAE, Singapore plan digital payments through CBDC, QR codes - Khaleej Times",
+          "source": "Khaleej Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV1l2MVhVMG1nVlk4X0pjb09icTdQcXVURkpqV0tTclFoeFFSVEQxalFTU0JCT3BzalFKSGlONkp0d2Q1Z0w2Q0h5ZmFLeWpJTjg5OUVhNkQwWTFxNUFPUFk2UTJHajd3WVVJU3ZMRE03dWpKS25OWVRCWGZRSVVWa0NKRExBWWRidUZZYlo1ZTR2QmxvY0ZVdkI4VjcxYzc2aDA00gGjAUFVX3lxTFBXWXYxWFUwbWdWWThfSmNvT2JxN1BxdVRGSmpXS1NyUWh4UVJURDFqUVNTQkJPcHNqUUpIaU42SnR3ZDVnTDZDSHlmYUt5aklOODk5RWE2RDBZMXE1QU9QWTZRMkdqN3dZVUlTdkxETTd1akpLbk5ZVEJYZlFJVVZrQ0pETEFZZGJ1RlliWjVlNHZCbG9jRlV2QjhWNzFjNzZoMDQ?oc=5",
+          "published": "2026-10-18T05:36:24.000Z"
         },
         {
           "tag": "Press",
@@ -248,14 +202,21 @@
           "source": "صوت الإمارات",
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNa1hEZXZiM3hTdXlHSW1QdC10VFJkZUp2WWdocGFEdDNidlUwN05BY0F2a1V5blBCcXpOU1ZpaEc2YTV0eWYzazNLU0pBNkljaUVkZGFwa0x0Q2JkdC1MN3o2U0NFUEphUTZud3RKQTR3TUFOMml5em4xdVVtQnRpcVB2bFR2UkNNOHRNX0FSRTdtYWszRVdYRW00QXVxWXh1U3BsSFVOSjNaU05tSDg5U01EbGtsaFJ3cjVPNnMzWmRFNl9lRDhsRWs5eWJDMjg2SzljX1RZYVVhdlBiLUh4dUJ3MDhvNGxjN1gxZEtOWEtGenBTZmZBSGNBR3BkZWxzQXoxanItTzRIYW1J?oc=5",
           "published": "2026-10-17T09:17:14.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "UNO Digital Bank Expects All Services Back after Days-Long Maintenance - Fintech News Philippines",
+          "source": "Fintech News Philippines",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0lGZHhjaG5WV1hCbkpqcHAtSXBMOWViNlVyRVZJemdrdDN2a05qeWxDdGpGZ0dDTEtkUVZLaDQ4V0tlU2pFb0RDNE9KczlFMUQxaFVHZ2dGZkFwcTh5VkVQTkVaOGk0UUFUN2xodVEzYU1KQ1Bjc18xMjF2ajNsY1lyVjRYcnRFWTI4QVRuWXEweUlsbXB2Zjd6ckhMajAy?oc=5",
+          "published": "2026-10-16T07:41:56.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Reporter’s notebook: Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
+        "headline": "Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
         "teaser": null,
         "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRTF2dERINW4yUGxqcU9wby1pemtGdG5YVTVaY0tqSmxjd0lPY3Jnb1dOb3h5S194Q0xsQ1QxZWtqSlhudW9XNlptUEN5TThfVzJHcncyNXoxSm5WT1JRNHpqZHdkZVRvQ0hRdGRSSG5FRUs5X3lPUWNTdHRqUzRGNGZxLUc0TjNxeEhmeXBtX0xEdE1vckVKQ0psVnlHbXFMZnBHb0hETUhTbXpwTGo1YUlIbEZOYU9JWlhrTlNOa193QUlkeWZOMl93MnBBQ2lSclRsX3NqTmpjVmNJZi1EV014YU5Zd3RYaEFVa1FEUmtqTW5fSlFpSEc2U3dmYWdYTlE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhRMXpyOGYzTi1BallOM1VRdWZzaFJuS1NRODc0YzNtTzVheGNqTm5UYjRINFR2eDYyVld2cTY1OGNNWDZzb2ZkWVNpUnM4NEtnRnVyZ1Y2bTZ4bkp4SVc2WUlJVnhMcUF6d1AwYmVSR1pGWHBZZXRMamZiZFdMb2xFSUt0dzkwMlRCdVIwWUk1S1ZTLWhOMUtHaGRISUU1anVRdV9IMWVjRl9mT0x2dGJCbDZwc0NEcER5Ti1GdnpTeU5oaXo4X1lGZF_SAcwBQVVfeXFMT0R4OEFGWTdlZTEzdnpLVmVLQkI0QlRlVVhhdk1aRWFrQjZxU0NGNGxHSVFybU80c1B3dTVuTXk5SHA3TVpScTRtVE03NnNNTDdES25XdE5wdTNvUTZkTnc0VGp0SnRGbGZzM09pUGdfd1RGVEJHZ3BjbVlYMmstd1F4VHFUeWlhNVFNZ1FlRlZvZl9STUk0YW4tSkhpZndMV1NaOE5mTUVUcVE1V1VhdGk0MnZqLXVXd2pxLWJzTjROSU8xRnR6Yk1NRUt0?oc=5",
         "published": "2026-10-17T08:00:11.000Z",
         "paywalled": false
       },
