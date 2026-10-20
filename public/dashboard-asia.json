@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:38:58.377Z",
+  "generatedAt": "2026-10-20T06:24:40.419Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -30,8 +30,24 @@
     {
       "id": "asset-management",
       "name": "Asset Management",
-      "bullets": [],
-      "candidates": [],
+      "bullets": [
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlBnN0tCRTR4UnNuWXpSOEdXTXBkOVIzNWMtYzhRV2NocGQwc29zYzRWNl95SnI2Y3M4UDZLUmZZWXp6UEhVTnJCNTNZeWg3a1M3dVFZUC1qaV9DU2hiRkFoandLdF9wWndyQVVqUVdUdmREcVM0OTZhRmhIYzZ2b21yc2dZVG5aSkpPb2xwVlZJY3Zw?oc=5",
+          "published": "2026-10-20T06:03:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlBnN0tCRTR4UnNuWXpSOEdXTXBkOVIzNWMtYzhRV2NocGQwc29zYzRWNl95SnI2Y3M4UDZLUmZZWXp6UEhVTnJCNTNZeWg3a1M3dVFZUC1qaV9DU2hiRkFoandLdF9wWndyQVVqUVdUdmREcVM0OTZhRmhIYzZ2b21yc2dZVG5aSkpPb2xwVlZJY3Zw?oc=5",
+          "published": "2026-10-20T06:03:00.000Z"
+        }
+      ],
       "insight": {
         "tag": "Research",
         "headline": "HFEJ – HSBC MSCI AC FAR EAST ex JAPAN ETF $ Inc – ETF Investment Strategy - Morningstar",
@@ -43,20 +59,20 @@
       },
       "companyUpdates": [
         {
+          "company": "Schroders",
+          "ticker": "SDR",
+          "tag": "Transcript",
+          "headline": "SIS-Q3-2026-video-transcript.pdf - Brand and Creative Hub - Schroders - Schroders",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUkyNWJuRnFqZ0drQWdtdHM4aGs4M2F4cmtiaFowekU5d0FWdzhxNnlobUxCNDhxbDV6NDZid3JuRnF5aWlRLV9XTV9jV2xNa3lBNldsMVVxcHNZQ3ZnOUVpVUlTaXNJV1c0akgyemtUdnJsN2pHNFZzajB5ZkFyVmVVUnNEX2lEN1BSaE9sUjdUSndPbzFjdFFfbXc5RVNwcjZQbVZaZ2U?oc=5",
+          "published": "2026-10-20T03:46:56.000Z"
+        },
+        {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
           "headline": "BlackRock, Inc. (BLK) Q3 FY2026 earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWI2SEdTWjhIc2RvTjlkOUVKNld1XzY2bjktLXg5SUhCSDdnYXk2TDcyNTVmejlnaUxITmMwdXBfbGY4aTBKNGQ4MGVUSXptTGUxdEFobWVTT3d5QjRWM0Q0OVVuaUVDcVplVWFPSXhfNzR4WVliOXFLUTV3VEZGZVZtb29BSmM0WEE?oc=5",
           "published": "2026-10-14T11:30:00.000Z"
-        },
-        {
-          "company": "Schroders",
-          "ticker": "SDR",
-          "tag": "Presentation",
-          "headline": "Investor Presentation - Schroders",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
-          "published": "2026-10-15T16:30:07.000Z"
         },
         {
           "company": "Fidelity International",
@@ -71,24 +87,8 @@
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "China Trust Tax Shift Puts UOB Stock And Private Banking Banks In Focus - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWs5UFpEZkwwd1BQT0VHa0NqTU1JeC1McVE4Ym5NWl9fZXhYNHRXSmhsQXU4YVFjaUJvbTBSc0E4cE1jU3NFZUh6YnhJSVF0ZktoQ19NYlhkRTY1V0g3eUFmSFBId2hpU0M1REJwWVNmcDB6Q2lVTk9OUlJYR2trZENRc0J2UllVOVhkX2pXSERKYldnMEE?oc=5",
-          "published": "2026-10-16T14:11:45.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "China Trust Tax Shift Puts UOB Stock And Private Banking Banks In Focus - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWs5UFpEZkwwd1BQT0VHa0NqTU1JeC1McVE4Ym5NWl9fZXhYNHRXSmhsQXU4YVFjaUJvbTBSc0E4cE1jU3NFZUh6YnhJSVF0ZktoQ19NYlhkRTY1V0g3eUFmSFBId2hpU0M1REJwWVNmcDB6Q2lVTk9OUlJYR2trZENRc0J2UllVOVhkX2pXSERKYldnMEE?oc=5",
-          "published": "2026-10-16T14:11:45.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
         {
@@ -122,15 +122,7 @@
           "tag": "Transcript",
           "headline": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
-          "published": "2026-10-10T23:21:13.000Z"
-        },
-        {
-          "company": "AIA Group",
-          "ticker": "AIA",
-          "tag": "Transcript",
-          "headline": "Full Year 2024 AIA Group Ltd Earnings Presentation (Pre-Recorded) Transcript - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90UDJLT2FLNHctdmgtUlpncDh5ekkwRk9zS0NaZTFKdDNDX2FhOTBSZ255N2xnemJ5X0w1ZmIyWWduUk56VVRHaFNDMmlRUkhFZVE4ZzBtTmxxbWFYNXNJQlhKd2tYdU0zRXZieg?oc=5",
-          "published": "2026-10-07T16:15:00.000Z"
+          "published": "2026-10-16T19:51:44.000Z"
         }
       ]
     },
@@ -140,9 +132,9 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Reporter’s notebook: Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
+          "headline": "Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRTF2dERINW4yUGxqcU9wby1pemtGdG5YVTVaY0tqSmxjd0lPY3Jnb1dOb3h5S194Q0xsQ1QxZWtqSlhudW9XNlptUEN5TThfVzJHcncyNXoxSm5WT1JRNHpqZHdkZVRvQ0hRdGRSSG5FRUs5X3lPUWNTdHRqUzRGNGZxLUc0TjNxeEhmeXBtX0xEdE1vckVKQ0psVnlHbXFMZnBHb0hETUhTbXpwTGo1YUlIbEZOYU9JWlhrTlNOa193QUlkeWZOMl93MnBBQ2lSclRsX3NqTmpjVmNJZi1EV014YU5Zd3RYaEFVa1FEUmtqTW5fSlFpSEc2U3dmYWdYTlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhRMXpyOGYzTi1BallOM1VRdWZzaFJuS1NRODc0YzNtTzVheGNqTm5UYjRINFR2eDYyVld2cTY1OGNNWDZzb2ZkWVNpUnM4NEtnRnVyZ1Y2bTZ4bkp4SVc2WUlJVnhMcUF6d1AwYmVSR1pGWHBZZXRMamZiZFdMb2xFSUt0dzkwMlRCdVIwWUk1S1ZTLWhOMUtHaGRISUU1anVRdV9IMWVjRl9mT0x2dGJCbDZwc0NEcER5Ti1GdnpTeU5oaXo4X1lGZF_SAcwBQVVfeXFMT0R4OEFGWTdlZTEzdnpLVmVLQkI0QlRlVVhhdk1aRWFrQjZxU0NGNGxHSVFybU80c1B3dTVuTXk5SHA3TVpScTRtVE03NnNNTDdES25XdE5wdTNvUTZkTnc0VGp0SnRGbGZzM09pUGdfd1RGVEJHZ3BjbVlYMmstd1F4VHFUeWlhNVFNZ1FlRlZvZl9STUk0YW4tSkhpZndMV1NaOE5mTUVUcVE1V1VhdGk0MnZqLXVXd2pxLWJzTjROSU8xRnR6Yk1NRUt0?oc=5",
           "published": "2026-10-17T08:00:11.000Z"
         },
         {
@@ -151,36 +143,6 @@
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRmczcm9ybWV2Z2RXNkhSUnBqeTZlNlJxNnpQY254MUJIRXM1aXF3TlFqaG5Rb19VS1ZnTGJERmI5dTFkMHYyTHRoSXc4SHJtamhWNlNRbk1hbk00b2VsV1hRRFJVRU40eXVfSkp2bWNVWDlSMEhIbnhUUkJQalNBX2lxYXFKajB0M2hUa2xib2c5QzRjM184RUhndmY5emI3V05FejVtenRCdHRuTnV0aUlGRWM3Um10aVFWQVhpRzNkX0FwVFlxaEx6ZjFWSGk1QzZWcUo5cHlVcUFHeGfSAd4BQVVfeXFMTUZnM3Jvcm1ldmdkVzZIUlJwank2ZTZScTZ6UGNueDFCSEVzNWlxd05RamhuUW9fVUtWZ0xiREZiOXUxZDB2Mkx0aEl3OEhybWpoVjZTUW5NYW5NNG9lbFdYUURSVUVONHl1X0pKdm1jVVg5UjBISG54VFJCUGpTQV9pcWFxSmowdDNoVGtsYm9nOUM0YzNfOEVIZ3ZmOXpiN1dORXo1bXp0QnR0bk51dGlJRkVjN1JtdGlRVkFYaUczZF9BcFRZcWhMemYxVkhpNUM2VnFKOXB5VXFBR3hn?oc=5",
           "published": "2026-10-17T07:31:50.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Ex-father-in-law failed to repay HK$250,000 loan, Abby Choi murder trial hears - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2tXR2N0aF9NbExRMW5jRUtCaHpyY0U0Y0M2SWdSOHBsOGpjMERWRm5vVkh5TUZIMm1jQWRDbG90S2NOYTNRYWRyNWJheWNaVTZzc1psT1pxZGdoOVJTTGxja2dmdGxwTm5nbzhEdzViMHFwX2tTOXNyQUU4aGRmM0VkUGdZdGJ5bHgtSUNveEc1MXlHUzh0MWVZV0FMV0hZZE93dGd6U3hKZnRyZHktTG5KZ1IwMkN0ZzZuanV2Um4ySTdfa1c0aTZvbXlnQUZw0gHQAUFVX3lxTE9CcG01dUZndmpRLWhjc2g2U3NGWFZVR1dJMkJaenBDYlNVMkZpR0V5dW14cWotYTJNMmFJUnlHVFk1SG1FR2lpWE5uR05iOEdZU3JjYnVZSUsxM2dmYmhCcGlpVnlCVm1mTE0zOFlJSjFubHN1QmE3bjBvLWZ1OTI5aC04bFpYN3VBbXN4UTRaWlRMd1A0X1NyOGpJdklaOTg3OTJaOUlET1VxODhNbDhOMWZHdWZyRFZOYnFaQ1BmeG9Mb1c5aDNQY3oxX2dQd3M?oc=5",
-          "published": "2026-10-16T10:40:16.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "Reporter’s notebook: Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRTF2dERINW4yUGxqcU9wby1pemtGdG5YVTVaY0tqSmxjd0lPY3Jnb1dOb3h5S194Q0xsQ1QxZWtqSlhudW9XNlptUEN5TThfVzJHcncyNXoxSm5WT1JRNHpqZHdkZVRvQ0hRdGRSSG5FRUs5X3lPUWNTdHRqUzRGNGZxLUc0TjNxeEhmeXBtX0xEdE1vckVKQ0psVnlHbXFMZnBHb0hETUhTbXpwTGo1YUlIbEZOYU9JWlhrTlNOa193QUlkeWZOMl93MnBBQ2lSclRsX3NqTmpjVmNJZi1EV014YU5Zd3RYaEFVa1FEUmtqTW5fSlFpSEc2U3dmYWdYTlE?oc=5",
-          "published": "2026-10-17T08:00:11.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Police receive over 100 reports about credit card charges for iPhone Duo pre-orders - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRmczcm9ybWV2Z2RXNkhSUnBqeTZlNlJxNnpQY254MUJIRXM1aXF3TlFqaG5Rb19VS1ZnTGJERmI5dTFkMHYyTHRoSXc4SHJtamhWNlNRbk1hbk00b2VsV1hRRFJVRU40eXVfSkp2bWNVWDlSMEhIbnhUUkJQalNBX2lxYXFKajB0M2hUa2xib2c5QzRjM184RUhndmY5emI3V05FejVtenRCdHRuTnV0aUlGRWM3Um10aVFWQVhpRzNkX0FwVFlxaEx6ZjFWSGk1QzZWcUo5cHlVcUFHeGfSAd4BQVVfeXFMTUZnM3Jvcm1ldmdkVzZIUlJwank2ZTZScTZ6UGNueDFCSEVzNWlxd05RamhuUW9fVUtWZ0xiREZiOXUxZDB2Mkx0aEl3OEhybWpoVjZTUW5NYW5NNG9lbFdYUURSVUVONHl1X0pKdm1jVVg5UjBISG54VFJCUGpTQV9pcWFxSmowdDNoVGtsYm9nOUM0YzNfOEVIZ3ZmOXpiN1dORXo1bXp0QnR0bk51dGlJRkVjN1JtdGlRVkFYaUczZF9BcFRZcWhMemYxVkhpNUM2VnFKOXB5VXFBR3hn?oc=5",
-          "published": "2026-10-17T07:31:50.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Ex-father-in-law failed to repay HK$250,000 loan, Abby Choi murder trial hears - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2tXR2N0aF9NbExRMW5jRUtCaHpyY0U0Y0M2SWdSOHBsOGpjMERWRm5vVkh5TUZIMm1jQWRDbG90S2NOYTNRYWRyNWJheWNaVTZzc1psT1pxZGdoOVJTTGxja2dmdGxwTm5nbzhEdzViMHFwX2tTOXNyQUU4aGRmM0VkUGdZdGJ5bHgtSUNveEc1MXlHUzh0MWVZV0FMV0hZZE93dGd6U3hKZnRyZHktTG5KZ1IwMkN0ZzZuanV2Um4ySTdfa1c0aTZvbXlnQUZw0gHQAUFVX3lxTE9CcG01dUZndmpRLWhjc2g2U3NGWFZVR1dJMkJaenBDYlNVMkZpR0V5dW14cWotYTJNMmFJUnlHVFk1SG1FR2lpWE5uR05iOEdZU3JjYnVZSUsxM2dmYmhCcGlpVnlCVm1mTE0zOFlJSjFubHN1QmE3bjBvLWZ1OTI5aC04bFpYN3VBbXN4UTRaWlRMd1A0X1NyOGpJdklaOTg3OTJaOUlET1VxODhNbDhOMWZHdWZyRFZOYnFaQ1BmeG9Mb1c5aDNQY3oxX2dQd3M?oc=5",
-          "published": "2026-10-16T10:40:16.000Z"
         },
         {
           "tag": "Leadership",
@@ -188,6 +150,43 @@
           "source": "디지털투데이",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVE0ZmZRWGcwaHdvOTFNYmR0bDctV0p6Wm9uUTR5RmxDSjgzVFlEYk9ENmhOQWZFZTNsNmYzcTM2MnU2aEVWYVpSNlBsX3lmaFVxelBmWGRISWNBejk4SWdYVnQ3Zm1LZHJmNG5XcDVsN1hkLTZBS21xQUd2MXRYNzd6MDZ5Ny1MYXd2aGRsS3RwenQwQ3gxbG9hR2xVTDZmR19reTB2dFN5dmhlYnlxSktwWHRybkkyZEJrYzVQTXlnd0l5eFJFUGZyZmlKbFhoSzZ0WlFKR2g?oc=5",
           "published": "2026-10-18T21:06:10.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhRMXpyOGYzTi1BallOM1VRdWZzaFJuS1NRODc0YzNtTzVheGNqTm5UYjRINFR2eDYyVld2cTY1OGNNWDZzb2ZkWVNpUnM4NEtnRnVyZ1Y2bTZ4bkp4SVc2WUlJVnhMcUF6d1AwYmVSR1pGWHBZZXRMamZiZFdMb2xFSUt0dzkwMlRCdVIwWUk1S1ZTLWhOMUtHaGRISUU1anVRdV9IMWVjRl9mT0x2dGJCbDZwc0NEcER5Ti1GdnpTeU5oaXo4X1lGZF_SAcwBQVVfeXFMT0R4OEFGWTdlZTEzdnpLVmVLQkI0QlRlVVhhdk1aRWFrQjZxU0NGNGxHSVFybU80c1B3dTVuTXk5SHA3TVpScTRtVE03NnNNTDdES25XdE5wdTNvUTZkTnc0VGp0SnRGbGZzM09pUGdfd1RGVEJHZ3BjbVlYMmstd1F4VHFUeWlhNVFNZ1FlRlZvZl9STUk0YW4tSkhpZndMV1NaOE5mTUVUcVE1V1VhdGk0MnZqLXVXd2pxLWJzTjROSU8xRnR6Yk1NRUt0?oc=5",
+          "published": "2026-10-17T08:00:11.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Police receive over 100 reports about credit card charges for iPhone Duo pre-orders - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRmczcm9ybWV2Z2RXNkhSUnBqeTZlNlJxNnpQY254MUJIRXM1aXF3TlFqaG5Rb19VS1ZnTGJERmI5dTFkMHYyTHRoSXc4SHJtamhWNlNRbk1hbk00b2VsV1hRRFJVRU40eXVfSkp2bWNVWDlSMEhIbnhUUkJQalNBX2lxYXFKajB0M2hUa2xib2c5QzRjM184RUhndmY5emI3V05FejVtenRCdHRuTnV0aUlGRWM3Um10aVFWQVhpRzNkX0FwVFlxaEx6ZjFWSGk1QzZWcUo5cHlVcUFHeGfSAd4BQVVfeXFMTUZnM3Jvcm1ldmdkVzZIUlJwank2ZTZScTZ6UGNueDFCSEVzNWlxd05RamhuUW9fVUtWZ0xiREZiOXUxZDB2Mkx0aEl3OEhybWpoVjZTUW5NYW5NNG9lbFdYUURSVUVONHl1X0pKdm1jVVg5UjBISG54VFJCUGpTQV9pcWFxSmowdDNoVGtsYm9nOUM0YzNfOEVIZ3ZmOXpiN1dORXo1bXp0QnR0bk51dGlJRkVjN1JtdGlRVkFYaUczZF9BcFRZcWhMemYxVkhpNUM2VnFKOXB5VXFBR3hn?oc=5",
+          "published": "2026-10-17T07:31:50.000Z"
+        },
+        {
+          "tag": "Leadership",
+          "headline": "Singapore monetary authority chief says tokenised payments must be backed by central bank money - 디지털투데이",
+          "source": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVE0ZmZRWGcwaHdvOTFNYmR0bDctV0p6Wm9uUTR5RmxDSjgzVFlEYk9ENmhOQWZFZTNsNmYzcTM2MnU2aEVWYVpSNlBsX3lmaFVxelBmWGRISWNBejk4SWdYVnQ3Zm1LZHJmNG5XcDVsN1hkLTZBS21xQUd2MXRYNzd6MDZ5Ny1MYXd2aGRsS3RwenQwQ3gxbG9hR2xVTDZmR19reTB2dFN5dmhlYnlxSktwWHRybkkyZEJrYzVQTXlnd0l5eFJFUGZyZmlKbFhoSzZ0WlFKR2g?oc=5",
+          "published": "2026-10-18T21:06:10.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "JPMorgan brings deposit token to ethereum for institutional clients - The Edge Singapore",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWF3cnpVOVFCZnZEd2ljenkyZ2hrZmpEQ1ZqV1U1TGVxU0V2NXNFMjZ4YTBHNS1CUll1ekJPZnN2UDRlU2xnZWpxUV9tN3I5bzJ4dnU4YzhzNWZacjIya0pFM24xMG50N3hTNjhDVGtLb1kxZnRIUmtmdFVIcVR6ZE1lbzFNSmcwcDNsdUlpSFRKUjVrYl9Jc1dfRjNHQXNzNl9HX2FWMENPb3ZuRTJSRmRZNA?oc=5",
+          "published": "2026-10-19T08:13:30.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Paymentology Powers Asia United Bank’s Digital Payments Surge in the Philippines - Financial IT",
+          "source": "Financial IT",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlUtZ3owVzNLSnBBajMwMlRzYlZ0VGdSS09kemp4c2Y3cW9LQjEtRTd0c00tUk54Qll3bWl1bG5WZ000QjdNTmlydnFoTFFHWmZoSXFvcXJLZ0RwcE5PTzFlWmE1WkxmUC01RFdyeVVTVlBSOXRYTW03TEZyTXdqLUNiR2lxNXhiM1NKTzNpSVpqNFdBV2JjaGJ2a1lONHp2QW1SeENXYy1sR3VNdUdF?oc=5",
+          "published": "2026-10-19T10:33:39.000Z"
         },
         {
           "tag": "Press",
@@ -202,13 +201,6 @@
           "source": "صوت الإمارات",
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNa1hEZXZiM3hTdXlHSW1QdC10VFJkZUp2WWdocGFEdDNidlUwN05BY0F2a1V5blBCcXpOU1ZpaEc2YTV0eWYzazNLU0pBNkljaUVkZGFwa0x0Q2JkdC1MN3o2U0NFUEphUTZud3RKQTR3TUFOMml5em4xdVVtQnRpcVB2bFR2UkNNOHRNX0FSRTdtYWszRVdYRW00QXVxWXh1U3BsSFVOSjNaU05tSDg5U01EbGtsaFJ3cjVPNnMzWmRFNl9lRDhsRWs5eWJDMjg2SzljX1RZYVVhdlBiLUh4dUJ3MDhvNGxjN1gxZEtOWEtGenBTZmZBSGNBR3BkZWxzQXoxanItTzRIYW1J?oc=5",
           "published": "2026-10-17T09:17:14.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "UNO Digital Bank Expects All Services Back after Days-Long Maintenance - Fintech News Philippines",
-          "source": "Fintech News Philippines",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0lGZHhjaG5WV1hCbkpqcHAtSXBMOWViNlVyRVZJemdrdDN2a05qeWxDdGpGZ0dDTEtkUVZLaDQ4V0tlU2pFb0RDNE9KczlFMUQxaFVHZ2dGZkFwcTh5VkVQTkVaOGk0UUFUN2xodVEzYU1KQ1Bjc18xMjF2ajNsY1lyVjRYcnRFWTI4QVRuWXEweUlsbXB2Zjd6ckhMajAy?oc=5",
-          "published": "2026-10-16T07:41:56.000Z"
         }
       ],
       "insight": {
