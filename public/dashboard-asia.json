@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T06:18:47.246Z",
+  "generatedAt": "2026-10-25T06:37:06.936Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -40,17 +40,17 @@
         },
         {
           "tag": "Product",
-          "headline": "xETFs Launches First U.S. Listed ETF Focused on Capturing Exposure to Companies in the Samsung Group - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnBiTmF0bkxNZXNqSW53d29ZUEdRRnNxRm1KV0F0d1k3eHVqNWRCN0xRY3lHc2JsNkhPTzlJbzYtaDdvWGVVS19pR0hCaDNsbTZuMWFVSWZ3emJ5Zkt0NmdESDFaNktxY3B1VDdHRjZKclNYVjhmbTFvNndEVmZtNkRoR0M?oc=5",
-          "published": "2026-10-23T14:01:00.000Z"
-        },
-        {
-          "tag": "Product",
           "headline": "Hong Kong Exchange Unveils New AI and Semiconductor Indexes, Signs Mainland ETF License - BigGo Finance",
           "source": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RNkZscTRlNHFBTm44bVotMy1UWjRDQ29vMnY0OHJ3V05OaEZ6bUtaNjFjeGYyYU1Banpoa1FSYnNwSWpJZWwzam1BcVNoUjBiUDVFY2NmWThXM3lfRWlPTEdZNndadHNtX3Ixd3NoOXZrNExISmc?oc=5",
           "published": "2026-10-23T11:55:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "The Hong Kong Stock Exchange launches AI and semiconductor indices; Southern Asset Management is authorized to issue related ETFs. - Moomoo",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlYzdTJYc1RHY2NtTTVhSDR0RFhLY3RkZlJMMXBfd1JYQTdScjRmazl0dmtFZzhMQk11SElJOWZGcnVqdlQ2ZVZjeEY2SmdSVWRTNUF6RHIwSFpjUDJsamhrNUl1c1MzeEFOUUZlbjk1b1pjN2xJWWNuUTdkenc0MF84VUlOSHp5dUVlQjhUVmNhbjNfWUlHbnZoOFd6ZXc5MEtadllSTkJLeWZDN1dB?oc=5",
+          "published": "2026-10-23T09:54:22.000Z"
         }
       ],
       "candidates": [
@@ -60,13 +60,6 @@
           "source": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JTXB1d1c3VmhoZkZzeEZpN2FudjFsWDZFcnVIYzd0Q3VVd3pTd1dDcTBqUFh0U2JCbzZzalJWb3ZkVzVKVXg3T3NpSzZ3OFJ2dTd5MHhXTmRHWWh0VWJjOU1yREtEc0c4dUw0T3JyeDFlSk9kUVE?oc=5",
           "published": "2026-10-24T01:25:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "xETFs Launches First U.S. Listed ETF Focused on Capturing Exposure to Companies in the Samsung Group - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnBiTmF0bkxNZXNqSW53d29ZUEdRRnNxRm1KV0F0d1k3eHVqNWRCN0xRY3lHc2JsNkhPTzlJbzYtaDdvWGVVS19pR0hCaDNsbTZuMWFVSWZ3emJ5Zkt0NmdESDFaNktxY3B1VDdHRjZKclNYVjhmbTFvNndEVmZtNkRoR0M?oc=5",
-          "published": "2026-10-23T14:01:00.000Z"
         },
         {
           "tag": "Product",
@@ -88,13 +81,6 @@
           "source": "Asset Publishing and Research Limited",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTWdIUUs0SFMtN1JoM19qUkt4TmYwVi1QMUpjSlhDMWNncHpoZWlXRGRhelZpc19qYkhhMGdaZ2FmQVdlYnlFdWhscFhqTDNpVHl4UzFKcm9wTnhfUF9Pc2xoaWtiZEFGcTZwYkdFeW5GNDJXX2ItM0NJSmg?oc=5",
           "published": "2026-10-22T09:46:38.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Sanwire Signed Agreement to Acquire 100% of Australia-based Bateau Asset Management Pty Ltd, a Boutique Investment Firm with Over $7,500,…",
-          "source": "The Manila Times",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPdUx4QTQ5MjctRHEzcTRKeDQ5bE1Wa2xQUVdMWnpFRE1TN1FUN3ZXTGh1OHIyT1FXdU1KVThCZWpmbWxCQktqT3p5S3AzODk1T0ZodUQ5VjdzTjhJVmxlakpENHFCNGx4cDNkeW1hM3ptVEVIOHliSWRUc2lDUzFiYWhNSm83bTNkaVd4N1JxYlRpMDZ1RFZKNDkyRzBva3RVQnFYaUxQUGpJQXdaNFlPU3hScldaSWk0RnA4NzNZZkk3M2ZmZFNPMC1McGlrcXlwVVY2bGRHTExrSEpHUkZraTQ4T283RDBhbTFDVlBCcXZ2dkIzNEdOZlJyVm5GMThwUzdiMnp5TzRYcmNNUFY4TW1wbjdMX1hBdmFVX0psVUhFUEluS1QxVkRqTE5zV21tbGpyRWYyUVhUa29vZmdCdFFLWEdpV0pHdmxCVV9FSdIBzwJBVV95cUxPdUx4QTQ5MjctRHEzcTRKeDQ5bE1Wa2xQUVdMWnpFRE1TN1FUN3ZXTGh1OHIyT1FXdU1KVThCZWpmbWxCQktqT3p5S3AzODk1T0ZodUQ5VjdzTjhJVmxlakpENHFCNGx4cDNkeW1hM3ptVEVIOHliSWRUc2lDUzFiYWhNSm83bTNkaVd4N1JxYlRpMDZ1RFZKNDkyRzBva3RVQnFYaUxQUGpJQXdaNFlPU3hScldaSWk0RnA4NzNZZkk3M2ZmZFNPMC1McGlrcXlwVVY2bGRHTExrSEpHUkZraTQ4T283RDBhbTFDVlBCcXZ2dkIzNEdOZlJyVm5GMThwUzdiMnp5TzRYcmNNUFY4TW1wbjdMX1hBdmFVX0psVUhFUEluS1QxVkRqTE5zV21tbGpyRWYyUVhUa29vZmdCdFFLWEdpV0pHdmxCVV9FSQ?oc=5",
-          "published": "2026-10-21T12:57:26.000Z"
         }
       ],
       "insight": null,
@@ -103,9 +89,9 @@
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BLACKROCK DRN (BLAK34.SA) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHNDcTN6bVliWXBfQzRfSmlmeUwtX1pUWEJQYjhTaTg2dVRhRFpwWnM3ZU40QUY3SDhiOVZ4OXNteFRHaDFPd1ZsaGJsU1VnVWdnVVYzamxIZWRvRlplTWRpbFp2ZUJCVjByQTM4Y096cy1STzRuMFU3Szk2UXdQRHVkTlBrd1BacFUwWVdWWjdmRXRZRDM1OWhn?oc=5",
-          "published": "2026-10-14T11:30:00.000Z"
+          "headline": "Earnings call transcript: BlackRock tops Q3 2026 forecasts as shares rise premarket - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2VxRWhtNTZFTGhzQTRNMUZqMkpqcWNKV25PaDNLUHVIclE3Z1ZfQzhoYi1JUk93eVpic1hnVk1mVnNTMWtUREpNR2pRdDVqRlZMYUhVdnNKTXR3eElJU1h2Mk5SZW14UWpYaVFZcDJBd3pYdTZGQml6X1FjU0JxRWJ5Z0QwbzJzZ05CZ2VSTTlXaW0wZm0yWEgwSUZtbFlBQzBLZmxRbHJIZkZZckQ5M0EtODZWYktJVFZTbEtVNzdQNjJmbmNwaGFVNEJCMTNZNjloVA?oc=5",
+          "published": "2026-10-14T07:00:00.000Z"
         },
         {
           "company": "Schroders",
@@ -123,19 +109,19 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Raffles Family Office is building a wealth manager for Asia’s stablecoin billionaires - Yahoo Finance Australia",
-          "source": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVpScEx4SXpQQjVJeEp0T0JkZ3JFN0FieHJoaEJGdDhBT3luSmlyRzF0YXM2S0hTSlZRekZKRHo1X016QmdmMVNDZEJvblZXS3hRUGs0SXR1Y1lFV1BKNVU1blZoMHdPQXAwLW85aUptbU1WWWRYX3N1SEhRYnFwLWdkcFJQeXYzd2hXV3JPTQ?oc=5",
-          "published": "2026-10-23T09:44:21.000Z"
+          "headline": "Taishin International Bank Opens Flagship Private Banking Branch in Southern Taiwan - The Malaysian Reserve",
+          "source": "The Malaysian Reserve",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQU9jaWx2cEF0bWtxUUdKRURPaXBKaUVsQ3N5RHJYNjgwQkRkeTZ0OENWRW4xTDJhbFVCNGtNel91VldWQ0p1NXRwVzJIQkpfcUxwWjBMaEZwdEljbG8xQUs0ZTgtRWRmWHVlb2hOSWlYYldWa0xDS1B3aE9VYWE1QVd3MmdUQWMybWl4cExQMjROYkRtazVka0Y5Wm5SbGtocTczUGFqdGt4UkhHLVBWWXk4bzRCM0dYc01GVndRaDZnQ3N4bG1IcXNjRQ?oc=5",
+          "published": "2026-10-23T13:38:14.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Raffles Family Office is building a wealth manager for Asia’s stablecoin billionaires - Yahoo Finance Australia",
-          "source": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVpScEx4SXpQQjVJeEp0T0JkZ3JFN0FieHJoaEJGdDhBT3luSmlyRzF0YXM2S0hTSlZRekZKRHo1X016QmdmMVNDZEJvblZXS3hRUGs0SXR1Y1lFV1BKNVU1blZoMHdPQXAwLW85aUptbU1WWWRYX3N1SEhRYnFwLWdkcFJQeXYzd2hXV3JPTQ?oc=5",
-          "published": "2026-10-23T09:44:21.000Z"
+          "headline": "Taishin International Bank Opens Flagship Private Banking Branch in Southern Taiwan - The Malaysian Reserve",
+          "source": "The Malaysian Reserve",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQU9jaWx2cEF0bWtxUUdKRURPaXBKaUVsQ3N5RHJYNjgwQkRkeTZ0OENWRW4xTDJhbFVCNGtNel91VldWQ0p1NXRwVzJIQkpfcUxwWjBMaEZwdEljbG8xQUs0ZTgtRWRmWHVlb2hOSWlYYldWa0xDS1B3aE9VYWE1QVd3MmdUQWMybWl4cExQMjROYkRtazVka0Y5Wm5SbGtocTczUGFqdGt4UkhHLVBWWXk4bzRCM0dYc01GVndRaDZnQ3N4bG1IcXNjRQ?oc=5",
+          "published": "2026-10-23T13:38:14.000Z"
         }
       ],
       "insight": null,
@@ -196,64 +182,48 @@
         "published": "2026-10-23T08:16:11.000Z",
         "paywalled": false
       },
-      "companyUpdates": [
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
-          "published": "2026-10-16T19:51:44.000Z"
-        }
-      ]
+      "companyUpdates": []
     },
     {
       "id": "retail-banking",
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Regulatory",
-          "headline": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
+          "tag": "Product",
+          "headline": "33 held in crackdown on credit card theft ring targeting Hongkongers in Shenzhen - South China Morning Post",
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
-          "published": "2026-10-24T04:00:11.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1lDSzN4aFNYNHBaRUlFSmd3Y2d1QWlDTUx6VzNEejYtd19XTURUUU5scG1KNmd4VEVPY2pJQTJsUkZwQjRwYTNEZFltSXY3LURPZFItUlFzR0lpdlVxUTJ4aDBLTXppaUticmxmSGpHWkxSdkF6MjNwcjQ5bzZrTzVtaUNUcjJUR2lHSFI4NFd1bWcwR3Y3U09wVmJCc2U0bG50RXJIb1RUS01MaWhoNjJIVDBSQUQ2WHI2a1NNWlVSdzdWLV9mdEtxb2dWeWgwSUI40gHTAUFVX3lxTE9hc20wZmhjUDk5cnRicmR5T1dDQ215bjc0MUFjaXJtQm1NS0tKWU9GNzY0VjdKMGw0VVVnMzVyemNQQnBtcmk1MzJVZVhjVU1YQXhNSmJ1dkdpM3dZZkxocnJreW8zbGdQVkRlVXBGcHFOOEdXdTM1b3pSSktSeVNab0JoNXpxUmFhV3Q0ZjNNQm9oRk0yT1lKSUZZZlNWZ1l1U1VfWktVdkZrNUNkLXhLdDZGdkJVM3RxXzVHZ3R6TnFEbzVYWks5c3Q4cnlYRFpTSms?oc=5",
+          "published": "2026-10-24T09:00:43.000Z"
         },
         {
           "tag": "Product",
           "headline": "Silent crisis: China faces spike in credit card defaults from older borrowers - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUHSAc8BQVVfeXFMT3p2OHNBU0ZYTUtIZTY0eVQ0SXNKUzhkTGFqbjJ6eUZoNTB0MmRhWUJYY3lteTBlRHFxZkFuVHBPaWFrZHZ4NVBudWpzdENGTUt5S0FwOG5LUnVIZmJLM2tzR0k2OV9Tc2lEMW93WW41SWFXRWxiZmZYd0ZHLV9RTEVhWXJjTWtzZW0zemNUMldvOGZ3QXRHU3dwSVBoY28weTVPY3BxejA5UVNoRkcxNjFoWWxyT3BVMkZ3Z25jZzRhZU9kQjlXOFY2TFFqVUI4?oc=5",
           "published": "2026-10-24T06:00:17.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Malaysia, Thailand Join Singapore to Expand Cross-Border Stablecoin Payments - Coinpedia",
-          "source": "Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3JUVUJkX0JFbkFTb2xtNVdDWHNXWVBHWlBzZGhqTUwwbHJCdUhCS1VuUHhVQUhVVmFqQkVoUmRYOFh3LWw5aDhsYXZrc3RCNDhjb19zS1dQSnU1R1M0QVVZSGRFSC1kclREcVAxNnlWSjFvTGQwSzBXdkM0NlNxRXVwcE5zcWR5NUdlNk9NM2VpWUJqblVXaHZPVFYyaGZpdE5kdXdJYVZsM1HSAasBQVVfeXFMUFdyVFVCZF9CRW5BU29sbTVXQ1hzV1lQR1pQc2Roak1MMGxyQnVIQktVblB4VUFIVVZhakJFaFJkWDhYdy1sOWg4bGF2a3N0QjQ4Y29fc0tXUEp1NUdTNEFVWUhkRUgtZHJURHFQMTZ5Vkoxb0xkMEswV3ZDNDZTcUV1cHBOc3FkeTVHZTZPTTNlaVlCam5VV2h2T1RWMmhmaXROZHV3SWFWbDNR?oc=5",
-          "published": "2026-10-23T12:17:14.000Z"
+          "headline": "Bank Negara Malaysia and Bank of Thailand Join Singapore’s BLOOM Cross-Border Stablecoin Payments Initiative - NewsCord",
+          "source": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYkUyMFk1UE5uYlZra18yVXhKUGtRN0tZVzJ4MGpVZGRUVWVTNThkTTdkdjlNYzdyOVdhWFJWbTlFbHpYcmpaNXc1bDhEVEpfTFhWTlBOZUJwUkY5b1Zlbm40MTRTNC01c29oc2wzR3NRRHdrVFVTZTd3eFJYd1N3VXljVVlqQzQwSENxOHJWMkt3YzNQQUF6YTE4LTBrbFFpZ0hacWF4aVFCU3JfTlgwMDhxSF9teXlWSHNLdWhkU1hSdDg0aEFYUVNJeURYSTVLMmYtckhHZGZTTzEyYzRmUjBCVU9VZnozX2c?oc=5",
+          "published": "2026-10-23T11:29:19.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Regulatory",
-          "headline": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
+          "tag": "Product",
+          "headline": "33 held in crackdown on credit card theft ring targeting Hongkongers in Shenzhen - South China Morning Post",
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
-          "published": "2026-10-24T04:00:11.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1lDSzN4aFNYNHBaRUlFSmd3Y2d1QWlDTUx6VzNEejYtd19XTURUUU5scG1KNmd4VEVPY2pJQTJsUkZwQjRwYTNEZFltSXY3LURPZFItUlFzR0lpdlVxUTJ4aDBLTXppaUticmxmSGpHWkxSdkF6MjNwcjQ5bzZrTzVtaUNUcjJUR2lHSFI4NFd1bWcwR3Y3U09wVmJCc2U0bG50RXJIb1RUS01MaWhoNjJIVDBSQUQ2WHI2a1NNWlVSdzdWLV9mdEtxb2dWeWgwSUI40gHTAUFVX3lxTE9hc20wZmhjUDk5cnRicmR5T1dDQ215bjc0MUFjaXJtQm1NS0tKWU9GNzY0VjdKMGw0VVVnMzVyemNQQnBtcmk1MzJVZVhjVU1YQXhNSmJ1dkdpM3dZZkxocnJreW8zbGdQVkRlVXBGcHFOOEdXdTM1b3pSSktSeVNab0JoNXpxUmFhV3Q0ZjNNQm9oRk0yT1lKSUZZZlNWZ1l1U1VfWktVdkZrNUNkLXhLdDZGdkJVM3RxXzVHZ3R6TnFEbzVYWks5c3Q4cnlYRFpTSms?oc=5",
+          "published": "2026-10-24T09:00:43.000Z"
         },
         {
           "tag": "Product",
           "headline": "Silent crisis: China faces spike in credit card defaults from older borrowers - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUHSAc8BQVVfeXFMT3p2OHNBU0ZYTUtIZTY0eVQ0SXNKUzhkTGFqbjJ6eUZoNTB0MmRhWUJYY3lteTBlRHFxZkFuVHBPaWFrZHZ4NVBudWpzdENGTUt5S0FwOG5LUnVIZmJLM2tzR0k2OV9Tc2lEMW93WW41SWFXRWxiZmZYd0ZHLV9RTEVhWXJjTWtzZW0zemNUMldvOGZ3QXRHU3dwSVBoY28weTVPY3BxejA5UVNoRkcxNjFoWWxyT3BVMkZ3Z25jZzRhZU9kQjlXOFY2TFFqVUI4?oc=5",
           "published": "2026-10-24T06:00:17.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Malaysia, Thailand Join Singapore to Expand Cross-Border Stablecoin Payments - Coinpedia",
-          "source": "Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3JUVUJkX0JFbkFTb2xtNVdDWHNXWVBHWlBzZGhqTUwwbHJCdUhCS1VuUHhVQUhVVmFqQkVoUmRYOFh3LWw5aDhsYXZrc3RCNDhjb19zS1dQSnU1R1M0QVVZSGRFSC1kclREcVAxNnlWSjFvTGQwSzBXdkM0NlNxRXVwcE5zcWR5NUdlNk9NM2VpWUJqblVXaHZPVFYyaGZpdE5kdXdJYVZsM1HSAasBQVVfeXFMUFdyVFVCZF9CRW5BU29sbTVXQ1hzV1lQR1pQc2Roak1MMGxyQnVIQktVblB4VUFIVVZhakJFaFJkWDhYdy1sOWg4bGF2a3N0QjQ4Y29fc0tXUEp1NUdTNEFVWUhkRUgtZHJURHFQMTZ5Vkoxb0xkMEswV3ZDNDZTcUV1cHBOc3FkeTVHZTZPTTNlaVlCam5VV2h2T1RWMmhmaXROZHV3SWFWbDNR?oc=5",
-          "published": "2026-10-23T12:17:14.000Z"
         },
         {
           "tag": "Press",
@@ -289,7 +259,7 @@
         "headline": "Silent crisis: China faces spike in credit card defaults from older borrowers - South China Morning Post",
         "teaser": null,
         "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUHSAc8BQVVfeXFMT3p2OHNBU0ZYTUtIZTY0eVQ0SXNKUzhkTGFqbjJ6eUZoNTB0MmRhWUJYY3lteTBlRHFxZkFuVHBPaWFrZHZ4NVBudWpzdENGTUt5S0FwOG5LUnVIZmJLM2tzR0k2OV9Tc2lEMW93WW41SWFXRWxiZmZYd0ZHLV9RTEVhWXJjTWtzZW0zemNUMldvOGZ3QXRHU3dwSVBoY28weTVPY3BxejA5UVNoRkcxNjFoWWxyT3BVMkZ3Z25jZzRhZU9kQjlXOFY2TFFqVUI4?oc=5",
         "published": "2026-10-24T06:00:17.000Z",
         "paywalled": false
       },
@@ -309,14 +279,6 @@
           "headline": "DBS Group Holdings Ltd. (DBSDY) H1 FY2026 earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQci1ESWtGVDlaUF80cTRYVFdVTWJBdk9zVWVXX2ZoNXAwSXVxa0xNQlN3RXRVaUdaQW5IUTVOMWk4LWlQcEVrY2lYOGhyMHFnZ1lERW1IQllFSExrNVJLc3ZfWXBORFpaQy1jZE5iNXdRT09ZQlZpQzdzZkg2dEl3VjhEeWlhSWJYR25XU2pISQ?oc=5",
           "published": "2026-10-21T20:17:17.000Z"
-        },
-        {
-          "company": "UOB",
-          "ticker": "U11.SI",
-          "tag": "Analyst Report",
-          "headline": "UOB Kay Hian Maintains BUY on LHN - Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHFGTV9Kb0RzdGR1d0lodlZtR0FkcVRJVXBzQnU2X1p6OU12Q2YyTWFGdnpJaHFGN09YRkVSbmR3M2ZVNUp2REx0aDJvVTJ3TVEwa0s3VzZQdjlJNzVRQ3ppUHZiWjR3bWNEbzZ1V0NLZ0FDd0E5cGgwTkUwTUNXNlJiNHhlMU1vZmxiTFU2QnM?oc=5",
-          "published": "2026-10-09T06:20:21.000Z"
         }
       ]
     }
