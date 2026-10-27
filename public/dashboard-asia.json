@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:47:53.299Z",
+  "generatedAt": "2026-10-27T06:41:09.629Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,6 +32,13 @@
       "name": "Asset Management",
       "bullets": [
         {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFhHMFhZSjM4S1RIZU02SkdTSjd4MzlKTXFQUTJMX1BjZnEtUE14Mmc4SHh5cW4xV0NXcU1aaXpNNmZHZE1MZno4c3k4QS1kdHNTc00xbWRJQWNVY0N0SjRyU252Uk1CdTFVM2p2X1UzaTJEekhsNERaNGVoaGJqNFF5Rnp5bEJ1RGU3Z3F3dWlRUXJt?oc=5",
+          "published": "2026-10-26T07:32:00.000Z"
+        },
+        {
           "tag": "Strategy",
           "headline": "Korea Investment Management steps up its entry into Hong Kong’s ETF market... First ETF listed in partnership with CUAM HK - 파이낸셜뉴스",
           "source": "파이낸셜뉴스",
@@ -40,21 +47,21 @@
         },
         {
           "tag": "Product",
-          "headline": "Korea Investment Management enters Hong Kong ETF market with chip fund - The Korea Herald",
-          "source": "The Korea Herald",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rdmc5cV91d2xDM3hOcjZjb0RiZGVrNUktdWo5clNnOW9iRGdmWEtWRmZDU0NJbXdBYUYyTElIY2VZTDIwY193ODJCcFlrQTYxRWxUTllMWQ?oc=5",
-          "published": "2026-10-26T05:38:02.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Korea Investment Trust Management lists first joint ETF with CUAM HK in Hong Kong - 디지털투데이",
-          "source": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGt4OGVRQ19JRmE2RUFpaGlRLXdLZUhqdWR6UldSUHpPX093TTVSY0ZOWk1Lb1BNTDlnU2hqZm9GdFlZMnpmMUxsYlBLTHZMSnVEazZPZmc3RUFxQzZMUVF3UGxlRHFlZ29OTWVnVHhNWDZicF9jLWtIUi12QTVuWm4yODgyZTFQczYxYjRnbXVRaFhrdEhuU25TNEJ4ejJ4ekowcXdmbTd5V05XM2hRdFJQNUpPdFYxNUhZYVRhUFQtUFl1S3c?oc=5",
-          "published": "2026-10-26T00:31:56.000Z"
+          "headline": "Korea Investment Management Makes First Foray into Hong Kong ETF Market with Joint Product Holding 60% Chinese Semiconductors - BigGo Fin…",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yNVE4SWRkelU1R09RSEJsTldURUZqek1YcnF1RXV0RWZwTEF4N1NlUVRfRWJ5aGF3WlVOcnBuemdaU2xZekgyUXNSY1lFdHh5eTJ4SGZ3WmhRYThXb2lZOHltMW5xaDhOS3NKRmFsQXZtU2I3X2c?oc=5",
+          "published": "2026-10-26T08:25:00.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFhHMFhZSjM4S1RIZU02SkdTSjd4MzlKTXFQUTJMX1BjZnEtUE14Mmc4SHh5cW4xV0NXcU1aaXpNNmZHZE1MZno4c3k4QS1kdHNTc00xbWRJQWNVY0N0SjRyU252Uk1CdTFVM2p2X1UzaTJEekhsNERaNGVoaGJqNFF5Rnp5bEJ1RGU3Z3F3dWlRUXJt?oc=5",
+          "published": "2026-10-26T07:32:00.000Z"
+        },
+        {
           "tag": "Strategy",
           "headline": "Korea Investment Management steps up its entry into Hong Kong’s ETF market... First ETF listed in partnership with CUAM HK - 파이낸셜뉴스",
           "source": "파이낸셜뉴스",
@@ -63,38 +70,38 @@
         },
         {
           "tag": "Product",
-          "headline": "Korea Investment Management enters Hong Kong ETF market with chip fund - The Korea Herald",
-          "source": "The Korea Herald",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rdmc5cV91d2xDM3hOcjZjb0RiZGVrNUktdWo5clNnOW9iRGdmWEtWRmZDU0NJbXdBYUYyTElIY2VZTDIwY193ODJCcFlrQTYxRWxUTllMWQ?oc=5",
-          "published": "2026-10-26T05:38:02.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Korea Investment Trust Management lists first joint ETF with CUAM HK in Hong Kong - 디지털투데이",
-          "source": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGt4OGVRQ19JRmE2RUFpaGlRLXdLZUhqdWR6UldSUHpPX093TTVSY0ZOWk1Lb1BNTDlnU2hqZm9GdFlZMnpmMUxsYlBLTHZMSnVEazZPZmc3RUFxQzZMUVF3UGxlRHFlZ29OTWVnVHhNWDZicF9jLWtIUi12QTVuWm4yODgyZTFQczYxYjRnbXVRaFhrdEhuU25TNEJ4ejJ4ekowcXdmbTd5V05XM2hRdFJQNUpPdFYxNUhZYVRhUFQtUFl1S3c?oc=5",
-          "published": "2026-10-26T00:31:56.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong Stock Exchange Launches Twin AI and Semiconductor Indexes, Simultaneously Licenses China Southern Asset Management to Issue ETF…",
+          "headline": "Korea Investment Management Makes First Foray into Hong Kong ETF Market with Joint Product Holding 60% Chinese Semiconductors - BigGo Fin…",
           "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JTXB1d1c3VmhoZkZzeEZpN2FudjFsWDZFcnVIYzd0Q3VVd3pTd1dDcTBqUFh0U2JCbzZzalJWb3ZkVzVKVXg3T3NpSzZ3OFJ2dTd5MHhXTmRHWWh0VWJjOU1yREtEc0c4dUw0T3JyeDFlSk9kUVE?oc=5",
-          "published": "2026-10-24T01:25:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yNVE4SWRkelU1R09RSEJsTldURUZqek1YcnF1RXV0RWZwTEF4N1NlUVRfRWJ5aGF3WlVOcnBuemdaU2xZekgyUXNSY1lFdHh5eTJ4SGZ3WmhRYThXb2lZOHltMW5xaDhOS3NKRmFsQXZtU2I3X2c?oc=5",
+          "published": "2026-10-26T08:25:00.000Z"
         },
         {
           "tag": "Product",
-          "headline": "Hong Kong Exchange Unveils New AI and Semiconductor Indexes, Signs Mainland ETF License - BigGo Finance",
+          "headline": "Korea Investment Management Enters Hong Kong ETF Market With Debut Fund Betting 60% on China Chip Stocks - bloomingbit",
+          "source": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YUXlidFNCQjcxSzdrLWhwaFBqSVNXN08yOUlWdkNZRDZNMGh2VkFMb19OaGJac0hubFdaS1AwZ0pkcHA4blpBZmhmUEY2bXRrMDlreA?oc=5",
+          "published": "2026-10-26T08:09:10.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Korea Investment Management debuts semiconductor ETF in Hong Kong - 매일경제",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5VlZ2dW5kRVNKT3lpY2VkU0VYMmMyRG1tWURDSmxuNkJTcFlYVmxZeGx1TjU1bE55ME5iSHFpQnlod0REQWdQMXFwNzFTOW93N1M5WEdiOA?oc=5",
+          "published": "2026-10-26T02:04:39.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Korea Investment Trust Management has entered the Hong Kong Exchange Traded Fund (ETF) market in par.. - 매일경제",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02clNOMEQydW4zd1ZMMDNQaVdiN2hfR0R1dldhbW9VbDlJVXllS3ltR1Atb1hSdGpmczRZaUFTYjNDUlktang0ZVQyOER1Vmc?oc=5",
+          "published": "2026-10-26T01:49:07.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "HSBC to Absorb Hang Seng Bank's Asset Management Unit in First Business Integration in Hong Kong - BigGo Finance",
           "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RNkZscTRlNHFBTm44bVotMy1UWjRDQ29vMnY0OHJ3V05OaEZ6bUtaNjFjeGYyYU1Banpoa1FSYnNwSWpJZWwzam1BcVNoUjBiUDVFY2NmWThXM3lfRWlPTEdZNndadHNtX3Ixd3NoOXZrNExISmc?oc=5",
-          "published": "2026-10-23T11:55:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "The Hong Kong Stock Exchange launches AI and semiconductor indices; Southern Asset Management is authorized to issue related ETFs. - Moomoo",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlYzdTJYc1RHY2NtTTVhSDR0RFhLY3RkZlJMMXBfd1JYQTdScjRmazl0dmtFZzhMQk11SElJOWZGcnVqdlQ2ZVZjeEY2SmdSVWRTNUF6RHIwSFpjUDJsamhrNUl1c1MzeEFOUUZlbjk1b1pjN2xJWWNuUTdkenc0MF84VUlOSHp5dUVlQjhUVmNhbjNfWUlHbnZoOFd6ZXc5MEtadllSTkJLeWZDN1dB?oc=5",
-          "published": "2026-10-23T09:54:22.000Z"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92a1dmMV96bnd3anJfbFhuak5PU0NIdDdBeU41ZnNMRVRpMFkzNkVrZUlRUFNsU19JeGhhVWpsZ19GWk51VkprN3JPMktZYmR6a04yUENyb0pxRHVOeUtKaWVhYmR5SWlKRVFuQ09iZHdBaExTY1E?oc=5",
+          "published": "2026-10-27T04:05:00.000Z"
         }
       ],
       "insight": null,
@@ -114,56 +121,16 @@
           "headline": "Investor Presentation - Schroders",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
           "published": "2026-10-23T13:18:57.000Z"
-        },
-        {
-          "company": "Fidelity International",
-          "ticker": "FIL",
-          "tag": "Analyst Report",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVEyZXFRUHJwbmhzNnNnZWEyWkpIRng2ZGJ2T3kwMWFfZ1JkZnJwaS1hOGZ5UDF3cjF4YXhkbHlqeGVoQXBydDNQdXVZQktVVnpKamZ3TDRjdjVlTWdfR2NuTTJGNGRmQUd3YVJISHlCanhRVWpsSmV5UzZ5b3ludkRnZGlhUTZl?oc=5",
-          "published": "2026-10-20T06:03:00.000Z"
         }
       ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Taishin International Bank Opens Flagship Private Banking Branch in Southern Taiwan - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkI0RTBqcFJZSTdPaWVka055aVdIQXMzUnFjRGpUN2lJOE1lbVZxcGVmVmN1QkNBa3NDMVR2bW5RVHFpOWJoV2VneU13V0ZjZFQtVG95bmZiMlhGY3A1dm1Fbk5ONDVuMnNnXzdnaUh2N0dHeHZNU3NXU1pPdjNEdUplTjVlbFF3Y3J0TzE0dzdXZEpB?oc=5",
-          "published": "2026-10-23T11:08:00.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Taishin International Bank Opens Flagship Private Banking Branch in Southern Taiwan - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkI0RTBqcFJZSTdPaWVka055aVdIQXMzUnFjRGpUN2lJOE1lbVZxcGVmVmN1QkNBa3NDMVR2bW5RVHFpOWJoV2VneU13V0ZjZFQtVG95bmZiMlhGY3A1dm1Fbk5ONDVuMnNnXzdnaUh2N0dHeHZNU3NXU1pPdjNEdUplTjVlbFF3Y3J0TzE0dzdXZEpB?oc=5",
-          "published": "2026-10-23T11:08:00.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "PulteGroup (PHM) Q3 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43VDZfZ1dYbjhmNXI5bjgtVHloUWRjbnNzNldDNGNCRVFUYmw5OFBmUzVwX1R4YnpTaktmVGpKOHRsSjhuZUx6bjBweWRFd0VUcl9JZGxBN3BIaDlpV0hoelJXNDdLaUU?oc=5",
-          "published": "2026-10-22T12:30:00.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Canara HSBC Life Insurance Com (CANHLIFE.BO) Q4 25/26 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREl4UGZRdW9STGJDS3J3YmtwOHVTYUJrbnluLXhNU2hmS2Ztbzh1b0h4X0RpSmd0SHpCSmlvMVM3czRscWV4ZmdhNDF6MWpPcm1ETlV4R1MycmFqNVRHb0lDeWJ4VnVVOGJ6VVZfOEZWLVZtZU5jZElRVTZTS3RlYXBQc0xUdF9WVkVTMkJEaV9FR3BLblJ6THhOLXdtU0k?oc=5",
-          "published": "2026-10-21T20:34:56.000Z"
-        },
         {
           "company": "DBS Group",
           "ticker": "D05.SI",
@@ -180,19 +147,19 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Hong Kong life insurance sales up 58% in first half but tax headwinds remain - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdnBIX0F5dFdDazlFRUhXQkVGcEZ3NVgwZk5Ed0JnTl9qQ2xlVTJvalFYaW15ODlBbDZrMzA0QjFVSGJoN1I4MEw4RzBPaTNBZ2pweVRhV1hMd1hKNnJrQXVDWHpmSDhIcG1ydGtNWURZUWpOaTJmNGtCdDlnUkRDSGU2R0U4UU1TTC14T2JLaEJ1RGxWNVd1Z0dJeTlLVzVPUi1RZkJsVWVBRW16SmpjWGhQdFpzdnlQWFR2TG5Hc1RHc2kwS2U2NHFPclZwX3R1blpmWnVXWDZvQjdKQ1NlU1BMd9IB4wFBVV95cUxNM2lBMGwtNlRCT0hzWGJxMDFNYk5OdlVRRm9BVFc0UDRHaWNzZ1lkWDFrRjR2N19mWlcwX3ZLVUEzajV3TFhQNVJQUS1XbWhVY0pYZ0Fua0tOZWhDckxiQXVUUEs3MnhMQlY4T2JaN2Z1VWRKQmJuLS1ndkRsUEdCaUJZRUowOURyemFMaWZqMmRuTmtzNDI2LXE0QXQwTWFmcFpEbGQ2S0tUZ1RYaVUwQ3dOb24xa1FGOUI0dkVQTXYzdDBocVJtd3JScDBpSkU1WEJJZzBTYjIzNXlOWnJtaWptYw?oc=5",
-          "published": "2026-10-23T08:16:11.000Z"
+          "headline": "China Life Insurance (02628.HK) will release its financial report on October 30. - Moomoo",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0tEWmNIWnZmQ2RpWFU5bFUwTGtKcEE5WGFCM08wbTI3c3pzVVh4dHRNR3ctTXRwMklNWHR0UVhuVFQ2dGZWZlFCcUFyU2N1RUNURV9VZ3pSeU5ickNLeU9OQjNiaDlVRjYwU2tiZXhwMGFiUGcyM18tdVR3ajgyd3BoMzJwbVZ2Uzhqem92LXl3SDNHdXY1SFhwai1keUpoVHJRckxIUW9fNU0?oc=5",
+          "published": "2026-10-26T02:06:53.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "Hong Kong life insurance sales up 58% in first half but tax headwinds remain - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdnBIX0F5dFdDazlFRUhXQkVGcEZ3NVgwZk5Ed0JnTl9qQ2xlVTJvalFYaW15ODlBbDZrMzA0QjFVSGJoN1I4MEw4RzBPaTNBZ2pweVRhV1hMd1hKNnJrQXVDWHpmSDhIcG1ydGtNWURZUWpOaTJmNGtCdDlnUkRDSGU2R0U4UU1TTC14T2JLaEJ1RGxWNVd1Z0dJeTlLVzVPUi1RZkJsVWVBRW16SmpjWGhQdFpzdnlQWFR2TG5Hc1RHc2kwS2U2NHFPclZwX3R1blpmWnVXWDZvQjdKQ1NlU1BMd9IB4wFBVV95cUxNM2lBMGwtNlRCT0hzWGJxMDFNYk5OdlVRRm9BVFc0UDRHaWNzZ1lkWDFrRjR2N19mWlcwX3ZLVUEzajV3TFhQNVJQUS1XbWhVY0pYZ0Fua0tOZWhDckxiQXVUUEs3MnhMQlY4T2JaN2Z1VWRKQmJuLS1ndkRsUEdCaUJZRUowOURyemFMaWZqMmRuTmtzNDI2LXE0QXQwTWFmcFpEbGQ2S0tUZ1RYaVUwQ3dOb24xa1FGOUI0dkVQTXYzdDBocVJtd3JScDBpSkU1WEJJZzBTYjIzNXlOWnJtaWptYw?oc=5",
-          "published": "2026-10-23T08:16:11.000Z"
+          "headline": "China Life Insurance (02628.HK) will release its financial report on October 30. - Moomoo",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0tEWmNIWnZmQ2RpWFU5bFUwTGtKcEE5WGFCM08wbTI3c3pzVVh4dHRNR3ctTXRwMklNWHR0UVhuVFQ2dGZWZlFCcUFyU2N1RUNURV9VZ3pSeU5ickNLeU9OQjNiaDlVRjYwU2tiZXhwMGFiUGcyM18tdVR3ajgyd3BoMzJwbVZ2Uzhqem92LXl3SDNHdXY1SFhwai1keUpoVHJRckxIUW9fNU0?oc=5",
+          "published": "2026-10-26T02:06:53.000Z"
         }
       ],
       "insight": {
@@ -218,18 +185,18 @@
           "published": "2026-10-24T09:00:43.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Silent crisis: China faces spike in credit card defaults from older borrowers - South China Morning Post",
+          "tag": "Press",
+          "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUHSAc8BQVVfeXFMT3p2OHNBU0ZYTUtIZTY0eVQ0SXNKUzhkTGFqbjJ6eUZoNTB0MmRhWUJYY3lteTBlRHFxZkFuVHBPaWFrZHZ4NVBudWpzdENGTUt5S0FwOG5LUnVIZmJLM2tzR0k2OV9Tc2lEMW93WW41SWFXRWxiZmZYd0ZHLV9RTEVhWXJjTWtzZW0zemNUMldvOGZ3QXRHU3dwSVBoY28weTVPY3BxejA5UVNoRkcxNjFoWWxyT3BVMkZ3Z25jZzRhZU9kQjlXOFY2TFFqVUI4?oc=5",
-          "published": "2026-10-24T06:00:17.000Z"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE1RVVlqa2pKbnFTeUZZWTFnMWJYUHE5SmdCRjJrTTkxZDF4TlVETmxrU1NWcVRfYjNPQlFWVTB2WktzSGNxQ1VpMmhfLTBYM0hMcnF6WlRQdUVvR042R3hqbGtGU2U2c1lmU2ZKMllsb0ZVaFdWSV9ObUtGZUE0eEtXaGJLT3AyVDFQU0RxSk5zdjZKUkZTdjk3djFPRFRIWUxYR3ZudDJUS1Fxd3hDekRBX2dLcGvSAbcBQVVfeXFMTzE2MWlqSTRSdUpvUy1sbV9KS0FvSEpRQnlXclZBSnFOYS1zZ0E4QmFkdDltamw5ellIYm5OV0l6NDJ0aUVGMDQwa3BlS29aMDNEUWNuV1VnNUFhelhSRkRhWnNFeHNOUXFCeUgyb3hSTnhqN0oxejhSZmhfVTFBeUZHa21ONmM3dXo0X0pKRFhETS1rUEk5b09ZcEhTS1pqdEVqdFF4c3ltWXhKTWZhR0VpZHBzUG9n?oc=5",
+          "published": "2026-10-27T06:03:05.000Z"
         },
         {
           "tag": "Press",
-          "headline": "US visits to China decline, Turkish rare earth deposit: 5 weekend reads you missed",
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/article/3372113/us-visits-china-decline-turkish-rare-earth-deposit-5-weekend-reads-you-missed",
-          "published": "2026-10-26T04:45:07.000Z"
+          "headline": "Revolut reportedly seeks digital bank licence in the Philippines - The Paypers",
+          "source": "The Paypers",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVhRV2p5T0U5bEk0SFlUYmNmOTQzOEhwRkZRRkFuV01DVHVfREhCaTVYVFRmVXhlWTVRVG1jLVVOb1NQVG5BTllsRTdnVlZFLVpIYkpFM3dBOG02Z05FTnVuVDdMSHVSZFgyNEpySWU4UmVvemRqOGs3ZGxlZDl4ZVlTanFvWkdmeEczN2RHS201dkVjUG5nZ2RCS25yZER6OWRhQmdqdmtiNjA?oc=5",
+          "published": "2026-10-26T09:44:03.000Z"
         }
       ],
       "candidates": [
@@ -241,66 +208,30 @@
           "published": "2026-10-24T09:00:43.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Silent crisis: China faces spike in credit card defaults from older borrowers - South China Morning Post",
+          "tag": "Press",
+          "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUHSAc8BQVVfeXFMT3p2OHNBU0ZYTUtIZTY0eVQ0SXNKUzhkTGFqbjJ6eUZoNTB0MmRhWUJYY3lteTBlRHFxZkFuVHBPaWFrZHZ4NVBudWpzdENGTUt5S0FwOG5LUnVIZmJLM2tzR0k2OV9Tc2lEMW93WW41SWFXRWxiZmZYd0ZHLV9RTEVhWXJjTWtzZW0zemNUMldvOGZ3QXRHU3dwSVBoY28weTVPY3BxejA5UVNoRkcxNjFoWWxyT3BVMkZ3Z25jZzRhZU9kQjlXOFY2TFFqVUI4?oc=5",
-          "published": "2026-10-24T06:00:17.000Z"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE1RVVlqa2pKbnFTeUZZWTFnMWJYUHE5SmdCRjJrTTkxZDF4TlVETmxrU1NWcVRfYjNPQlFWVTB2WktzSGNxQ1VpMmhfLTBYM0hMcnF6WlRQdUVvR042R3hqbGtGU2U2c1lmU2ZKMllsb0ZVaFdWSV9ObUtGZUE0eEtXaGJLT3AyVDFQU0RxSk5zdjZKUkZTdjk3djFPRFRIWUxYR3ZudDJUS1Fxd3hDekRBX2dLcGvSAbcBQVVfeXFMTzE2MWlqSTRSdUpvUy1sbV9KS0FvSEpRQnlXclZBSnFOYS1zZ0E4QmFkdDltamw5ellIYm5OV0l6NDJ0aUVGMDQwa3BlS29aMDNEUWNuV1VnNUFhelhSRkRhWnNFeHNOUXFCeUgyb3hSTnhqN0oxejhSZmhfVTFBeUZHa21ONmM3dXo0X0pKRFhETS1rUEk5b09ZcEhTS1pqdEVqdFF4c3ltWXhKTWZhR0VpZHBzUG9n?oc=5",
+          "published": "2026-10-27T06:03:05.000Z"
         },
         {
           "tag": "Press",
-          "headline": "US visits to China decline, Turkish rare earth deposit: 5 weekend reads you missed",
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/article/3372113/us-visits-china-decline-turkish-rare-earth-deposit-5-weekend-reads-you-missed",
-          "published": "2026-10-26T04:45:07.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "M bank Recognized as Asia-Pacific's Most Innovative Digital Bank by Global Finance 2026 - Thailand Business News",
-          "source": "Thailand Business News",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORExrSnZTdDM4Rmx3aTV6UnFYVlV4RnlZR2xEeG5OQ2lQVGs1RS1Gb21YUTV5dlI1OUlPZVpDT0hWTkd6RllOUjNjbnhkMFdsTkFiUzZxcnRpb1ZOQmIycGZ0SVNxdWhYcUQ5VkM0TDRoZ3huaXoxUDJ6dmJKVWVRU2Z3NktTRE5DUkx3S1U5azFrbXQyYzhzczF6Mjk1eTNxUlFPTkVjQlphWnByZ1RLTUR2dWZtNHpHZ0ZJTDIzbEpNLV83RGphQm5lRXNIZw?oc=5",
-          "published": "2026-10-25T16:30:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore’s MAS Broadens BLOOM for Cross-Border Payments - NameCoinNews",
-          "source": "NameCoinNews",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GVGc0eXZad3B0ckRSQlpKTDkxRTFqQlJjYTg5WXljREFodm95SXF4anFyLWZvLTJQQ2ZFZVFyNWgtTTgyakVKU0VmT3FWUW5YR2xxNE9pamRzLXRGSFlWN1o0a0FuRW55eE1LMmswbDlFZkJ3S1Zr?oc=5",
-          "published": "2026-10-23T14:05:41.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Bank Negara Malaysia and Bank of Thailand Join Singapore’s BLOOM Cross-Border Stablecoin Payments Initiative - NewsCord",
-          "source": "NewsCord",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYkUyMFk1UE5uYlZra18yVXhKUGtRN0tZVzJ4MGpVZGRUVWVTNThkTTdkdjlNYzdyOVdhWFJWbTlFbHpYcmpaNXc1bDhEVEpfTFhWTlBOZUJwUkY5b1Zlbm40MTRTNC01c29oc2wzR3NRRHdrVFVTZTd3eFJYd1N3VXljVVlqQzQwSENxOHJWMkt3YzNQQUF6YTE4LTBrbFFpZ0hacWF4aVFCU3JfTlgwMDhxSF9teXlWSHNLdWhkU1hSdDg0aEFYUVNJeURYSTVLMmYtckhHZGZTTzEyYzRmUjBCVU9VZnozX2c?oc=5",
-          "published": "2026-10-23T11:29:19.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Singapore, Malaysia and Thailand team up to make stablecoin payments easier - Crypto News",
-          "source": "Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94d0d6cEpCWTdmejU5VmVZLWZVSzRjWENXdk9LQlZmblEwbnFhX1JKaDMybXAzc2FBTE9XSE1nREFTN2NLdUYzTXhpV09pYk5KU0xYa0U4YW1rS0VFLTdJT00zRW5ld2EtMVc1dGRpNHdvbzA?oc=5",
-          "published": "2026-10-23T10:04:54.000Z"
+          "headline": "Revolut reportedly seeks digital bank licence in the Philippines - The Paypers",
+          "source": "The Paypers",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVhRV2p5T0U5bEk0SFlUYmNmOTQzOEhwRkZRRkFuV01DVHVfREhCaTVYVFRmVXhlWTVRVG1jLVVOb1NQVG5BTllsRTdnVlZFLVpIYkpFM3dBOG02Z05FTnVuVDdMSHVSZFgyNEpySWU4UmVvemRqOGs3ZGxlZDl4ZVlTanFvWkdmeEczN2RHS201dkVjUG5nZ2RCS25yZER6OWRhQmdqdmtiNjA?oc=5",
+          "published": "2026-10-26T09:44:03.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Silent crisis: China faces spike in credit card defaults from older borrowers - South China Morning Post",
+        "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
         "teaser": null,
         "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1R5V0QxandVbVpBYkJRVlVUYnFlTndobGdrOXJpLW1icEg4LUJIWnlibUpsLVIyZVY5LVI0ZjVZTVdTYWxIdFA1OHV0R3ZKeDh3c0dud0UzMjEzNkhSVVdJLUtNM0lnNGtWdVdOY2NIdkl3UTdsYzlsN1dQX25kOGZzbWVfQlZvNGgzdVNfaW1wSE8wNFBSa1NQTlZQZkJsNEFYbW02UndWUHlGVy1sVndEeHBJVVZnOEdGR0pmbk54Ykd5ZFhWOHJCZ01ZSUHSAc8BQVVfeXFMT3p2OHNBU0ZYTUtIZTY0eVQ0SXNKUzhkTGFqbjJ6eUZoNTB0MmRhWUJYY3lteTBlRHFxZkFuVHBPaWFrZHZ4NVBudWpzdENGTUt5S0FwOG5LUnVIZmJLM2tzR0k2OV9Tc2lEMW93WW41SWFXRWxiZmZYd0ZHLV9RTEVhWXJjTWtzZW0zemNUMldvOGZ3QXRHU3dwSVBoY28weTVPY3BxejA5UVNoRkcxNjFoWWxyT3BVMkZ3Z25jZzRhZU9kQjlXOFY2TFFqVUI4?oc=5",
-        "published": "2026-10-24T06:00:17.000Z",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE1RVVlqa2pKbnFTeUZZWTFnMWJYUHE5SmdCRjJrTTkxZDF4TlVETmxrU1NWcVRfYjNPQlFWVTB2WktzSGNxQ1VpMmhfLTBYM0hMcnF6WlRQdUVvR042R3hqbGtGU2U2c1lmU2ZKMllsb0ZVaFdWSV9ObUtGZUE0eEtXaGJLT3AyVDFQU0RxSk5zdjZKUkZTdjk3djFPRFRIWUxYR3ZudDJUS1Fxd3hDekRBX2dLcGvSAbcBQVVfeXFMTzE2MWlqSTRSdUpvUy1sbV9KS0FvSEpRQnlXclZBSnFOYS1zZ0E4QmFkdDltamw5ellIYm5OV0l6NDJ0aUVGMDQwa3BlS29aMDNEUWNuV1VnNUFhelhSRkRhWnNFeHNOUXFCeUgyb3hSTnhqN0oxejhSZmhfVTFBeUZHa21ONmM3dXo0X0pKRFhETS1rUEk5b09ZcEhTS1pqdEVqdFF4c3ltWXhKTWZhR0VpZHBzUG9n?oc=5",
+        "published": "2026-10-27T06:03:05.000Z",
         "paywalled": false
       },
       "companyUpdates": [
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Canara HSBC Life Insurance Com (CANHLIFE.BO) Q4 25/26 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREl4UGZRdW9STGJDS3J3YmtwOHVTYUJrbnluLXhNU2hmS2Ztbzh1b0h4X0RpSmd0SHpCSmlvMVM3czRscWV4ZmdhNDF6MWpPcm1ETlV4R1MycmFqNVRHb0lDeWJ4VnVVOGJ6VVZfOEZWLVZtZU5jZElRVTZTS3RlYXBQc0xUdF9WVkVTMkJEaV9FR3BLblJ6THhOLXdtU0k?oc=5",
-          "published": "2026-10-21T20:34:56.000Z"
-        },
         {
           "company": "DBS Group",
           "ticker": "D05.SI",
