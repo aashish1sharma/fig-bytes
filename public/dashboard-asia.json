@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:41:09.629Z",
+  "generatedAt": "2026-10-28T07:13:14.373Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -35,8 +35,8 @@
           "tag": "Product",
           "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFhHMFhZSjM4S1RIZU02SkdTSjd4MzlKTXFQUTJMX1BjZnEtUE14Mmc4SHh5cW4xV0NXcU1aaXpNNmZHZE1MZno4c3k4QS1kdHNTc00xbWRJQWNVY0N0SjRyU252Uk1CdTFVM2p2X1UzaTJEekhsNERaNGVoaGJqNFF5Rnp5bEJ1RGU3Z3F3dWlRUXJt?oc=5",
-          "published": "2026-10-26T07:32:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMC12QnR4a3ZZR0tMTjlsbE5lb3RHZVBveUJOWVFFa1FkNVptbVNqWmppZldxMkNWcURaVTlBMjJNdFo4UEZpbGZ1M1lIZGhiRWUyVEZiRXJuaHNxeWtXWWppMFdoalJWLUdmQ0lYZnBiT25pTm9xUU00OVl2ZFY1dHBZU1hHbE9oVnRYUG05UEY1NGp0?oc=5",
+          "published": "2026-10-27T07:42:00.000Z"
         },
         {
           "tag": "Strategy",
@@ -58,8 +58,8 @@
           "tag": "Product",
           "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFhHMFhZSjM4S1RIZU02SkdTSjd4MzlKTXFQUTJMX1BjZnEtUE14Mmc4SHh5cW4xV0NXcU1aaXpNNmZHZE1MZno4c3k4QS1kdHNTc00xbWRJQWNVY0N0SjRyU252Uk1CdTFVM2p2X1UzaTJEekhsNERaNGVoaGJqNFF5Rnp5bEJ1RGU3Z3F3dWlRUXJt?oc=5",
-          "published": "2026-10-26T07:32:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMC12QnR4a3ZZR0tMTjlsbE5lb3RHZVBveUJOWVFFa1FkNVptbVNqWmppZldxMkNWcURaVTlBMjJNdFo4UEZpbGZ1M1lIZGhiRWUyVEZiRXJuaHNxeWtXWWppMFdoalJWLUdmQ0lYZnBiT25pTm9xUU00OVl2ZFY1dHBZU1hHbE9oVnRYUG05UEY1NGp0?oc=5",
+          "published": "2026-10-27T07:42:00.000Z"
         },
         {
           "tag": "Strategy",
@@ -107,37 +107,77 @@
       "insight": null,
       "companyUpdates": [
         {
+          "company": "Schroders",
+          "ticker": "SDR",
+          "tag": "Transcript",
+          "headline": "h HSBC HK SDR 5to1 (HSHD.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3gwV3dmUEV1OEhJLUphYzhSS3gxYmxYVmp1cXdrMlZob3RiczF1NEwxQzAzN09iVkZSbXRVbkoxVjA1ZnVQNk5tZjN2eHVUUTY1TTJBeXF5UTVTVF9oWnl2QlhzZVRIdkt6ZE1pSjNPc0tVbG9tRFpwbUdrcTF0Yjh4UDlzYUxrQlQ2cU9ydlZSWmt2?oc=5",
+          "published": "2026-10-27T07:45:00.000Z"
+        },
+        {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: BlackRock tops Q3 2026 forecasts as shares rise premarket - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2VxRWhtNTZFTGhzQTRNMUZqMkpqcWNKV25PaDNLUHVIclE3Z1ZfQzhoYi1JUk93eVpic1hnVk1mVnNTMWtUREpNR2pRdDVqRlZMYUhVdnNKTXR3eElJU1h2Mk5SZW14UWpYaVFZcDJBd3pYdTZGQml6X1FjU0JxRWJ5Z0QwbzJzZ05CZ2VSTTlXaW0wZm0yWEgwSUZtbFlBQzBLZmxRbHJIZkZZckQ5M0EtODZWYktJVFZTbEtVNzdQNjJmbmNwaGFVNEJCMTNZNjloVA?oc=5",
+          "headline": "Transcript: BlackRock Q3 2026 Earnings Conference Call - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU15Y0V4ZWNUR2Q5YXhSd1FORnd0X0FpY0xjaW4zRmlGVVU5a2lqeU13cmZ2RTQzVEZKNDB1blFXVmFaT3pGbkFMT0VQWm1BaTlMVzluZ19QWklBV2ZXSVBKZGFiYWtVSFpQbF96MWFrSFlEVDdFbFhVRGtBM2RKY0pyZG5NUXRpVTRrRXlBOEt1ZmVlQUJnbnB3YTRRSm8?oc=5",
           "published": "2026-10-14T07:00:00.000Z"
-        },
-        {
-          "company": "Schroders",
-          "ticker": "SDR",
-          "tag": "Presentation",
-          "headline": "Investor Presentation - Schroders",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2lYZmluTmdUTGNIMTBMY2dsWjYyeWpSNjZXNm9WNERJenRna2dSMFl2UUVhX1hHTjBiM2lnOEtVNjNnOS1EODJfUW1rUFpYblFhRUNqMzdCMHNpeUFnNlRialRxX19FUFItTFptd0NUMUdGNDltb2d5dU4zY0ZYWU5HZDg0bFYyd3l3?oc=5",
-          "published": "2026-10-23T13:18:57.000Z"
         }
       ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "DDTC Professionals Study UHNWI and Family Office Tax in Singapore - DDTCNews",
+          "source": "DDTCNews",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0pIWGhQOXZoLVZzVGhhRVl3QXRrVVVscTUySlFSQkVNb1pBa3dISDJ6WnVYcGNxZ3QyZ0x6Zkp1MkFiQ0xXUkhzSnBkNE05a3RtNmdscE8zb2praGV0RC1fc3gwQV94VUM0eV9oN25nZzVnM2w1ajFUNXl6YmVoRWVRZEI1N05hbHZCRWJwOTZPVW1tX0JaRmFxQmtKMFhSZnVtUlRoN1M4TGw2?oc=5",
+          "published": "2026-10-27T06:37:00.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "DDTC Professionals Study UHNWI and Family Office Tax in Singapore - DDTCNews",
+          "source": "DDTCNews",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0pIWGhQOXZoLVZzVGhhRVl3QXRrVVVscTUySlFSQkVNb1pBa3dISDJ6WnVYcGNxZ3QyZ0x6Zkp1MkFiQ0xXUkhzSnBkNE05a3RtNmdscE8zb2praGV0RC1fc3gwQV94VUM0eV9oN25nZzVnM2w1ajFUNXl6YmVoRWVRZEI1N05hbHZCRWJwOTZPVW1tX0JaRmFxQmtKMFhSZnVtUlRoN1M4TGw2?oc=5",
+          "published": "2026-10-27T06:37:00.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "How growth in use of AI and globalisation have transformed wealth management - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkcxNUt3TXpfbDNVSzZiX0l3QXdkNm9ST25DQy1RSjZFS2hwX3FrSHlfMmFZWWZSeks0cm9yVmV5YXN5MWlQSU9oN0J3eXZMdGlIOHpnQlA3S09wdzB1dHFnZEtXanlWcDRGc1VhNjBVTTdDU2hQdzNCRGFQckZraC1IWkQ4czVaREgxeHJDY2NaVXdWRmhTMUdKTG5SUkdLMmFPTjYyZ3FWbGN5bVRwX2ZEZzhFQlk0NGNjWUVDTUZ6QXMxd0ZxSHVqUkRtU1FjTUFNV2EtQ2Q2elp1NEZOc1h1YmlHdmM1X2lN?oc=5",
+        "published": "2026-10-28T04:00:08.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
+          "company": "HSBC",
+          "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "DBS Group Holdings Ltd. (DBSDY) H1 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQci1ESWtGVDlaUF80cTRYVFdVTWJBdk9zVWVXX2ZoNXAwSXVxa0xNQlN3RXRVaUdaQW5IUTVOMWk4LWlQcEVrY2lYOGhyMHFnZ1lERW1IQllFSExrNVJLc3ZfWXBORFpaQy1jZE5iNXdRT09ZQlZpQzdzZkg2dEl3VjhEeWlhSWJYR25XU2pISQ?oc=5",
-          "published": "2026-10-21T20:17:17.000Z"
+          "headline": "Earnings call transcript: HSBC misses Q3 2026 earnings forecast as stock falls - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmcyeDN0NWRpU0tqOEJGY0NNREtrTEUzdVNabWNMVlpJZk5Sa1NOWTZkZkF5ejlaMEdsQUxOb1lLcVM4aTRUZW4zS2ZOTWFNTEdUWkhOdWMxRlBxTXo5Z2dWamx1amNVQlEtdlBaNHE1a1VDWVp6WFVldWxrWVowQXdQbHBwUDJpXzhRZ0JZMnJwS2RnYTd3dWt6VW1GODBrdzcwbU1FT1Bsb0V6dzlFWFlJMHdqcVNySG9kMUVxLVIwdnQ4N1pPcDM1T3pwdw?oc=5",
+          "published": "2026-10-27T09:56:22.000Z"
+        },
+        {
+          "company": "iFAST Corporation",
+          "ticker": "AIY.SI",
+          "tag": "Transcript",
+          "headline": "IFAST (AIY.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWVrNTJjV21jMmhPamQ4c1czTm5JUWppNzBuV2pZSlVjTTU0U3Fhblh1YWFXMFJsU0VtbndTYmRKM0ROaWQ2bEszZkpoV0ZUQ0hIX2VnU1haOE9wLWVEeUdObEhqTnlqTE9td3BJcEdBTTlValgzY2NrYnVxRDc3OUJ2MWFWOWNDV0FHUUNoa2FPdw?oc=5",
+          "published": "2026-10-27T03:00:00.000Z"
+        },
+        {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "Altria Group (MO) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44dnctWFpHTmotZGFTQ0hFUDNPQXJacTZ4dkVocElaMWgyMTZSUGtUSExLZUhUY1hSSjJxdWc4cG9IUkk4aWd1bkptWlB5cEdHSnFyXzFac2lmTnlwWVEyYmFrc3BmSDEtblE?oc=5",
+          "published": "2026-10-21T21:57:47.000Z"
         }
       ]
     },
@@ -178,13 +218,6 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "33 held in crackdown on credit card theft ring targeting Hongkongers in Shenzhen - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1lDSzN4aFNYNHBaRUlFSmd3Y2d1QWlDTUx6VzNEejYtd19XTURUUU5scG1KNmd4VEVPY2pJQTJsUkZwQjRwYTNEZFltSXY3LURPZFItUlFzR0lpdlVxUTJ4aDBLTXppaUticmxmSGpHWkxSdkF6MjNwcjQ5bzZrTzVtaUNUcjJUR2lHSFI4NFd1bWcwR3Y3U09wVmJCc2U0bG50RXJIb1RUS01MaWhoNjJIVDBSQUQ2WHI2a1NNWlVSdzdWLV9mdEtxb2dWeWgwSUI40gHTAUFVX3lxTE9hc20wZmhjUDk5cnRicmR5T1dDQ215bjc0MUFjaXJtQm1NS0tKWU9GNzY0VjdKMGw0VVVnMzVyemNQQnBtcmk1MzJVZVhjVU1YQXhNSmJ1dkdpM3dZZkxocnJreW8zbGdQVkRlVXBGcHFOOEdXdTM1b3pSSktSeVNab0JoNXpxUmFhV3Q0ZjNNQm9oRk0yT1lKSUZZZlNWZ1l1U1VfWktVdkZrNUNkLXhLdDZGdkJVM3RxXzVHZ3R6TnFEbzVYWks5c3Q4cnlYRFpTSms?oc=5",
-          "published": "2026-10-24T09:00:43.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
           "source": "SCMP",
@@ -200,13 +233,6 @@
         }
       ],
       "candidates": [
-        {
-          "tag": "Product",
-          "headline": "33 held in crackdown on credit card theft ring targeting Hongkongers in Shenzhen - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1lDSzN4aFNYNHBaRUlFSmd3Y2d1QWlDTUx6VzNEejYtd19XTURUUU5scG1KNmd4VEVPY2pJQTJsUkZwQjRwYTNEZFltSXY3LURPZFItUlFzR0lpdlVxUTJ4aDBLTXppaUticmxmSGpHWkxSdkF6MjNwcjQ5bzZrTzVtaUNUcjJUR2lHSFI4NFd1bWcwR3Y3U09wVmJCc2U0bG50RXJIb1RUS01MaWhoNjJIVDBSQUQ2WHI2a1NNWlVSdzdWLV9mdEtxb2dWeWgwSUI40gHTAUFVX3lxTE9hc20wZmhjUDk5cnRicmR5T1dDQ215bjc0MUFjaXJtQm1NS0tKWU9GNzY0VjdKMGw0VVVnMzVyemNQQnBtcmk1MzJVZVhjVU1YQXhNSmJ1dkdpM3dZZkxocnJreW8zbGdQVkRlVXBGcHFOOEdXdTM1b3pSSktSeVNab0JoNXpxUmFhV3Q0ZjNNQm9oRk0yT1lKSUZZZlNWZ1l1U1VfWktVdkZrNUNkLXhLdDZGdkJVM3RxXzVHZ3R6TnFEbzVYWks5c3Q4cnlYRFpTSms?oc=5",
-          "published": "2026-10-24T09:00:43.000Z"
-        },
         {
           "tag": "Press",
           "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
@@ -232,6 +258,14 @@
         "paywalled": false
       },
       "companyUpdates": [
+        {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: HSBC misses Q3 2026 earnings forecast as stock falls - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmcyeDN0NWRpU0tqOEJGY0NNREtrTEUzdVNabWNMVlpJZk5Sa1NOWTZkZkF5ejlaMEdsQUxOb1lLcVM4aTRUZW4zS2ZOTWFNTEdUWkhOdWMxRlBxTXo5Z2dWamx1amNVQlEtdlBaNHE1a1VDWVp6WFVldWxrWVowQXdQbHBwUDJpXzhRZ0JZMnJwS2RnYTd3dWt6VW1GODBrdzcwbU1FT1Bsb0V6dzlFWFlJMHdqcVNySG9kMUVxLVIwdnQ4N1pPcDM1T3pwdw?oc=5",
+          "published": "2026-10-27T09:56:22.000Z"
+        },
         {
           "company": "DBS Group",
           "ticker": "D05.SI",
