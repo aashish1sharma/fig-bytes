@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T07:13:14.373Z",
+  "generatedAt": "2026-10-29T07:34:23.733Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,41 +32,48 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMC12QnR4a3ZZR0tMTjlsbE5lb3RHZVBveUJOWVFFa1FkNVptbVNqWmppZldxMkNWcURaVTlBMjJNdFo4UEZpbGZ1M1lIZGhiRWUyVEZiRXJuaHNxeWtXWWppMFdoalJWLUdmQ0lYZnBiT25pTm9xUU00OVl2ZFY1dHBZU1hHbE9oVnRYUG05UEY1NGp0?oc=5",
-          "published": "2026-10-27T07:42:00.000Z"
-        },
-        {
           "tag": "Strategy",
-          "headline": "Korea Investment Management steps up its entry into Hong Kong’s ETF market... First ETF listed in partnership with CUAM HK - 파이낸셜뉴스",
-          "source": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfdklDeWRONVpzZnVJYlgwTXZkTnRtZXVUNzJTNC1BRHVQY0QzOWllQTlEM2Y0TzVlUTI4Y09CQ1pLZ0lRTEgzMlN3aTFSMzQyVEtmN3lpcHM?oc=5",
-          "published": "2026-10-26T00:16:06.000Z"
+          "headline": "Hong Kong poised for capital inflow amid France unrest: AllianzGI - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmVVeWRjeWV3TjlVRW8tb25adGFBVndrZFNzV0xBR19hZXgyM2E0RjFYdXluSnVXdjFDdlEzc1VVM2NscEJEWVNtOF9Tby14UUFOX05sbUhCVGgtV1ZLWnhGUjNjVGh3emtWVmRhYkxpNHB5anZxbkxFOENMYkR4UWNwYjhXM1ZWM0pERDdMZzRrNUdhbk00TWs4ekJDMFlPLXNBZUZUN1IxeEFJcjQ2RTBPNlBBTUFGUHVVNmd1Yk5oMS1nVW0tLThB0gHKAUFVX3lxTFBoMXJiRXlDWjU2LXhQVWhwYnFFTVdPdkxfQzNOLUpMdjJ4TkZqZERTdXZEQ1ZkaU8tWkUzbm9SSXNYeFBxTHR0UnVzWXpYVmFqcDFIeDJjWC1OZ0N5VVBjZE8yUTdkM2RjODhodFI1OVdqbXJXbDlReGp1Tl9mZ3AtdjVOYmo0WjdRYkwzaGFsYXVqcWZTUENjUGNyRDViNmlhcXpjZ0trSVBMbDZIdUhzLUEwNkh0NFUyVGxwMkRaa1hFU1hRajQwa1E?oc=5",
+          "published": "2026-10-29T06:00:40.000Z"
         },
         {
           "tag": "Product",
-          "headline": "Korea Investment Management Makes First Foray into Hong Kong ETF Market with Joint Product Holding 60% Chinese Semiconductors - BigGo Fin…",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yNVE4SWRkelU1R09RSEJsTldURUZqek1YcnF1RXV0RWZwTEF4N1NlUVRfRWJ5aGF3WlVOcnBuemdaU2xZekgyUXNSY1lFdHh5eTJ4SGZ3WmhRYThXb2lZOHltMW5xaDhOS3NKRmFsQXZtU2I3X2c?oc=5",
-          "published": "2026-10-26T08:25:00.000Z"
+          "headline": "Writing Australia’s own ETF rule book - AFR",
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1h1blljY01DREdUMzhPWk9pNWxsZ1FaZjdKTmMwN1Y1c0owSlJYRUtqLVJvT0pIbGlmYlBRRm9yLVBYQ0Q3UUw4U180RWFfbloxTXlCLXpiZ3ZvWlVXcDROQnVtVllza3FrN1pjS0RxelQwVVVsdzVMXzgzZFVCZHlDa0l0ZHlBNGZQdU9kVWdBOW5aV0c2d25xOXdOV01mcVMxLQ?oc=5",
+          "published": "2026-10-28T23:48:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Embracing the Semiconductor Supercycle: Harvest STAR Chip ETF (Stock Code 3559) Authorized by the SFC Listing Soon on SEHK - The Manila T…",
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRlc2MDMzQUtQRTcwbzU1RjFfTE5JWmxfWjM4TFYzaWJrdWZWNVZ5RG5feFI3VmI5RHVNRGNTMTRyM0RVYUV4Ykw4OXV5SUNsQVJreTc3YVpqTEtMX3R2dXd5OTdxN2RtVFN3eGN2YkhfQ0VXVGV4bEloUXdLZ0s1UDQ0Z3M5TDgxOHJNWEgtWi1SRXVkOWt1QWRFdm94ZGFzZGRxdXM2TVhHVlQzcUtuVm1yb0hoSFVxVVFYQS1yY25KOFAwVmJMSVVUQ1dkTENGVmJQNUZuS2Jvcjh5OC13blNGWEhfNC1Ub2U4aDBCWTN4OFdCaldZNFRfZzNfRFZjbzNwVVpzWnRJT1dRdVVYeDhIU0twOE5vRlZXcS1WdnTSAaACQVVfeXFMTUZXNjAzM0FLUEU3MG81NUYxX0xOSVpsX1ozOExWM2lia3VmVjVWeURuX3hSN1ZiOUR1TURjUzE0cjNEVWFFeGJMODl1eUlDbEFSa3k3N2FaakxLTF90dnV3eTk3cTdkbVRTd3hjdmJIX0NFV1RleGxJaFF3S2dLNVA0NGdzOUw4MThyTVhILVotUkV1ZDlrdUFkRXZveGRhc2RkcXVzNk1YR1ZUM3FLblZtcm9IaEhVcVVRWEEtcmNuSjhQMFZiTElVVENXZExDRlZiUDVGbktib3I4eTgtd25TRlhIXzQtVG9lOGgwQlkzeDhXQmpXWTRUX2czX0RWY28zcFVac1p0SU9XUXVVWHg4SFNLcDhOb0ZWV3EtVnZ0?oc=5",
+          "published": "2026-10-28T08:26:01.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMC12QnR4a3ZZR0tMTjlsbE5lb3RHZVBveUJOWVFFa1FkNVptbVNqWmppZldxMkNWcURaVTlBMjJNdFo4UEZpbGZ1M1lIZGhiRWUyVEZiRXJuaHNxeWtXWWppMFdoalJWLUdmQ0lYZnBiT25pTm9xUU00OVl2ZFY1dHBZU1hHbE9oVnRYUG05UEY1NGp0?oc=5",
-          "published": "2026-10-27T07:42:00.000Z"
+          "tag": "Strategy",
+          "headline": "Hong Kong poised for capital inflow amid France unrest: AllianzGI - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmVVeWRjeWV3TjlVRW8tb25adGFBVndrZFNzV0xBR19hZXgyM2E0RjFYdXluSnVXdjFDdlEzc1VVM2NscEJEWVNtOF9Tby14UUFOX05sbUhCVGgtV1ZLWnhGUjNjVGh3emtWVmRhYkxpNHB5anZxbkxFOENMYkR4UWNwYjhXM1ZWM0pERDdMZzRrNUdhbk00TWs4ekJDMFlPLXNBZUZUN1IxeEFJcjQ2RTBPNlBBTUFGUHVVNmd1Yk5oMS1nVW0tLThB0gHKAUFVX3lxTFBoMXJiRXlDWjU2LXhQVWhwYnFFTVdPdkxfQzNOLUpMdjJ4TkZqZERTdXZEQ1ZkaU8tWkUzbm9SSXNYeFBxTHR0UnVzWXpYVmFqcDFIeDJjWC1OZ0N5VVBjZE8yUTdkM2RjODhodFI1OVdqbXJXbDlReGp1Tl9mZ3AtdjVOYmo0WjdRYkwzaGFsYXVqcWZTUENjUGNyRDViNmlhcXpjZ0trSVBMbDZIdUhzLUEwNkh0NFUyVGxwMkRaa1hFU1hRajQwa1E?oc=5",
+          "published": "2026-10-29T06:00:40.000Z"
         },
         {
-          "tag": "Strategy",
-          "headline": "Korea Investment Management steps up its entry into Hong Kong’s ETF market... First ETF listed in partnership with CUAM HK - 파이낸셜뉴스",
-          "source": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfdklDeWRONVpzZnVJYlgwTXZkTnRtZXVUNzJTNC1BRHVQY0QzOWllQTlEM2Y0TzVlUTI4Y09CQ1pLZ0lRTEgzMlN3aTFSMzQyVEtmN3lpcHM?oc=5",
-          "published": "2026-10-26T00:16:06.000Z"
+          "tag": "Product",
+          "headline": "Writing Australia’s own ETF rule book - AFR",
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1h1blljY01DREdUMzhPWk9pNWxsZ1FaZjdKTmMwN1Y1c0owSlJYRUtqLVJvT0pIbGlmYlBRRm9yLVBYQ0Q3UUw4U180RWFfbloxTXlCLXpiZ3ZvWlVXcDROQnVtVllza3FrN1pjS0RxelQwVVVsdzVMXzgzZFVCZHlDa0l0ZHlBNGZQdU9kVWdBOW5aV0c2d25xOXdOV01mcVMxLQ?oc=5",
+          "published": "2026-10-28T23:48:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Embracing the Semiconductor Supercycle: Harvest STAR Chip ETF (Stock Code 3559) Authorized by the SFC Listing Soon on SEHK - The Manila T…",
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRlc2MDMzQUtQRTcwbzU1RjFfTE5JWmxfWjM4TFYzaWJrdWZWNVZ5RG5feFI3VmI5RHVNRGNTMTRyM0RVYUV4Ykw4OXV5SUNsQVJreTc3YVpqTEtMX3R2dXd5OTdxN2RtVFN3eGN2YkhfQ0VXVGV4bEloUXdLZ0s1UDQ0Z3M5TDgxOHJNWEgtWi1SRXVkOWt1QWRFdm94ZGFzZGRxdXM2TVhHVlQzcUtuVm1yb0hoSFVxVVFYQS1yY25KOFAwVmJMSVVUQ1dkTENGVmJQNUZuS2Jvcjh5OC13blNGWEhfNC1Ub2U4aDBCWTN4OFdCaldZNFRfZzNfRFZjbzNwVVpzWnRJT1dRdVVYeDhIU0twOE5vRlZXcS1WdnTSAaACQVVfeXFMTUZXNjAzM0FLUEU3MG81NUYxX0xOSVpsX1ozOExWM2lia3VmVjVWeURuX3hSN1ZiOUR1TURjUzE0cjNEVWFFeGJMODl1eUlDbEFSa3k3N2FaakxLTF90dnV3eTk3cTdkbVRTd3hjdmJIX0NFV1RleGxJaFF3S2dLNVA0NGdzOUw4MThyTVhILVotUkV1ZDlrdUFkRXZveGRhc2RkcXVzNk1YR1ZUM3FLblZtcm9IaEhVcVVRWEEtcmNuSjhQMFZiTElVVENXZExDRlZiUDVGbktib3I4eTgtd25TRlhIXzQtVG9lOGgwQlkzeDhXQmpXWTRUX2czX0RWY28zcFVac1p0SU9XUXVVWHg4SFNLcDhOb0ZWV3EtVnZ0?oc=5",
+          "published": "2026-10-28T08:26:01.000Z"
         },
         {
           "tag": "Product",
@@ -76,25 +83,11 @@
           "published": "2026-10-26T08:25:00.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Korea Investment Management Enters Hong Kong ETF Market With Debut Fund Betting 60% on China Chip Stocks - bloomingbit",
-          "source": "bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YUXlidFNCQjcxSzdrLWhwaFBqSVNXN08yOUlWdkNZRDZNMGh2VkFMb19OaGJac0hubFdaS1AwZ0pkcHA4blpBZmhmUEY2bXRrMDlreA?oc=5",
-          "published": "2026-10-26T08:09:10.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Korea Investment Management debuts semiconductor ETF in Hong Kong - 매일경제",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5VlZ2dW5kRVNKT3lpY2VkU0VYMmMyRG1tWURDSmxuNkJTcFlYVmxZeGx1TjU1bE55ME5iSHFpQnlod0REQWdQMXFwNzFTOW93N1M5WEdiOA?oc=5",
-          "published": "2026-10-26T02:04:39.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Korea Investment Trust Management has entered the Hong Kong Exchange Traded Fund (ETF) market in par.. - 매일경제",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02clNOMEQydW4zd1ZMMDNQaVdiN2hfR0R1dldhbW9VbDlJVXllS3ltR1Atb1hSdGpmczRZaUFTYjNDUlktang0ZVQyOER1Vmc?oc=5",
-          "published": "2026-10-26T01:49:07.000Z"
+          "tag": "Press",
+          "headline": "China Asset Management Partners with Franklin Templeton to Explore Co-Branded ETFs in Hong Kong, Europe and US - BigGo Finance",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UR3lUaEZJdVcxSVdwQ01jTjljaERvTGJDS0ZpVkJVSUNneFl2LURqVzYtcmhsbmZVNkVsSzFKQTNGTGlad0tSQ2lVc0NoV2FMQ24yMzFKaWNYOFB4REF3amF6RWxzZEQzUVZaY2ZQdk9JOW1FV2c?oc=5",
+          "published": "2026-10-28T10:55:00.000Z"
         },
         {
           "tag": "Press",
@@ -107,20 +100,28 @@
       "insight": null,
       "companyUpdates": [
         {
+          "company": "Nikko Asset Management",
+          "ticker": "NOMURA",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: Nomura Holdings posts strong H1 2026 profit, shares rise - Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaUdTcDE1Y3NHVm1xS01NbFNXR2F0ODVWbXFkcHlfeXBpV2VySzZHcmZ4N3YzcGdfSGdjRXNhUTQyOUFhZzdfQV91bDdiLUExWDZ5NzF0TzRIcEY3dF8wYzYyc21nU1ZRdkxramZyTTNYUVZLMUZxZTBmNDk4ZElBQzhPYUhzOTFhT2poWVNCa0FMbFpsUVJIMnhGVWxiRndXRjVORGpDdk50TEt4MmlLS3pDbDRJOUw4YkM3U2RZV0dHdVRVNUk1SnpBak4zV182V2VSMzdRQzk?oc=5",
+          "published": "2026-10-28T15:42:23.000Z"
+        },
+        {
+          "company": "BlackRock",
+          "ticker": "BLK",
+          "tag": "Transcript",
+          "headline": "BlackRock TCP Capital Corp. R (8TC.HA) Q4 FY2025 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1hvSF80WEZfR0N3eXpWZXZ4WGJ5Z19JSHhzV0dKV3JjYUU4dXNudlJBeTJWOGprNWQwMHF4OUJoclVBcVBfemdOQVg3ZG5rcFN3cjlNQk5SazlBVUFZZmNqZGE2WmpneFhRUE45QllCOTRJazNvY25BTE43enQzb21MNFF2M0NqcFphdFBkYldmZw?oc=5",
+          "published": "2026-10-28T11:53:59.000Z"
+        },
+        {
           "company": "Schroders",
           "ticker": "SDR",
           "tag": "Transcript",
           "headline": "h HSBC HK SDR 5to1 (HSHD.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3gwV3dmUEV1OEhJLUphYzhSS3gxYmxYVmp1cXdrMlZob3RiczF1NEwxQzAzN09iVkZSbXRVbkoxVjA1ZnVQNk5tZjN2eHVUUTY1TTJBeXF5UTVTVF9oWnl2QlhzZVRIdkt6ZE1pSjNPc0tVbG9tRFpwbUdrcTF0Yjh4UDlzYUxrQlQ2cU9ydlZSWmt2?oc=5",
           "published": "2026-10-27T07:45:00.000Z"
-        },
-        {
-          "company": "BlackRock",
-          "ticker": "BLK",
-          "tag": "Transcript",
-          "headline": "Transcript: BlackRock Q3 2026 Earnings Conference Call - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU15Y0V4ZWNUR2Q5YXhSd1FORnd0X0FpY0xjaW4zRmlGVVU5a2lqeU13cmZ2RTQzVEZKNDB1blFXVmFaT3pGbkFMT0VQWm1BaTlMVzluZ19QWklBV2ZXSVBKZGFiYWtVSFpQbF96MWFrSFlEVDdFbFhVRGtBM2RKY0pyZG5NUXRpVTRrRXlBOEt1ZmVlQUJnbnB3YTRRSm8?oc=5",
-          "published": "2026-10-14T07:00:00.000Z"
         }
       ]
     },
@@ -130,6 +131,13 @@
       "bullets": [
         {
           "tag": "Press",
+          "headline": "How growth in use of AI and globalisation have transformed wealth management - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkcxNUt3TXpfbDNVSzZiX0l3QXdkNm9ST25DQy1RSjZFS2hwX3FrSHlfMmFZWWZSeks0cm9yVmV5YXN5MWlQSU9oN0J3eXZMdGlIOHpnQlA3S09wdzB1dHFnZEtXanlWcDRGc1VhNjBVTTdDU2hQdzNCRGFQckZraC1IWkQ4czVaREgxeHJDY2NaVXdWRmhTMUdKTG5SUkdLMmFPTjYyZ3FWbGN5bVRwX2ZEZzhFQlk0NGNjWUVDTUZ6QXMxd0ZxSHVqUkRtU1FjTUFNV2EtQ2Q2elp1NEZOc1h1YmlHdmM1X2lN?oc=5",
+          "published": "2026-10-28T04:00:08.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "DDTC Professionals Study UHNWI and Family Office Tax in Singapore - DDTCNews",
           "source": "DDTCNews",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0pIWGhQOXZoLVZzVGhhRVl3QXRrVVVscTUySlFSQkVNb1pBa3dISDJ6WnVYcGNxZ3QyZ0x6Zkp1MkFiQ0xXUkhzSnBkNE05a3RtNmdscE8zb2praGV0RC1fc3gwQV94VUM0eV9oN25nZzVnM2w1ajFUNXl6YmVoRWVRZEI1N05hbHZCRWJwOTZPVW1tX0JaRmFxQmtKMFhSZnVtUlRoN1M4TGw2?oc=5",
@@ -137,6 +145,13 @@
         }
       ],
       "candidates": [
+        {
+          "tag": "Press",
+          "headline": "How growth in use of AI and globalisation have transformed wealth management - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkcxNUt3TXpfbDNVSzZiX0l3QXdkNm9ST25DQy1RSjZFS2hwX3FrSHlfMmFZWWZSeks0cm9yVmV5YXN5MWlQSU9oN0J3eXZMdGlIOHpnQlA3S09wdzB1dHFnZEtXanlWcDRGc1VhNjBVTTdDU2hQdzNCRGFQckZraC1IWkQ4czVaREgxeHJDY2NaVXdWRmhTMUdKTG5SUkdLMmFPTjYyZ3FWbGN5bVRwX2ZEZzhFQlk0NGNjWUVDTUZ6QXMxd0ZxSHVqUkRtU1FjTUFNV2EtQ2Q2elp1NEZOc1h1YmlHdmM1X2lN?oc=5",
+          "published": "2026-10-28T04:00:08.000Z"
+        },
         {
           "tag": "Press",
           "headline": "DDTC Professionals Study UHNWI and Family Office Tax in Singapore - DDTCNews",
@@ -156,6 +171,14 @@
       },
       "companyUpdates": [
         {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "UBS GROUP N (UBSG.SW) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX1A4UFVMR1h1SjJJNVhPN1FfWWp0elllYU9jUWhoUG5XT1Z1RFZ4VVFyX3ZOUS1VX0cyM2NCZE1xYV9kTEEwcHV2VnZLaW1wczVxLVpyazFWcUhsMmtNZmVDTDdYWnZncUVyXzJzcjVGdXZqRkJaOE0zSlVfdkwzNXNjdXdzaVdjd3BiR2k5YmdXOFZV?oc=5",
+          "published": "2026-10-28T08:00:00.000Z"
+        },
+        {
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
@@ -170,14 +193,6 @@
           "headline": "IFAST (AIY.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWVrNTJjV21jMmhPamQ4c1czTm5JUWppNzBuV2pZSlVjTTU0U3Fhblh1YWFXMFJsU0VtbndTYmRKM0ROaWQ2bEszZkpoV0ZUQ0hIX2VnU1haOE9wLWVEeUdObEhqTnlqTE9td3BJcEdBTTlValgzY2NrYnVxRDc3OUJ2MWFWOWNDV0FHUUNoa2FPdw?oc=5",
           "published": "2026-10-27T03:00:00.000Z"
-        },
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "Altria Group (MO) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44dnctWFpHTmotZGFTQ0hFUDNPQXJacTZ4dkVocElaMWgyMTZSUGtUSExLZUhUY1hSSjJxdWc4cG9IUkk4aWd1bkptWlB5cEdHSnFyXzFac2lmTnlwWVEyYmFrc3BmSDEtblE?oc=5",
-          "published": "2026-10-21T21:57:47.000Z"
         }
       ]
     },
@@ -187,19 +202,33 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "China Life Insurance (02628.HK) will release its financial report on October 30. - Moomoo",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0tEWmNIWnZmQ2RpWFU5bFUwTGtKcEE5WGFCM08wbTI3c3pzVVh4dHRNR3ctTXRwMklNWHR0UVhuVFQ2dGZWZlFCcUFyU2N1RUNURV9VZ3pSeU5ickNLeU9OQjNiaDlVRjYwU2tiZXhwMGFiUGcyM18tdVR3ajgyd3BoMzJwbVZ2Uzhqem92LXl3SDNHdXY1SFhwai1keUpoVHJRckxIUW9fNU0?oc=5",
-          "published": "2026-10-26T02:06:53.000Z"
+          "headline": "South Korea posts record $756.1m foreign health insurance surplus - Insurance Asia",
+          "source": "Insurance Asia",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDdGbHllWGdmWXQ3OVVOUTlERlVpUlhFNWFMbHV2X3gzV050Si11VWtIYUlXcy1kTUdHUWNIdnl3QmE5YW5VQnBiMFZZTWpoVDlZQVJseUVFNmFsN2NpRFdDQzR5ejdiQy01ZUxsOFpZcUtYemJPelJITTJDcWo4bUcwak96ZkJ0UWxqbW1LNEFHQ0JxRHRrQmVaMEc2MVNZNHdYQzYydw?oc=5",
+          "published": "2026-10-28T21:15:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "China Life Insurance Overseas embeds AI in investment operations - Insurance Asia",
+          "source": "Insurance Asia",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVlFaFFIaVMzLUJab3F2c2ZYM1FBMVczcnFsaHE1bFZ3WjdDbWU3bWlIaU9BZzNFMVdBeXRiQmFYa2pKTzd3bmdDSEFnRUtYdmxmdG1fX25zWHBMaFJFVkFpamw3VWljVDZRdzJ5QS1DVkRNMXQ1X0l1dUpUVHA2M1QtZ0hIOE5pRGI4WnVqRzdRR3FSSDZmNmZDSWZWUQ?oc=5",
+          "published": "2026-10-27T04:01:53.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
-          "headline": "China Life Insurance (02628.HK) will release its financial report on October 30. - Moomoo",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0tEWmNIWnZmQ2RpWFU5bFUwTGtKcEE5WGFCM08wbTI3c3pzVVh4dHRNR3ctTXRwMklNWHR0UVhuVFQ2dGZWZlFCcUFyU2N1RUNURV9VZ3pSeU5ickNLeU9OQjNiaDlVRjYwU2tiZXhwMGFiUGcyM18tdVR3ajgyd3BoMzJwbVZ2Uzhqem92LXl3SDNHdXY1SFhwai1keUpoVHJRckxIUW9fNU0?oc=5",
-          "published": "2026-10-26T02:06:53.000Z"
+          "headline": "South Korea posts record $756.1m foreign health insurance surplus - Insurance Asia",
+          "source": "Insurance Asia",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDdGbHllWGdmWXQ3OVVOUTlERlVpUlhFNWFMbHV2X3gzV050Si11VWtIYUlXcy1kTUdHUWNIdnl3QmE5YW5VQnBiMFZZTWpoVDlZQVJseUVFNmFsN2NpRFdDQzR5ejdiQy01ZUxsOFpZcUtYemJPelJITTJDcWo4bUcwak96ZkJ0UWxqbW1LNEFHQ0JxRHRrQmVaMEc2MVNZNHdYQzYydw?oc=5",
+          "published": "2026-10-28T21:15:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "China Life Insurance Overseas embeds AI in investment operations - Insurance Asia",
+          "source": "Insurance Asia",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVlFaFFIaVMzLUJab3F2c2ZYM1FBMVczcnFsaHE1bFZ3WjdDbWU3bWlIaU9BZzNFMVdBeXRiQmFYa2pKTzd3bmdDSEFnRUtYdmxmdG1fX25zWHBMaFJFVkFpamw3VWljVDZRdzJ5QS1DVkRNMXQ1X0l1dUpUVHA2M1QtZ0hIOE5pRGI4WnVqRzdRR3FSSDZmNmZDSWZWUQ?oc=5",
+          "published": "2026-10-27T04:01:53.000Z"
         }
       ],
       "insight": {
@@ -218,6 +247,13 @@
       "name": "Retail Banking",
       "bullets": [
         {
+          "tag": "Leadership",
+          "headline": "What 20 Years of Payments Says About the Next 20 | Jia Hang, Chairman, DCS - Fintech News Philippines",
+          "source": "Fintech News Philippines",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0ZIOUFjM2NPUUlhR0ZlZWhvTjlYYXVCZU1FWjdMdDJ2ZXNYMlJzY3ZTYlhfazRyR1p6Q005M1JSMi01cVBEbFh5MnAxb3BCSHNzRFItNzZjelJQZ3Vsa1QxYjlPbmV2WlROaHJEYUVKaHJaOEU0Rl8wZmJlTEJlNHJuTzZHSjVSTmhJT1JtclByYlc4TVdUbnNxc1habWxKcHM5eXFnU1RidEk?oc=5",
+          "published": "2026-10-28T09:44:53.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
           "source": "SCMP",
@@ -233,6 +269,13 @@
         }
       ],
       "candidates": [
+        {
+          "tag": "Leadership",
+          "headline": "What 20 Years of Payments Says About the Next 20 | Jia Hang, Chairman, DCS - Fintech News Philippines",
+          "source": "Fintech News Philippines",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0ZIOUFjM2NPUUlhR0ZlZWhvTjlYYXVCZU1FWjdMdDJ2ZXNYMlJzY3ZTYlhfazRyR1p6Q005M1JSMi01cVBEbFh5MnAxb3BCSHNzRFItNzZjelJQZ3Vsa1QxYjlPbmV2WlROaHJEYUVKaHJaOEU0Rl8wZmJlTEJlNHJuTzZHSjVSTmhJT1JtclByYlc4TVdUbnNxc1habWxKcHM5eXFnU1RidEk?oc=5",
+          "published": "2026-10-28T09:44:53.000Z"
+        },
         {
           "tag": "Press",
           "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
@@ -259,20 +302,20 @@
       },
       "companyUpdates": [
         {
+          "company": "Standard Chartered",
+          "ticker": "STAN",
+          "tag": "Transcript",
+          "headline": "STANDARD CHARTERED PLC ORD USD0 (STAN.L) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2x4Q21fWVJZNkxxWU1GRnNnZ2RsUWowbmdQQVNLWGVfbWtZRnhzb2ZnbE83VGNfOXg0RE1FNVIzNm1BWDRBZTV0MUhhZENxbTNyVTVLY1lQV1o2QWZ4VHN5c1NzSjFPVHh6OXl0LUZqcFBUMW1kbjEwb2RsNVp6V2ZibG4wTHdITWlSOVpydElSZw?oc=5",
+          "published": "2026-10-28T08:00:00.000Z"
+        },
+        {
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
           "headline": "Earnings call transcript: HSBC misses Q3 2026 earnings forecast as stock falls - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmcyeDN0NWRpU0tqOEJGY0NNREtrTEUzdVNabWNMVlpJZk5Sa1NOWTZkZkF5ejlaMEdsQUxOb1lLcVM4aTRUZW4zS2ZOTWFNTEdUWkhOdWMxRlBxTXo5Z2dWamx1amNVQlEtdlBaNHE1a1VDWVp6WFVldWxrWVowQXdQbHBwUDJpXzhRZ0JZMnJwS2RnYTd3dWt6VW1GODBrdzcwbU1FT1Bsb0V6dzlFWFlJMHdqcVNySG9kMUVxLVIwdnQ4N1pPcDM1T3pwdw?oc=5",
           "published": "2026-10-27T09:56:22.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "DBS Group Holdings Ltd. (DBSDY) H1 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQci1ESWtGVDlaUF80cTRYVFdVTWJBdk9zVWVXX2ZoNXAwSXVxa0xNQlN3RXRVaUdaQW5IUTVOMWk4LWlQcEVrY2lYOGhyMHFnZ1lERW1IQllFSExrNVJLc3ZfWXBORFpaQy1jZE5iNXdRT09ZQlZpQzdzZkg2dEl3VjhEeWlhSWJYR25XU2pISQ?oc=5",
-          "published": "2026-10-21T20:17:17.000Z"
         }
       ]
     }
