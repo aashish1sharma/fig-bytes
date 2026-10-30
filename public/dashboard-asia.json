@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:34:23.733Z",
+  "generatedAt": "2026-10-30T07:38:19.524Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -40,17 +40,17 @@
         },
         {
           "tag": "Product",
-          "headline": "Writing Australia’s own ETF rule book - AFR",
-          "source": "AFR",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1h1blljY01DREdUMzhPWk9pNWxsZ1FaZjdKTmMwN1Y1c0owSlJYRUtqLVJvT0pIbGlmYlBRRm9yLVBYQ0Q3UUw4U180RWFfbloxTXlCLXpiZ3ZvWlVXcDROQnVtVllza3FrN1pjS0RxelQwVVVsdzVMXzgzZFVCZHlDa0l0ZHlBNGZQdU9kVWdBOW5aV0c2d25xOXdOV01mcVMxLQ?oc=5",
-          "published": "2026-10-28T23:48:00.000Z"
-        },
-        {
-          "tag": "Product",
           "headline": "Embracing the Semiconductor Supercycle: Harvest STAR Chip ETF (Stock Code 3559) Authorized by the SFC Listing Soon on SEHK - The Manila T…",
           "source": "The Manila Times",
           "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRlc2MDMzQUtQRTcwbzU1RjFfTE5JWmxfWjM4TFYzaWJrdWZWNVZ5RG5feFI3VmI5RHVNRGNTMTRyM0RVYUV4Ykw4OXV5SUNsQVJreTc3YVpqTEtMX3R2dXd5OTdxN2RtVFN3eGN2YkhfQ0VXVGV4bEloUXdLZ0s1UDQ0Z3M5TDgxOHJNWEgtWi1SRXVkOWt1QWRFdm94ZGFzZGRxdXM2TVhHVlQzcUtuVm1yb0hoSFVxVVFYQS1yY25KOFAwVmJMSVVUQ1dkTENGVmJQNUZuS2Jvcjh5OC13blNGWEhfNC1Ub2U4aDBCWTN4OFdCaldZNFRfZzNfRFZjbzNwVVpzWnRJT1dRdVVYeDhIU0twOE5vRlZXcS1WdnTSAaACQVVfeXFMTUZXNjAzM0FLUEU3MG81NUYxX0xOSVpsX1ozOExWM2lia3VmVjVWeURuX3hSN1ZiOUR1TURjUzE0cjNEVWFFeGJMODl1eUlDbEFSa3k3N2FaakxLTF90dnV3eTk3cTdkbVRTd3hjdmJIX0NFV1RleGxJaFF3S2dLNVA0NGdzOUw4MThyTVhILVotUkV1ZDlrdUFkRXZveGRhc2RkcXVzNk1YR1ZUM3FLblZtcm9IaEhVcVVRWEEtcmNuSjhQMFZiTElVVENXZExDRlZiUDVGbktib3I4eTgtd25TRlhIXzQtVG9lOGgwQlkzeDhXQmpXWTRUX2czX0RWY28zcFVac1p0SU9XUXVVWHg4SFNLcDhOb0ZWV3EtVnZ0?oc=5",
           "published": "2026-10-28T08:26:01.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "China Asset Management Partners with Franklin Templeton to Explore Co-Branded ETFs in Hong Kong, Europe and US - BigGo Finance",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UR3lUaEZJdVcxSVdwQ01jTjljaERvTGJDS0ZpVkJVSUNneFl2LURqVzYtcmhsbmZVNkVsSzFKQTNGTGlad0tSQ2lVc0NoV2FMQ24yMzFKaWNYOFB4REF3amF6RWxzZEQzUVZaY2ZQdk9JOW1FV2c?oc=5",
+          "published": "2026-10-28T10:55:00.000Z"
         }
       ],
       "candidates": [
@@ -63,24 +63,10 @@
         },
         {
           "tag": "Product",
-          "headline": "Writing Australia’s own ETF rule book - AFR",
-          "source": "AFR",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1h1blljY01DREdUMzhPWk9pNWxsZ1FaZjdKTmMwN1Y1c0owSlJYRUtqLVJvT0pIbGlmYlBRRm9yLVBYQ0Q3UUw4U180RWFfbloxTXlCLXpiZ3ZvWlVXcDROQnVtVllza3FrN1pjS0RxelQwVVVsdzVMXzgzZFVCZHlDa0l0ZHlBNGZQdU9kVWdBOW5aV0c2d25xOXdOV01mcVMxLQ?oc=5",
-          "published": "2026-10-28T23:48:00.000Z"
-        },
-        {
-          "tag": "Product",
           "headline": "Embracing the Semiconductor Supercycle: Harvest STAR Chip ETF (Stock Code 3559) Authorized by the SFC Listing Soon on SEHK - The Manila T…",
           "source": "The Manila Times",
           "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRlc2MDMzQUtQRTcwbzU1RjFfTE5JWmxfWjM4TFYzaWJrdWZWNVZ5RG5feFI3VmI5RHVNRGNTMTRyM0RVYUV4Ykw4OXV5SUNsQVJreTc3YVpqTEtMX3R2dXd5OTdxN2RtVFN3eGN2YkhfQ0VXVGV4bEloUXdLZ0s1UDQ0Z3M5TDgxOHJNWEgtWi1SRXVkOWt1QWRFdm94ZGFzZGRxdXM2TVhHVlQzcUtuVm1yb0hoSFVxVVFYQS1yY25KOFAwVmJMSVVUQ1dkTENGVmJQNUZuS2Jvcjh5OC13blNGWEhfNC1Ub2U4aDBCWTN4OFdCaldZNFRfZzNfRFZjbzNwVVpzWnRJT1dRdVVYeDhIU0twOE5vRlZXcS1WdnTSAaACQVVfeXFMTUZXNjAzM0FLUEU3MG81NUYxX0xOSVpsX1ozOExWM2lia3VmVjVWeURuX3hSN1ZiOUR1TURjUzE0cjNEVWFFeGJMODl1eUlDbEFSa3k3N2FaakxLTF90dnV3eTk3cTdkbVRTd3hjdmJIX0NFV1RleGxJaFF3S2dLNVA0NGdzOUw4MThyTVhILVotUkV1ZDlrdUFkRXZveGRhc2RkcXVzNk1YR1ZUM3FLblZtcm9IaEhVcVVRWEEtcmNuSjhQMFZiTElVVENXZExDRlZiUDVGbktib3I4eTgtd25TRlhIXzQtVG9lOGgwQlkzeDhXQmpXWTRUX2czX0RWY28zcFVac1p0SU9XUXVVWHg4SFNLcDhOb0ZWV3EtVnZ0?oc=5",
           "published": "2026-10-28T08:26:01.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Korea Investment Management Makes First Foray into Hong Kong ETF Market with Joint Product Holding 60% Chinese Semiconductors - BigGo Fin…",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yNVE4SWRkelU1R09RSEJsTldURUZqek1YcnF1RXV0RWZwTEF4N1NlUVRfRWJ5aGF3WlVOcnBuemdaU2xZekgyUXNSY1lFdHh5eTJ4SGZ3WmhRYThXb2lZOHltMW5xaDhOS3NKRmFsQXZtU2I3X2c?oc=5",
-          "published": "2026-10-26T08:25:00.000Z"
         },
         {
           "tag": "Press",
@@ -88,16 +74,17 @@
           "source": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UR3lUaEZJdVcxSVdwQ01jTjljaERvTGJDS0ZpVkJVSUNneFl2LURqVzYtcmhsbmZVNkVsSzFKQTNGTGlad0tSQ2lVc0NoV2FMQ24yMzFKaWNYOFB4REF3amF6RWxzZEQzUVZaY2ZQdk9JOW1FV2c?oc=5",
           "published": "2026-10-28T10:55:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "HSBC to Absorb Hang Seng Bank's Asset Management Unit in First Business Integration in Hong Kong - BigGo Finance",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92a1dmMV96bnd3anJfbFhuak5PU0NIdDdBeU41ZnNMRVRpMFkzNkVrZUlRUFNsU19JeGhhVWpsZ19GWk51VkprN3JPMktZYmR6a04yUENyb0pxRHVOeUtKaWVhYmR5SWlKRVFuQ09iZHdBaExTY1E?oc=5",
-          "published": "2026-10-27T04:05:00.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "EWH – iShares MSCI Hong Kong ETF – ETF Stock Quote - Morningstar",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iSDZrdzFaQmY4dC14OG1qNXFiNnNudVZDRTc4RVVOcDY0RHd3cFI5MHlsUHFZWUFRSzJ3Zk1UdGFDYW41X3V4NF9KTm52Z3M1RTRtelhodE9rbGc?oc=5",
+        "published": "2026-10-27T07:00:00.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "Nikko Asset Management",
@@ -119,9 +106,9 @@
           "company": "Schroders",
           "ticker": "SDR",
           "tag": "Transcript",
-          "headline": "h HSBC HK SDR 5to1 (HSHD.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3gwV3dmUEV1OEhJLUphYzhSS3gxYmxYVmp1cXdrMlZob3RiczF1NEwxQzAzN09iVkZSbXRVbkoxVjA1ZnVQNk5tZjN2eHVUUTY1TTJBeXF5UTVTVF9oWnl2QlhzZVRIdkt6ZE1pSjNPc0tVbG9tRFpwbUdrcTF0Yjh4UDlzYUxrQlQ2cU9ydlZSWmt2?oc=5",
-          "published": "2026-10-27T07:45:00.000Z"
+          "headline": "u SK Hynix US SDR 100to1 (UNXD.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkpPMVBpZWJzR0hfcHVTXzJUZzRmemJUYlVZQkplQXpXcjl1U013VHAtSjZLMWM3N3BLUnZEYVJIREtydnZSMUx5X3V2cUZ5V280cGE0NkNDa2hTN2RnNXQ2a2tVSC1nMTl6Q205R3ZVSkxiUElrUDNscnNZbmZSQmYweHZMTFdnX3c3bzhOSm5tZ09a?oc=5",
+          "published": "2026-10-28T00:00:00.000Z"
         }
       ]
     },
@@ -131,33 +118,33 @@
       "bullets": [
         {
           "tag": "Press",
+          "headline": "Anwar’s ex-rival backs Malaysia’s budget. Will Muhyiddin become PM’s election partner?",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3372623/anwars-ex-rival-backs-malaysias-budget-will-muhyiddin-become-pms-election-partner",
+          "published": "2026-10-29T13:54:13.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "How growth in use of AI and globalisation have transformed wealth management - South China Morning Post",
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkcxNUt3TXpfbDNVSzZiX0l3QXdkNm9ST25DQy1RSjZFS2hwX3FrSHlfMmFZWWZSeks0cm9yVmV5YXN5MWlQSU9oN0J3eXZMdGlIOHpnQlA3S09wdzB1dHFnZEtXanlWcDRGc1VhNjBVTTdDU2hQdzNCRGFQckZraC1IWkQ4czVaREgxeHJDY2NaVXdWRmhTMUdKTG5SUkdLMmFPTjYyZ3FWbGN5bVRwX2ZEZzhFQlk0NGNjWUVDTUZ6QXMxd0ZxSHVqUkRtU1FjTUFNV2EtQ2Q2elp1NEZOc1h1YmlHdmM1X2lN?oc=5",
           "published": "2026-10-28T04:00:08.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "DDTC Professionals Study UHNWI and Family Office Tax in Singapore - DDTCNews",
-          "source": "DDTCNews",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0pIWGhQOXZoLVZzVGhhRVl3QXRrVVVscTUySlFSQkVNb1pBa3dISDJ6WnVYcGNxZ3QyZ0x6Zkp1MkFiQ0xXUkhzSnBkNE05a3RtNmdscE8zb2praGV0RC1fc3gwQV94VUM0eV9oN25nZzVnM2w1ajFUNXl6YmVoRWVRZEI1N05hbHZCRWJwOTZPVW1tX0JaRmFxQmtKMFhSZnVtUlRoN1M4TGw2?oc=5",
-          "published": "2026-10-27T06:37:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Press",
+          "headline": "Anwar’s ex-rival backs Malaysia’s budget. Will Muhyiddin become PM’s election partner?",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3372623/anwars-ex-rival-backs-malaysias-budget-will-muhyiddin-become-pms-election-partner",
+          "published": "2026-10-29T13:54:13.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "How growth in use of AI and globalisation have transformed wealth management - South China Morning Post",
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkcxNUt3TXpfbDNVSzZiX0l3QXdkNm9ST25DQy1RSjZFS2hwX3FrSHlfMmFZWWZSeks0cm9yVmV5YXN5MWlQSU9oN0J3eXZMdGlIOHpnQlA3S09wdzB1dHFnZEtXanlWcDRGc1VhNjBVTTdDU2hQdzNCRGFQckZraC1IWkQ4czVaREgxeHJDY2NaVXdWRmhTMUdKTG5SUkdLMmFPTjYyZ3FWbGN5bVRwX2ZEZzhFQlk0NGNjWUVDTUZ6QXMxd0ZxSHVqUkRtU1FjTUFNV2EtQ2Q2elp1NEZOc1h1YmlHdmM1X2lN?oc=5",
           "published": "2026-10-28T04:00:08.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "DDTC Professionals Study UHNWI and Family Office Tax in Singapore - DDTCNews",
-          "source": "DDTCNews",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0pIWGhQOXZoLVZzVGhhRVl3QXRrVVVscTUySlFSQkVNb1pBa3dISDJ6WnVYcGNxZ3QyZ0x6Zkp1MkFiQ0xXUkhzSnBkNE05a3RtNmdscE8zb2praGV0RC1fc3gwQV94VUM0eV9oN25nZzVnM2w1ajFUNXl6YmVoRWVRZEI1N05hbHZCRWJwOTZPVW1tX0JaRmFxQmtKMFhSZnVtUlRoN1M4TGw2?oc=5",
-          "published": "2026-10-27T06:37:00.000Z"
         }
       ],
       "insight": {
@@ -199,38 +186,8 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "South Korea posts record $756.1m foreign health insurance surplus - Insurance Asia",
-          "source": "Insurance Asia",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDdGbHllWGdmWXQ3OVVOUTlERlVpUlhFNWFMbHV2X3gzV050Si11VWtIYUlXcy1kTUdHUWNIdnl3QmE5YW5VQnBiMFZZTWpoVDlZQVJseUVFNmFsN2NpRFdDQzR5ejdiQy01ZUxsOFpZcUtYemJPelJITTJDcWo4bUcwak96ZkJ0UWxqbW1LNEFHQ0JxRHRrQmVaMEc2MVNZNHdYQzYydw?oc=5",
-          "published": "2026-10-28T21:15:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "China Life Insurance Overseas embeds AI in investment operations - Insurance Asia",
-          "source": "Insurance Asia",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVlFaFFIaVMzLUJab3F2c2ZYM1FBMVczcnFsaHE1bFZ3WjdDbWU3bWlIaU9BZzNFMVdBeXRiQmFYa2pKTzd3bmdDSEFnRUtYdmxmdG1fX25zWHBMaFJFVkFpamw3VWljVDZRdzJ5QS1DVkRNMXQ1X0l1dUpUVHA2M1QtZ0hIOE5pRGI4WnVqRzdRR3FSSDZmNmZDSWZWUQ?oc=5",
-          "published": "2026-10-27T04:01:53.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "South Korea posts record $756.1m foreign health insurance surplus - Insurance Asia",
-          "source": "Insurance Asia",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDdGbHllWGdmWXQ3OVVOUTlERlVpUlhFNWFMbHV2X3gzV050Si11VWtIYUlXcy1kTUdHUWNIdnl3QmE5YW5VQnBiMFZZTWpoVDlZQVJseUVFNmFsN2NpRFdDQzR5ejdiQy01ZUxsOFpZcUtYemJPelJITTJDcWo4bUcwak96ZkJ0UWxqbW1LNEFHQ0JxRHRrQmVaMEc2MVNZNHdYQzYydw?oc=5",
-          "published": "2026-10-28T21:15:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "China Life Insurance Overseas embeds AI in investment operations - Insurance Asia",
-          "source": "Insurance Asia",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVlFaFFIaVMzLUJab3F2c2ZYM1FBMVczcnFsaHE1bFZ3WjdDbWU3bWlIaU9BZzNFMVdBeXRiQmFYa2pKTzd3bmdDSEFnRUtYdmxmdG1fX25zWHBMaFJFVkFpamw3VWljVDZRdzJ5QS1DVkRNMXQ1X0l1dUpUVHA2M1QtZ0hIOE5pRGI4WnVqRzdRR3FSSDZmNmZDSWZWUQ?oc=5",
-          "published": "2026-10-27T04:01:53.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "Hong Kong to tighten risky premium financing market as red flags emerge - South China Morning Post",
@@ -247,48 +204,34 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Leadership",
-          "headline": "What 20 Years of Payments Says About the Next 20 | Jia Hang, Chairman, DCS - Fintech News Philippines",
-          "source": "Fintech News Philippines",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0ZIOUFjM2NPUUlhR0ZlZWhvTjlYYXVCZU1FWjdMdDJ2ZXNYMlJzY3ZTYlhfazRyR1p6Q005M1JSMi01cVBEbFh5MnAxb3BCSHNzRFItNzZjelJQZ3Vsa1QxYjlPbmV2WlROaHJEYUVKaHJaOEU0Rl8wZmJlTEJlNHJuTzZHSjVSTmhJT1JtclByYlc4TVdUbnNxc1habWxKcHM5eXFnU1RidEk?oc=5",
-          "published": "2026-10-28T09:44:53.000Z"
+          "tag": "Product",
+          "headline": "5 best digital banks in Singapore [2026]: The complete guide to digital banking - WorldFirst",
+          "source": "WorldFirst",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEJ3cDBKS3VPZzhBM0FjQVVVY1NkX0ZrQlNFWFBpUGNBVW1PaGhpQmhtcDFkaGQ3NUo1MjAzOVJZbnVDM0ZtUWdRQTF6aldablhaR2lxbV91aEtZSGpJQ1RjcWd1dUFXMkNZQ195WmYyaUp3RUpBOTNfcFJWRjc5UlNjYjUwRU45SG9KOG1YUQ?oc=5",
+          "published": "2026-10-30T06:10:29.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE1RVVlqa2pKbnFTeUZZWTFnMWJYUHE5SmdCRjJrTTkxZDF4TlVETmxrU1NWcVRfYjNPQlFWVTB2WktzSGNxQ1VpMmhfLTBYM0hMcnF6WlRQdUVvR042R3hqbGtGU2U2c1lmU2ZKMllsb0ZVaFdWSV9ObUtGZUE0eEtXaGJLT3AyVDFQU0RxSk5zdjZKUkZTdjk3djFPRFRIWUxYR3ZudDJUS1Fxd3hDekRBX2dLcGvSAbcBQVVfeXFMTzE2MWlqSTRSdUpvUy1sbV9KS0FvSEpRQnlXclZBSnFOYS1zZ0E4QmFkdDltamw5ellIYm5OV0l6NDJ0aUVGMDQwa3BlS29aMDNEUWNuV1VnNUFhelhSRkRhWnNFeHNOUXFCeUgyb3hSTnhqN0oxejhSZmhfVTFBeUZHa21ONmM3dXo0X0pKRFhETS1rUEk5b09ZcEhTS1pqdEVqdFF4c3ltWXhKTWZhR0VpZHBzUG9n?oc=5",
-          "published": "2026-10-27T06:03:05.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Revolut reportedly seeks digital bank licence in the Philippines - The Paypers",
-          "source": "The Paypers",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVhRV2p5T0U5bEk0SFlUYmNmOTQzOEhwRkZRRkFuV01DVHVfREhCaTVYVFRmVXhlWTVRVG1jLVVOb1NQVG5BTllsRTdnVlZFLVpIYkpFM3dBOG02Z05FTnVuVDdMSHVSZFgyNEpySWU4UmVvemRqOGs3ZGxlZDl4ZVlTanFvWkdmeEczN2RHS201dkVjUG5nZ2RCS25yZER6OWRhQmdqdmtiNjA?oc=5",
-          "published": "2026-10-26T09:44:03.000Z"
+          "headline": "Malaysia and Thailand join Singapore in stablecoin payments - Bit2Me News",
+          "source": "Bit2Me News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjJHd2w2R3dTSDM1X09pT2N0eFlYdHpqWE94OTZxY05pbXdvOGlHdldlZFBkSWJaX1lWdkZRbHJiZlRFY0NjTGtValBtTE9NQU5nWVFPaUltNDFjYmVPNk1qbmRJbkpHd0N6WU5FcTc5UWlVZkIzdjg4a0ZsWWx3cFhOT3ZraF9WX2JkUFJrcmd0WjQ?oc=5",
+          "published": "2026-10-28T07:00:13.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Leadership",
-          "headline": "What 20 Years of Payments Says About the Next 20 | Jia Hang, Chairman, DCS - Fintech News Philippines",
-          "source": "Fintech News Philippines",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0ZIOUFjM2NPUUlhR0ZlZWhvTjlYYXVCZU1FWjdMdDJ2ZXNYMlJzY3ZTYlhfazRyR1p6Q005M1JSMi01cVBEbFh5MnAxb3BCSHNzRFItNzZjelJQZ3Vsa1QxYjlPbmV2WlROaHJEYUVKaHJaOEU0Rl8wZmJlTEJlNHJuTzZHSjVSTmhJT1JtclByYlc4TVdUbnNxc1habWxKcHM5eXFnU1RidEk?oc=5",
-          "published": "2026-10-28T09:44:53.000Z"
+          "tag": "Product",
+          "headline": "5 best digital banks in Singapore [2026]: The complete guide to digital banking - WorldFirst",
+          "source": "WorldFirst",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEJ3cDBKS3VPZzhBM0FjQVVVY1NkX0ZrQlNFWFBpUGNBVW1PaGhpQmhtcDFkaGQ3NUo1MjAzOVJZbnVDM0ZtUWdRQTF6aldablhaR2lxbV91aEtZSGpJQ1RjcWd1dUFXMkNZQ195WmYyaUp3RUpBOTNfcFJWRjc5UlNjYjUwRU45SG9KOG1YUQ?oc=5",
+          "published": "2026-10-30T06:10:29.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Beijing pushes digital yuan adoption with university salary payments - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE1RVVlqa2pKbnFTeUZZWTFnMWJYUHE5SmdCRjJrTTkxZDF4TlVETmxrU1NWcVRfYjNPQlFWVTB2WktzSGNxQ1VpMmhfLTBYM0hMcnF6WlRQdUVvR042R3hqbGtGU2U2c1lmU2ZKMllsb0ZVaFdWSV9ObUtGZUE0eEtXaGJLT3AyVDFQU0RxSk5zdjZKUkZTdjk3djFPRFRIWUxYR3ZudDJUS1Fxd3hDekRBX2dLcGvSAbcBQVVfeXFMTzE2MWlqSTRSdUpvUy1sbV9KS0FvSEpRQnlXclZBSnFOYS1zZ0E4QmFkdDltamw5ellIYm5OV0l6NDJ0aUVGMDQwa3BlS29aMDNEUWNuV1VnNUFhelhSRkRhWnNFeHNOUXFCeUgyb3hSTnhqN0oxejhSZmhfVTFBeUZHa21ONmM3dXo0X0pKRFhETS1rUEk5b09ZcEhTS1pqdEVqdFF4c3ltWXhKTWZhR0VpZHBzUG9n?oc=5",
-          "published": "2026-10-27T06:03:05.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Revolut reportedly seeks digital bank licence in the Philippines - The Paypers",
-          "source": "The Paypers",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVhRV2p5T0U5bEk0SFlUYmNmOTQzOEhwRkZRRkFuV01DVHVfREhCaTVYVFRmVXhlWTVRVG1jLVVOb1NQVG5BTllsRTdnVlZFLVpIYkpFM3dBOG02Z05FTnVuVDdMSHVSZFgyNEpySWU4UmVvemRqOGs3ZGxlZDl4ZVlTanFvWkdmeEczN2RHS201dkVjUG5nZ2RCS25yZER6OWRhQmdqdmtiNjA?oc=5",
-          "published": "2026-10-26T09:44:03.000Z"
+          "headline": "Malaysia and Thailand join Singapore in stablecoin payments - Bit2Me News",
+          "source": "Bit2Me News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjJHd2w2R3dTSDM1X09pT2N0eFlYdHpqWE94OTZxY05pbXdvOGlHdldlZFBkSWJaX1lWdkZRbHJiZlRFY0NjTGtValBtTE9NQU5nWVFPaUltNDFjYmVPNk1qbmRJbkpHd0N6WU5FcTc5UWlVZkIzdjg4a0ZsWWx3cFhOT3ZraF9WX2JkUFJrcmd0WjQ?oc=5",
+          "published": "2026-10-28T07:00:13.000Z"
         }
       ],
       "insight": {
@@ -305,9 +248,9 @@
           "company": "Standard Chartered",
           "ticker": "STAN",
           "tag": "Transcript",
-          "headline": "STANDARD CHARTERED PLC ORD USD0 (STAN.L) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2x4Q21fWVJZNkxxWU1GRnNnZ2RsUWowbmdQQVNLWGVfbWtZRnhzb2ZnbE83VGNfOXg0RE1FNVIzNm1BWDRBZTV0MUhhZENxbTNyVTVLY1lQV1o2QWZ4VHN5c1NzSjFPVHh6OXl0LUZqcFBUMW1kbjEwb2RsNVp6V2ZibG4wTHdITWlSOVpydElSZw?oc=5",
-          "published": "2026-10-28T08:00:00.000Z"
+          "headline": "Earnings call transcript: Standard Chartered lifts Q3 2026 outlook on strong growth - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2NCNUZET2NpQ2oyVXl3M3NJaVlkY0JQbUdpaTlMZGp4ak9VN1lOR3RlTTMyZmgwa0RacDRHRGQ3MldqWUdVaEhhanJxVzQwYU90Z1BMNWhVUHVaeFFlOUVCTHNTd01rLXJQWkZiNjlFX0VrQ2JFTEY4M3RZTFBVcmVZQjdYSkk3R0RYWW5laXM1MWdPOTBHdE9WWUc1czhoYXp5bkFPZjAzR192TkV4UlFtUXlVY1VzZXNwUmE5X3ZLeVU5RTZXQk9vMElicHNJU1c2QlJIQTdMSVU?oc=5",
+          "published": "2026-10-28T09:31:25.000Z"
         },
         {
           "company": "HSBC",
