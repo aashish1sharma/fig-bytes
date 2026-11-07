@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:22:56.967Z",
+  "generatedAt": "2026-11-07T07:39:38.526Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -35,15 +35,22 @@
           "tag": "Product",
           "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFItdjU1X1JlTkZsMHpzcGFhcENKQTM5Ym91VDBUMWQ3NUJlcDktLTNhT2M5OFp1dHdUM2FBWFVVNkY3cmhWZEpKMERDTE9SM29jRGZsTzlaR21aUzVLYnRmWHBxdU1tbDFqd0Q4cEpXVGdKSzR2WnlfRnQ2ODlaWklEQXlPOUw5TnlEOHlycjV5Wm15?oc=5",
-          "published": "2026-11-05T07:20:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUFVU3pkS2ZMYU5MQlUzUTN3dWdzN09fWllVUGRaM3FuNFlESUVFYTJRWEhIQkZYZkV5TTl1Z2ZHbzBQMjNxYzhmNHpBV3RwM1prbjRZc1BHYWNMVTAtelVmNjdWRzRoTkZqcy05VHRMY3JTc1doODBpVUpNQW8yeE4ybTQyRW9YOXRVYV9zb25BQXhV?oc=5",
+          "published": "2026-11-06T07:37:00.000Z"
         },
         {
-          "tag": "Earnings",
-          "headline": "Hong Kong Private Wealth AuM Hits Record - Wealth Briefing Asia",
-          "source": "Wealth Briefing Asia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1Q4ZWJEc3k0LUszNXRqSFFNN2JJUHpjTEV5WEFvZk1UOVRBNzZXSkpmU0dVcl95eHlmTUpGTGJkS3ZaV0pWOURkalQzb09yUGNUcGNxa1oxbGpZVF9LXzlFdXhiZEQ5UmlSX2lYZmpBOVk5RjBGUlEyMlBHV1JyVHhTRmd6LWxtdkxpOUhBNA?oc=5",
-          "published": "2026-11-05T21:04:52.000Z"
+          "tag": "Strategy",
+          "headline": "Bitcoin ETF Outflows Hit $430M as Hong Kong Expands Its BTC Market - TradingView",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDhrWk9OR1piaV9IZ2NoWW9oYzdfdVp6SkVZT3dscS13VVpWNFhVZ250TmtQRmpPNTRCWXBOSWYxU19CVk04M0Ywbm5pUFBDV2VLNlpPOVpVazNEck1JTzIxbFBLYTlZNGVEcnAtT3ZfcWEycVJfbWlzdzl6dXQ2TTl6MlFsVFRnQ0NVTnNIT2Y2SFdGNldDWUt5N09CYTJ4YWQwNG5XWGgzV0tQOFNvU1drZldhZ2hRcDZ6Y2lJOXU3RlY3?oc=5",
+          "published": "2026-11-06T09:17:06.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong's SFC Counts 17 Tokenised Retail Products and Floats a Tokenised Gold ETF as Its Next Pilot - Blockhead",
+          "source": "Blockhead",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGkwdVFFVGs1TDc1V0ZDbkV6NFR0NHpjNmJzbWRGUWFYMlI3YV9nWjFrOWY0b1U2ckJMVXhCNEpkOTI3cTFOY3dEdXhlMGd4YmtwSU1SS0MzbVB6dVgtcnhrUk9icGRsWWxZYzdZMkM4RllqSkM5ZHc0RWQ2SEw4MUU5MlRBQUpPdWhUSUVGMXhYNFZlQ0dSZHNqc3h1SnN1akdvdjEwNTFOVmFNeWNJSHJ0N1MzOEpFM2ZPdWVaeUtXNTJyMjZWRVVhS1dwSURQLWVJ?oc=5",
+          "published": "2026-11-06T08:21:11.000Z"
         }
       ],
       "candidates": [
@@ -51,15 +58,36 @@
           "tag": "Product",
           "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFItdjU1X1JlTkZsMHpzcGFhcENKQTM5Ym91VDBUMWQ3NUJlcDktLTNhT2M5OFp1dHdUM2FBWFVVNkY3cmhWZEpKMERDTE9SM29jRGZsTzlaR21aUzVLYnRmWHBxdU1tbDFqd0Q4cEpXVGdKSzR2WnlfRnQ2ODlaWklEQXlPOUw5TnlEOHlycjV5Wm15?oc=5",
-          "published": "2026-11-05T07:20:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUFVU3pkS2ZMYU5MQlUzUTN3dWdzN09fWllVUGRaM3FuNFlESUVFYTJRWEhIQkZYZkV5TTl1Z2ZHbzBQMjNxYzhmNHpBV3RwM1prbjRZc1BHYWNMVTAtelVmNjdWRzRoTkZqcy05VHRMY3JTc1doODBpVUpNQW8yeE4ybTQyRW9YOXRVYV9zb25BQXhV?oc=5",
+          "published": "2026-11-06T07:37:00.000Z"
+        },
+        {
+          "tag": "Strategy",
+          "headline": "Bitcoin ETF Outflows Hit $430M as Hong Kong Expands Its BTC Market - TradingView",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDhrWk9OR1piaV9IZ2NoWW9oYzdfdVp6SkVZT3dscS13VVpWNFhVZ250TmtQRmpPNTRCWXBOSWYxU19CVk04M0Ywbm5pUFBDV2VLNlpPOVpVazNEck1JTzIxbFBLYTlZNGVEcnAtT3ZfcWEycVJfbWlzdzl6dXQ2TTl6MlFsVFRnQ0NVTnNIT2Y2SFdGNldDWUt5N09CYTJ4YWQwNG5XWGgzV0tQOFNvU1drZldhZ2hRcDZ6Y2lJOXU3RlY3?oc=5",
+          "published": "2026-11-06T09:17:06.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong's SFC Counts 17 Tokenised Retail Products and Floats a Tokenised Gold ETF as Its Next Pilot - Blockhead",
+          "source": "Blockhead",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGkwdVFFVGs1TDc1V0ZDbkV6NFR0NHpjNmJzbWRGUWFYMlI3YV9nWjFrOWY0b1U2ckJMVXhCNEpkOTI3cTFOY3dEdXhlMGd4YmtwSU1SS0MzbVB6dVgtcnhrUk9icGRsWWxZYzdZMkM4RllqSkM5ZHc0RWQ2SEw4MUU5MlRBQUpPdWhUSUVGMXhYNFZlQ0dSZHNqc3h1SnN1akdvdjEwNTFOVmFNeWNJSHJ0N1MzOEpFM2ZPdWVaeUtXNTJyMjZWRVVhS1dwSURQLWVJ?oc=5",
+          "published": "2026-11-06T08:21:11.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Harvest STAR Chip ETF Lists in Hong Kong, Offering Exposure Across the STAR Market Chip Value Chain - Kosmo Online",
+          "source": "Kosmo Online",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUVVTmRTaE1WQTFsNDlOQ3FwXzEyM0M0TlprNFQ4M3pXbmxBZUR6RFR0U1R1QmtCV0ExT210elpuWUVCc0ItY2Z6aDdnZGVJcEpoVllXcUlZRDRzckpENDFoNElnV1RTaVlVNVhGSWxMWG1pV0JRUF9HOWgtb2JQeWFhc3NlNTNHX3ltOU4yazNFWGwyTXU2Q1ozWHVVbnpqeWxYZ3FCMjhucGwtbGx1WFVyUW9EZU5DUEQySlk0aWNWNzVTUWR1OHdRaDctUW92?oc=5",
+          "published": "2026-11-06T06:41:00.000Z"
         },
         {
           "tag": "Earnings",
-          "headline": "Hong Kong Private Wealth AuM Hits Record - Wealth Briefing Asia",
-          "source": "Wealth Briefing Asia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1Q4ZWJEc3k0LUszNXRqSFFNN2JJUHpjTEV5WEFvZk1UOVRBNzZXSkpmU0dVcl95eHlmTUpGTGJkS3ZaV0pWOURkalQzb09yUGNUcGNxa1oxbGpZVF9LXzlFdXhiZEQ5UmlSX2lYZmpBOVk5RjBGUlEyMlBHV1JyVHhTRmd6LWxtdkxpOUhBNA?oc=5",
-          "published": "2026-11-05T21:04:52.000Z"
+          "headline": "Hong Kong private wealth AUM jumps 24% to record $1.7tn - Citywire",
+          "source": "Citywire",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEZEZm5oLVBVWnU5V2JzOXZsejJwM0EyQzNYUlI5SENNYjd5cjJmdzVaZzVZY0pUci1mMkZSWExPMnhvckxCSExIUnJBUFVPVXg5Ry1US3FUa3RIalBTa1JYNmVLYlhJckpQaTFVWUdMbHh1SFdPSnlpQlFCaTExM2RiM1pRaWtpdWZrRkZMX0plcFR5aGpuUQ?oc=5",
+          "published": "2026-11-05T12:21:13.000Z"
         }
       ],
       "insight": null,
@@ -85,24 +113,8 @@
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Taishin International Bank Opens Flagship Private Banking Branch in Southern Taiwan - ANTARA News",
-          "source": "ANTARA News",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV3N4Z2NMWDFYSnlucEQ4Z0JrdHdJN0lhNWpfMUUyWmZjVXljRE1SUG5wVU1lQjhhekJ4Mk9WYVY3OTVQYlVQaWdYUnY4ZWNHUlM0OVJMZFNQRVdwb0MteGFtR0pGaXhsUjVZMFdMM3E5ekpyQUdYOVV2Tm1uSmdPVy1VcUNEWFoxaGhhTXlHMmFEN1BIVEdia0pYR1UyMTBDT2dubEVFM0h4UTk2dmhvS0ZsTXVpVzNRNDZpZ2NR0gHDAUFVX3lxTFBhSzVMNEF5ZjhYVFZHbzJuUnVZcXNqRGN6OHVBOHh4dTNSVEtBVFZ3UUFBVXB2NTNSTXIzTnhZMUN5MGVhWDBuRjRoMG1HbWxLRnVpZlZRUlpOZFlWNXhIWmc0S296SHZ1SFpvbm9Vck9YSzhSbnVXa3ZhUmZXbWRtLUZYM1ZLY3EySnVuLU9YQUY3Tnc5a014N1E5MzFFd0dDT3FDNFFVczlNUzZWUmZESlZTdVF0SDYySERyd1IxSkNlZw?oc=5",
-          "published": "2026-11-05T10:49:20.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Taishin International Bank Opens Flagship Private Banking Branch in Southern Taiwan - ANTARA News",
-          "source": "ANTARA News",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV3N4Z2NMWDFYSnlucEQ4Z0JrdHdJN0lhNWpfMUUyWmZjVXljRE1SUG5wVU1lQjhhekJ4Mk9WYVY3OTVQYlVQaWdYUnY4ZWNHUlM0OVJMZFNQRVdwb0MteGFtR0pGaXhsUjVZMFdMM3E5ekpyQUdYOVV2Tm1uSmdPVy1VcUNEWFoxaGhhTXlHMmFEN1BIVEdia0pYR1UyMTBDT2dubEVFM0h4UTk2dmhvS0ZsTXVpVzNRNDZpZ2NR0gHDAUFVX3lxTFBhSzVMNEF5ZjhYVFZHbzJuUnVZcXNqRGN6OHVBOHh4dTNSVEtBVFZ3UUFBVXB2NTNSTXIzTnhZMUN5MGVhWDBuRjRoMG1HbWxLRnVpZlZRUlpOZFlWNXhIWmc0S296SHZ1SFpvbm9Vck9YSzhSbnVXa3ZhUmZXbWRtLUZYM1ZLY3EySnVuLU9YQUY3Tnc5a014N1E5MzFFd0dDT3FDNFFVczlNUzZWUmZESlZTdVF0SDYySERyd1IxSkNlZw?oc=5",
-          "published": "2026-11-05T10:49:20.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "DBS Group Remains Singapore's Leading Bank; Wealth Management Remains a Key Growth Driver - Morningstar",
@@ -114,11 +126,19 @@
       },
       "companyUpdates": [
         {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "Video Transcript Top Questions from our Clients : October 2026 - HSBC Private Bank",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNLWpfN3dhc3JuT3piY3Z3VWNCekVWeXdsN1pRWVplQkUxdnV0R2h3SlhUcGNHMEJ3VlFoMzhDOHF4VW55M0p1QTExOTlzSE1WRDNmUjgyRlZnNm5BdHpLMjg3eFhFb3kxZDNmbjlOTWE1VWJRYkJzREhoN3pRS3ZpZWdwM0wwdXNsS2gzbnUwdjlOcW81Z2RRckp2dlk2NHNLdzVySjFWQ1NUZUZENzRiS2Y4RlB5bTNBckVGRGU2WEV0YThMYUNfam9zZkRDdGdDZGE1cGdvQXktOEFmZ182eGtiRTMzdzk5eGI0dGw0THlvdVRQV05Wemxoa1lqUGFlRm84Yjlkc2VvREtOVXBBT1V1VVZOOGdqakF1bGhmVzRYM3FtZnZWZlc5TFM5ZEdNVThF?oc=5",
+          "published": "2026-11-06T23:34:05.000Z"
+        },
+        {
           "company": "DBS Group",
           "ticker": "D05.SI",
           "tag": "Transcript",
-          "headline": "DBS (D05.SI) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2N0ZWxXQUViSXFtcHNaa1JnR1oydjFFZGZOalB6dlRZTEdwSjdWWXZ2bG8zbGJrNW9pQnltQ1FhaHViOHo4dFVDYlFlTV9JWko0UzFFa2hLb2s4S3NEQ1c5WjN5OE91S0M4QnVaZW1mOHZJdmE3Y3pfaXlhVFgxSFhOTHhYVG9kT2l3UVlVZmxrZw?oc=5",
+          "headline": "DBS Group Holdings Ltd. R (DEV.F) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEtJNk5faUM4aXJzWlZzbFF5OUh5cjNYU0E2cEY1OUo4M1NJSGpHcGZLLTlOWHp0LVlfNjJTek5VMmxMbnBTRHk3ckxPR2ZMaTVZd0lUQVdMR2VpOEtka2w2ZmxnOWJIQm1hcDVJNHJEYnRaTG5oenJNdm1kZUJUZlBpTVVvM01uU09RenRfNA?oc=5",
           "published": "2026-11-05T03:30:00.000Z"
         },
         {
@@ -128,14 +148,6 @@
           "headline": "UBS GROUP AG (UBSN.MX) Q3 FY2026 earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEVtWUFUeTVMRF9Xbl8zbU9DNW1BaHFra0ZYVlBtUU9SUU5yeHBfNi1tZ3cyNzlmNU1mbndxM3FLMkltbC1fU20yN1RscF9DQl8wWDhRaXEtZnFBVXo0V3NXdkF3eEtZTThRVG5pclM5bjJkMVdkOVJvS2lpVUhNZC10VUNHSzdSMWtqbzlwVWNHY21K?oc=5",
           "published": "2026-10-28T07:00:00.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: HSBC misses Q3 2026 earnings forecast as stock falls - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmcyeDN0NWRpU0tqOEJGY0NNREtrTEUzdVNabWNMVlpJZk5Sa1NOWTZkZkF5ejlaMEdsQUxOb1lLcVM4aTRUZW4zS2ZOTWFNTEdUWkhOdWMxRlBxTXo5Z2dWamx1amNVQlEtdlBaNHE1a1VDWVp6WFVldWxrWVowQXdQbHBwUDJpXzhRZ0JZMnJwS2RnYTd3dWt6VW1GODBrdzcwbU1FT1Bsb0V6dzlFWFlJMHdqcVNySG9kMUVxLVIwdnQ4N1pPcDM1T3pwdw?oc=5",
-          "published": "2026-10-27T09:56:22.000Z"
         }
       ]
     },
@@ -152,13 +164,6 @@
         },
         {
           "tag": "Press",
-          "headline": "Hong Kong’s best financial institutions deal 2026: DBS for FWD Life Insurance Company - Euromoney",
-          "source": "Euromoney",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN2Q2blNyRG1peFF2UU1wVTYtYnpOOEF2cmItRG5RNjc0bjRfRzIzcGtnT0k0MGNIUXJwSGhiaXNQMTdPQXMySDBGMHhaNjhtLXlMLVlULWFSbDNEVEVBR2FEb01ENkw0aVlNNmxnSS1uUXV1LTFxYzJBdFRxSXl5Y21DOG0xaXQzYWdQcEFWT2tZQTdLaGZ5OXV1Z0ZBREE0LTJRQ0ZMQ2otSWNNLWR6c2RHLXUyTVpNT1BIRTdacTR3T2NfT2V6WFpVdnEwNGxPaTFQMWZWNA?oc=5",
-          "published": "2026-11-05T11:48:36.000Z"
-        },
-        {
-          "tag": "Press",
           "headline": "Japan's Financial Services Agency Inspects Sony Financial Group Over Sony Life Insurance Fraud, Probing Governance - BigGo Finance",
           "source": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82U2VRLU1GbnRKNzBSY2tQWEZZUUlHcmFpNGdKVHJiSjNuMXNualdvbDFwRmdkQ1FMSEU3dHlrWmcyd1U5Q20yMUZyZzZHVWFwSVl3Rk9FU25XOFpkZFJnNGdISFM2Y1UtZDVrc2RTd21LZXVhYlE?oc=5",
@@ -172,13 +177,6 @@
           "source": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96blhIcmpmZWJNZWE3aXBRU19BLVc5Ulc2b0NwYmFwdVlRZHBsd3dzMi1ZMEktdE5IQ0g2VkQ1UzAxbW9ncjRqaHJxSV9zSzVXWGV6MXFrQzZtRjF3dHFsVnVpd1JQcEFsY2g3dzk1czhPSnBNRkE?oc=5",
           "published": "2026-11-05T18:16:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Hong Kong’s best financial institutions deal 2026: DBS for FWD Life Insurance Company - Euromoney",
-          "source": "Euromoney",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN2Q2blNyRG1peFF2UU1wVTYtYnpOOEF2cmItRG5RNjc0bjRfRzIzcGtnT0k0MGNIUXJwSGhiaXNQMTdPQXMySDBGMHhaNjhtLXlMLVlULWFSbDNEVEVBR2FEb01ENkw0aVlNNmxnSS1uUXV1LTFxYzJBdFRxSXl5Y21DOG0xaXQzYWdQcEFWT2tZQTdLaGZ5OXV1Z0ZBREE0LTJRQ0ZMQ2otSWNNLWR6c2RHLXUyTVpNT1BIRTdacTR3T2NfT2V6WFpVdnEwNGxPaTFQMWZWNA?oc=5",
-          "published": "2026-11-05T11:48:36.000Z"
         },
         {
           "tag": "Press",
@@ -199,28 +197,28 @@
       },
       "companyUpdates": [
         {
-          "company": "AIA Group",
-          "ticker": "AIA",
-          "tag": "Transcript",
-          "headline": "AIA Engineering Q2 H1 FY27 Earnings Call Transcript - InvestyWise",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1A1bi1zdkp3MUNsRlowR1Ixa2wtOFVzcHM5UE1hM0FDZnh6eHl4OTI5a0NOLVNHYXBwaGduSFpKWVhicXlvYlpFdmdxeWh0Ym5qUmc5MzRlZUY2X0Q4S3dFdFFhMXFSbVFyZXZ1c28tZVNnMlNoanB2N1VKdWRTdFc0QWtQQzNZLUpEaUNndG5XSDg?oc=5",
-          "published": "2026-11-06T04:24:59.000Z"
-        },
-        {
           "company": "Great Eastern",
           "ticker": "GEL",
           "tag": "Transcript",
-          "headline": "Genesis Energy, L.P. (GEL) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0dsRUdkNm5QdzNvS0RHckJZVG1EYlRid1hUZGxDNU9nVUVkb0QzWUxBRXQ4ZV9VZDY1Q1VvcUV1bkxaRFh4eUhwZWxpVUg4NGlCUUZCUHlpR0ZhMnRvTVhRTFVuVzM3UW10bWRWX01jWVZqa2dvcnRUZU1PLTluaFZxbVBORVJCWGc?oc=5",
-          "published": "2026-11-05T15:00:00.000Z"
+          "headline": "Genesis Energy (GEL) Q3 2026 Earnings Call Transcript - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUh5Ykt5UHhRdzJzTEEtTk1CdDhlNm1kdWFTMjJvdUxfai1OLU9oS0NoQVlDVWtGM3N6MWx4dExPa2pESzM5M19MSVRMOHBOR3QzMDcxUkRjTlpTb0FybmxEa0Z1a0M2bjdZRDNocTRaekJoOU4yWlU5TnVNS1Q2cHJzQWFSdVNpTGZJVFNERDFpdjRVUy0wQUVuME45ZkMtWWducFZVSG5Xa09HdWFOQWlJYnlFampzQ3dLeFJDYklqTkg1TFAwbnJxcHVGMWdDWF9B?oc=5",
+          "published": "2026-11-05T23:15:47.000Z"
         },
         {
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
-          "headline": "Prudential Financial Q3 2026 Earnings Call Transcript - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQzJQZk1Fd0xMMXlQdHZjQ1JyLW5xN1ZTTGs3MDc1T1c2STZreEdacEI1WDdHT2NuUnpXdWFYZzNpcENhWnV6RXU4dVh3V2U0dDR5b1NRUWxPSWZUNlMyTVBSRVVGcjhPbGVNS0tzdmZ4bmNpQWwxSjJ1OE5TeDg2TFpxQUpSSFI0akRGWnFLdEZoMk1NU0hLRll5RnFFWWc?oc=5",
-          "published": "2026-11-04T17:16:53.000Z"
+          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
+          "published": "2026-11-05T17:34:56.000Z"
+        },
+        {
+          "company": "AIA Group",
+          "ticker": "AIA",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: AIA Engineering Q2 2026 shares fall as freight costs bite - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUldsZjdvTDFHRzBLX3BiWU1aQVBCNUdmQW5UUGtpWDRJeENseXNwcy12ZjdPTXFnTHd3NjczcDhPVkpDRHVjMjBuTzNjeXlzNXc3Vk91VEU4emZuUWxnWTJHbVZnVDR2cTNMN0hQWVNrMjRzUm1hVTQyc0I2TE9BbU9MdzdIT2FVVzUyT2FNdmZ4aUxSNlVEdUtXdTk4SlVrV3o2eGplRDMxZzMySXY0MEtPN2ZrUFU0dGhvWW5zUVh4dG53VGE5bms1MWN0a3lWWXpDZA?oc=5",
+          "published": "2026-11-03T13:00:57.000Z"
         }
       ]
     },
@@ -228,6 +226,13 @@
       "id": "retail-banking",
       "name": "Retail Banking",
       "bullets": [
+        {
+          "tag": "Press",
+          "headline": "More funding could be sought if HK$10b university town loan scheme falls short - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQndXVHEyb1ZNUXE3Nm1KbW1ZVHRkRTllWnV4OWs4TG5rcEVBR2NTRjUwMFZZdnpaZl9KaTlKNUdxSDBsT0ZpMUlfVVIwWm1laEJ0WlgzMTU1UzRsVU1WX3RrOHFfUmtEOWI3MWlNTGt2T05XZTVybjRRb0w3NlE0dUUxTWh3NkVZVUpxZjhERXBmZklwaDB1a1NObS1FamljOG5YN2JMWWN1eFZPMmVjUkw0ZS1RWGlGaFoxSnVfaTN1MV8yTHZwbkQ0LTNJN0JZOVh3clZn?oc=5",
+          "published": "2026-11-06T13:41:22.000Z"
+        },
         {
           "tag": "Product",
           "headline": "Finshape launches Agentic DBOS: agentic AI already supporting digital banking projects - Yahoo Finance Singapore",
@@ -245,6 +250,13 @@
       ],
       "candidates": [
         {
+          "tag": "Press",
+          "headline": "More funding could be sought if HK$10b university town loan scheme falls short - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQndXVHEyb1ZNUXE3Nm1KbW1ZVHRkRTllWnV4OWs4TG5rcEVBR2NTRjUwMFZZdnpaZl9KaTlKNUdxSDBsT0ZpMUlfVVIwWm1laEJ0WlgzMTU1UzRsVU1WX3RrOHFfUmtEOWI3MWlNTGt2T05XZTVybjRRb0w3NlE0dUUxTWh3NkVZVUpxZjhERXBmZklwaDB1a1NObS1FamljOG5YN2JMWWN1eFZPMmVjUkw0ZS1RWGlGaFoxSnVfaTN1MV8yTHZwbkQ0LTNJN0JZOVh3clZn?oc=5",
+          "published": "2026-11-06T13:41:22.000Z"
+        },
+        {
           "tag": "Product",
           "headline": "Finshape launches Agentic DBOS: agentic AI already supporting digital banking projects - Yahoo Finance Singapore",
           "source": "Yahoo Finance Singapore",
@@ -257,6 +269,13 @@
           "source": "Syfe",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
           "published": "2026-11-05T10:47:35.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "DayOne secures US$237 mil loan for Hong Kong data centre - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBa0F2Z2hOVndUY3VFNkJJdVBRb3R5NFBJSEFiY05tUy1tclBra3lBWGtrMlhkSG5qTGg2ZzNMaDVSOHc3RnNqaVNwZnJtZGlEeHBUMW02cThFWXRFeUw0Qy10R3lDdGdXb1YyYV80b0EzeUdoMmk5bG9oeE8yaTA?oc=5",
+          "published": "2026-11-04T21:52:44.000Z"
         }
       ],
       "insight": {
@@ -270,28 +289,28 @@
       },
       "companyUpdates": [
         {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "DBS (D05.SI) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2N0ZWxXQUViSXFtcHNaa1JnR1oydjFFZGZOalB6dlRZTEdwSjdWWXZ2bG8zbGJrNW9pQnltQ1FhaHViOHo4dFVDYlFlTV9JWko0UzFFa2hLb2s4S3NEQ1c5WjN5OE91S0M4QnVaZW1mOHZJdmE3Y3pfaXlhVFgxSFhOTHhYVG9kT2l3UVlVZmxrZw?oc=5",
-          "published": "2026-11-05T03:30:00.000Z"
-        },
-        {
-          "company": "Standard Chartered",
-          "ticker": "STAN",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Standard Chartered lifts Q3 2026 outlook on strong growth - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb3hfUkxOLURLdzhUWXVnbHlhN1dSY25ielBTX0o5dVhrTENmVmh2OEhUTXd3TjBXNGdvZGRObTBXRjBNZkNKdkctT09CaWRGbnM2M25GNVpjalQ3WmUtek04Wm1yY2ZmX2hQaHdvMUhvQlp5eS1kSUFEZnBoVFZOVXZ0TlRfTUR3VTMxa18zVE1OTTE4MXhIdnFONWZlMTl0TGZWb2VWWkVZU19uQVQ3WTd6S0UxWUxfUmxya3BXUVlJMlcxcVhwa21vckVTTk4ybHlmMQ?oc=5",
-          "published": "2026-10-28T09:31:14.000Z"
-        },
-        {
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: HSBC misses Q3 2026 earnings forecast as stock falls - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmcyeDN0NWRpU0tqOEJGY0NNREtrTEUzdVNabWNMVlpJZk5Sa1NOWTZkZkF5ejlaMEdsQUxOb1lLcVM4aTRUZW4zS2ZOTWFNTEdUWkhOdWMxRlBxTXo5Z2dWamx1amNVQlEtdlBaNHE1a1VDWVp6WFVldWxrWVowQXdQbHBwUDJpXzhRZ0JZMnJwS2RnYTd3dWt6VW1GODBrdzcwbU1FT1Bsb0V6dzlFWFlJMHdqcVNySG9kMUVxLVIwdnQ4N1pPcDM1T3pwdw?oc=5",
-          "published": "2026-10-27T09:56:22.000Z"
+          "headline": "Video Transcript Top Questions from our Clients : October 2026 - HSBC Private Bank",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNLWpfN3dhc3JuT3piY3Z3VWNCekVWeXdsN1pRWVplQkUxdnV0R2h3SlhUcGNHMEJ3VlFoMzhDOHF4VW55M0p1QTExOTlzSE1WRDNmUjgyRlZnNm5BdHpLMjg3eFhFb3kxZDNmbjlOTWE1VWJRYkJzREhoN3pRS3ZpZWdwM0wwdXNsS2gzbnUwdjlOcW81Z2RRckp2dlk2NHNLdzVySjFWQ1NUZUZENzRiS2Y4RlB5bTNBckVGRGU2WEV0YThMYUNfam9zZkRDdGdDZGE1cGdvQXktOEFmZ182eGtiRTMzdzk5eGI0dGw0THlvdVRQV05Wemxoa1lqUGFlRm84Yjlkc2VvREtOVXBBT1V1VVZOOGdqakF1bGhmVzRYM3FtZnZWZlc5TFM5ZEdNVThF?oc=5",
+          "published": "2026-11-06T23:34:05.000Z"
+        },
+        {
+          "company": "DBS Group",
+          "ticker": "D05.SI",
+          "tag": "Transcript",
+          "headline": "DBS Group Holdings Ltd. R (DEV.F) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEtJNk5faUM4aXJzWlZzbFF5OUh5cjNYU0E2cEY1OUo4M1NJSGpHcGZLLTlOWHp0LVlfNjJTek5VMmxMbnBTRHk3ckxPR2ZMaTVZd0lUQVdMR2VpOEtka2w2ZmxnOWJIQm1hcDVJNHJEYnRaTG5oenJNdm1kZUJUZlBpTVVvM01uU09RenRfNA?oc=5",
+          "published": "2026-11-05T03:30:00.000Z"
+        },
+        {
+          "company": "UOB",
+          "ticker": "U11.SI",
+          "tag": "Transcript",
+          "headline": "United Overseas Bank Ltd. (UOB.SG) Q3 FY2026 TU earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1NNaXpnNXNCTDc1cUJyYTNvQ0hfVkNWQUFGckNqdW1OaFlJRmJ2SmVha2VzaEpIdnZfX0lYT3czWEhiYUpoVEtSUGlzUzlyekg1UHBPSVVydjc5REw2ZkdiSUtZYmtfQWR1NnlKTHhkbTlYaGdCdkRHU0JPWDYtTXlEUVVmVTdxRVJZbzNxdTFiUQ?oc=5",
+          "published": "2026-11-03T23:20:00.000Z"
         }
       ]
     }
