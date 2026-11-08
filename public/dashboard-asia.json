@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T07:39:38.526Z",
+  "generatedAt": "2026-11-08T07:49:41.996Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,18 +32,18 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUFVU3pkS2ZMYU5MQlUzUTN3dWdzN09fWllVUGRaM3FuNFlESUVFYTJRWEhIQkZYZkV5TTl1Z2ZHbzBQMjNxYzhmNHpBV3RwM1prbjRZc1BHYWNMVTAtelVmNjdWRzRoTkZqcy05VHRMY3JTc1doODBpVUpNQW8yeE4ybTQyRW9YOXRVYV9zb25BQXhV?oc=5",
-          "published": "2026-11-06T07:37:00.000Z"
-        },
-        {
           "tag": "Strategy",
           "headline": "Bitcoin ETF Outflows Hit $430M as Hong Kong Expands Its BTC Market - TradingView",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDhrWk9OR1piaV9IZ2NoWW9oYzdfdVp6SkVZT3dscS13VVpWNFhVZ250TmtQRmpPNTRCWXBOSWYxU19CVk04M0Ywbm5pUFBDV2VLNlpPOVpVazNEck1JTzIxbFBLYTlZNGVEcnAtT3ZfcWEycVJfbWlzdzl6dXQ2TTl6MlFsVFRnQ0NVTnNIT2Y2SFdGNldDWUt5N09CYTJ4YWQwNG5XWGgzV0tQOFNvU1drZldhZ2hRcDZ6Y2lJOXU3RlY3?oc=5",
           "published": "2026-11-06T09:17:06.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Harvest STAR Chip ETF Lists in Hong Kong, Offering Exposure Across the STAR Market Chip Value Chain - Taiwan News",
+          "source": "Taiwan News",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NdkdtR2habVlpQ0pXcGUwcVVrMkpUMGltSHNTYmlqVzJ4TmJmaFZxRXhYNE1kbENrd1MtaTVLYnR6SXdaYnhtWV9RdEg5TFhSWU9Xbw?oc=5",
+          "published": "2026-11-06T14:41:00.000Z"
         },
         {
           "tag": "Product",
@@ -55,13 +55,6 @@
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUFVU3pkS2ZMYU5MQlUzUTN3dWdzN09fWllVUGRaM3FuNFlESUVFYTJRWEhIQkZYZkV5TTl1Z2ZHbzBQMjNxYzhmNHpBV3RwM1prbjRZc1BHYWNMVTAtelVmNjdWRzRoTkZqcy05VHRMY3JTc1doODBpVUpNQW8yeE4ybTQyRW9YOXRVYV9zb25BQXhV?oc=5",
-          "published": "2026-11-06T07:37:00.000Z"
-        },
-        {
           "tag": "Strategy",
           "headline": "Bitcoin ETF Outflows Hit $430M as Hong Kong Expands Its BTC Market - TradingView",
           "source": "TradingView",
@@ -70,17 +63,17 @@
         },
         {
           "tag": "Product",
+          "headline": "Harvest STAR Chip ETF Lists in Hong Kong, Offering Exposure Across the STAR Market Chip Value Chain - Taiwan News",
+          "source": "Taiwan News",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NdkdtR2habVlpQ0pXcGUwcVVrMkpUMGltSHNTYmlqVzJ4TmJmaFZxRXhYNE1kbENrd1MtaTVLYnR6SXdaYnhtWV9RdEg5TFhSWU9Xbw?oc=5",
+          "published": "2026-11-06T14:41:00.000Z"
+        },
+        {
+          "tag": "Product",
           "headline": "Hong Kong's SFC Counts 17 Tokenised Retail Products and Floats a Tokenised Gold ETF as Its Next Pilot - Blockhead",
           "source": "Blockhead",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGkwdVFFVGs1TDc1V0ZDbkV6NFR0NHpjNmJzbWRGUWFYMlI3YV9nWjFrOWY0b1U2ckJMVXhCNEpkOTI3cTFOY3dEdXhlMGd4YmtwSU1SS0MzbVB6dVgtcnhrUk9icGRsWWxZYzdZMkM4RllqSkM5ZHc0RWQ2SEw4MUU5MlRBQUpPdWhUSUVGMXhYNFZlQ0dSZHNqc3h1SnN1akdvdjEwNTFOVmFNeWNJSHJ0N1MzOEpFM2ZPdWVaeUtXNTJyMjZWRVVhS1dwSURQLWVJ?oc=5",
           "published": "2026-11-06T08:21:11.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Harvest STAR Chip ETF Lists in Hong Kong, Offering Exposure Across the STAR Market Chip Value Chain - Kosmo Online",
-          "source": "Kosmo Online",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUVVTmRTaE1WQTFsNDlOQ3FwXzEyM0M0TlprNFQ4M3pXbmxBZUR6RFR0U1R1QmtCV0ExT210elpuWUVCc0ItY2Z6aDdnZGVJcEpoVllXcUlZRDRzckpENDFoNElnV1RTaVlVNVhGSWxMWG1pV0JRUF9HOWgtb2JQeWFhc3NlNTNHX3ltOU4yazNFWGwyTXU2Q1ozWHVVbnpqeWxYZ3FCMjhucGwtbGx1WFVyUW9EZU5DUEQySlk0aWNWNzVTUWR1OHdRaDctUW92?oc=5",
-          "published": "2026-11-06T06:41:00.000Z"
         },
         {
           "tag": "Earnings",
@@ -120,8 +113,8 @@
         "headline": "DBS Group Remains Singapore's Leading Bank; Wealth Management Remains a Key Growth Driver - Morningstar",
         "teaser": null,
         "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkRtejg1MFM0a2w4V3pTYTJ1U1lpZmwzYVFGa05HRXJHZTF0bDBJN2RCVTJkbFZubEMwVXRzZUNZai1kUEl6MUVHeGs3Rjd0ME5meEE0RlJ5SmpYcS1mVklFc25oLUQ0dG11dlNjS2V5X3JMdFpzZTRXYjE1YXdJZkNnaWdhT1FteTBiSGZ4X2xzZjljZ2RCZDU3M2pGZm8waVJnODFhMTJiUHBDeEpTYlJTMHFfdGhpM0ljMkxRNjBNUDZnRGxlSjVSUFVyMkozMVhEZ2wycXFSTnliQXBaWlc4amRIb1V4VTVFV3c2RQ?oc=5",
-        "published": "2026-11-05T12:07:33.000Z",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYUJfY3BrWjlfMjIzTk1wdzROb1BMX0JaeEstNDVYZ0JYLVBvLVJ3dURHbWJfbGk2Q1VmZkVCQ3c5VnhFRXpNRk9DaVNBSWwzR25KVGE5bmFxZnhKTDNtam5sTjV1Tmd5ZHhSa0hmTEtwSktZLTlJUGluZEtyNmE4T1pYckhldDZ6MDNlS2VFYWJ1VXFfcVdFRWExVWpER2xzeDBFUngwazJLMHktck9xWjdTdXFHTElta2FjaWhzbEptZ21iYWZ5Rmhaa214VVVoNDhDSUxR?oc=5",
+        "published": "2026-11-05T13:52:30.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -131,7 +124,7 @@
           "tag": "Transcript",
           "headline": "Video Transcript Top Questions from our Clients : October 2026 - HSBC Private Bank",
           "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNLWpfN3dhc3JuT3piY3Z3VWNCekVWeXdsN1pRWVplQkUxdnV0R2h3SlhUcGNHMEJ3VlFoMzhDOHF4VW55M0p1QTExOTlzSE1WRDNmUjgyRlZnNm5BdHpLMjg3eFhFb3kxZDNmbjlOTWE1VWJRYkJzREhoN3pRS3ZpZWdwM0wwdXNsS2gzbnUwdjlOcW81Z2RRckp2dlk2NHNLdzVySjFWQ1NUZUZENzRiS2Y4RlB5bTNBckVGRGU2WEV0YThMYUNfam9zZkRDdGdDZGE1cGdvQXktOEFmZ182eGtiRTMzdzk5eGI0dGw0THlvdVRQV05Wemxoa1lqUGFlRm84Yjlkc2VvREtOVXBBT1V1VVZOOGdqakF1bGhmVzRYM3FtZnZWZlc5TFM5ZEdNVThF?oc=5",
-          "published": "2026-11-06T23:34:05.000Z"
+          "published": "2026-11-06T23:08:29.000Z"
         },
         {
           "company": "DBS Group",
@@ -145,8 +138,8 @@
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "UBS GROUP AG (UBSN.MX) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEVtWUFUeTVMRF9Xbl8zbU9DNW1BaHFra0ZYVlBtUU9SUU5yeHBfNi1tZ3cyNzlmNU1mbndxM3FLMkltbC1fU20yN1RscF9DQl8wWDhRaXEtZnFBVXo0V3NXdkF3eEtZTThRVG5pclM5bjJkMVdkOVJvS2lpVUhNZC10VUNHSzdSMWtqbzlwVWNHY21K?oc=5",
+          "headline": "UBS Group AG (UBSGZ.XC) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkRiMElmenRTdk5FRlpvTkppWXRXLXU3LW5pLTNPNGFoSlI3UE9zWWZuWmQya1FvSTBmR3c4YUxZTGpiWWpjaElfeWYyMU1NNGluT1BXUTd3WHdlM1dha1JGdWZyR1pLOV9DeWJXNTQ3U3lPd3I2VDlwMTVPUFpiZklWaThYRDlQaUJzTmhVeFJSeHFPTXNOYg?oc=5",
           "published": "2026-10-28T07:00:00.000Z"
         }
       ]
@@ -161,13 +154,6 @@
           "source": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96blhIcmpmZWJNZWE3aXBRU19BLVc5Ulc2b0NwYmFwdVlRZHBsd3dzMi1ZMEktdE5IQ0g2VkQ1UzAxbW9ncjRqaHJxSV9zSzVXWGV6MXFrQzZtRjF3dHFsVnVpd1JQcEFsY2g3dzk1czhPSnBNRkE?oc=5",
           "published": "2026-11-05T18:16:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Japan's Financial Services Agency Inspects Sony Financial Group Over Sony Life Insurance Fraud, Probing Governance - BigGo Finance",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82U2VRLU1GbnRKNzBSY2tQWEZZUUlHcmFpNGdKVHJiSjNuMXNualdvbDFwRmdkQ1FMSEU3dHlrWmcyd1U5Q20yMUZyZzZHVWFwSVl3Rk9FU25XOFpkZFJnNGdISFM2Y1UtZDVrc2RTd21LZXVhYlE?oc=5",
-          "published": "2026-11-04T12:25:00.000Z"
         }
       ],
       "candidates": [
@@ -177,13 +163,6 @@
           "source": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96blhIcmpmZWJNZWE3aXBRU19BLVc5Ulc2b0NwYmFwdVlRZHBsd3dzMi1ZMEktdE5IQ0g2VkQ1UzAxbW9ncjRqaHJxSV9zSzVXWGV6MXFrQzZtRjF3dHFsVnVpd1JQcEFsY2g3dzk1czhPSnBNRkE?oc=5",
           "published": "2026-11-05T18:16:00.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Japan's Financial Services Agency Inspects Sony Financial Group Over Sony Life Insurance Fraud, Probing Governance - BigGo Finance",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82U2VRLU1GbnRKNzBSY2tQWEZZUUlHcmFpNGdKVHJiSjNuMXNualdvbDFwRmdkQ1FMSEU3dHlrWmcyd1U5Q20yMUZyZzZHVWFwSVl3Rk9FU25XOFpkZFJnNGdISFM2Y1UtZDVrc2RTd21LZXVhYlE?oc=5",
-          "published": "2026-11-04T12:25:00.000Z"
         }
       ],
       "insight": {
@@ -216,9 +195,9 @@
           "company": "AIA Group",
           "ticker": "AIA",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: AIA Engineering Q2 2026 shares fall as freight costs bite - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUldsZjdvTDFHRzBLX3BiWU1aQVBCNUdmQW5UUGtpWDRJeENseXNwcy12ZjdPTXFnTHd3NjczcDhPVkpDRHVjMjBuTzNjeXlzNXc3Vk91VEU4emZuUWxnWTJHbVZnVDR2cTNMN0hQWVNrMjRzUm1hVTQyc0I2TE9BbU9MdzdIT2FVVzUyT2FNdmZ4aUxSNlVEdUtXdTk4SlVrV3o2eGplRDMxZzMySXY0MEtPN2ZrUFU0dGhvWW5zUVh4dG53VGE5bms1MWN0a3lWWXpDZA?oc=5",
-          "published": "2026-11-03T13:00:57.000Z"
+          "headline": "Earnings call transcript: AIA Engineering Q2 2026 shares fall as freight costs bite - Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFg0TWhDTWpoN1hhN3EtbnpFbmgybDhTQkd4YXJSMlFCN0RKNktvMVh6NGhXbXl4QUM0QmsxVUs2RUlhLTZaUTdFLXVobFRxY2xaMjNYdHpjVlcwYnNBaWhwbjQtZGFzck5wdU0wZUZwZ2hjR2FQQ1hWdFdvUWZLMTJSLWJybHRFQ1d3dHY5NzB5ODlUUmlCaE1fay03YUg5ZDVOV1JwSXBuaGYxc185VzBwdnloTVdNd0dBTEdvWndBMjFKQjB6eFBRLWRVUUhjS2tMYUswOU5lbk0?oc=5",
+          "published": "2026-11-03T13:09:18.000Z"
         }
       ]
     },
@@ -230,7 +209,7 @@
           "tag": "Press",
           "headline": "More funding could be sought if HK$10b university town loan scheme falls short - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQndXVHEyb1ZNUXE3Nm1KbW1ZVHRkRTllWnV4OWs4TG5rcEVBR2NTRjUwMFZZdnpaZl9KaTlKNUdxSDBsT0ZpMUlfVVIwWm1laEJ0WlgzMTU1UzRsVU1WX3RrOHFfUmtEOWI3MWlNTGt2T05XZTVybjRRb0w3NlE0dUUxTWh3NkVZVUpxZjhERXBmZklwaDB1a1NObS1FamljOG5YN2JMWWN1eFZPMmVjUkw0ZS1RWGlGaFoxSnVfaTN1MV8yTHZwbkQ0LTNJN0JZOVh3clZn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQndXVHEyb1ZNUXE3Nm1KbW1ZVHRkRTllWnV4OWs4TG5rcEVBR2NTRjUwMFZZdnpaZl9KaTlKNUdxSDBsT0ZpMUlfVVIwWm1laEJ0WlgzMTU1UzRsVU1WX3RrOHFfUmtEOWI3MWlNTGt2T05XZTVybjRRb0w3NlE0dUUxTWh3NkVZVUpxZjhERXBmZklwaDB1a1NObS1FamljOG5YN2JMWWN1eFZPMmVjUkw0ZS1RWGlGaFoxSnVfaTN1MV8yTHZwbkQ0LTNJN0JZOVh3clZn0gHWAUFVX3lxTE50ekxGaF9iNmRDT2h2Wk5ZbHFkVVl4T2VQaGxNWW1RMTlWY1RES0Q2OFU3TzdnMUFNY3BEOWVfT3pxbTdfMWpZcnRacVM4dkNBWlJoOU1fbGxTNjUxRXlFMkZkVlctdUpwZ1V0T1NaalNTODE3UDVnNm5mZzRrc0xvaF9XS2IwNE1ib0NsRFg3ZlRUUl9hVWRVVUVJQWdubXBzeHg3cWxETE1KYVRSRGRoXzhPVWZDb1VDMmROZnp2Z2RNaWgxSEtHQ2JlMkV1ZC1hYkpYb0E?oc=5",
           "published": "2026-11-06T13:41:22.000Z"
         },
         {
@@ -253,7 +232,7 @@
           "tag": "Press",
           "headline": "More funding could be sought if HK$10b university town loan scheme falls short - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQndXVHEyb1ZNUXE3Nm1KbW1ZVHRkRTllWnV4OWs4TG5rcEVBR2NTRjUwMFZZdnpaZl9KaTlKNUdxSDBsT0ZpMUlfVVIwWm1laEJ0WlgzMTU1UzRsVU1WX3RrOHFfUmtEOWI3MWlNTGt2T05XZTVybjRRb0w3NlE0dUUxTWh3NkVZVUpxZjhERXBmZklwaDB1a1NObS1FamljOG5YN2JMWWN1eFZPMmVjUkw0ZS1RWGlGaFoxSnVfaTN1MV8yTHZwbkQ0LTNJN0JZOVh3clZn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQndXVHEyb1ZNUXE3Nm1KbW1ZVHRkRTllWnV4OWs4TG5rcEVBR2NTRjUwMFZZdnpaZl9KaTlKNUdxSDBsT0ZpMUlfVVIwWm1laEJ0WlgzMTU1UzRsVU1WX3RrOHFfUmtEOWI3MWlNTGt2T05XZTVybjRRb0w3NlE0dUUxTWh3NkVZVUpxZjhERXBmZklwaDB1a1NObS1FamljOG5YN2JMWWN1eFZPMmVjUkw0ZS1RWGlGaFoxSnVfaTN1MV8yTHZwbkQ0LTNJN0JZOVh3clZn0gHWAUFVX3lxTE50ekxGaF9iNmRDT2h2Wk5ZbHFkVVl4T2VQaGxNWW1RMTlWY1RES0Q2OFU3TzdnMUFNY3BEOWVfT3pxbTdfMWpZcnRacVM4dkNBWlJoOU1fbGxTNjUxRXlFMkZkVlctdUpwZ1V0T1NaalNTODE3UDVnNm5mZzRrc0xvaF9XS2IwNE1ib0NsRFg3ZlRUUl9hVWRVVUVJQWdubXBzeHg3cWxETE1KYVRSRGRoXzhPVWZDb1VDMmROZnp2Z2RNaWgxSEtHQ2JlMkV1ZC1hYkpYb0E?oc=5",
           "published": "2026-11-06T13:41:22.000Z"
         },
         {
@@ -269,13 +248,6 @@
           "source": "Syfe",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xMzlCNE1nQTNlbTQ0ZFR2OHNKREdqd1hraW91c3dkelhiYU9kSW52S056MHl5SGNkeW42TFVXZDhSemhNSzRVOFVkYV9raWxzTmpzWTlMb3VweUVndjEwZ2FuM1Y4QURyTEdoN0tHS1JpLU0?oc=5",
           "published": "2026-11-05T10:47:35.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "DayOne secures US$237 mil loan for Hong Kong data centre - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBa0F2Z2hOVndUY3VFNkJJdVBRb3R5NFBJSEFiY05tUy1tclBra3lBWGtrMlhkSG5qTGg2ZzNMaDVSOHc3RnNqaVNwZnJtZGlEeHBUMW02cThFWXRFeUw0Qy10R3lDdGdXb1YyYV80b0EzeUdoMmk5bG9oeE8yaTA?oc=5",
-          "published": "2026-11-04T21:52:44.000Z"
         }
       ],
       "insight": {
@@ -294,7 +266,7 @@
           "tag": "Transcript",
           "headline": "Video Transcript Top Questions from our Clients : October 2026 - HSBC Private Bank",
           "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNLWpfN3dhc3JuT3piY3Z3VWNCekVWeXdsN1pRWVplQkUxdnV0R2h3SlhUcGNHMEJ3VlFoMzhDOHF4VW55M0p1QTExOTlzSE1WRDNmUjgyRlZnNm5BdHpLMjg3eFhFb3kxZDNmbjlOTWE1VWJRYkJzREhoN3pRS3ZpZWdwM0wwdXNsS2gzbnUwdjlOcW81Z2RRckp2dlk2NHNLdzVySjFWQ1NUZUZENzRiS2Y4RlB5bTNBckVGRGU2WEV0YThMYUNfam9zZkRDdGdDZGE1cGdvQXktOEFmZ182eGtiRTMzdzk5eGI0dGw0THlvdVRQV05Wemxoa1lqUGFlRm84Yjlkc2VvREtOVXBBT1V1VVZOOGdqakF1bGhmVzRYM3FtZnZWZlc5TFM5ZEdNVThF?oc=5",
-          "published": "2026-11-06T23:34:05.000Z"
+          "published": "2026-11-06T23:08:29.000Z"
         },
         {
           "company": "DBS Group",
