@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:44:56.138Z",
+  "generatedAt": "2026-11-11T08:10:12.774Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,6 +33,20 @@
       "bullets": [
         {
           "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTk1aaW4yeGxkNy1UR1V1NjlzMnJtYmN5bDVwWGlPOGd0TDczM3d0TDVISXVDVXQwd19NcWVsalo4blQ1alhrU3VObG0ta2lRWDVyVFkzVWFBenlUanBlUUlHMGYwNTNpNFVQajdYVFlhZm00N2EyZmoxNTRwa0gyZXdDUnFNaUh2Sk1SNUhrcnpBOEMz?oc=5",
+          "published": "2026-11-11T07:03:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "iShares MSCI Hong Kong ETF (EWH) stock price, news, quote and history - Yahoo Finance Australia",
+          "source": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OM1djZ1lORWJvOVVjWnR3QTNwU0tYb2h6djlxek1rNGtScGY4R3Z1MHVvTUlUb1pmam1JZjRFYU1EdW5IV21SUTUzRDRvNkQ0?oc=5",
+          "published": "2026-11-10T10:15:31.000Z"
+        },
+        {
+          "tag": "Product",
           "headline": "Hong Kong Approves Solana ETF Ahead of United States - CoinMarketCap",
           "source": "CoinMarketCap",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHh2SFRXWldFclNuUVl1M0xhT3gtU1o3alFVbzZqeWJIc1ZPTThhLWRjTDZCSUp0SzloSjVJemh1VmdqMkNyTDVwVlBTbWJJd1loSXFwZzBwSzA1bF9hUjVtREszX1pjSmhuSGdKX0JhVE02SEpxNHNFaUZEQXFkNmVnMEFDSGtDTy1oVXM4b1BTOHRpUGpaeFhn?oc=5",
@@ -40,6 +54,20 @@
         }
       ],
       "candidates": [
+        {
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTk1aaW4yeGxkNy1UR1V1NjlzMnJtYmN5bDVwWGlPOGd0TDczM3d0TDVISXVDVXQwd19NcWVsalo4blQ1alhrU3VObG0ta2lRWDVyVFkzVWFBenlUanBlUUlHMGYwNTNpNFVQajdYVFlhZm00N2EyZmoxNTRwa0gyZXdDUnFNaUh2Sk1SNUhrcnpBOEMz?oc=5",
+          "published": "2026-11-11T07:03:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "iShares MSCI Hong Kong ETF (EWH) stock price, news, quote and history - Yahoo Finance Australia",
+          "source": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OM1djZ1lORWJvOVVjWnR3QTNwU0tYb2h6djlxek1rNGtScGY4R3Z1MHVvTUlUb1pmam1JZjRFYU1EdW5IV21SUTUzRDRvNkQ0?oc=5",
+          "published": "2026-11-10T10:15:31.000Z"
+        },
         {
           "tag": "Product",
           "headline": "Hong Kong Approves Solana ETF Ahead of United States - CoinMarketCap",
@@ -92,6 +120,14 @@
       },
       "companyUpdates": [
         {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "Transcript : EDAP TMS S.A. Presents at 2026 UBS Global Healthcare Conference, Nov-10-2026 01:15 PM - www.marketscreener…",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOGVxR2gwTnMxVWl1UTFBR1V0QXdlenpJQTItM2V3T3gtNUJQQVBpNl85TGlla1V1M1d1ZGR4a1liTVdleHdvU1NTN0FPSHlSTEJvdVhzSlN6TEpwU3NkcjVmOGlXd3B4bm4yTFY1cGE0YUxyeUEzM0ZqeFJySU1ULTdFVUJGaXFqd0R3VVNVRm9lRi1pTlR1SktGMEZKcVVQakdrakw5RWxQamdwckVzUzRnYXhjdVR1bVRPRV90Wlo2anA3RFFTMzFXWUJSMHB6aVhlSlRaYVNkUkVOelZuZQ?oc=5",
+          "published": "2026-11-10T19:50:20.000Z"
+        },
+        {
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
@@ -103,17 +139,9 @@
           "company": "DBS Group",
           "ticker": "D05.SI",
           "tag": "Transcript",
-          "headline": "DBS Group Holdings Ltd. (DEVL.SG) Q3 FY2026 TU earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHVTMHhoekE3SXJrTGQxQUp6MFhTSG9XXzB4aXlYekpZZ1l5amx4SWxlcVFjbm1uOUNERDB5ZzIzbHR6NWptN0E0bVhfTmFTWlM1YjI2Nkc4M1JWcHp4OUJzWGN5NmphSHkzcjZobDdJQlZISDY3WllqQ0diVnBxejFpMTNvZ3pFbmlLS2RIcHRPY3hJ?oc=5",
-          "published": "2026-11-05T02:30:00.000Z"
-        },
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "UBS Group AG (UBSGZ.XC) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkRiMElmenRTdk5FRlpvTkppWXRXLXU3LW5pLTNPNGFoSlI3UE9zWWZuWmQya1FvSTBmR3c4YUxZTGpiWWpjaElfeWYyMU1NNGluT1BXUTd3WHdlM1dha1JGdWZyR1pLOV9DeWJXNTQ3U3lPd3I2VDlwMTVPUFpiZklWaThYRDlQaUJzTmhVeFJSeHFPTXNOYg?oc=5",
-          "published": "2026-10-28T07:00:00.000Z"
+          "headline": "DBS Group Holdings Ltd. R (DEV.MU) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR04xTHBSMWJpZlQ3ZkpHSzlIdnhQYndzYlNIVDRQajlYYnI1dXVXbi1MbV9tSTk0czNYeGg2cURUeWRPajZFZVRlaXhURUxlWG9SZ2tZai03eGprcUVQQlkzVHpiQU5mdmFMZFdZVzlQM3JKZFZDV3ZPZW13UmJHVlNLT3ZUMHFoekszamZmSlZGZw?oc=5",
+          "published": "2026-11-05T03:30:00.000Z"
         }
       ]
     },
@@ -121,6 +149,13 @@
       "id": "insurance",
       "name": "Insurance",
       "bullets": [
+        {
+          "tag": "Regulatory",
+          "headline": "ASIC opens consultation on General Insurance Code before approval decision - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGFNVmF6RFlfRFlNUWZvOU1Zd0JzTTREdlBXR2hxMk9RbnhMcVJHNTFWVHNoTTV3cFZNeENMclg3Zjd5d1YwdWJnaW1BUW9PZldWT2ZCVkxXd3BPakJOa1QxbTdVNm1xRFJKNGNsQTZ4SGZhOHV5SE5fQmtTMVMwY2hTRmZFS3l5OVVOREZlYWlkVmFYVEdVVWFzT1A2LWloYS1LYWx5WE5VMmZ3U0U0TUVyalVFTmktUEktd1pYRHYzWlJaclhfLWRZNDVsNlJfYkJJRU1tQzRFMmMxb2c?oc=5",
+          "published": "2026-11-11T04:46:45.000Z"
+        },
         {
           "tag": "Press",
           "headline": "Hong Kong general insurance premiums rise 8% as health and property demand strengthens, says AM Best - Reinsurance News",
@@ -137,6 +172,13 @@
         }
       ],
       "candidates": [
+        {
+          "tag": "Regulatory",
+          "headline": "ASIC opens consultation on General Insurance Code before approval decision - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGFNVmF6RFlfRFlNUWZvOU1Zd0JzTTREdlBXR2hxMk9RbnhMcVJHNTFWVHNoTTV3cFZNeENMclg3Zjd5d1YwdWJnaW1BUW9PZldWT2ZCVkxXd3BPakJOa1QxbTdVNm1xRFJKNGNsQTZ4SGZhOHV5SE5fQmtTMVMwY2hTRmZFS3l5OVVOREZlYWlkVmFYVEdVVWFzT1A2LWloYS1LYWx5WE5VMmZ3U0U0TUVyalVFTmktUEktd1pYRHYzWlJaclhfLWRZNDVsNlJfYkJJRU1tQzRFMmMxb2c?oc=5",
+          "published": "2026-11-11T04:46:45.000Z"
+        },
         {
           "tag": "Press",
           "headline": "Hong Kong general insurance premiums rise 8% as health and property demand strengthens, says AM Best - Reinsurance News",
@@ -171,12 +213,20 @@
           "published": "2026-11-05T17:34:56.000Z"
         },
         {
+          "company": "Great Eastern",
+          "ticker": "GEL",
+          "tag": "Transcript",
+          "headline": "Genesis Energy, L.P. (GEL) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0dsRUdkNm5QdzNvS0RHckJZVG1EYlRid1hUZGxDNU9nVUVkb0QzWUxBRXQ4ZV9VZDY1Q1VvcUV1bkxaRFh4eUhwZWxpVUg4NGlCUUZCUHlpR0ZhMnRvTVhRTFVuVzM3UW10bWRWX01jWVZqa2dvcnRUZU1PLTluaFZxbVBORVJCWGc?oc=5",
+          "published": "2026-11-05T15:00:00.000Z"
+        },
+        {
           "company": "AIA Group",
           "ticker": "AIA",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: AIA Engineering Q2 2026 shares fall as freight costs bite - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFg0TWhDTWpoN1hhN3EtbnpFbmgybDhTQkd4YXJSMlFCN0RKNktvMVh6NGhXbXl4QUM0QmsxVUs2RUlhLTZaUTdFLXVobFRxY2xaMjNYdHpjVlcwYnNBaWhwbjQtZGFzck5wdU0wZUZwZ2hjR2FQQ1hWdFdvUWZLMTJSLWJybHRFQ1d3dHY5NzB5ODlUUmlCaE1fay03YUg5ZDVOV1JwSXBuaGYxc185VzBwdnloTVdNd0dBTEdvWndBMjFKQjB6eFBRLWRVUUhjS2tMYUswOU5lbk0?oc=5",
-          "published": "2026-11-03T13:09:18.000Z"
+          "headline": "Earnings call transcript: AIA Engineering Q2 2026 shares fall as freight costs bite - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUldsZjdvTDFHRzBLX3BiWU1aQVBCNUdmQW5UUGtpWDRJeENseXNwcy12ZjdPTXFnTHd3NjczcDhPVkpDRHVjMjBuTzNjeXlzNXc3Vk91VEU4emZuUWxnWTJHbVZnVDR2cTNMN0hQWVNrMjRzUm1hVTQyc0I2TE9BbU9MdzdIT2FVVzUyT2FNdmZ4aUxSNlVEdUtXdTk4SlVrV3o2eGplRDMxZzMySXY0MEtPN2ZrUFU0dGhvWW5zUVh4dG53VGE5bms1MWN0a3lWWXpDZA?oc=5",
+          "published": "2026-11-03T13:00:57.000Z"
         }
       ]
     },
@@ -185,20 +235,34 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Leadership",
-          "headline": "Cake named Vietnam’s Best Digital Bank 2026 by Euromoney - Báo VietNamNet",
-          "source": "Báo VietNamNet",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2Z0OTVZRzZaekNBVlpiT28xODNuX2FHVEtITXlYcE1odWU1dGRKRmJITXFkM1pjOXBibjJNUTR5VWpRWDdrWW1pZUJDZGg0ZTFjd2FucjRFenNNYjNOMFQ0cWtDcnI1TjI2TVVDU2xiMjdTX3JldGlZUkN4OFpBbVFtNUhSMXh3RTB4TkRid1IwbEZKSHc4WFln?oc=5",
-          "published": "2026-11-08T06:00:23.000Z"
+          "tag": "Product",
+          "headline": "Best Fixed Deposit Rates in Singapore [November 2026]: Up to 2.30% p.a. - Beansprout - Singapore’s Leading Financial Insights Platform - …",
+          "source": "Beansprout - Singapore’s Leading Financial Insights Platform - Growbeansprout.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTdfNERZOGtMeTdTTE5ta2F6TlN2cURNN0c3QnBXQk16LTNDZm1Yclh3WEdYdkVHc1ZYRld5Qm9wVWJydlVzdDVVWEl3MXRNS2JFbElVM0pMS0VKZWJiU0szc05RRFBDSm5GWFZGWWdydUVHNDlCd3VWLXpMdXpuaU1YOA?oc=5",
+          "published": "2026-11-09T08:00:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Real-time payments are booming, so why is Australia's old banking system still moving $18 trillion? - iTWire",
+          "source": "iTWire",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzNsSGhlOTlrSEpOYnlYVFVZS3p2LWpBOGhRa0xFY1N5WUk5aW9rTUdsd2FXNWI2SzYyOFFtLTQtaFVNTVg5THFOc2hjdl9rQUhtbVhqdUtzYTQxeVBVdjVwV3lYaXJQU3VCREZ3cXROdTZRNElGUV9xN2dmQUhzT1p5NllENHZKNDNHTE1VNmx6ZnctZVRrbVBTRUVIWFhUMzUtanBpZkVtN2ZRWThsZTQyZzFrTGFkYi1ucFp3TGlEb1lDSGUwUVpYeWVCNGw3ZmtiNDlRWQ?oc=5",
+          "published": "2026-11-10T12:21:30.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Leadership",
-          "headline": "Cake named Vietnam’s Best Digital Bank 2026 by Euromoney - Báo VietNamNet",
-          "source": "Báo VietNamNet",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2Z0OTVZRzZaekNBVlpiT28xODNuX2FHVEtITXlYcE1odWU1dGRKRmJITXFkM1pjOXBibjJNUTR5VWpRWDdrWW1pZUJDZGg0ZTFjd2FucjRFenNNYjNOMFQ0cWtDcnI1TjI2TVVDU2xiMjdTX3JldGlZUkN4OFpBbVFtNUhSMXh3RTB4TkRid1IwbEZKSHc4WFln?oc=5",
-          "published": "2026-11-08T06:00:23.000Z"
+          "tag": "Product",
+          "headline": "Best Fixed Deposit Rates in Singapore [November 2026]: Up to 2.30% p.a. - Beansprout - Singapore’s Leading Financial Insights Platform - …",
+          "source": "Beansprout - Singapore’s Leading Financial Insights Platform - Growbeansprout.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTdfNERZOGtMeTdTTE5ta2F6TlN2cURNN0c3QnBXQk16LTNDZm1Yclh3WEdYdkVHc1ZYRld5Qm9wVWJydlVzdDVVWEl3MXRNS2JFbElVM0pMS0VKZWJiU0szc05RRFBDSm5GWFZGWWdydUVHNDlCd3VWLXpMdXpuaU1YOA?oc=5",
+          "published": "2026-11-09T08:00:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Real-time payments are booming, so why is Australia's old banking system still moving $18 trillion? - iTWire",
+          "source": "iTWire",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzNsSGhlOTlrSEpOYnlYVFVZS3p2LWpBOGhRa0xFY1N5WUk5aW9rTUdsd2FXNWI2SzYyOFFtLTQtaFVNTVg5THFOc2hjdl9rQUhtbVhqdUtzYTQxeVBVdjVwV3lYaXJQU3VCREZ3cXROdTZRNElGUV9xN2dmQUhzT1p5NllENHZKNDNHTE1VNmx6ZnctZVRrbVBTRUVIWFhUMzUtanBpZkVtN2ZRWThsZTQyZzFrTGFkYi1ucFp3TGlEb1lDSGUwUVpYeWVCNGw3ZmtiNDlRWQ?oc=5",
+          "published": "2026-11-10T12:21:30.000Z"
         }
       ],
       "insight": {
@@ -220,20 +284,20 @@
           "published": "2026-11-09T09:50:14.000Z"
         },
         {
+          "company": "Commonwealth Bank",
+          "ticker": "CBA.AX",
+          "tag": "Transcript",
+          "headline": "COMMONWEALTH BANK OF AUSTRALIAR (CWW.HA) H1 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSU13NHptT1hqUkdKaTYwYVFjSEJqeDZIZDdabEZhSF9Pc2N1NnkwLTFINjNGS1Z2YjVLYnF3aXdabHVhcjFidWZ0R0pPSE1kNURjVGhKUTZSNHZnSmxSbkM2NXRaa1ZBSnlLd19YZFBzaWNmd0hzQlpuRGV6LXVLd1V6eXJpZkI5UWt2SDFIREVPdw?oc=5",
+          "published": "2026-11-09T01:37:03.000Z"
+        },
+        {
           "company": "ANZ Bank",
           "ticker": "ANZ.AX",
           "tag": "Transcript",
           "headline": "ANZ GROUP FPO [ANZ] (ANZ.AX) H2 FY2026 earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMXpUSFpTUW05NkgtTzk1V014Z24zSFU1SnpBRUI1UDVFc1kwM0sweGFBMHRFVmtWaTVET3lPT2RzYmNnZFNUOTBmeHJNWTVCejNnSWtHSmt1cno4YUpiN3l2WnNXVnJ2VUZCcnZEdnQ3bEtScWRiSlgtZE8tVTNUTXEyam1QcFplUW9zOGNvb1o3Zw?oc=5",
           "published": "2026-11-08T23:00:00.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "DBS Group Holdings Ltd. (DEVL.SG) Q3 FY2026 TU earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHVTMHhoekE3SXJrTGQxQUp6MFhTSG9XXzB4aXlYekpZZ1l5amx4SWxlcVFjbm1uOUNERDB5ZzIzbHR6NWptN0E0bVhfTmFTWlM1YjI2Nkc4M1JWcHp4OUJzWGN5NmphSHkzcjZobDdJQlZISDY3WllqQ0diVnBxejFpMTNvZ3pFbmlLS2RIcHRPY3hJ?oc=5",
-          "published": "2026-11-05T02:30:00.000Z"
         }
       ]
     }
