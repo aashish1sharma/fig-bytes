@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T08:36:55.705Z",
+  "generatedAt": "2026-11-14T07:54:49.876Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,54 +33,33 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "headline": "Fidelity Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWh2TllsOEtzb0ttdjZyeDZkaXRJTlF5R3BWZEJNV09hTmpFRWMxNHlkMGE2Ulo5dlQwNnppaFJkd1kwUEE0cVJTSjRuM21vM0pTTk96OFZySGZUWU1mc1gyZXY4RWRSdVhieEUzeHFMdlRfMndnVWRPV0FoenlHakFzVEwyblU1WFJ6bnhiUVhZdXR1?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmVBY0hIREVOWXVVN0RESDVlN203Y2pQcXBidHdSRk1hMUNKRWlxaW1Ic0J0alRCTVJQdDJpZUxMU05ZaWNWR3VYdjdISTh4M1RFbWVPZlpsSjV6Wkt0SGdFdmxDN2l6N0pVN1E4bTRJVlJKdThKRU1YWTlhakVZcmxackl4Y3hHdzlOOHBTbEZuT19q?oc=5",
           "published": "2026-11-13T07:03:00.000Z"
         },
         {
           "tag": "Product",
-          "headline": "‘Well positioned’: Hong Kong eyes wider pool of investors in growing ETF market - South China Morning Post",
+          "headline": "‘Well positioned’: Hong Kong eyes broader pool of investors in ETF market - South China Morning Post",
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnB4UUozWnh6eHZVMUI3Q3h0UkNyUmZvc0ExbEV6cjhWRVI4d1A3cWdoZnVYTDk3dTFBS0dmcnlKMkNzTFlLMW5ncjVtMHYydldHVERLMUpyMzd3Q0gxRUZuWkxQWkFXZXh6TGRxa0MyRldQODI4WlRiOFMteExRTExCNXE4VGVUV2hGbmVNM3dfMWpnU202bjNRNHEwenctVDMxSTMwRkwxb2x4Mnh0TldxNlp4SER6MTVNVXZVQTMzdw?oc=5",
           "published": "2026-11-13T03:18:18.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "OUE REIT - Can its Sydney acquisition unlock more value for unitholders? - Beansprout - Singapore’s Leading Financial Insights Platform -…",
-          "source": "Beansprout - Singapore’s Leading Financial Insights Platform - Growbeansprout.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xN01mUHo3OXNPSkxoQmhYRzg5emhsZnZ3aEVwY3J2eVZvam1Mc1Q3QVUwTHRHM1BLTXBQc2s2WC1iYUdHNno4R1lwVC0xZy1BNHBzUUs4ZnlTdw?oc=5",
-          "published": "2026-11-13T00:31:47.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "headline": "Fidelity Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWh2TllsOEtzb0ttdjZyeDZkaXRJTlF5R3BWZEJNV09hTmpFRWMxNHlkMGE2Ulo5dlQwNnppaFJkd1kwUEE0cVJTSjRuM21vM0pTTk96OFZySGZUWU1mc1gyZXY4RWRSdVhieEUzeHFMdlRfMndnVWRPV0FoenlHakFzVEwyblU1WFJ6bnhiUVhZdXR1?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmVBY0hIREVOWXVVN0RESDVlN203Y2pQcXBidHdSRk1hMUNKRWlxaW1Ic0J0alRCTVJQdDJpZUxMU05ZaWNWR3VYdjdISTh4M1RFbWVPZlpsSjV6Wkt0SGdFdmxDN2l6N0pVN1E4bTRJVlJKdThKRU1YWTlhakVZcmxackl4Y3hHdzlOOHBTbEZuT19q?oc=5",
           "published": "2026-11-13T07:03:00.000Z"
         },
         {
           "tag": "Product",
-          "headline": "‘Well positioned’: Hong Kong eyes wider pool of investors in growing ETF market - South China Morning Post",
+          "headline": "‘Well positioned’: Hong Kong eyes broader pool of investors in ETF market - South China Morning Post",
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnB4UUozWnh6eHZVMUI3Q3h0UkNyUmZvc0ExbEV6cjhWRVI4d1A3cWdoZnVYTDk3dTFBS0dmcnlKMkNzTFlLMW5ncjVtMHYydldHVERLMUpyMzd3Q0gxRUZuWkxQWkFXZXh6TGRxa0MyRldQODI4WlRiOFMteExRTExCNXE4VGVUV2hGbmVNM3dfMWpnU202bjNRNHEwenctVDMxSTMwRkwxb2x4Mnh0TldxNlp4SER6MTVNVXZVQTMzdw?oc=5",
           "published": "2026-11-13T03:18:18.000Z"
-        },
-        {
-          "tag": "Strategy",
-          "headline": "OUE REIT - Can its Sydney acquisition unlock more value for unitholders? - Beansprout - Singapore’s Leading Financial Insights Platform -…",
-          "source": "Beansprout - Singapore’s Leading Financial Insights Platform - Growbeansprout.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xN01mUHo3OXNPSkxoQmhYRzg5emhsZnZ3aEVwY3J2eVZvam1Mc1Q3QVUwTHRHM1BLTXBQc2s2WC1iYUdHNno4R1lwVC0xZy1BNHBzUUs4ZnlTdw?oc=5",
-          "published": "2026-11-13T00:31:47.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Link REIT Earnings: Improved Sales Support Hong Kong Retail Rent Recovery; Divestments Fund Buybacks - Morningstar",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZG16eVg5ek1zUVlYOXQ5QmgyQW9YcTdFdDdOR0RXcXdTUXR3Um9ZXzg2NmVldzVpN2xfLUdHMl9qclB0amRZTzFwd0pVd1dNWVZ6X1V2Z21WSTRDeE1RTjVlNm1IdlJOQ3c1REZFdDZoY1pfekpKOFNLZXBUTjdRVTRYcGxxY2dBN1B5N1pNOFhrSTNaZURSek1pZ1B4cWNEUXQwUTBUdHNZb3kxZDJFRU40UHJqb25tYkluN2tXOHlKeHNqY0ZRelJ4Uk40cmxmVnpCbGRUWmd0LTREcHNPaDBNcTFNbGR4MS1fNGtTTlRUa2VqODdVZVBFOE1wZw?oc=5",
-          "published": "2026-11-12T16:39:59.000Z"
         }
       ],
       "insight": {
@@ -94,28 +73,28 @@
       },
       "companyUpdates": [
         {
+          "company": "Schroders",
+          "ticker": "SDR",
+          "tag": "Transcript",
+          "headline": "u Sea US SDR 50to1 (UGGD.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc3VlZVAtNnVyMV82czc3anZuQVhHeElIVk1TR0JFYl9oWi1VblVCVDNmdUxTanZLVkp5WndXckZPUVJqTzJDT3Z6NjlNblh2T1ByeDNsYmJvTlJYeTFzS3NkbWo5Q2xaak43djFwZUFhXzRqS1BKWkZMYjY0NGk5VEs2T19XWGFKNlVHajFmeFI4dkxf?oc=5",
+          "published": "2026-11-10T12:30:00.000Z"
+        },
+        {
           "company": "BlackRock",
           "ticker": "BLK",
           "tag": "Transcript",
-          "headline": "BlackRock TCP Capital Corp. (TCPC) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenZYMnZRNFpJMjg0VURCM1pfbDlnZmNKdS1Zel9GVVZTakVjcUhIOVFuTnlGdmd1VTVsVmhCY3lVUHJYanNsZkVtbWV1d2h4Mlh5OEFBNmRQRk90OUtpRTRwSTdManF3cU5iM2dreUUwUC1LTW9paHFvaUt1WU1LWWNWVHdTLTMzS2hkYw?oc=5",
-          "published": "2026-11-05T17:00:00.000Z"
+          "headline": "BlackRock TCP Cap Q3 2026 Earnings Call Transcript - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTB3eW5YZVJNYUxqcUZpbFppNHVQd1lJN1VwTUpOOGxjUjNEYXdyX1pXdVR6TDRDSmN4NW1GbHFSeGJJUjBGTlZaUGlHejNPVjkyR1J4UmI1U1ZsMjRPTElkb0NBYUEwRDBxRGU5SWtGd0ZFN0JodVJyNFBkSkJOOTZPeUFYb1pwSU11dkxqdjc2YnBUYWhBUlplNA?oc=5",
+          "published": "2026-11-05T08:00:00.000Z"
         },
         {
           "company": "Nikko Asset Management",
           "ticker": "NOMURA",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Nomura Holdings posts strong H1 2026 profit, shares rise - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYTFjUDFKQTZ6YXdLeG1Vd2Y5dGJXMTlkUy1lbnZ3bHBtWE9ld0NpYmg4X3hJVXQ1bW91OGplLXRqc1pYak1lNkVreV9hWTA5a2NZX2NNajZjU2tvUEd6eXIyUlU5T2dVdnRPVU96WkR5eHJWbjd2bHdyVGN2QnlOY0I2cE1MU04yVjNfX1FnYjBxdTVmNXVXU3owLTRyU0EybHpMQW90VGdKSjBVeklnZWtJWm03dkNxWjNrQlJ4MHhVWktLdG90R05Sd0p4R25qenc?oc=5",
-          "published": "2026-10-28T11:00:48.000Z"
-        },
-        {
-          "company": "Fidelity International",
-          "ticker": "FIL",
-          "tag": "Analyst Report",
-          "headline": "Fidelity launches All Country Equity Research Enhanced ETF - RankiaPro",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1Z1d2R2dUVlck5LWjBrZ2VmTkxGS1dlMHFUSTU5QVpibVEwWHpXSTFDS3lYa3NyXzhDcWhIbENaZlFIckwwYUNUdy1XbWdQUUFfell0YVZCU1JtZjBjeDRhdkpmRDlXUFJYVXhtNC1XUjI2R3owd2FNNFpnS3lyR1hWdkxhU1dVTEVSaGpXSFJFNlhidWdKYXFpZHIxamstbkd1NGlJN0g0ZDFER1pZNjFR?oc=5",
-          "published": "2026-11-11T16:23:44.000Z"
+          "headline": "Nomura Holdings Q2 2027 Earnings Call Transcript - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUZ6NFkxRnVyV25nZGs4eXdDaFlaRlVmdXNqb091QWlfa0JTa1RpZlpfdkZXUTdlQ2hneFdfa1lTeDFfbHdxQ2RTLVRwQWtCMkstMzFBQVQ5RndIcm45bm5lZndycUlpc3Rqd200MVNBYmpNWlQwa005RzJBQ19uX1AyUjNjMm1wSllyQ1kwa2ZGaGM5alduYg?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
         }
       ]
     },
@@ -146,8 +125,8 @@
           "company": "DBS Group",
           "ticker": "D05.SI",
           "tag": "Transcript",
-          "headline": "DBS Group Holdings Ltd. R (DEV.MU) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR04xTHBSMWJpZlQ3ZkpHSzlIdnhQYndzYlNIVDRQajlYYnI1dXVXbi1MbV9tSTk0czNYeGg2cURUeWRPajZFZVRlaXhURUxlWG9SZ2tZai03eGprcUVQQlkzVHpiQU5mdmFMZFdZVzlQM3JKZFZDV3ZPZW13UmJHVlNLT3ZUMHFoekszamZmSlZGZw?oc=5",
+          "headline": "DBS Group Holdings Ltd. (DEVL.SG) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmc1ODJrQTcyQVJJN25HMzdUMDZUYnd2eWVGUzU4Xzk4LWdoc3FlUU41c1haRDZFbldqN2FnRmtnU2cxaFVWUS0zMGVTdy1yYWRrai12Mmk5b0Z6eXNGTVVNdzF5Zl9pX1FqU3FBUWt1QWFNUWs3QW4zekIxaHFYcGxXTFUxajVmMk9adXhfeGViZ2k5?oc=5",
           "published": "2026-11-05T03:30:00.000Z"
         }
       ]
@@ -157,18 +136,18 @@
       "name": "Insurance",
       "bullets": [
         {
-          "tag": "Regulatory",
-          "headline": "ASIC opens consultation on General Insurance Code before approval decision - Insurance Business",
-          "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQWdDY1FURTBDTS02T2traXBzN0RNbGxBbkRwZmJIMXNKaFFnX2VEcGo2NXlzOURlYnhPVXh4UmxNRUU2Q3ZieEhvWlpfTk5vWjRPeDR5bnFYQVhFNTJ2VnR3MjZQREFLeEgwbmVEdEJMR004MUtzQjgwT0NxcGM2RFNFLTVJZE9TUTVkR0ttUFhpdDJBMkVSQTlfMFUzYUwzTmVrUnFVb3RJZ2VpYjMwUVNERm45bWV0dGNtd2Y2OFFzcEw2aWJlX2ZTTTlXOUNDVW9KNDVONXFQWVNaMjNLLV9mbDU?oc=5",
-          "published": "2026-11-11T04:47:21.000Z"
-        },
-        {
           "tag": "Product",
           "headline": "Hong Kong Sets World Record with a $318 Million Life Insurance Policy - 아시아경제",
           "source": "아시아경제",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVWJ0WE9UeFAzR0dheFZ4UmdWblBlZVMwd0h1VEM4dTB0dk83bVhhVHRSOHlnTklqYXVxWFgyVFJWZnc5aGFPMk9XYURHWkhDRmw0QlpwN0lreV96NFV2WURHTGk?oc=5",
           "published": "2026-11-11T23:21:00.000Z"
+        },
+        {
+          "tag": "Earnings",
+          "headline": "South Korea’s non-life insurance profit masks a sector divide - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkVqVlNxY01PT3VYdlowZENxRU9JUkh4QVJRQlpYWXNwYnpxc253NEd6aDJzQnJfZDZfMW94dWN0cnVqT0JWSGVsSzVmNXRRQ0pUeDNPaGFDQncyODdJcTRDY1lvOWtOemJ4VHlnbWtGb2JiRDMwQy1ZODFGZElKMGtrN08wRnR4el9ZWDc5N2JTcTQ3Z0NheWxsRVVkZGUzYjlTY254c2VqOWc4X0ZoZVpySTktRmFyeml2SjV1RDZhT2s2UG5wR1Z6S2Q?oc=5",
+          "published": "2026-11-13T15:13:48.000Z"
         },
         {
           "tag": "Press",
@@ -180,13 +159,6 @@
       ],
       "candidates": [
         {
-          "tag": "Regulatory",
-          "headline": "ASIC opens consultation on General Insurance Code before approval decision - Insurance Business",
-          "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQWdDY1FURTBDTS02T2traXBzN0RNbGxBbkRwZmJIMXNKaFFnX2VEcGo2NXlzOURlYnhPVXh4UmxNRUU2Q3ZieEhvWlpfTk5vWjRPeDR5bnFYQVhFNTJ2VnR3MjZQREFLeEgwbmVEdEJMR004MUtzQjgwT0NxcGM2RFNFLTVJZE9TUTVkR0ttUFhpdDJBMkVSQTlfMFUzYUwzTmVrUnFVb3RJZ2VpYjMwUVNERm45bWV0dGNtd2Y2OFFzcEw2aWJlX2ZTTTlXOUNDVW9KNDVONXFQWVNaMjNLLV9mbDU?oc=5",
-          "published": "2026-11-11T04:47:21.000Z"
-        },
-        {
           "tag": "Product",
           "headline": "Hong Kong Sets World Record with a $318 Million Life Insurance Policy - 아시아경제",
           "source": "아시아경제",
@@ -194,20 +166,34 @@
           "published": "2026-11-11T23:21:00.000Z"
         },
         {
+          "tag": "Earnings",
+          "headline": "South Korea’s non-life insurance profit masks a sector divide - Insurance Business",
+          "source": "Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkVqVlNxY01PT3VYdlowZENxRU9JUkh4QVJRQlpYWXNwYnpxc253NEd6aDJzQnJfZDZfMW94dWN0cnVqT0JWSGVsSzVmNXRRQ0pUeDNPaGFDQncyODdJcTRDY1lvOWtOemJ4VHlnbWtGb2JiRDMwQy1ZODFGZElKMGtrN08wRnR4el9ZWDc5N2JTcTQ3Z0NheWxsRVVkZGUzYjlTY254c2VqOWc4X0ZoZVpySTktRmFyeml2SjV1RDZhT2s2UG5wR1Z6S2Q?oc=5",
+          "published": "2026-11-13T15:13:48.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "Financial advisers overtake banks in Singapore life insurance sales - Insurance Business",
           "source": "Insurance Business",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdEpXeXNfblkwUUJrRkxrUEtwaUZSZ080T2YyTDRfWXhQQ19sRTM2dkRvZWdPY3RHMjdQbEo4NXE3amVGVDhlc0JQNERUdERhWS0zMS13RjVhenpUNmxmR3RVN2RoRlBteVU3c0RVVndUZzVnaW9BM2VoZW85VGhMNmpSMnRRX3c1aVBBeVVyQVN4eW5id25Ia21zV1VtUm1HX2JKS1QyTEZBY05aeXVHTGJMakN3bWE4V0I2Q2FIUmV1QktnXzk4QV9fT3pSaVNLWl9lZTNKazU?oc=5",
           "published": "2026-11-12T16:40:42.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "How AI Can Help You Appeal Health Insurance Denials - Yahoo News Singapore",
+          "source": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GcERwOEZsSWlCdzV3MDBnRGd3RDRaazlHUXV0RGdBQ3d1VWx0SkQ1Z0pBQlRiMnItY2VDcG5nM3RqRm1aN2NEM3Q4RjQyTkF2VUVFX3dqTkpsNXVNZUZnR1NPZkYyTUN4a3c5SS1ZcG1BWWMwZ25hYzJSLWc?oc=5",
+          "published": "2026-11-12T13:00:04.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "Best’s Market Segment Report: Health and Property Lines of Business Drive Hong Kong’s Non-Life Insurance Growth - Morningstar",
+        "headline": "From Nvidia’s plunge to a life policy record: 5 figures investors are watching - South China Morning Post",
         "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3F1Y1RmRWpZTmY5S1JqYkI1QUtFclZYLTdUSnBWV1dWNFpWZmdfRGU0NDFKeTE2aldhWERGZC0zdXEtNFN4eXZoaVVpOEpzSEhma3RqaTNwNUN4WGc5bmZ0QW10LVVtRGJYREwyZlFrNmFRdWRZajREVVVCZTdPeXE1RUVoRXp0SXNFb0p0MGdISkRxRDN1NTh5M2RoRHcxSmFvT2luejljRVRLcUktUkNnQkNuMzRQZHpCRkpTazYyWVN0TXpBZ3EwQy05alRRTmdnaGZFbXVXVUpXY3BzT1huTU96cENMSGhXUEFSRFA3NkhFQkppYWtLNHF5c1k?oc=5",
-        "published": "2026-11-09T01:49:52.000Z",
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQkJKMTVrTEZVd0RrTG9TeVVfbmd6UXNmWVY0ZGp2Qk05c0V2MzZxLXFVZXVzZWd6NHJKeE1ENG11dHNGS19YSVBZVzVRUVVISmpLdGZOS01Ic2M1Rkl1U2hVWGNfamMxYmU1ZkRyemhMYkh0OFdNb2tJNU1JMjRmUFY3YnExWWR0UUtTVG9DSzNMTTNEeXZBclBwYTFWeUxBR2tQdGNKVkdPLTItbWRYVjlpNkg3U2NfVkFjSjJZV0poWmxnaFBpUmNTMW5QOHE1ZnNOVnhIal81ZGhUR3V4OGVJSUFPZlF4VVZkbDZlNUhzTU92eGc?oc=5",
+        "published": "2026-11-13T07:00:06.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -223,9 +209,9 @@
           "company": "Prudential plc",
           "ticker": "PRU",
           "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
-          "published": "2026-11-10T17:24:06.000Z"
+          "headline": "PRUDENTIAL FINANCIAL INC (PRU.MX) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXRoN2M3Q2FlX0NjZXRaYTFNUXVQU1RBQWFFVGFGQ2JhQkdSMXNxTWdKWENjbUpmZXY0LThPOFBYUXJXR2hVempxY0phYlZaQ3V1aUZVTjRLV3k5VG9hRC1XbjJ4LW9PZ3hlWm1zRDZMa3FzamNEbGVEbDBVWFRUeWZzNGNwREpGYUpjUnlYeUJGdw?oc=5",
+          "published": "2026-11-04T08:00:00.000Z"
         },
         {
           "company": "AIA Group",
@@ -242,11 +228,11 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Bottomline Completes First Live USDC Payments via Treasury Platform - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUpxUzVpSldQTnJ2NHBjVHR3YVFyUjFHbXpNVDZ4eWJZdHVvNmstbDVJT0xqOWRma1ZUVHN4cjhiaG9lX3JDQ01yc2t3UTlRRURwU21DTXFpNk5pY1ExUnJwNVJsUW1aQnp3NnFXd2hEUG9yMklTck1GbUxWUURBSkNIS0pHaWJsa2dTZ2lZMUd6X0hD?oc=5",
-          "published": "2026-11-11T04:38:03.000Z"
+          "tag": "Press",
+          "headline": "Digital Bank Losses Mostly Widen in Malaysia as BNM’s Clock Ticks - Fintech News Malaysia",
+          "source": "Fintech News Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXVWanNNVHFyQnp4bV9lWFNDTF90bEZmbHZGSDY4NngtUnZ6WGZCRzljbG9YS3dPZ29HYnRvckxJUDY5T0t1dXBUbVh1OG9qd0tscmRXSG5RS2h6YVN3Q1J0T1FpUGpCUjM4bW4wSnBpM2ZaVkt5UWtjaEw4UG9oYTZhaVNBU2w1NGswNkVhUG9PdFVmd1ZVZ0RMdzcyUTRVRkE?oc=5",
+          "published": "2026-11-13T08:04:55.000Z"
         },
         {
           "tag": "Press",
@@ -265,11 +251,11 @@
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Bottomline Completes First Live USDC Payments via Treasury Platform - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUpxUzVpSldQTnJ2NHBjVHR3YVFyUjFHbXpNVDZ4eWJZdHVvNmstbDVJT0xqOWRma1ZUVHN4cjhiaG9lX3JDQ01yc2t3UTlRRURwU21DTXFpNk5pY1ExUnJwNVJsUW1aQnp3NnFXd2hEUG9yMklTck1GbUxWUURBSkNIS0pHaWJsa2dTZ2lZMUd6X0hD?oc=5",
-          "published": "2026-11-11T04:38:03.000Z"
+          "tag": "Press",
+          "headline": "Digital Bank Losses Mostly Widen in Malaysia as BNM’s Clock Ticks - Fintech News Malaysia",
+          "source": "Fintech News Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXVWanNNVHFyQnp4bV9lWFNDTF90bEZmbHZGSDY4NngtUnZ6WGZCRzljbG9YS3dPZ29HYnRvckxJUDY5T0t1dXBUbVh1OG9qd0tscmRXSG5RS2h6YVN3Q1J0T1FpUGpCUjM4bW4wSnBpM2ZaVkt5UWtjaEw4UG9oYTZhaVNBU2w1NGswNkVhUG9PdFVmd1ZVZ0RMdzcyUTRVRkE?oc=5",
+          "published": "2026-11-13T08:04:55.000Z"
         },
         {
           "tag": "Press",
@@ -284,24 +270,9 @@
           "source": "Fintech Singapore",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PaVRjQnhFcV9PZXJGQTZKTURYVFp2TnpZeHRmb3lWTUduMEtNNkZORGUycVhqYlJvUU5SMzVuMjltWFdiYWZGZlVXY29hcGt1YjU3OUhvNFJRdVFQcXpzWEpTMGdLWUhXdFhCdElHMGd0T0k?oc=5",
           "published": "2026-11-12T03:48:36.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "UOB Adds UnionPay QR Payments for Singapore Travellers Across China - Asia Business Outlook",
-          "source": "Asia Business Outlook",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmhlQ2Rrb1N5czR0d09SSmZsQUlSRU40NnI4Z05yd0wtblpONFYxRWtKLUxjcWFaUGVLSUh6eV9aLVJlT1QtUjBGUlNCWXRveTlUeEFkX0VyUGM0UmQ3NlRFblkxMmFpamROeVU3UFg5eVdZSWJPS3JRc0VkUG9hU0tNbm1UZUdDSldQbXlYelNsTmdyams0TWpPMUhyVTFtOHEtSVR1Vlgtd3FWRXJMN2ZDZWVWMDBfZXZVUzNtcThkZw?oc=5",
-          "published": "2026-11-11T23:30:16.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "More funding could be sought if HK$10b university town loan scheme falls short - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQndXVHEyb1ZNUXE3Nm1KbW1ZVHRkRTllWnV4OWs4TG5rcEVBR2NTRjUwMFZZdnpaZl9KaTlKNUdxSDBsT0ZpMUlfVVIwWm1laEJ0WlgzMTU1UzRsVU1WX3RrOHFfUmtEOWI3MWlNTGt2T05XZTVybjRRb0w3NlE0dUUxTWh3NkVZVUpxZjhERXBmZklwaDB1a1NObS1FamljOG5YN2JMWWN1eFZPMmVjUkw0ZS1RWGlGaFoxSnVfaTN1MV8yTHZwbkQ0LTNJN0JZOVh3clZn0gHWAUFVX3lxTE50ekxGaF9iNmRDT2h2Wk5ZbHFkVVl4T2VQaGxNWW1RMTlWY1RES0Q2OFU3TzdnMUFNY3BEOWVfT3pxbTdfMWpZcnRacVM4dkNBWlJoOU1fbGxTNjUxRXlFMkZkVlctdUpwZ1V0T1NaalNTODE3UDVnNm5mZzRrc0xvaF9XS2IwNE1ib0NsRFg3ZlRUUl9hVWRVVUVJQWdubXBzeHg3cWxETE1KYVRSRGRoXzhPVWZDb1VDMmROZnp2Z2RNaWgxSEtHQ2JlMkV1ZC1hYkpYb0E?oc=5",
-        "published": "2026-11-06T13:41:22.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "HSBC",
@@ -315,8 +286,8 @@
           "company": "DBS Group",
           "ticker": "D05.SI",
           "tag": "Transcript",
-          "headline": "DBS Group Holdings Ltd. R (DEV.MU) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR04xTHBSMWJpZlQ3ZkpHSzlIdnhQYndzYlNIVDRQajlYYnI1dXVXbi1MbV9tSTk0czNYeGg2cURUeWRPajZFZVRlaXhURUxlWG9SZ2tZai03eGprcUVQQlkzVHpiQU5mdmFMZFdZVzlQM3JKZFZDV3ZPZW13UmJHVlNLT3ZUMHFoekszamZmSlZGZw?oc=5",
+          "headline": "DBS Group Holdings Ltd. (DEVL.SG) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmc1ODJrQTcyQVJJN25HMzdUMDZUYnd2eWVGUzU4Xzk4LWdoc3FlUU41c1haRDZFbldqN2FnRmtnU2cxaFVWUS0zMGVTdy1yYWRrai12Mmk5b0Z6eXNGTVVNdzF5Zl9pX1FqU3FBUWt1QWFNUWs3QW4zekIxaHFYcGxXTFUxajVmMk9adXhfeGViZ2k5?oc=5",
           "published": "2026-11-05T03:30:00.000Z"
         },
         {
