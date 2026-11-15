@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T07:54:49.876Z",
+  "generatedAt": "2026-11-15T08:17:35.351Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,9 +33,9 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Fidelity Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmVBY0hIREVOWXVVN0RESDVlN203Y2pQcXBidHdSRk1hMUNKRWlxaW1Ic0J0alRCTVJQdDJpZUxMU05ZaWNWR3VYdjdISTh4M1RFbWVPZlpsSjV6Wkt0SGdFdmxDN2l6N0pVN1E4bTRJVlJKdThKRU1YWTlhakVZcmxackl4Y3hHdzlOOHBTbEZuT19q?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWh2TllsOEtzb0ttdjZyeDZkaXRJTlF5R3BWZEJNV09hTmpFRWMxNHlkMGE2Ulo5dlQwNnppaFJkd1kwUEE0cVJTSjRuM21vM0pTTk96OFZySGZUWU1mc1gyZXY4RWRSdVhieEUzeHFMdlRfMndnVWRPV0FoenlHakFzVEwyblU1WFJ6bnhiUVhZdXR1?oc=5",
           "published": "2026-11-13T07:03:00.000Z"
         },
         {
@@ -44,14 +44,21 @@
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnB4UUozWnh6eHZVMUI3Q3h0UkNyUmZvc0ExbEV6cjhWRVI4d1A3cWdoZnVYTDk3dTFBS0dmcnlKMkNzTFlLMW5ncjVtMHYydldHVERLMUpyMzd3Q0gxRUZuWkxQWkFXZXh6TGRxa0MyRldQODI4WlRiOFMteExRTExCNXE4VGVUV2hGbmVNM3dfMWpnU202bjNRNHEwenctVDMxSTMwRkwxb2x4Mnh0TldxNlp4SER6MTVNVXZVQTMzdw?oc=5",
           "published": "2026-11-13T03:18:18.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Link REIT Earnings: Improved Sales Support Hong Kong Retail Rent Recovery; Divestments Fund Buybacks - Morningstar",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZG16eVg5ek1zUVlYOXQ5QmgyQW9YcTdFdDdOR0RXcXdTUXR3Um9ZXzg2NmVldzVpN2xfLUdHMl9qclB0amRZTzFwd0pVd1dNWVZ6X1V2Z21WSTRDeE1RTjVlNm1IdlJOQ3c1REZFdDZoY1pfekpKOFNLZXBUTjdRVTRYcGxxY2dBN1B5N1pNOFhrSTNaZURSek1pZ1B4cWNEUXQwUTBUdHNZb3kxZDJFRU40UHJqb25tYkluN2tXOHlKeHNqY0ZRelJ4Uk40cmxmVnpCbGRUWmd0LTREcHNPaDBNcTFNbGR4MS1fNGtTTlRUa2VqODdVZVBFOE1wZw?oc=5",
+          "published": "2026-11-12T16:39:59.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Fidelity Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmVBY0hIREVOWXVVN0RESDVlN203Y2pQcXBidHdSRk1hMUNKRWlxaW1Ic0J0alRCTVJQdDJpZUxMU05ZaWNWR3VYdjdISTh4M1RFbWVPZlpsSjV6Wkt0SGdFdmxDN2l6N0pVN1E4bTRJVlJKdThKRU1YWTlhakVZcmxackl4Y3hHdzlOOHBTbEZuT19q?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWh2TllsOEtzb0ttdjZyeDZkaXRJTlF5R3BWZEJNV09hTmpFRWMxNHlkMGE2Ulo5dlQwNnppaFJkd1kwUEE0cVJTSjRuM21vM0pTTk96OFZySGZUWU1mc1gyZXY4RWRSdVhieEUzeHFMdlRfMndnVWRPV0FoenlHakFzVEwyblU1WFJ6bnhiUVhZdXR1?oc=5",
           "published": "2026-11-13T07:03:00.000Z"
         },
         {
@@ -60,6 +67,13 @@
           "source": "SCMP",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnB4UUozWnh6eHZVMUI3Q3h0UkNyUmZvc0ExbEV6cjhWRVI4d1A3cWdoZnVYTDk3dTFBS0dmcnlKMkNzTFlLMW5ncjVtMHYydldHVERLMUpyMzd3Q0gxRUZuWkxQWkFXZXh6TGRxa0MyRldQODI4WlRiOFMteExRTExCNXE4VGVUV2hGbmVNM3dfMWpnU202bjNRNHEwenctVDMxSTMwRkwxb2x4Mnh0TldxNlp4SER6MTVNVXZVQTMzdw?oc=5",
           "published": "2026-11-13T03:18:18.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Link REIT Earnings: Improved Sales Support Hong Kong Retail Rent Recovery; Divestments Fund Buybacks - Morningstar",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZG16eVg5ek1zUVlYOXQ5QmgyQW9YcTdFdDdOR0RXcXdTUXR3Um9ZXzg2NmVldzVpN2xfLUdHMl9qclB0amRZTzFwd0pVd1dNWVZ6X1V2Z21WSTRDeE1RTjVlNm1IdlJOQ3c1REZFdDZoY1pfekpKOFNLZXBUTjdRVTRYcGxxY2dBN1B5N1pNOFhrSTNaZURSek1pZ1B4cWNEUXQwUTBUdHNZb3kxZDJFRU40UHJqb25tYkluN2tXOHlKeHNqY0ZRelJ4Uk40cmxmVnpCbGRUWmd0LTREcHNPaDBNcTFNbGR4MS1fNGtTTlRUa2VqODdVZVBFOE1wZw?oc=5",
+          "published": "2026-11-12T16:39:59.000Z"
         }
       ],
       "insight": {
@@ -92,9 +106,9 @@
           "company": "Nikko Asset Management",
           "ticker": "NOMURA",
           "tag": "Transcript",
-          "headline": "Nomura Holdings Q2 2027 Earnings Call Transcript - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUZ6NFkxRnVyV25nZGs4eXdDaFlaRlVmdXNqb091QWlfa0JTa1RpZlpfdkZXUTdlQ2hneFdfa1lTeDFfbHdxQ2RTLVRwQWtCMkstMzFBQVQ5RndIcm45bm5lZndycUlpc3Rqd200MVNBYmpNWlQwa005RzJBQ19uX1AyUjNjMm1wSllyQ1kwa2ZGaGM5alduYg?oc=5",
-          "published": "2026-10-28T07:00:00.000Z"
+          "headline": "Earnings call transcript: Nomura Holdings posts strong H1 2026 profit, shares rise - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYTFjUDFKQTZ6YXdLeG1Vd2Y5dGJXMTlkUy1lbnZ3bHBtWE9ld0NpYmg4X3hJVXQ1bW91OGplLXRqc1pYak1lNkVreV9hWTA5a2NZX2NNajZjU2tvUEd6eXIyUlU5T2dVdnRPVU96WkR5eHJWbjd2bHdyVGN2QnlOY0I2cE1MU04yVjNfX1FnYjBxdTVmNXVXU3owLTRyU0EybHpMQW90VGdKSjBVeklnZWtJWm03dkNxWjNrQlJ4MHhVWktLdG90R05Sd0p4R25qenc?oc=5",
+          "published": "2026-10-28T11:00:48.000Z"
         }
       ]
     },
@@ -117,17 +131,17 @@
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "Video Transcript Top Questions from our Clients : October 2026 - HSBC Private Bank",
-          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNLWpfN3dhc3JuT3piY3Z3VWNCekVWeXdsN1pRWVplQkUxdnV0R2h3SlhUcGNHMEJ3VlFoMzhDOHF4VW55M0p1QTExOTlzSE1WRDNmUjgyRlZnNm5BdHpLMjg3eFhFb3kxZDNmbjlOTWE1VWJRYkJzREhoN3pRS3ZpZWdwM0wwdXNsS2gzbnUwdjlOcW81Z2RRckp2dlk2NHNLdzVySjFWQ1NUZUZENzRiS2Y4RlB5bTNBckVGRGU2WEV0YThMYUNfam9zZkRDdGdDZGE1cGdvQXktOEFmZ182eGtiRTMzdzk5eGI0dGw0THlvdVRQV05Wemxoa1lqUGFlRm84Yjlkc2VvREtOVXBBT1V1VVZOOGdqakF1bGhmVzRYM3FtZnZWZlc5TFM5ZEdNVThF?oc=5",
-          "published": "2026-11-06T23:08:29.000Z"
+          "headline": "HSBC Publishes Transcript of Q3 2026 Results Analyst and Investor Call - VZ VermögensZentrum",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0tIMzQ2c2JqbEFmZURlSkJyc3VmMlVxQ0pQeTJIUm0tbzYtSkhkdTY2Nk9aYktzSm1JUGlhODE1ZFliTVZGZnZwN2xxWjZnVFJTTkFLbDdDSnFGNTRhdnVYWHNaUXpPR2RKTjNjZm1mcExCVVJPd0ZLVS0xcjJSRE94YlNEeXJkQ1NESF91TmtGS1MycXpuRGpEblJWaHQwRl9jMTR6Y09oYlI2TnJBTnFxWXpsSDcwbHpJTnJsb3FZVk9CS0tfZDZPd1ZWaUN1?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
         },
         {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
+          "company": "iFAST Corporation",
+          "ticker": "AIY.SI",
           "tag": "Transcript",
-          "headline": "DBS Group Holdings Ltd. (DEVL.SG) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmc1ODJrQTcyQVJJN25HMzdUMDZUYnd2eWVGUzU4Xzk4LWdoc3FlUU41c1haRDZFbldqN2FnRmtnU2cxaFVWUS0zMGVTdy1yYWRrai12Mmk5b0Z6eXNGTVVNdzF5Zl9pX1FqU3FBUWt1QWFNUWs3QW4zekIxaHFYcGxXTFUxajVmMk9adXhfeGViZ2k5?oc=5",
-          "published": "2026-11-05T03:30:00.000Z"
+          "headline": "Earnings call transcript: iFAST posts strong Q3 2026 growth as bank scales - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSERhUXpmbWo3d0VSRFB1a2pHd2MzWkNpYXVLZnFVS0QzVDVvbDVBOUs2bXJNOFhmV3hRc1BOR1pHcjdMcEhpTUdvOEt4QnFGWkl6STM0RU9WSHo1Mjh5ZlN2X1ZXcDNKQUROWGc5LUdLZGNfVjZ4b0c2MXVjcWRZbEpDWWxoRHFKRkxuNzhMZ2szYjNVTkY1RXd3TnViV1hFb1RIWlExcXl2WXBCNENGdm1HZURPeWpaMmU4YVFMakduTDFpZDlnTA?oc=5",
+          "published": "2026-10-27T07:00:00.000Z"
         }
       ]
     },
@@ -136,48 +150,41 @@
       "name": "Insurance",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Hong Kong Sets World Record with a $318 Million Life Insurance Policy - 아시아경제",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVWJ0WE9UeFAzR0dheFZ4UmdWblBlZVMwd0h1VEM4dTB0dk83bVhhVHRSOHlnTklqYXVxWFgyVFJWZnc5aGFPMk9XYURHWkhDRmw0QlpwN0lreV96NFV2WURHTGk?oc=5",
-          "published": "2026-11-11T23:21:00.000Z"
+          "tag": "Press",
+          "headline": "CARsgen's CAR-T Product Satri-cel Included in China's Commercial Health Insurance Innovative Drug List - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDRXVGdQOXkxdm4wS0x4N0t2aUFWNzB3TGtFQnNQWEpVLUtTdmR0azFmMzJIMlEyZlFXNllsM3d6b2xBQUc5cWFXOENydGJpNksxY2taVXM3Y2RvWHBhZ0t5djNuZmZ0NjF2TGZYUFIzbFFrMlROOEFHVWNhS05vcHJuRnFfcjBsYjY5OGVIeHZGRE5McXZtNg?oc=5",
+          "published": "2026-11-14T09:55:00.000Z"
         },
         {
           "tag": "Earnings",
-          "headline": "South Korea’s non-life insurance profit masks a sector divide - Insurance Business",
+          "headline": "Non-life insurance profit masks a sector divide in South Korea - Insurance Business",
           "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkVqVlNxY01PT3VYdlowZENxRU9JUkh4QVJRQlpYWXNwYnpxc253NEd6aDJzQnJfZDZfMW94dWN0cnVqT0JWSGVsSzVmNXRRQ0pUeDNPaGFDQncyODdJcTRDY1lvOWtOemJ4VHlnbWtGb2JiRDMwQy1ZODFGZElKMGtrN08wRnR4el9ZWDc5N2JTcTQ3Z0NheWxsRVVkZGUzYjlTY254c2VqOWc4X0ZoZVpySTktRmFyeml2SjV1RDZhT2s2UG5wR1Z6S2Q?oc=5",
-          "published": "2026-11-13T15:13:48.000Z"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEVzTm80NG1HTmR0RDZmUXRSbnkwQlJtbUxLYWt2dkE2V3Y4cmd2QV9Sd0ExZW1yak9IdmJRVUlLZkdKVzZ3YnBJYml1NFE2YndkNExtakpaS2xQZDVNejhFaG4xOTUwaUFzUzNESVh1NUR3VlowcGV5S3pIVllvWW5LVWxsMXNLR09NTW1qN3FMeWxxWWlsQkdDeGdHZ1NmeHk4R0x6eXloVDVMajkyd01MSHZxNmpIR0VUalk4Qkl6SjBsMWlfZFRhODJEZzQ?oc=5",
+          "published": "2026-11-13T16:53:48.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Financial advisers overtake banks in Singapore life insurance sales - Insurance Business",
-          "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdEpXeXNfblkwUUJrRkxrUEtwaUZSZ080T2YyTDRfWXhQQ19sRTM2dkRvZWdPY3RHMjdQbEo4NXE3amVGVDhlc0JQNERUdERhWS0zMS13RjVhenpUNmxmR3RVN2RoRlBteVU3c0RVVndUZzVnaW9BM2VoZW85VGhMNmpSMnRRX3c1aVBBeVVyQVN4eW5id25Ia21zV1VtUm1HX2JKS1QyTEZBY05aeXVHTGJMakN3bWE4V0I2Q2FIUmV1QktnXzk4QV9fT3pSaVNLWl9lZTNKazU?oc=5",
-          "published": "2026-11-12T16:40:42.000Z"
+          "headline": "How AI Can Help You Appeal Health Insurance Denials - Yahoo News Singapore",
+          "source": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GcERwOEZsSWlCdzV3MDBnRGd3RDRaazlHUXV0RGdBQ3d1VWx0SkQ1Z0pBQlRiMnItY2VDcG5nM3RqRm1aN2NEM3Q4RjQyTkF2VUVFX3dqTkpsNXVNZUZnR1NPZkYyTUN4a3c5SS1ZcG1BWWMwZ25hYzJSLWc?oc=5",
+          "published": "2026-11-12T13:00:04.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Hong Kong Sets World Record with a $318 Million Life Insurance Policy - 아시아경제",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVWJ0WE9UeFAzR0dheFZ4UmdWblBlZVMwd0h1VEM4dTB0dk83bVhhVHRSOHlnTklqYXVxWFgyVFJWZnc5aGFPMk9XYURHWkhDRmw0QlpwN0lreV96NFV2WURHTGk?oc=5",
-          "published": "2026-11-11T23:21:00.000Z"
+          "tag": "Press",
+          "headline": "CARsgen's CAR-T Product Satri-cel Included in China's Commercial Health Insurance Innovative Drug List - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDRXVGdQOXkxdm4wS0x4N0t2aUFWNzB3TGtFQnNQWEpVLUtTdmR0azFmMzJIMlEyZlFXNllsM3d6b2xBQUc5cWFXOENydGJpNksxY2taVXM3Y2RvWHBhZ0t5djNuZmZ0NjF2TGZYUFIzbFFrMlROOEFHVWNhS05vcHJuRnFfcjBsYjY5OGVIeHZGRE5McXZtNg?oc=5",
+          "published": "2026-11-14T09:55:00.000Z"
         },
         {
           "tag": "Earnings",
-          "headline": "South Korea’s non-life insurance profit masks a sector divide - Insurance Business",
+          "headline": "Non-life insurance profit masks a sector divide in South Korea - Insurance Business",
           "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkVqVlNxY01PT3VYdlowZENxRU9JUkh4QVJRQlpYWXNwYnpxc253NEd6aDJzQnJfZDZfMW94dWN0cnVqT0JWSGVsSzVmNXRRQ0pUeDNPaGFDQncyODdJcTRDY1lvOWtOemJ4VHlnbWtGb2JiRDMwQy1ZODFGZElKMGtrN08wRnR4el9ZWDc5N2JTcTQ3Z0NheWxsRVVkZGUzYjlTY254c2VqOWc4X0ZoZVpySTktRmFyeml2SjV1RDZhT2s2UG5wR1Z6S2Q?oc=5",
-          "published": "2026-11-13T15:13:48.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Financial advisers overtake banks in Singapore life insurance sales - Insurance Business",
-          "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdEpXeXNfblkwUUJrRkxrUEtwaUZSZ080T2YyTDRfWXhQQ19sRTM2dkRvZWdPY3RHMjdQbEo4NXE3amVGVDhlc0JQNERUdERhWS0zMS13RjVhenpUNmxmR3RVN2RoRlBteVU3c0RVVndUZzVnaW9BM2VoZW85VGhMNmpSMnRRX3c1aVBBeVVyQVN4eW5id25Ia21zV1VtUm1HX2JKS1QyTEZBY05aeXVHTGJMakN3bWE4V0I2Q2FIUmV1QktnXzk4QV9fT3pSaVNLWl9lZTNKazU?oc=5",
-          "published": "2026-11-12T16:40:42.000Z"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEVzTm80NG1HTmR0RDZmUXRSbnkwQlJtbUxLYWt2dkE2V3Y4cmd2QV9Sd0ExZW1yak9IdmJRVUlLZkdKVzZ3YnBJYml1NFE2YndkNExtakpaS2xQZDVNejhFaG4xOTUwaUFzUzNESVh1NUR3VlowcGV5S3pIVllvWW5LVWxsMXNLR09NTW1qN3FMeWxxWWlsQkdDeGdHZ1NmeHk4R0x6eXloVDVMajkyd01MSHZxNmpIR0VUalk4Qkl6SjBsMWlfZFRhODJEZzQ?oc=5",
+          "published": "2026-11-13T16:53:48.000Z"
         },
         {
           "tag": "Press",
@@ -189,11 +196,11 @@
       ],
       "insight": {
         "tag": "Research",
-        "headline": "From Nvidia’s plunge to a life policy record: 5 figures investors are watching - South China Morning Post",
+        "headline": "CARsgen's CAR-T Product Satri-cel Included in China's Commercial Health Insurance Innovative Drug List - Financial Times",
         "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQkJKMTVrTEZVd0RrTG9TeVVfbmd6UXNmWVY0ZGp2Qk05c0V2MzZxLXFVZXVzZWd6NHJKeE1ENG11dHNGS19YSVBZVzVRUVVISmpLdGZOS01Ic2M1Rkl1U2hVWGNfamMxYmU1ZkRyemhMYkh0OFdNb2tJNU1JMjRmUFY3YnExWWR0UUtTVG9DSzNMTTNEeXZBclBwYTFWeUxBR2tQdGNKVkdPLTItbWRYVjlpNkg3U2NfVkFjSjJZV0poWmxnaFBpUmNTMW5QOHE1ZnNOVnhIal81ZGhUR3V4OGVJSUFPZlF4VVZkbDZlNUhzTU92eGc?oc=5",
-        "published": "2026-11-13T07:00:06.000Z",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDRXVGdQOXkxdm4wS0x4N0t2aUFWNzB3TGtFQnNQWEpVLUtTdmR0azFmMzJIMlEyZlFXNllsM3d6b2xBQUc5cWFXOENydGJpNksxY2taVXM3Y2RvWHBhZ0t5djNuZmZ0NjF2TGZYUFIzbFFrMlROOEFHVWNhS05vcHJuRnFfcjBsYjY5OGVIeHZGRE5McXZtNg?oc=5",
+        "published": "2026-11-14T09:55:00.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -201,9 +208,9 @@
           "company": "Great Eastern",
           "ticker": "GEL",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Great Eastern Shipping posts strong Q2 2026 revenue beat - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUtUQ2dyTFd4ZVRvVXk2QnhuNGhIblA2TFh2VWd5eUJ1dDBHcHlmaHQxVnhiaUZEMWN0ejItZ3ktMXRseXIwXy0tajFrMzdIbzBlTzVIbmtkcUdNTFVOR25wMnZNMnJRaXlwYmEzdVc1UGZCd3lmWVI3eUZOSGVqU0RncmlzaTBNM2ktZWwyNzdXNlRVbW55TlNRS0R6Tjd1Vy1BZG9ESC1aMGRoUjFwRVVfZ2lPdXJWU19KbDBZNmYxM3RLb0Q0cXRod3B2SE5SRW1Z?oc=5",
-          "published": "2026-11-11T12:19:38.000Z"
+          "headline": "Earnings call transcript: Great Eastern Shipping posts strong Q2 2026 revenue beat - Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcHNrNFNZdXBjSjM3ZnZpLTlRMEN4b255Mk9NTGJnZ2VjTXpYZG1tTGFKUDM5UVZfSHlERVFaY2doazN3U2QxWUEwTVowQVJxNC1qMGhnc1ZGZ0xIdFlOLW9Vd3JxbHBLbTJiYzN6ZlZhTWtiVGVtV0dwNEVlazV1bUJTYUFuUXFUZkhfQ2l4ZHRka2NySFVwblF0dmg5WW5qQVQ2aVczWTlxMkdhWmg0Ylo5S1dxRUFtaGpNZGtKXzhIZ0tNZElfb3JaUVlKZmt4c0dNa1lYa0pBdw?oc=5",
+          "published": "2026-11-11T12:49:23.000Z"
         },
         {
           "company": "Prudential plc",
@@ -240,13 +247,6 @@
           "source": "联合早报",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjhkMzBhSGR6LUpnUUNIZkZpOFJEUGhuUlRFb2pzU0gwdXM1YzJtRWdVamdsd1pnSmVwNnlXTFlZR1FGTVVWR2lObWZrVlRpMkJPVVdWYTJVblNsN1lScWRacTZVWTdfQjFGRkplYll5b3dzamJmX1Y3Sy04NmxFdHVsWFZHNlctMDJkekpIalFUUlRwTV9Bd0VONHBBU1U0RFd6Q3IzQzhNa0JBU3BqeThBVlU?oc=5",
           "published": "2026-11-13T02:52:24.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "DBS First Singapore Bank to Support China’s Three Major QR Payments - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PaVRjQnhFcV9PZXJGQTZKTURYVFp2TnpZeHRmb3lWTUduMEtNNkZORGUycVhqYlJvUU5SMzVuMjltWFdiYWZGZlVXY29hcGt1YjU3OUhvNFJRdVFQcXpzWEpTMGdLWUhXdFhCdElHMGd0T0k?oc=5",
-          "published": "2026-11-12T03:48:36.000Z"
         }
       ],
       "candidates": [
@@ -263,33 +263,10 @@
           "source": "联合早报",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjhkMzBhSGR6LUpnUUNIZkZpOFJEUGhuUlRFb2pzU0gwdXM1YzJtRWdVamdsd1pnSmVwNnlXTFlZR1FGTVVWR2lObWZrVlRpMkJPVVdWYTJVblNsN1lScWRacTZVWTdfQjFGRkplYll5b3dzamJmX1Y3Sy04NmxFdHVsWFZHNlctMDJkekpIalFUUlRwTV9Bd0VONHBBU1U0RFd6Q3IzQzhNa0JBU3BqeThBVlU?oc=5",
           "published": "2026-11-13T02:52:24.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "DBS First Singapore Bank to Support China’s Three Major QR Payments - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PaVRjQnhFcV9PZXJGQTZKTURYVFp2TnpZeHRmb3lWTUduMEtNNkZORGUycVhqYlJvUU5SMzVuMjltWFdiYWZGZlVXY29hcGt1YjU3OUhvNFJRdVFQcXpzWEpTMGdLWUhXdFhCdElHMGd0T0k?oc=5",
-          "published": "2026-11-12T03:48:36.000Z"
         }
       ],
       "insight": null,
       "companyUpdates": [
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "Video Transcript Top Questions from our Clients : October 2026 - HSBC Private Bank",
-          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNLWpfN3dhc3JuT3piY3Z3VWNCekVWeXdsN1pRWVplQkUxdnV0R2h3SlhUcGNHMEJ3VlFoMzhDOHF4VW55M0p1QTExOTlzSE1WRDNmUjgyRlZnNm5BdHpLMjg3eFhFb3kxZDNmbjlOTWE1VWJRYkJzREhoN3pRS3ZpZWdwM0wwdXNsS2gzbnUwdjlOcW81Z2RRckp2dlk2NHNLdzVySjFWQ1NUZUZENzRiS2Y4RlB5bTNBckVGRGU2WEV0YThMYUNfam9zZkRDdGdDZGE1cGdvQXktOEFmZ182eGtiRTMzdzk5eGI0dGw0THlvdVRQV05Wemxoa1lqUGFlRm84Yjlkc2VvREtOVXBBT1V1VVZOOGdqakF1bGhmVzRYM3FtZnZWZlc5TFM5ZEdNVThF?oc=5",
-          "published": "2026-11-06T23:08:29.000Z"
-        },
-        {
-          "company": "DBS Group",
-          "ticker": "D05.SI",
-          "tag": "Transcript",
-          "headline": "DBS Group Holdings Ltd. (DEVL.SG) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmc1ODJrQTcyQVJJN25HMzdUMDZUYnd2eWVGUzU4Xzk4LWdoc3FlUU41c1haRDZFbldqN2FnRmtnU2cxaFVWUS0zMGVTdy1yYWRrai12Mmk5b0Z6eXNGTVVNdzF5Zl9pX1FqU3FBUWt1QWFNUWs3QW4zekIxaHFYcGxXTFUxajVmMk9adXhfeGViZ2k5?oc=5",
-          "published": "2026-11-05T03:30:00.000Z"
-        },
         {
           "company": "UOB",
           "ticker": "U11.SI",
@@ -297,6 +274,22 @@
           "headline": "UNITED OVERSEAS BANK LTD. R (UOB.F) Q3 FY2026 TU earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0pJeUoyTmFJU0Z4RmR6azVidGstZ0VCekMteXB0LVAxZXlRQVM1djJ0QmV5d1BGclhyUUdmYzBwM3ROWkZELW1BbkVHZk1YVGxWSXgyZUMyNms4QzdQMUR0NEpOZXZ3bVpPbTczVVllN0gxVFJsNlJ3NnpFYkh5cGtuVkxjaEEtS2RTZFhFSQ?oc=5",
           "published": "2026-11-03T23:20:00.000Z"
+        },
+        {
+          "company": "HSBC",
+          "ticker": "HSBC",
+          "tag": "Transcript",
+          "headline": "HSBC Publishes Transcript of Q3 2026 Results Analyst and Investor Call - VZ VermögensZentrum",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0tIMzQ2c2JqbEFmZURlSkJyc3VmMlVxQ0pQeTJIUm0tbzYtSkhkdTY2Nk9aYktzSm1JUGlhODE1ZFliTVZGZnZwN2xxWjZnVFJTTkFLbDdDSnFGNTRhdnVYWHNaUXpPR2RKTjNjZm1mcExCVVJPd0ZLVS0xcjJSRE94YlNEeXJkQ1NESF91TmtGS1MycXpuRGpEblJWaHQwRl9jMTR6Y09oYlI2TnJBTnFxWXpsSDcwbHpJTnJsb3FZVk9CS0tfZDZPd1ZWaUN1?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
+        },
+        {
+          "company": "Standard Chartered",
+          "ticker": "STAN",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: Standard Chartered lifts Q3 2026 outlook on strong growth - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb3hfUkxOLURLdzhUWXVnbHlhN1dSY25ielBTX0o5dVhrTENmVmh2OEhUTXd3TjBXNGdvZGRObTBXRjBNZkNKdkctT09CaWRGbnM2M25GNVpjalQ3WmUtek04Wm1yY2ZmX2hQaHdvMUhvQlp5eS1kSUFEZnBoVFZOVXZ0TlRfTUR3VTMxa18zVE1OTTE4MXhIdnFONWZlMTl0TGZWb2VWWkVZU19uQVQ3WTd6S0UxWUxfUmxya3BXUVlJMlcxcVhwa21vckVTTk4ybHlmMQ?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
         }
       ]
     }
