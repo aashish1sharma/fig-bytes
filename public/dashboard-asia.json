@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T08:26:26.176Z",
+  "generatedAt": "2026-11-17T09:39:02.963Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -32,20 +32,34 @@
       "name": "Asset Management",
       "bullets": [
         {
-          "tag": "Earnings",
-          "headline": "Singapore banking trio grow Q3 wealth AUM; DBS leads with record NNM - Citywire",
-          "source": "Citywire",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFRLRVVabmRBTHJtYWRZSGlmTTBrSWt4U1V4enYzZnV5TUNTZzVtZmpsbjRYTklpYXhSLWlLR0gzT0haeVBrOFpjYmVNSmVLeWpLQzR6eThBRmpHZENOdFhEMlhPbVh6WC1HZG9KNXRRUExlOTNxMjQ3OEU2Y2hCUGVwNFhEOHJ1U0VqR3dCZlQ0aW9GRUdtRldnME1jSl94NzIyMEpvNnZsZGM?oc=5",
-          "published": "2026-11-16T08:17:40.000Z"
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWNaQmpDYVdseXdUdTVzWDBFQkZJSUduTXJoWWpXaXFBNFRYRlI2ZW1DVFNOcV8tM0VPdFdKcU9obGZKZFhqYlJsZmt6eU9QdVk4dlFNWFluQnQ4Tk1jVUxtWjVMbGw3WGotOWc2WFBNaXdEc2ZkVW5TUmszdWwyY3dKZlZlRkxxaXR6eXdVTlBnSXdu?oc=5",
+          "published": "2026-11-17T07:34:00.000Z"
+        },
+        {
+          "tag": "Strategy",
+          "headline": "MSCI to Add HashKey to Micro Cap Index, Opening Door for Inflows to Hong Kong Crypto Major - BigGo Finance",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZlk2dlVlbmlLN0xmd0RKeEVWcEF6V3REcnhmbUxub3VIMllrMV82NG85cnREMEpiNmFPN2JzTFZaeFE0dkY5UVI5d09Galg0d0FHaXpPaVZTeGw0UWJYb1lPMk13bU51N25admlUNkIyQk40WGc?oc=5",
+          "published": "2026-11-17T05:05:00.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Earnings",
-          "headline": "Singapore banking trio grow Q3 wealth AUM; DBS leads with record NNM - Citywire",
-          "source": "Citywire",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFRLRVVabmRBTHJtYWRZSGlmTTBrSWt4U1V4enYzZnV5TUNTZzVtZmpsbjRYTklpYXhSLWlLR0gzT0haeVBrOFpjYmVNSmVLeWpLQzR6eThBRmpHZENOdFhEMlhPbVh6WC1HZG9KNXRRUExlOTNxMjQ3OEU2Y2hCUGVwNFhEOHJ1U0VqR3dCZlQ0aW9GRUdtRldnME1jSl94NzIyMEpvNnZsZGM?oc=5",
-          "published": "2026-11-16T08:17:40.000Z"
+          "tag": "Product",
+          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWNaQmpDYVdseXdUdTVzWDBFQkZJSUduTXJoWWpXaXFBNFRYRlI2ZW1DVFNOcV8tM0VPdFdKcU9obGZKZFhqYlJsZmt6eU9QdVk4dlFNWFluQnQ4Tk1jVUxtWjVMbGw3WGotOWc2WFBNaXdEc2ZkVW5TUmszdWwyY3dKZlZlRkxxaXR6eXdVTlBnSXdu?oc=5",
+          "published": "2026-11-17T07:34:00.000Z"
+        },
+        {
+          "tag": "Strategy",
+          "headline": "MSCI to Add HashKey to Micro Cap Index, Opening Door for Inflows to Hong Kong Crypto Major - BigGo Finance",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZlk2dlVlbmlLN0xmd0RKeEVWcEF6V3REcnhmbUxub3VIMllrMV82NG85cnREMEpiNmFPN2JzTFZaeFE0dkY5UVI5d09Galg0d0FHaXpPaVZTeGw0UWJYb1lPMk13bU51N25admlUNkIyQk40WGc?oc=5",
+          "published": "2026-11-17T05:05:00.000Z"
         }
       ],
       "insight": {
@@ -78,26 +92,64 @@
           "company": "Nikko Asset Management",
           "ticker": "NOMURA",
           "tag": "Transcript",
-          "headline": "Earnings call transcript: Nomura Holdings posts strong H1 2026 profit, shares rise - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYTFjUDFKQTZ6YXdLeG1Vd2Y5dGJXMTlkUy1lbnZ3bHBtWE9ld0NpYmg4X3hJVXQ1bW91OGplLXRqc1pYak1lNkVreV9hWTA5a2NZX2NNajZjU2tvUEd6eXIyUlU5T2dVdnRPVU96WkR5eHJWbjd2bHdyVGN2QnlOY0I2cE1MU04yVjNfX1FnYjBxdTVmNXVXU3owLTRyU0EybHpMQW90VGdKSjBVeklnZWtJWm03dkNxWjNrQlJ4MHhVWktLdG90R05Sd0p4R25qenc?oc=5",
-          "published": "2026-10-28T11:00:48.000Z"
+          "headline": "Nomura Holdings Q2 2027 Earnings Call Transcript - Nomura Holdings (NYSE:NMR) - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUZ6NFkxRnVyV25nZGs4eXdDaFlaRlVmdXNqb091QWlfa0JTa1RpZlpfdkZXUTdlQ2hneFdfa1lTeDFfbHdxQ2RTLVRwQWtCMkstMzFBQVQ5RndIcm45bm5lZndycUlpc3Rqd200MVNBYmpNWlQwa005RzJBQ19uX1AyUjNjMm1wSllyQ1kwa2ZGaGM5alduYg?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
         }
       ]
     },
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
+      "bullets": [
+        {
+          "tag": "Leadership",
+          "headline": "RBC Wealth Management named Best Private Bank in Canada and Best Private Bank for Impact and Sustainable Investing globally at the PWM Gl…",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDhEUFJmakhaZ2dfalpVVDBnekdNZGxWanJ5TVBEcXRCQllHcUx4TXYtbG40TGdYSFZBT2pmY2U2aHJGUjlpbmtkUEhNRVFJcEZxNGxxUnktTmQwengxVV9lT0VJWFdjRjQ0YXQ1RFNpQU1FX0NzakpQcFUwSDQxTWtKbWRVWnNx?oc=5",
+          "published": "2026-11-16T15:08:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong insurers expanding into wealth management as policy sets record - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWJ5MS1ablM4LXlsek1nZWJSNk0yMXFYOXVWVnVOWTBQdVJYNlBMQ0FsMjV0Y0w1T0puZE1vanZQTzZnZTRDaEQ1TkNRVGJZSWxmdUgxSUFfOXV3TmNSZUJqeklmMU5CMG03SUlKNlJjVlJIOHlBNEptTWdGY2tnUVA3ZEpkWW51QUhzcXU5Z0FvNUtTRDJhZ0dPNXlRaWt3bm1sUGhORF9NblF6WW5uMw?oc=5",
+          "published": "2026-11-16T10:00:11.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Leadership",
+          "headline": "RBC Wealth Management named Best Private Bank in Canada and Best Private Bank for Impact and Sustainable Investing globally at the PWM Gl…",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDhEUFJmakhaZ2dfalpVVDBnekdNZGxWanJ5TVBEcXRCQllHcUx4TXYtbG40TGdYSFZBT2pmY2U2aHJGUjlpbmtkUEhNRVFJcEZxNGxxUnktTmQwengxVV9lT0VJWFdjRjQ0YXQ1RFNpQU1FX0NzakpQcFUwSDQxTWtKbWRVWnNx?oc=5",
+          "published": "2026-11-16T15:08:00.000Z"
+        },
+        {
+          "tag": "Product",
+          "headline": "Hong Kong insurers expanding into wealth management as policy sets record - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWJ5MS1ablM4LXlsek1nZWJSNk0yMXFYOXVWVnVOWTBQdVJYNlBMQ0FsMjV0Y0w1T0puZE1vanZQTzZnZTRDaEQ1TkNRVGJZSWxmdUgxSUFfOXV3TmNSZUJqeklmMU5CMG03SUlKNlJjVlJIOHlBNEptTWdGY2tnUVA3ZEpkWW51QUhzcXU5Z0FvNUtTRDJhZ0dPNXlRaWt3bm1sUGhORF9NblF6WW5uMw?oc=5",
+          "published": "2026-11-16T10:00:11.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "Hong Kong insurers expanding into wealth management as policy sets record - South China Morning Post",
+        "teaser": null,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWJ5MS1ablM4LXlsek1nZWJSNk0yMXFYOXVWVnVOWTBQdVJYNlBMQ0FsMjV0Y0w1T0puZE1vanZQTzZnZTRDaEQ1TkNRVGJZSWxmdUgxSUFfOXV3TmNSZUJqeklmMU5CMG03SUlKNlJjVlJIOHlBNEptTWdGY2tnUVA3ZEpkWW51QUhzcXU5Z0FvNUtTRDJhZ0dPNXlRaWt3bm1sUGhORF9NblF6WW5uMw?oc=5",
+        "published": "2026-11-16T10:00:11.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Transcript : Mettler-Toledo International Inc. Presents at 2026 UBS Global Healthcare Conference, Nov-11-2026 08 - www.…",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnpiMy16WVVBVXItcURwaGpSODBnLXlIeWpOOEh5aWFFbVAzeUFCcnZENlVUSlNMc2FMX2RfMjZWTTBrRWEwQzdWdEpvTXhPRlZ4Ync3cDlfU3pSbXp0OFcxLXJqWm5hYkl2bUZ2ZFAyOEpka1ZLaU8wTndQWHN0Tk14OU81cTlIZ3RtM2NielczMW5RX0ZkMlBrdHZteFFMUE51bVlIN2RQdVdXdkZSUGQ4M1MzdHNhNnBHbmUwa05pajNTTmdtWHM5VHZSRGR0REktM283NVd4WlZaZnNDUGxjMA?oc=5",
-          "published": "2026-11-11T15:35:25.000Z"
+          "headline": "Transcript : IDEAYA Biosciences, Inc. Presents at UBS Global Biopharma Conference 2026, Nov-16-2026 10 - www.marketscre…",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSFNnOC11VXR5eVhGZE53MWNNS0pHX21ZQ2VzLTNoV3lOZGZDbTNvUkpCMjRBV0xQanN5Z1QxbFF3b1B3NXhmT29Fa3BLVFJnVXI3bTJiaVlyZURxSDlZTk9NclFEamNiZ09vTjhyM2xEMXZjYlFNcnpuVDBmczcta0xtSm9QTmEyekE0VU9YNzJhMzBDRWpOQm5CeWNhS1A5LTdHLUVNQlZwX1pkQjhTMWYtSFJsUkxRQ0ZETnUzckhLN0lqdmpiRk93Vk1HNDdhakFXalNIQm81Q21PMzlGeg?oc=5",
+          "published": "2026-11-16T16:11:37.000Z"
         },
         {
           "company": "HSBC",
@@ -120,34 +172,26 @@
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Earnings",
-          "headline": "Non-life insurance profit masks a sector divide in South Korea - Insurance Business",
-          "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEVzTm80NG1HTmR0RDZmUXRSbnkwQlJtbUxLYWt2dkE2V3Y4cmd2QV9Sd0ExZW1yak9IdmJRVUlLZkdKVzZ3YnBJYml1NFE2YndkNExtakpaS2xQZDVNejhFaG4xOTUwaUFzUzNESVh1NUR3VlowcGV5S3pIVllvWW5LVWxsMXNLR09NTW1qN3FMeWxxWWlsQkdDeGdHZ1NmeHk4R0x6eXloVDVMajkyd01MSHZxNmpIR0VUalk4Qkl6SjBsMWlfZFRhODJEZzQ?oc=5",
-          "published": "2026-11-13T16:53:48.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Earnings",
-          "headline": "Non-life insurance profit masks a sector divide in South Korea - Insurance Business",
-          "source": "Insurance Business",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEVzTm80NG1HTmR0RDZmUXRSbnkwQlJtbUxLYWt2dkE2V3Y4cmd2QV9Sd0ExZW1yak9IdmJRVUlLZkdKVzZ3YnBJYml1NFE2YndkNExtakpaS2xQZDVNejhFaG4xOTUwaUFzUzNESVh1NUR3VlowcGV5S3pIVllvWW5LVWxsMXNLR09NTW1qN3FMeWxxWWlsQkdDeGdHZ1NmeHk4R0x6eXloVDVMajkyd01MSHZxNmpIR0VUalk4Qkl6SjBsMWlfZFRhODJEZzQ?oc=5",
-          "published": "2026-11-13T16:53:48.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
-        "headline": "CARsgen's CAR-T Product Satri-cel Included in China's Commercial Health Insurance Innovative Drug List - Financial Times",
+        "headline": "Hong Kong insurers expanding into wealth management as policy sets record - South China Morning Post",
         "teaser": null,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDRXVGdQOXkxdm4wS0x4N0t2aUFWNzB3TGtFQnNQWEpVLUtTdmR0azFmMzJIMlEyZlFXNllsM3d6b2xBQUc5cWFXOENydGJpNksxY2taVXM3Y2RvWHBhZ0t5djNuZmZ0NjF2TGZYUFIzbFFrMlROOEFHVWNhS05vcHJuRnFfcjBsYjY5OGVIeHZGRE5McXZtNg?oc=5",
-        "published": "2026-11-14T09:55:00.000Z",
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWJ5MS1ablM4LXlsek1nZWJSNk0yMXFYOXVWVnVOWTBQdVJYNlBMQ0FsMjV0Y0w1T0puZE1vanZQTzZnZTRDaEQ1TkNRVGJZSWxmdUgxSUFfOXV3TmNSZUJqeklmMU5CMG03SUlKNlJjVlJIOHlBNEptTWdGY2tnUVA3ZEpkWW51QUhzcXU5Z0FvNUtTRDJhZ0dPNXlRaWt3bm1sUGhORF9NblF6WW5uMw?oc=5",
+        "published": "2026-11-16T10:00:11.000Z",
         "paywalled": false
       },
       "companyUpdates": [
+        {
+          "company": "Great Eastern",
+          "ticker": "GEL",
+          "tag": "Transcript",
+          "headline": "Great Eastern Shipping releases Q2FY27 earnings call transcript with key market insights - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUFLSnF2NTFaemV1dEh3OVlDcldPa2kwRGlza1JudGhkNFFhdnhrTkpCNHpEN0I2Z1pYMV9HQ0Y4RkFKbE5mYWpydVh5VFVLVXp0SlJ3RWsyekRPVTZ3Q04tQ3p1eEsxcDh6NGlyVE1yZVFmYWNQdnVucGUzNy1RaXNIclpoMWJ0SHUzRS1UZTlpcXotM21oN3djbllXSlI2NkFsTEVzNHVlNU55VFlLTjZnbHlzcWg5OTl6cVFsRmxBdDg?oc=5",
+          "published": "2026-11-16T10:21:36.000Z"
+        },
         {
           "company": "Prudential plc",
           "ticker": "PRU",
@@ -155,14 +199,6 @@
           "headline": "Prudential Financial (PRU) Q1 2026 Earnings Call Transcript - Fortune",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kczVsUEFHTHlSdW1EWXZSWjdCUzc2R2poRlViLVpEQlBlNUFmckRtYXRPQnJmZWl5SVB6OWlfcmFkLV90eWdLY0dIMWFOdllsbFpQSFdEVWdlUUdFUHBXbzhJMi1fTnR0M1ZKMlE2VU1DNG9x?oc=5",
           "published": "2026-11-14T07:24:02.000Z"
-        },
-        {
-          "company": "Great Eastern",
-          "ticker": "GEL",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Great Eastern Shipping posts strong Q2 2026 revenue beat - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcHNrNFNZdXBjSjM3ZnZpLTlRMEN4b255Mk9NTGJnZ2VjTXpYZG1tTGFKUDM5UVZfSHlERVFaY2doazN3U2QxWUEwTVowQVJxNC1qMGhnc1ZGZ0xIdFlOLW9Vd3JxbHBLbTJiYzN6ZlZhTWtiVGVtV0dwNEVlazV1bUJTYUFuUXFUZkhfQ2l4ZHRka2NySFVwblF0dmg5WW5qQVQ2aVczWTlxMkdhWmg0Ylo5S1dxRUFtaGpNZGtKXzhIZ0tNZElfb3JaUVlKZmt4c0dNa1lYa0pBdw?oc=5",
-          "published": "2026-11-11T12:49:23.000Z"
         },
         {
           "company": "AIA Group",
@@ -180,26 +216,47 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "DBS, JPMorgan launch US-Singapore tokenised deposit service for institutions - The Straits Times",
-          "source": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGRac0R0REE3RDFXbndjVk9JLU4zU1lKSVBhc0d5aWxSR0U0Nnd5eExzZmFjU0U4XzhIX2txX2E2QjZZQm5TQ25FYUZfMU42UXlxZWgxazVXNm5MQUtUSlRuZ3VIdDV5REJvSVBIOWVwQ3J0T0xTOS1jZjJqdmdkSVpVamJLWnl2MHBUSlY5YV9kOW55TzVYMDFFUDZWZnllX05vaWNrREFIcm1wQUJMZGVIRQ?oc=5",
-          "published": "2026-11-16T04:34:00.000Z"
+          "headline": "Bangladesh’s Fintech Sector Transitions from Mobile Money to Digital Banking - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcGJzN3N2MEJpZzlfVE9hc1AxcE5qV1p5dlIzeEN3d3ZuQ2lHSnBOTDV0STdYT1JNTzdLOGhhUEZ2dGJlMFhBWHl2dkt3X0ZmeEFibC03eVNBekx3WXR4NzVGdmxPM2xaWW5YRTFHOHFxT1VTZXRtdFFBVlBqLUx4YVdycndYSEs4MkE5OXFYM0Z1YWJmRzZsLUNvdkRTbmpZYy1SckNMVjhlRThhWW9LOW1rN2V2NTRs?oc=5",
+          "published": "2026-11-17T01:00:03.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Mambu Brings Mastercard Move’s Cross-Border Payments to APAC Banks - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcF83akhpN3VZZTRkZzRxeXJqYnJ4clAyR2JVc20xY0NMU0pRaWU0bWRCM1IySzBGQ0Vfd00wS3ZHSHNYNnFqUE1xQ0RqV25DbndBZEZNMWltaHZCaTBnOU1HTGlRenhEaXRacFFrbUJTOExlRTBaZFJEbGlxWk9iZ1VpaXJucW1yUi1yNFlaaEVPUQ?oc=5",
-          "published": "2026-11-16T01:25:38.000Z"
+          "headline": "Best Fixed Deposit Rates in Singapore [November 2026]: Up to 2.30% p.a. - Beansprout",
+          "source": "Beansprout",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTdfNERZOGtMeTdTTE5ta2F6TlN2cURNN0c3QnBXQk16LTNDZm1Yclh3WEdYdkVHc1ZYRld5Qm9wVWJydlVzdDVVWEl3MXRNS2JFbElVM0pMS0VKZWJiU0szc05RRFBDSm5GWFZGWWdydUVHNDlCd3VWLXpMdXpuaU1YOA?oc=5",
+          "published": "2026-11-17T07:37:07.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore, Germany Test Privacy-Focused Technology for Cross-Border Payments - CryptoPotato",
+          "source": "CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTBydkhvbkxVajVYd044XzJuYlJmOWNZUWxDczMxdFR4eTdNZWVndzJYV1B4ZWJXOVNvMVZqNkRZeVkwYmRHQWJWb1dsT3BTV2RrNnMwNlRSM2xXUmowTXh4WDJmd2Y3Tm51RVFxZDd1ZHlkWHlla09xWG4zRnE3dWVFTGN6dDlybnhmdVhCbDBBY0ctVVNSdGZpVEhTcExvZ0NZ?oc=5",
+          "published": "2026-11-16T12:10:00.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "DBS, JPMorgan launch US-Singapore tokenised deposit service for institutions - The Straits Times",
-          "source": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGRac0R0REE3RDFXbndjVk9JLU4zU1lKSVBhc0d5aWxSR0U0Nnd5eExzZmFjU0U4XzhIX2txX2E2QjZZQm5TQ25FYUZfMU42UXlxZWgxazVXNm5MQUtUSlRuZ3VIdDV5REJvSVBIOWVwQ3J0T0xTOS1jZjJqdmdkSVpVamJLWnl2MHBUSlY5YV9kOW55TzVYMDFFUDZWZnllX05vaWNrREFIcm1wQUJMZGVIRQ?oc=5",
-          "published": "2026-11-16T04:34:00.000Z"
+          "headline": "Bangladesh’s Fintech Sector Transitions from Mobile Money to Digital Banking - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcGJzN3N2MEJpZzlfVE9hc1AxcE5qV1p5dlIzeEN3d3ZuQ2lHSnBOTDV0STdYT1JNTzdLOGhhUEZ2dGJlMFhBWHl2dkt3X0ZmeEFibC03eVNBekx3WXR4NzVGdmxPM2xaWW5YRTFHOHFxT1VTZXRtdFFBVlBqLUx4YVdycndYSEs4MkE5OXFYM0Z1YWJmRzZsLUNvdkRTbmpZYy1SckNMVjhlRThhWW9LOW1rN2V2NTRs?oc=5",
+          "published": "2026-11-17T01:00:03.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Best Fixed Deposit Rates in Singapore [November 2026]: Up to 2.30% p.a. - Beansprout",
+          "source": "Beansprout",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTdfNERZOGtMeTdTTE5ta2F6TlN2cURNN0c3QnBXQk16LTNDZm1Yclh3WEdYdkVHc1ZYRld5Qm9wVWJydlVzdDVVWEl3MXRNS2JFbElVM0pMS0VKZWJiU0szc05RRFBDSm5GWFZGWWdydUVHNDlCd3VWLXpMdXpuaU1YOA?oc=5",
+          "published": "2026-11-17T07:37:07.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore, Germany Test Privacy-Focused Technology for Cross-Border Payments - CryptoPotato",
+          "source": "CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTBydkhvbkxVajVYd044XzJuYlJmOWNZUWxDczMxdFR4eTdNZWVndzJYV1B4ZWJXOVNvMVZqNkRZeVkwYmRHQWJWb1dsT3BTV2RrNnMwNlRSM2xXUmowTXh4WDJmd2Y3Tm51RVFxZDd1ZHlkWHlla09xWG4zRnE3dWVFTGN6dDlybnhmdVhCbDBBY0ctVVNSdGZpVEhTcExvZ0NZ?oc=5",
+          "published": "2026-11-16T12:10:00.000Z"
         },
         {
           "tag": "Press",
@@ -212,19 +269,19 @@
       "insight": null,
       "companyUpdates": [
         {
+          "company": "Standard Chartered",
+          "ticker": "STAN",
+          "tag": "Transcript",
+          "headline": "Transcript : Standard Chartered PLC Presents at UBS London European Conference 2026, Nov-10-2026 10:00 AM - www.markets…",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaXJ3NFF5cm04S1ZpRWhVWk5qZHhJTXJSczIyRWZDSGtyclVteTQwbnNHM3J1Rk05V3NkdTl4dDZoek5lRF9fOU9TRkxsNUdFcF9ma3htWlFfWWl4eTh0N3RJSXZ1OVIxYndkaGMydjR1ZjVYcTNpd29uckRheWVNY243RlJKZUxNR1ptUWdvQ0U1ODdwS0xYWXRvZ1ZVRmlsck92bDN3bkxITnZqOFhXcGJCcDZxMk92QXlVT1Fyc2Z1MGhSbk1VU2NpMnUyaG9rSF9uLVVqdTlfNjBoVEcwWEdNSQ?oc=5",
+          "published": "2026-11-10T11:50:16.000Z"
+        },
+        {
           "company": "HSBC",
           "ticker": "HSBC",
           "tag": "Transcript",
           "headline": "HSBC Publishes Transcript of Q3 2026 Results Analyst and Investor Call - VZ VermögensZentrum",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0tIMzQ2c2JqbEFmZURlSkJyc3VmMlVxQ0pQeTJIUm0tbzYtSkhkdTY2Nk9aYktzSm1JUGlhODE1ZFliTVZGZnZwN2xxWjZnVFJTTkFLbDdDSnFGNTRhdnVYWHNaUXpPR2RKTjNjZm1mcExCVVJPd0ZLVS0xcjJSRE94YlNEeXJkQ1NESF91TmtGS1MycXpuRGpEblJWaHQwRl9jMTR6Y09oYlI2TnJBTnFxWXpsSDcwbHpJTnJsb3FZVk9CS0tfZDZPd1ZWaUN1?oc=5",
-          "published": "2026-10-28T07:00:00.000Z"
-        },
-        {
-          "company": "Standard Chartered",
-          "ticker": "STAN",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: Standard Chartered lifts Q3 2026 outlook on strong growth - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb3hfUkxOLURLdzhUWXVnbHlhN1dSY25ielBTX0o5dVhrTENmVmh2OEhUTXd3TjBXNGdvZGRObTBXRjBNZkNKdkctT09CaWRGbnM2M25GNVpjalQ3WmUtek04Wm1yY2ZmX2hQaHdvMUhvQlp5eS1kSUFEZnBoVFZOVXZ0TlRfTUR3VTMxa18zVE1OTTE4MXhIdnFONWZlMTl0TGZWb2VWWkVZU19uQVQ3WTd6S0UxWUxfUmxya3BXUVlJMlcxcVhwa21vckVTTk4ybHlmMQ?oc=5",
           "published": "2026-10-28T07:00:00.000Z"
         },
         {
