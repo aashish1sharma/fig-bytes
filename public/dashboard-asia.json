@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:15:59.874Z",
+  "generatedAt": "2026-11-20T08:58:45.412Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -35,8 +35,8 @@
           "tag": "Product",
           "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0tZX2dGSDM2SVgyQTZOX1EyZWNKdUpuUG8yNkNNRHhJNWlMRDdTdkxCVDI2ZmVNRUNZckR6V2NnTERKakJQMHVJQnU1SzVqdHFKVmdseUdFV0NlS1huSGlwcEY3aUVwbUJhQWFzdzkzVjY2X1lrdm9ULTZVU29KT2xNR3Y0dmRTWnljUTladFdLVHZ3?oc=5",
-          "published": "2026-11-19T07:37:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm9hMXdhZUVmekNVRzlkNjh4QlZ5YmN1OF9YOHVkVEdQZWtKcWFDWWFyTzdGWTdmQmNiVHVHVGRRSVQwa1NYR1pqVjQ0Z3UxR0QtdkxDQkl2bkg5TWw0LU5ENWIwVHN5OWx2SXlsMFJ5c3gxcHc3Rkc2MkpPd05QZ0I5NjRnX200dGRLLW84Y3JmbHhS?oc=5",
+          "published": "2026-11-20T07:36:00.000Z"
         },
         {
           "tag": "Product",
@@ -51,8 +51,8 @@
           "tag": "Product",
           "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
           "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0tZX2dGSDM2SVgyQTZOX1EyZWNKdUpuUG8yNkNNRHhJNWlMRDdTdkxCVDI2ZmVNRUNZckR6V2NnTERKakJQMHVJQnU1SzVqdHFKVmdseUdFV0NlS1huSGlwcEY3aUVwbUJhQWFzdzkzVjY2X1lrdm9ULTZVU29KT2xNR3Y0dmRTWnljUTladFdLVHZ3?oc=5",
-          "published": "2026-11-19T07:37:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm9hMXdhZUVmekNVRzlkNjh4QlZ5YmN1OF9YOHVkVEdQZWtKcWFDWWFyTzdGWTdmQmNiVHVHVGRRSVQwa1NYR1pqVjQ0Z3UxR0QtdkxDQkl2bkg5TWw0LU5ENWIwVHN5OWx2SXlsMFJ5c3gxcHc3Rkc2MkpPd05QZ0I5NjRnX200dGRLLW84Y3JmbHhS?oc=5",
+          "published": "2026-11-20T07:36:00.000Z"
         },
         {
           "tag": "Product",
@@ -62,23 +62,15 @@
           "published": "2026-11-19T07:00:09.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "‘Well positioned’: Hong Kong eyes wider pool of investors in growing ETF market - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWGNJWTJ1ZXNuTXVsSXFEelAxYjktV3pqLVpGUVRodDlBYkNfeUtVQkJsRVhkOURpbXM5emJQOVZEWHZVTXNNSExENXdhZGlFdWs5TDNwbHpJcXJ5TUJhdHBnU2lhVkYtOUJTYXR1WndxeDhzTlE3dU9jTzZJUVVLTjRwNFA2R3dwRUFwN2c3Q2NmREplNXM2eFo2cGlPMkIzUjhLZnI0bzI1a0xYS21mX0VaMVFrMWlSMEk2NEpDZmRxbHJEREpoaVFGUDFId1Z4TTdvTExIWUNSQ3RIeHUtTm1sRFFTZ015d1hkUG9vN1VTMWk3YVE3eGJJX0NVclU?oc=5",
-        "published": "2026-11-13T03:18:18.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Schroders",
           "ticker": "SDR",
           "tag": "Transcript",
-          "headline": "h SMIC HK SDR 5to1 (HSMD.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUxPNXNKQWd5WnBYeWJaaTFWRGk5ZHZ5MkpWZDNXdXA2NnZIZ05wUUhWOXppQUZ6SmhKYk9Fa01CVWVYZWl0LWhBSjVuUVVlb19wRTNVNkJ1b1hjODc2bmtYQWkta2dhWGI5QmhVVVFVdHlGSGhZeGNGaFZhZXFyRENfbDM0eGpJQVJGcHpRS084U1hX?oc=5",
-          "published": "2026-11-13T00:30:00.000Z"
+          "headline": "h JD HK SDR 10to1 (HJDD.SI) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd29zX3U0bk1KT1I2RXB6VXlza1UwSGlQbnZ3RzBJQk5HbE5SMnAzbU9Oci1vME5za0FJbnNNUVFXcHpzSk5uRURMczBhbmQtaFJETXdBMVpnc3ROMFM3SXlpR19Jei1XNHh6eDVxZ3pUZFRBdDd4RXVRN0VITzRxYm1NTW11VXk1ZElUY2lJZm52WFpj?oc=5",
+          "published": "2026-11-17T12:00:00.000Z"
         },
         {
           "company": "BlackRock",
@@ -101,38 +93,8 @@
     {
       "id": "wealth-management",
       "name": "Wealth Management",
-      "bullets": [
-        {
-          "tag": "Product",
-          "headline": "HSBC expands RedCoin use into wealth management with tokenised fund launch - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEJkUURIME9wRzVEak9QZkhiaFR1ZUJkcmFMSTlMbHp0bGt5cGd6dHNJbFpYUUxZenJkLWppRjZyTkZwSTd2VHRObzZ6NHBnXzNDd3V4NGNiMVV5UjFDNGo2MFF1WXIxZmtIV3laNkU2V3JWY19ETkdOYUtvVll3b19GLTZqTmg4SkJCRHV0WVh1a2VQbjdTb0JQLXVabFQydlE2THlQUDEwNWxldmtZX1k4WGk0YkxfdlJ4UjNSVzBWa09s?oc=5",
-          "published": "2026-11-19T07:00:09.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong insurers expanding into wealth management as policy sets record - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWJ5MS1ablM4LXlsek1nZWJSNk0yMXFYOXVWVnVOWTBQdVJYNlBMQ0FsMjV0Y0w1T0puZE1vanZQTzZnZTRDaEQ1TkNRVGJZSWxmdUgxSUFfOXV3TmNSZUJqeklmMU5CMG03SUlKNlJjVlJIOHlBNEptTWdGY2tnUVA3ZEpkWW51QUhzcXU5Z0FvNUtTRDJhZ0dPNXlRaWt3bm1sUGhORF9NblF6WW5uMw?oc=5",
-          "published": "2026-11-16T10:00:11.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Product",
-          "headline": "HSBC expands RedCoin use into wealth management with tokenised fund launch - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEJkUURIME9wRzVEak9QZkhiaFR1ZUJkcmFMSTlMbHp0bGt5cGd6dHNJbFpYUUxZenJkLWppRjZyTkZwSTd2VHRObzZ6NHBnXzNDd3V4NGNiMVV5UjFDNGo2MFF1WXIxZmtIV3laNkU2V3JWY19ETkdOYUtvVll3b19GLTZqTmg4SkJCRHV0WVh1a2VQbjdTb0JQLXVabFQydlE2THlQUDEwNWxldmtZX1k4WGk0YkxfdlJ4UjNSVzBWa09s?oc=5",
-          "published": "2026-11-19T07:00:09.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "Hong Kong insurers expanding into wealth management as policy sets record - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWJ5MS1ablM4LXlsek1nZWJSNk0yMXFYOXVWVnVOWTBQdVJYNlBMQ0FsMjV0Y0w1T0puZE1vanZQTzZnZTRDaEQ1TkNRVGJZSWxmdUgxSUFfOXV3TmNSZUJqeklmMU5CMG03SUlKNlJjVlJIOHlBNEptTWdGY2tnUVA3ZEpkWW51QUhzcXU5Z0FvNUtTRDJhZ0dPNXlRaWt3bm1sUGhORF9NblF6WW5uMw?oc=5",
-          "published": "2026-11-16T10:00:11.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": {
         "tag": "Research",
         "headline": "HSBC expands RedCoin use into wealth management with tokenised fund launch - South China Morning Post",
@@ -144,12 +106,20 @@
       },
       "companyUpdates": [
         {
+          "company": "DBS Group",
+          "ticker": "D05.SI",
+          "tag": "Transcript",
+          "headline": "DBS (D05.SI) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2N0ZWxXQUViSXFtcHNaa1JnR1oydjFFZGZOalB6dlRZTEdwSjdWWXZ2bG8zbGJrNW9pQnltQ1FhaHViOHo4dFVDYlFlTV9JWko0UzFFa2hLb2s4S3NEQ1c5WjN5OE91S0M4QnVaZW1mOHZJdmE3Y3pfaXlhVFgxSFhOTHhYVG9kT2l3UVlVZmxrZw?oc=5",
+          "published": "2026-11-05T08:00:00.000Z"
+        },
+        {
           "company": "UBS Group",
           "ticker": "UBS",
           "tag": "Transcript",
-          "headline": "Transcript : Praxis Precision Medicines, Inc. Presents at UBS Global Biopharma Conference 2026, Nov-16-2026 10 - www.ma…",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd2syOGN0QkZFanJMUWgycUdIdHlaOTg1LW1Zd2wwalR1VUtzTlJobERPaDFPNWFMellvOGgtQ3FLLXJGbmNWTTVReUdLdGI2YUNYWUJfN29kMEVTYVY4eGM5MXJHazVlNXU2aDlRbEdJMWZUc281TlRTcnFRTVhzSUxwQXZmdUJGNUN0b1Fqam4yUzNtay1Va25HRHc2eUhfd2Fwc3g1YVBqcHBYeFBJX3FfbFVjTW0tdS1pT0FPWndUcmFsUkxhUks2WVBYbnUyY2U1Zmg3Y0tCdUxHd1Jzcg?oc=5",
-          "published": "2026-11-16T16:11:37.000Z"
+          "headline": "UBS CDR (CAD HEDGED) (UBS.NE) Q3 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTzEzZ3JpaDV2WDVneWNkZjRJQmZEYi1jck1TdFpHRThJclRwVHFIazdFN1dOTlVUYjlxSEFNNDRTZEdQWlpISEV4cnE0dDVCd3FZN3hyVU0zd0F6SG9aNzhwOHFmRXNsamNJRHFBNThHSGp2dVNIOWRxcXlNM3h0WGs5QjdiWVYyb3dLN0xrUEt6Zw?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
         },
         {
           "company": "HSBC",
@@ -158,14 +128,6 @@
           "headline": "HSBC Publishes Transcript of Q3 2026 Results Analyst and Investor Call - VZ VermögensZentrum",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0tIMzQ2c2JqbEFmZURlSkJyc3VmMlVxQ0pQeTJIUm0tbzYtSkhkdTY2Nk9aYktzSm1JUGlhODE1ZFliTVZGZnZwN2xxWjZnVFJTTkFLbDdDSnFGNTRhdnVYWHNaUXpPR2RKTjNjZm1mcExCVVJPd0ZLVS0xcjJSRE94YlNEeXJkQ1NESF91TmtGS1MycXpuRGpEblJWaHQwRl9jMTR6Y09oYlI2TnJBTnFxWXpsSDcwbHpJTnJsb3FZVk9CS0tfZDZPd1ZWaUN1?oc=5",
           "published": "2026-10-28T07:00:00.000Z"
-        },
-        {
-          "company": "iFAST Corporation",
-          "ticker": "AIY.SI",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: iFAST posts strong Q3 2026 growth as bank scales - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSERhUXpmbWo3d0VSRFB1a2pHd2MzWkNpYXVLZnFVS0QzVDVvbDVBOUs2bXJNOFhmV3hRc1BOR1pHcjdMcEhpTUdvOEt4QnFGWkl6STM0RU9WSHo1Mjh5ZlN2X1ZXcDNKQUROWGc5LUdLZGNfVjZ4b0c2MXVjcWRZbEpDWWxoRHFKRkxuNzhMZ2szYjNVTkY1RXd3TnViV1hFb1RIWlExcXl2WXBCNENGdm1HZURPeWpaMmU4YVFMakduTDFpZDlnTA?oc=5",
-          "published": "2026-10-27T07:00:00.000Z"
         }
       ]
     },
@@ -230,10 +192,10 @@
         },
         {
           "tag": "Press",
-          "headline": "Standard Chartered Expands Tokenised Deposit Services into Singapore - Asia Business Outlook",
-          "source": "Asia Business Outlook",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTVsUS1KY0l0NURGQjJUQnNsZjhpdnN0a2lESXdkTUZ6M1FkZUhrc0htbXJPSFgzZ29tazVpY21wa0QwSUs0YlZZMXBKWHNzQkJHWGdUbGFmWGRQbU5NU3JvUGtfNks5OF85QzVtdTQ5SWtJOVl3V1FWLTlxdDVHRU1vMlhQTjZpMDhfZVVFS2ZIR1M2a1dLR1c2aEtrYWVDaktfVUxhbFg5UHZERU5OOUR2MWo3X3hKN0hYNkxCU2xZQlk?oc=5",
-          "published": "2026-11-19T00:17:30.000Z"
+          "headline": "Citi lowers Singapore banks’ target prices on lower loan estimates, higher credit costs - The Edge Singapore",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYkNjUVB3N2o4c2xUVXFPbkptR2Rzb3JDWk81ZFZaMGtYMUZfQmZiQ3FHOFhyTFk2NGw3eENVdFhNYzFTcGsycGhiX0NTdEswVTZaN3F2S2FJSmVxa2xkTEFzVW9XQUJrRUlSN21Sek5MR2VGUTh3ai0wTy1KY1NXY2ZhX3hrcmtuNDY1UHJxUzZ6RnZaQmlzV1dicmN3aTBkY2NWSFVEc2VEOG9UaW15MU53WENWUTk1VTBDSzA2VHRNVDdGQndVSm5Ucw?oc=5",
+          "published": "2026-11-19T17:26:56.000Z"
         }
       ],
       "candidates": [
@@ -253,6 +215,13 @@
         },
         {
           "tag": "Press",
+          "headline": "Citi lowers Singapore banks’ target prices on lower loan estimates, higher credit costs - The Edge Singapore",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYkNjUVB3N2o4c2xUVXFPbkptR2Rzb3JDWk81ZFZaMGtYMUZfQmZiQ3FHOFhyTFk2NGw3eENVdFhNYzFTcGsycGhiX0NTdEswVTZaN3F2S2FJSmVxa2xkTEFzVW9XQUJrRUlSN21Sek5MR2VGUTh3ai0wTy1KY1NXY2ZhX3hrcmtuNDY1UHJxUzZ6RnZaQmlzV1dicmN3aTBkY2NWSFVEc2VEOG9UaW15MU53WENWUTk1VTBDSzA2VHRNVDdGQndVSm5Ucw?oc=5",
+          "published": "2026-11-19T17:26:56.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Standard Chartered Expands Tokenised Deposit Services into Singapore - Asia Business Outlook",
           "source": "Asia Business Outlook",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTVsUS1KY0l0NURGQjJUQnNsZjhpdnN0a2lESXdkTUZ6M1FkZUhrc0htbXJPSFgzZ29tazVpY21wa0QwSUs0YlZZMXBKWHNzQkJHWGdUbGFmWGRQbU5NU3JvUGtfNks5OF85QzVtdTQ5SWtJOVl3V1FWLTlxdDVHRU1vMlhQTjZpMDhfZVVFS2ZIR1M2a1dLR1c2aEtrYWVDaktfVUxhbFg5UHZERU5OOUR2MWo3X3hKN0hYNkxCU2xZQlk?oc=5",
@@ -266,6 +235,13 @@
           "published": "2026-11-18T02:49:32.000Z"
         },
         {
+          "tag": "Product",
+          "headline": "National Australia Bank Modernizes ATM Network with Diebold Nixdorf Cash Recycling ATMs and Payments Platform - Quantisnow",
+          "source": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVlfM3VId2dIaDhhSnZldVBiVDF4VkRDcWd4bk90VlRLRTluMnp2Y2hJUEJGZXZIMG9EUmpsS1hKLVZXckkyTHFCbUpOcUtaSFRwNDlEdjJXMFNDZjVfbmZ5NW9tLXAzVlBFSi1oVGU1eHJmNk44SV9mWm15cTZfekNhYmR1U3I1czVMVVI1MDZtZTluVEVPcTF1TGpXRDdLNkFTRUlpS2tuR3ZuRG1rWER1Y1djdw?oc=5",
+          "published": "2026-11-19T13:15:11.000Z"
+        },
+        {
           "tag": "Press",
           "headline": "Sign of the times? How China is quietly shifting global trade onto yuan payments - South China Morning Post",
           "source": "SCMP",
@@ -274,28 +250,13 @@
         },
         {
           "tag": "Press",
-          "headline": "Singapore Plans Sandbox to Test AI-Run Digital-Currency Payments - www.tokenpost.com",
-          "source": "www.tokenpost.com",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01bHd6RDN0b0RvMHZ3TnAxX0dYLVFudE96U0RQdEVlOVNkR2pKdnpjQUZtWldoLU1RTkxlazl1XzUzVW1XMkE3NjdfN3E3U2o1aXh6bERad19qM0E?oc=5",
-          "published": "2026-11-18T11:22:57.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Still using a NETS CashCard? Switch before Jan 1, 2027, for ERP and parking payments - Stomp Singapore",
-          "source": "Stomp Singapore",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTBYVERiblE0QVI3dEtpUGQyUzZrVk1rSlRoT1VZakt0TDZnOE9GUFF3YmtfTVZ0SUJOeEpoNEJuMVhoMWt0Mm1Wei0yaHkycmxOM24xNWpDNDB1dXVkYTlHalZrb3JyMTR0NmlIdzVzSzJzTllQNlpKXzlDTjlGcHZBaENJNDIzaXhFbmRabDJlcFBSeWtNblRKU3NsT0U0aFZzXw?oc=5",
-          "published": "2026-11-17T02:24:08.000Z"
+          "headline": "National Australia Bank to Deploy 700-Plus ATMs and Payments Software - Securities.io",
+          "source": "Securities.io",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFlIREEtZGRnSENzbWZWNF9Lc3I3c3dHLXNiWEtNV2hqNHd0U3dzVG54Z3VoQnVGT25IbjZBU3cxeXJlTWJDYVpQUUUxLWVKNkc0YmVqb0o0YzVpLTNkb2IyTmJmSmN2MlhhN0ROS2QzX3Y1MlR3Y0xDQW5CMjJHMWhuWlV4b0ZYRlR1aHZQYzFOeHNWZk9STVpBXzU?oc=5",
+          "published": "2026-11-19T13:26:53.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "Lai Sun to spin off part of Hong Kong Plaza in Shanghai to repay US$315m loan - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRUdfRFIzU3lEZE5CTGk2Z1Fkd0xTODZkRGRKck9QNlRWS2s1dUZROUlNRURRTHA5dmtFMTdjUkUtRlpKM0J5TzhmdWRJMHdxZ2pKMl9KSWhVTV9HemFuWGZWVjJHbDh3WVMzWjYwRlc4d3pfdGRPMkxXRnhmS3E1UnAwaXNuNWZJYldKUHJORWt2U3R2bzVxLWJkMW1aVTNGLXdOcTZpeW5LV0l0eWxpMFg1b3p6RFBraWo1Ul95WUg0WG90UnU2ZXZNMURTQzg4Y2lzbg?oc=5",
-        "published": "2026-11-17T14:20:59.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Standard Chartered",
@@ -306,20 +267,20 @@
           "published": "2026-11-10T11:50:16.000Z"
         },
         {
+          "company": "DBS Group",
+          "ticker": "D05.SI",
+          "tag": "Transcript",
+          "headline": "DBS (D05.SI) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2N0ZWxXQUViSXFtcHNaa1JnR1oydjFFZGZOalB6dlRZTEdwSjdWWXZ2bG8zbGJrNW9pQnltQ1FhaHViOHo4dFVDYlFlTV9JWko0UzFFa2hLb2s4S3NEQ1c5WjN5OE91S0M4QnVaZW1mOHZJdmE3Y3pfaXlhVFgxSFhOTHhYVG9kT2l3UVlVZmxrZw?oc=5",
+          "published": "2026-11-05T08:00:00.000Z"
+        },
+        {
           "company": "UOB",
           "ticker": "U11.SI",
           "tag": "Transcript",
           "headline": "UNITED OVERSEAS BANK LTD. R (UOB.DU) Q3 FY2026 TU earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGQ5NFZTWEU1OHdYUkdVcVMtWHN1aTMwaGpmZ1BxQ255VzJpdEt4TUg2RVhLcmRZUndSNTJIVU5mZzN0UEdFLURmTmNTX0cxTGRYMi1HNDZ2RTU1LTFGcVRzdUdkSFNMU1Z2UV9SRnNsTFJSQXJrU21pbjlPemdrQWFiTkE0dE5UcUZTTWR0XzRyUQ?oc=5",
           "published": "2026-11-04T08:00:00.000Z"
-        },
-        {
-          "company": "HSBC",
-          "ticker": "HSBC",
-          "tag": "Transcript",
-          "headline": "HSBC Publishes Transcript of Q3 2026 Results Analyst and Investor Call - VZ VermögensZentrum",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0tIMzQ2c2JqbEFmZURlSkJyc3VmMlVxQ0pQeTJIUm0tbzYtSkhkdTY2Nk9aYktzSm1JUGlhODE1ZFliTVZGZnZwN2xxWjZnVFJTTkFLbDdDSnFGNTRhdnVYWHNaUXpPR2RKTjNjZm1mcExCVVJPd0ZLVS0xcjJSRE94YlNEeXJkQ1NESF91TmtGS1MycXpuRGpEblJWaHQwRl9jMTR6Y09oYlI2TnJBTnFxWXpsSDcwbHpJTnJsb3FZVk9CS0tfZDZPd1ZWaUN1?oc=5",
-          "published": "2026-10-28T07:00:00.000Z"
         }
       ]
     }
