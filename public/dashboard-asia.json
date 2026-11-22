@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:40:07.768Z",
+  "generatedAt": "2026-11-22T08:38:40.856Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -33,47 +33,33 @@
       "bullets": [
         {
           "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm9hMXdhZUVmekNVRzlkNjh4QlZ5YmN1OF9YOHVkVEdQZWtKcWFDWWFyTzdGWTdmQmNiVHVHVGRRSVQwa1NYR1pqVjQ0Z3UxR0QtdkxDQkl2bkg5TWw0LU5ENWIwVHN5OWx2SXlsMFJ5c3gxcHc3Rkc2MkpPd05QZ0I5NjRnX200dGRLLW84Y3JmbHhS?oc=5",
-          "published": "2026-11-20T07:36:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "HSBC expands RedCoin use into wealth management with tokenised fund launch - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEJkUURIME9wRzVEak9QZkhiaFR1ZUJkcmFMSTlMbHp0bGt5cGd6dHNJbFpYUUxZenJkLWppRjZyTkZwSTd2VHRObzZ6NHBnXzNDd3V4NGNiMVV5UjFDNGo2MFF1WXIxZmtIV3laNkU2V3JWY19ETkdOYUtvVll3b19GLTZqTmg4SkJCRHV0WVh1a2VQbjdTb0JQLXVabFQydlE2THlQUDEwNWxldmtZX1k4WGk0YkxfdlJ4UjNSVzBWa09s?oc=5",
-          "published": "2026-11-19T07:00:09.000Z"
-        },
-        {
-          "tag": "Product",
           "headline": "Hong Kong Lists GaoTeng Bitcoin ETF After $10 Million Investment - www.tokenpost.com",
           "source": "www.tokenpost.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04NEFTeGt3OENlbk9EckhVd0ZJUExoTjN6TmdlZUFLbkFWSEYwd3V1QmNPZTM0MkpycjdQV2UzeEk4OTJucUN4SUYyZmRoaDZicFVtOE1zWmR4QQ?oc=5",
           "published": "2026-11-20T13:16:04.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore lists financial crime prevention as a main mission to advance AI use - Asia Asset Management",
+          "source": "Asia Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORThaUkxKa2JZX1RXV1ZqczA4QUFCWjI1YmhYUjZYY21mSGphQ2pPSHJaUEJLU2lLLU9MT0hjOV82anVSRURlcDdyV3dha3hKdExWaXhkR3pMQXZKaTdsQWtoMXBZS0VjbmNVWDc2ZTFHR3BVUGk4ME55bm13U0w3cXprRHFEZ2s?oc=5",
+          "published": "2026-11-19T16:06:06.000Z"
         }
       ],
       "candidates": [
         {
           "tag": "Product",
-          "headline": "Fidelity Pacific ex Japan Equity Research Enhanced UCITS ETF - Net Asset Value(s) – Company Announcement - Financial Times",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm9hMXdhZUVmekNVRzlkNjh4QlZ5YmN1OF9YOHVkVEdQZWtKcWFDWWFyTzdGWTdmQmNiVHVHVGRRSVQwa1NYR1pqVjQ0Z3UxR0QtdkxDQkl2bkg5TWw0LU5ENWIwVHN5OWx2SXlsMFJ5c3gxcHc3Rkc2MkpPd05QZ0I5NjRnX200dGRLLW84Y3JmbHhS?oc=5",
-          "published": "2026-11-20T07:36:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "HSBC expands RedCoin use into wealth management with tokenised fund launch - South China Morning Post",
-          "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEJkUURIME9wRzVEak9QZkhiaFR1ZUJkcmFMSTlMbHp0bGt5cGd6dHNJbFpYUUxZenJkLWppRjZyTkZwSTd2VHRObzZ6NHBnXzNDd3V4NGNiMVV5UjFDNGo2MFF1WXIxZmtIV3laNkU2V3JWY19ETkdOYUtvVll3b19GLTZqTmg4SkJCRHV0WVh1a2VQbjdTb0JQLXVabFQydlE2THlQUDEwNWxldmtZX1k4WGk0YkxfdlJ4UjNSVzBWa09s?oc=5",
-          "published": "2026-11-19T07:00:09.000Z"
-        },
-        {
-          "tag": "Product",
           "headline": "Hong Kong Lists GaoTeng Bitcoin ETF After $10 Million Investment - www.tokenpost.com",
           "source": "www.tokenpost.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04NEFTeGt3OENlbk9EckhVd0ZJUExoTjN6TmdlZUFLbkFWSEYwd3V1QmNPZTM0MkpycjdQV2UzeEk4OTJucUN4SUYyZmRoaDZicFVtOE1zWmR4QQ?oc=5",
           "published": "2026-11-20T13:16:04.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore lists financial crime prevention as a main mission to advance AI use - Asia Asset Management",
+          "source": "Asia Asset Management",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORThaUkxKa2JZX1RXV1ZqczA4QUFCWjI1YmhYUjZYY21mSGphQ2pPSHJaUEJLU2lLLU9MT0hjOV82anVSRURlcDdyV3dha3hKdExWaXhkR3pMQXZKaTdsQWtoMXBZS0VjbmNVWDc2ZTFHR3BVUGk4ME55bm13U0w3cXprRHFEZ2s?oc=5",
+          "published": "2026-11-19T16:06:06.000Z"
         }
       ],
       "insight": {
@@ -119,22 +105,14 @@
       "candidates": [],
       "insight": {
         "tag": "Research",
-        "headline": "HSBC expands RedCoin use into wealth management with tokenised fund launch - South China Morning Post",
+        "headline": "China ETF Net Inflows Resume Alongside Modest AUM Growth in Q3 2026 - Morningstar",
         "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEJkUURIME9wRzVEak9QZkhiaFR1ZUJkcmFMSTlMbHp0bGt5cGd6dHNJbFpYUUxZenJkLWppRjZyTkZwSTd2VHRObzZ6NHBnXzNDd3V4NGNiMVV5UjFDNGo2MFF1WXIxZmtIV3laNkU2V3JWY19ETkdOYUtvVll3b19GLTZqTmg4SkJCRHV0WVh1a2VQbjdTb0JQLXVabFQydlE2THlQUDEwNWxldmtZX1k4WGk0YkxfdlJ4UjNSVzBWa09s?oc=5",
-        "published": "2026-11-19T07:00:09.000Z",
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkFLRlNHbzBLM0dvV2NkSk9pMmFkMUs0R0ZRaDl2a3ZtT3pabmtsQlI2RzE5S0Y1M2dNdG9wUEY1ZDFWZzVqLVNIbkJWWTl6LVNDc0RhTEo4aFFmUldoTV8wQWx4RERvY1k1MFV4UGhFbFl4dkZONGd1cURLaFc4ZUVVUXZnV2djZGFTNVJUZjVrYW9PZlVGc2RGbW1OcmE5TGdTcmwweUpaVDA?oc=5",
+        "published": "2026-11-17T03:51:10.000Z",
         "paywalled": false
       },
       "companyUpdates": [
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "Transcript : Oruka Therapeutics, Inc. Presents at UBS Global Biopharma Conference 2026, Nov-17-2026 04 - www.marketscre…",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNmtsTjhhRnYyaDk2dnlRZ0hCYk5nbVhsd19odkJpYmNvMDltNjRXZ1ZGOFRsZU52TmZDWnZTNS1sSExXS1RZakpNdmltbHgtWnFOVkkyS1FzVnhjMnRZQzhvaVp0Z004b2tUTk9Kb2xYVmpvQXBONWtpWXVYVXlQX2pzYWJHSmhKTl92N1FZQ0dIcWxHNW9ZMmtKaUI2UkdyUHJiWUNhX2J6cmxRcjJBRnlYU2UwLXJhQ2VkN3U4Umo2UW00bVBuZjdVWWNLdUhRX1ZfRE5LMWxiaExKdTYzdg?oc=5",
-          "published": "2026-11-17T19:21:07.000Z"
-        },
         {
           "company": "DBS Group",
           "ticker": "D05.SI",
@@ -142,6 +120,14 @@
           "headline": "DBS (D05.SI) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2N0ZWxXQUViSXFtcHNaa1JnR1oydjFFZGZOalB6dlRZTEdwSjdWWXZ2bG8zbGJrNW9pQnltQ1FhaHViOHo4dFVDYlFlTV9JWko0UzFFa2hLb2s4S3NEQ1c5WjN5OE91S0M4QnVaZW1mOHZJdmE3Y3pfaXlhVFgxSFhOTHhYVG9kT2l3UVlVZmxrZw?oc=5",
           "published": "2026-11-05T08:00:00.000Z"
+        },
+        {
+          "company": "UBS Group",
+          "ticker": "UBS",
+          "tag": "Transcript",
+          "headline": "UBS (UBS) Q3 2026 Earnings Call Transcript - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmtoeWE1RVB0cmRBdXNPVGR2bk5VOVlWQVZLOXpHMUduM0RvaVlOOWt5YXU3cG5ra2NlTUZyOHdaeTJvRGFUNng0bDg3cWptMnFjWTMwQmJqNUlrbW55RE9DYzJ1eDBSYTh6c1d4VlNTX1VWTVlfT0Yzdlg0aUh0RWVfR3N6a1BhbEpwWDVzOHE0ZjRLWGdXMVA4dklWT0Zn?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
         },
         {
           "company": "HSBC",
@@ -199,13 +185,6 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Visa Recurrent Brings Subscription Management to Digital Banking - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFBUSUhqN252QkR4RTRpQWFYX09oWFhoem9SWG5tQno2SlNyS2pmZzZOdjJ2NjY2NUZRZ3hwZk14WHJ0c3hGaGR4MFJ2aTZCeFk4M1BpaW8xalRQLUxqR0VOX2I2OXdWZlhBQVJPNWM1d0Z2b0YwQkI4ZFEwa0pDR1huSFV2MUVZX1R5WVg4cTl3N2RpTFFveVJWVHRFc19vY0dRZkVqM2NnVkZENlNr?oc=5",
-          "published": "2026-11-19T01:42:12.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "Citi lowers Singapore banks’ target prices on lower loan estimates, higher credit costs - The Edge Singapore",
           "source": "The Edge Singapore",
@@ -213,22 +192,22 @@
           "published": "2026-11-19T17:26:56.000Z"
         },
         {
+          "tag": "Product",
+          "headline": "National Australia Bank Modernizes ATM Network with Diebold Nixdorf Cash Recycling ATMs and Payments Platform - Morningstar",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR1p6a3FTcmwtQjk2dDB4RUVkZDRvdThLZl9tT3k4QTNWYUx1U1BEbjFPbDItc3ZodjJUN096cVNCZlhtZ0FrUnFjQk5LbU12U3FCdWdGa0FYV0JHQUxucWY3ZE54LTBaTWZKdGIwZkotWEFEbHh2TXhuX1dWaVl3Nzc4eElDYXdWV1ZkeW1yWFJ5Ykc5dDZwQ0pWV2xFeEdIZHI0dXZWdzkzekI0aTZKZEhYVVJ5cExvV1JZNWc5T0lsWU9NRlJHZThJeWZSdmRWbm82d2ZrYmhPS01WLVlGRlNReGI5TjROM3FqTjRtM0g4Z21Yd2MwaUlXTlBjM2M?oc=5",
+          "published": "2026-11-19T13:07:00.000Z"
+        },
+        {
           "tag": "Press",
-          "headline": "Standard Chartered Expands Tokenised Deposit Services into Singapore - Asia Business Outlook",
-          "source": "Asia Business Outlook",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTVsUS1KY0l0NURGQjJUQnNsZjhpdnN0a2lESXdkTUZ6M1FkZUhrc0htbXJPSFgzZ29tazVpY21wa0QwSUs0YlZZMXBKWHNzQkJHWGdUbGFmWGRQbU5NU3JvUGtfNks5OF85QzVtdTQ5SWtJOVl3V1FWLTlxdDVHRU1vMlhQTjZpMDhfZVVFS2ZIR1M2a1dLR1c2aEtrYWVDaktfVUxhbFg5UHZERU5OOUR2MWo3X3hKN0hYNkxCU2xZQlk?oc=5",
-          "published": "2026-11-19T00:17:30.000Z"
+          "headline": "Ping An Digital Bank gets fresh US$64 million capital injection from Lufax - South China Morning Post",
+          "source": "SCMP",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDhDdzNzenhQM3NnVFhQQVQ5bEwwM2pRY2J0YmVZSkJnVHR0TjdIb1A4N3FBZGt1UzdaT1hSSjRucG5HWm4yUkNic2lsNXh3VWt5ekQ5d3hWTU5ocW92Vnd0bktVeU5HSmE5SVRJYTYzV3dNQXowQ0hPY0xkTmJfdUhiX0NaV08zU0dTa3pSQ0Qxa1haeXMydHJPZldycEpUc2xFOXllbm02aDhlWkYxWXU1VDFHS0g5d0JSMEhiU3JnVXV1bVE?oc=5",
+          "published": "2026-11-20T13:24:24.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Visa Recurrent Brings Subscription Management to Digital Banking - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFBUSUhqN252QkR4RTRpQWFYX09oWFhoem9SWG5tQno2SlNyS2pmZzZOdjJ2NjY2NUZRZ3hwZk14WHJ0c3hGaGR4MFJ2aTZCeFk4M1BpaW8xalRQLUxqR0VOX2I2OXdWZlhBQVJPNWM1d0Z2b0YwQkI4ZFEwa0pDR1huSFV2MUVZX1R5WVg4cTl3N2RpTFFveVJWVHRFc19vY0dRZkVqM2NnVkZENlNr?oc=5",
-          "published": "2026-11-19T01:42:12.000Z"
-        },
-        {
           "tag": "Press",
           "headline": "Citi lowers Singapore banks’ target prices on lower loan estimates, higher credit costs - The Edge Singapore",
           "source": "The Edge Singapore",
@@ -236,25 +215,32 @@
           "published": "2026-11-19T17:26:56.000Z"
         },
         {
-          "tag": "Press",
-          "headline": "Standard Chartered Expands Tokenised Deposit Services into Singapore - Asia Business Outlook",
-          "source": "Asia Business Outlook",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTVsUS1KY0l0NURGQjJUQnNsZjhpdnN0a2lESXdkTUZ6M1FkZUhrc0htbXJPSFgzZ29tazVpY21wa0QwSUs0YlZZMXBKWHNzQkJHWGdUbGFmWGRQbU5NU3JvUGtfNks5OF85QzVtdTQ5SWtJOVl3V1FWLTlxdDVHRU1vMlhQTjZpMDhfZVVFS2ZIR1M2a1dLR1c2aEtrYWVDaktfVUxhbFg5UHZERU5OOUR2MWo3X3hKN0hYNkxCU2xZQlk?oc=5",
-          "published": "2026-11-19T00:17:30.000Z"
-        },
-        {
           "tag": "Product",
-          "headline": "National Australia Bank Modernizes ATM Network with Diebold Nixdorf Cash Recycling ATMs and Payments Platform - Quantisnow",
-          "source": "Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVlfM3VId2dIaDhhSnZldVBiVDF4VkRDcWd4bk90VlRLRTluMnp2Y2hJUEJGZXZIMG9EUmpsS1hKLVZXckkyTHFCbUpOcUtaSFRwNDlEdjJXMFNDZjVfbmZ5NW9tLXAzVlBFSi1oVGU1eHJmNk44SV9mWm15cTZfekNhYmR1U3I1czVMVVI1MDZtZTluVEVPcTF1TGpXRDdLNkFTRUlpS2tuR3ZuRG1rWER1Y1djdw?oc=5",
-          "published": "2026-11-19T13:15:11.000Z"
+          "headline": "National Australia Bank Modernizes ATM Network with Diebold Nixdorf Cash Recycling ATMs and Payments Platform - Morningstar",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR1p6a3FTcmwtQjk2dDB4RUVkZDRvdThLZl9tT3k4QTNWYUx1U1BEbjFPbDItc3ZodjJUN096cVNCZlhtZ0FrUnFjQk5LbU12U3FCdWdGa0FYV0JHQUxucWY3ZE54LTBaTWZKdGIwZkotWEFEbHh2TXhuX1dWaVl3Nzc4eElDYXdWV1ZkeW1yWFJ5Ykc5dDZwQ0pWV2xFeEdIZHI0dXZWdzkzekI0aTZKZEhYVVJ5cExvV1JZNWc5T0lsWU9NRlJHZThJeWZSdmRWbm82d2ZrYmhPS01WLVlGRlNReGI5TjROM3FqTjRtM0g4Z21Yd2MwaUlXTlBjM2M?oc=5",
+          "published": "2026-11-19T13:07:00.000Z"
         },
         {
           "tag": "Press",
-          "headline": "In Focus | Sign of the times? How China is quietly shifting global trade onto yuan payments - South China Morning Post",
+          "headline": "Ping An Digital Bank gets fresh US$64 million capital injection from Lufax - South China Morning Post",
           "source": "SCMP",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaGl2NThEanM1ZGFQaWxaN0huUkpuZTZrUk1Gd3dsWXJqcWxNTWRld2J1dXhPOEIxZExkYUNwUWp3Z3RZTEpDNEh5ZU4zTUlES29LUmtjM0ZvOXZHNExJdzdJSTRaWGU4Y2xlOE5tQlloYlNiNkI2VkR1M3loeE41UTktbW1sUVB5bVVzaTRvV3F3WFQ0X2VyM3lIb21NZ2FxaGpCS1RHUEtYdDhyMFhiS2g5ZWxvRGMyM19kRF9EVUY?oc=5",
-          "published": "2026-11-18T22:00:10.000Z"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDhDdzNzenhQM3NnVFhQQVQ5bEwwM2pRY2J0YmVZSkJnVHR0TjdIb1A4N3FBZGt1UzdaT1hSSjRucG5HWm4yUkNic2lsNXh3VWt5ekQ5d3hWTU5ocW92Vnd0bktVeU5HSmE5SVRJYTYzV3dNQXowQ0hPY0xkTmJfdUhiX0NaV08zU0dTa3pSQ0Qxa1haeXMydHJPZldycEpUc2xFOXllbm02aDhlWkYxWXU1VDFHS0g5d0JSMEhiU3JnVXV1bVE?oc=5",
+          "published": "2026-11-20T13:24:24.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore's MAS Proposes 'Know-Your-Agent' Rules, Sandbox for AI-Driven Stablecoin Payments - BigGo Finance",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FOENaU2JYbGM0MWZxM1UyZnpfY29ZYjlVMFhTWUQ5cDlrbU9OUDBaSkVIQkJRaERTUUFFQVFXel9UZHZCQ0E3dndsNDFIdmNYTmNsU0dSOHlQOERWelBQemVfd2JGWEgtVUtOZWx2bVBUX1RncWc?oc=5",
+          "published": "2026-11-22T04:35:00.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Singapore wants to test stablecoin payments by AI agents - Cryptonews.net",
+          "source": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zNWZnMnZUOVJXNFBwakJBVm1MUnpzeEVsMEpPb2hBRWhOLWFMTm5RUkEwdmpBLXI5dWRFMXZ4bWc2SGFxRzRhdUhwRC1RMlh3OE5oRTFMMA?oc=5",
+          "published": "2026-11-21T22:01:43.000Z"
         },
         {
           "tag": "Press",
@@ -269,13 +255,6 @@
           "source": "Business News This Week",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWkh6dUpEWVBUYUh5UjdSYXFIbHhTa254Y3ZuOWlzOENzaVRsdThLOTl3TlR1aTZXWmNUMEVOUzFDeTJPRmFiVllaYTRtMmI3Mmp2NTNXM1dLS0FCVzNQVnlVSktMYVBqVXdLYVJ4aElncnh4NGRld3NIc2NBRXpfbXllSkFQSFdSMGFlMXp4LTNQc0duelZSY2g3eWFZWDZ6TC1PS3g5ZEpUSmxBejJ2OFpwS1JpZXlHZnJIeFBWOEJRRnkzd2hibklsai1sdnAzWFAxbG8wdXI5UQ?oc=5",
           "published": "2026-11-20T09:06:43.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "National Australia Bank to Deploy 700-Plus ATMs and Payments Software - Securities.io",
-          "source": "Securities.io",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFlIREEtZGRnSENzbWZWNF9Lc3I3c3dHLXNiWEtNV2hqNHd0U3dzVG54Z3VoQnVGT25IbjZBU3cxeXJlTWJDYVpQUUUxLWVKNkc0YmVqb0o0YzVpLTNkb2IyTmJmSmN2MlhhN0ROS2QzX3Y1MlR3Y0xDQW5CMjJHMWhuWlV4b0ZYRlR1aHZQYzFOeHNWZk9STVpBXzU?oc=5",
-          "published": "2026-11-19T13:26:53.000Z"
         }
       ],
       "insight": {
@@ -289,14 +268,6 @@
       },
       "companyUpdates": [
         {
-          "company": "Standard Chartered",
-          "ticker": "STAN",
-          "tag": "Transcript",
-          "headline": "Transcript : Standard Chartered PLC Presents at UBS London European Conference 2026, Nov-10-2026 10:00 AM - marketscree…",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaXJ3NFF5cm04S1ZpRWhVWk5qZHhJTXJSczIyRWZDSGtyclVteTQwbnNHM3J1Rk05V3NkdTl4dDZoek5lRF9fOU9TRkxsNUdFcF9ma3htWlFfWWl4eTh0N3RJSXZ1OVIxYndkaGMydjR1ZjVYcTNpd29uckRheWVNY243RlJKZUxNR1ptUWdvQ0U1ODdwS0xYWXRvZ1ZVRmlsck92bDN3bkxITnZqOFhXcGJCcDZxMk92QXlVT1Fyc2Z1MGhSbk1VU2NpMnUyaG9rSF9uLVVqdTlfNjBoVEcwWEdNSQ?oc=5",
-          "published": "2026-11-10T11:50:16.000Z"
-        },
-        {
           "company": "DBS Group",
           "ticker": "D05.SI",
           "tag": "Transcript",
@@ -305,12 +276,20 @@
           "published": "2026-11-05T08:00:00.000Z"
         },
         {
-          "company": "UOB",
-          "ticker": "U11.SI",
+          "company": "HSBC",
+          "ticker": "HSBC",
           "tag": "Transcript",
-          "headline": "UNITED OVERSEAS BANK LTD. R (UOB.DU) Q3 FY2026 TU earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGQ5NFZTWEU1OHdYUkdVcVMtWHN1aTMwaGpmZ1BxQ255VzJpdEt4TUg2RVhLcmRZUndSNTJIVU5mZzN0UEdFLURmTmNTX0cxTGRYMi1HNDZ2RTU1LTFGcVRzdUdkSFNMU1Z2UV9SRnNsTFJSQXJrU21pbjlPemdrQWFiTkE0dE5UcUZTTWR0XzRyUQ?oc=5",
-          "published": "2026-11-04T08:00:00.000Z"
+          "headline": "HSBC Publishes Transcript of Q3 2026 Results Analyst and Investor Call - VZ VermögensZentrum",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0tIMzQ2c2JqbEFmZURlSkJyc3VmMlVxQ0pQeTJIUm0tbzYtSkhkdTY2Nk9aYktzSm1JUGlhODE1ZFliTVZGZnZwN2xxWjZnVFJTTkFLbDdDSnFGNTRhdnVYWHNaUXpPR2RKTjNjZm1mcExCVVJPd0ZLVS0xcjJSRE94YlNEeXJkQ1NESF91TmtGS1MycXpuRGpEblJWaHQwRl9jMTR6Y09oYlI2TnJBTnFxWXpsSDcwbHpJTnJsb3FZVk9CS0tfZDZPd1ZWaUN1?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
+        },
+        {
+          "company": "Standard Chartered",
+          "ticker": "STAN",
+          "tag": "Transcript",
+          "headline": "Earnings call transcript: Standard Chartered lifts Q3 2026 outlook on strong growth - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb3hfUkxOLURLdzhUWXVnbHlhN1dSY25ielBTX0o5dVhrTENmVmh2OEhUTXd3TjBXNGdvZGRObTBXRjBNZkNKdkctT09CaWRGbnM2M25GNVpjalQ3WmUtek04Wm1yY2ZmX2hQaHdvMUhvQlp5eS1kSUFEZnBoVFZOVXZ0TlRfTUR3VTMxa18zVE1OTTE4MXhIdnFONWZlMTl0TGZWb2VWWkVZU19uQVQ3WTd6S0UxWUxfUmxya3BXUVlJMlcxcVhwa21vckVTTk4ybHlmMQ?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
         }
       ]
     }
