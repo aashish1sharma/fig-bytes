@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:16:16.389Z",
+  "generatedAt": "2026-11-26T09:56:39.802Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -44,13 +44,6 @@
           "source": "Caixin Global",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjhJTFc4cnlheHVOdVJKWDRZaU1iQmlUUzlGcjM2cHVkaDhWMDVPcFh3VzhRbkN6ZndrUWx6eDk3dnRodUgtbk5VYk1yM0h0VGhXNUtvb2Y1RUZfeU85SktMSWNmQ2xzREhJaXNGWG1GQTBFZjlYVEhRR0hfbXRlcFBFeXhxUnZLdldBQlRQcEJ5aDNKbkpVYlZ4VURZSUcta0g5N1ZYTkhRaEI0NHc?oc=5",
           "published": "2026-11-24T05:55:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "First dim sum bond-tracking ETF debuts in Hong Kong - chinadailyhk",
-          "source": "chinadailyhk",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MQ3hrRERiREI3MG1DYXlzTHViVUc2R0wzWjJPeU9qYVpVQVRuVFptaER6ZUVWR0ZVU2h6eGlyMUFQLUE5bFdTMmMxREdvcFREUVBlVXZKTDA?oc=5",
-          "published": "2026-11-23T10:20:13.000Z"
         }
       ],
       "candidates": [
@@ -67,31 +60,9 @@
           "source": "Caixin Global",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjhJTFc4cnlheHVOdVJKWDRZaU1iQmlUUzlGcjM2cHVkaDhWMDVPcFh3VzhRbkN6ZndrUWx6eDk3dnRodUgtbk5VYk1yM0h0VGhXNUtvb2Y1RUZfeU85SktMSWNmQ2xzREhJaXNGWG1GQTBFZjlYVEhRR0hfbXRlcFBFeXhxUnZLdldBQlRQcEJ5aDNKbkpVYlZ4VURZSUcta0g5N1ZYTkhRaEI0NHc?oc=5",
           "published": "2026-11-24T05:55:00.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "First dim sum bond-tracking ETF debuts in Hong Kong - chinadailyhk",
-          "source": "chinadailyhk",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MQ3hrRERiREI3MG1DYXlzTHViVUc2R0wzWjJPeU9qYVpVQVRuVFptaER6ZUVWR0ZVU2h6eGlyMUFQLUE5bFdTMmMxREdvcFREUVBlVXZKTDA?oc=5",
-          "published": "2026-11-23T10:20:13.000Z"
-        },
-        {
-          "tag": "Product",
-          "headline": "HashKey Exchange Takes On Sub-Custodian Role for GaoTeng Bitcoin ETF as It Debuts on Hong Kong Exchange - Crowdfund Insider",
-          "source": "Crowdfund Insider",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTNwcjdDd1BCMXppYkVrUEljRy1reDZoRkxEamluOHd6aVNFRDY5bWVjREtRRUxSMGxDRmRCMlkyd2FmMHJVZ2poWkZGZVNCekVJWFZRMk44RWVxWC0yQ205ei1XUkRjdm50aFE4WUlSNlBKWDNwY0RaSGlUSTFkMFh6elhDOWM0Ull4V2xfZl93ZnIzWU5QWFlTT2xSMWQxZC1mR2dGU3dHb2xIYjBVdmxfMDByTXI1SHBHaXBldWpWeDluZXlEeGpXQkVvUF9KcGZETG9ZSG1MMUZnbFhnYkt2UEVLTXc?oc=5",
-          "published": "2026-11-23T03:15:21.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "APAC ETF Flows: Regional Inflows Return as China Leads a Q3 Rebound - Morningstar",
-        "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0YnowS0I1YWg3TUJtME5ET2I4emdJeDRZRHZXNHJPWm1lbm9uRTl6S2pzTEtBS2sxYi13MXhVT2VWaVJsa0w4bDJqX2t6dHVDclowc0FEbjhhSEZ5RlBYQzNWWmdhLS1oU0Z6emkwcktHVUkzYUhRd05fY25nUQ?oc=5",
-        "published": "2026-11-19T08:00:00.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "Schroders",
@@ -102,12 +73,20 @@
           "published": "2026-11-18T12:00:00.000Z"
         },
         {
-          "company": "Fidelity International",
-          "ticker": "FIL",
-          "tag": "Analyst Report",
-          "headline": "Fidelity International launches equity research Ucits ETF - Funds Europe",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmVlS1JCRGE3ME51a3BsYVdfdGhuTlFHaFVnMENTdnYyanZoaGVVaG9YMzFuM1dKc2Q3eUQtYmhNVDBUQXB2QzlqMVRWSlJjOXIwcWtDN2lzWGducDZhc01nUlVNc1loMFhaTHlSak03WEdaOUQ1U0h4bi1XajRhWUpickZ1TkxyV0lr?oc=5",
-          "published": "2026-11-23T10:02:12.000Z"
+          "company": "BlackRock",
+          "ticker": "BLK",
+          "tag": "Transcript",
+          "headline": "BlackRock TCP (TCPC) Q3 2026 Earnings Call Transcript - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTNJNU1mUkY0bXVLWGdQRVpoSXpqLTNRdG5tVHNpNHYxNEpkcWFDdEY4UHdHVW1ZRHJaM3pFOG00a3d6UDNKdEpXWkl5a25zSXN1d0pUQkpJZ05aT044U0dheDVYZExzLUtGbG9BZkozeEhpVTkwWW5jMlY4cnM2elBOajEybHg2QmZRNVlhUkhTaGoybkZjM08zNGI1Z0hwVEttSlhWTUdjcmJfR2JB?oc=5",
+          "published": "2026-11-05T08:00:00.000Z"
+        },
+        {
+          "company": "Nikko Asset Management",
+          "ticker": "NOMURA",
+          "tag": "Transcript",
+          "headline": "Nomura Holdings Q2 2027 Earnings Call Transcript - Nomura Holdings (NYSE:NMR) - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUZ6NFkxRnVyV25nZGs4eXdDaFlaRlVmdXNqb091QWlfa0JTa1RpZlpfdkZXUTdlQ2hneFdfa1lTeDFfbHdxQ2RTLVRwQWtCMkstMzFBQVQ5RndIcm45bm5lZndycUlpc3Rqd200MVNBYmpNWlQwa005RzJBQ19uX1AyUjNjMm1wSllyQ1kwa2ZGaGM5alduYg?oc=5",
+          "published": "2026-10-28T07:00:00.000Z"
         }
       ]
     },
@@ -115,6 +94,13 @@
       "id": "wealth-management",
       "name": "Wealth Management",
       "bullets": [
+        {
+          "tag": "Press",
+          "headline": "Thailand’s Family Office Market Poised for Transformation Amid Wealth Transfer Boom and SEC Rule Clarifications - Thailand Business News",
+          "source": "Thailand Business News",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUmY4azlwdXd1aUd1c3Zpc1B5V0JEVTQtYnFXaUNWdThscEY2Y3V3cXFJRzJnODB3aGpyY0VfZFVaSm90bzh2d3NLQUxmSHJKeUp5dWw2bFplSjEzWDNGR1l4blpMLUVTak9icy0welZFUTZydkhyUm5uQVdBTjl6TzJnYXN6eUJqbGZPa0JUOTdrMTNMNFJqMWJFYk1kOUlLczIzWEVjUW12TWRSQTNjQThBbmFvY3JtM3FzSjFZTTd5QTB1YTY0bWtFZDlOd2Z2WWUxWEZmbjJiLWFmOXB3YkcwNUh3eUo3TTJlTVR4c2tJd3YwMGlN?oc=5",
+          "published": "2026-11-25T22:31:00.000Z"
+        },
         {
           "tag": "Press",
           "headline": "Who's Moving Where In Wealth Management? – LinqAlpha Sets Up Tokyo Office - Wealth Briefing Asia",
@@ -126,21 +112,20 @@
       "candidates": [
         {
           "tag": "Press",
+          "headline": "Thailand’s Family Office Market Poised for Transformation Amid Wealth Transfer Boom and SEC Rule Clarifications - Thailand Business News",
+          "source": "Thailand Business News",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUmY4azlwdXd1aUd1c3Zpc1B5V0JEVTQtYnFXaUNWdThscEY2Y3V3cXFJRzJnODB3aGpyY0VfZFVaSm90bzh2d3NLQUxmSHJKeUp5dWw2bFplSjEzWDNGR1l4blpMLUVTak9icy0welZFUTZydkhyUm5uQVdBTjl6TzJnYXN6eUJqbGZPa0JUOTdrMTNMNFJqMWJFYk1kOUlLczIzWEVjUW12TWRSQTNjQThBbmFvY3JtM3FzSjFZTTd5QTB1YTY0bWtFZDlOd2Z2WWUxWEZmbjJiLWFmOXB3YkcwNUh3eUo3TTJlTVR4c2tJd3YwMGlN?oc=5",
+          "published": "2026-11-25T22:31:00.000Z"
+        },
+        {
+          "tag": "Press",
           "headline": "Who's Moving Where In Wealth Management? – LinqAlpha Sets Up Tokyo Office - Wealth Briefing Asia",
           "source": "Wealth Briefing Asia",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZXE4ekVPcWhkaEJiTjlRSExMYlR0MVZ0SXNtR3FKYk9Mcld4N2lkNDV4QzI3c2FhLTB6UXJzUWtGWGs4M0FILVV1dFAwNEg4RXZPVUNDbHpxdkZQS1Y2eEp6VEpKckI2RlNXWndMU3IwTWZ0WmJTa3hTTXpqVmlRaUxNNVQxekNNQ3o4aWFyUWp0cGtKOHdDYXd6Q2xVcUR6VXNud19WbmNmSjEzZHFMNXZtUjQ5ZzhtYWpTRkJDUTlnQVdRWGZJVzg1VkpKc2R4RmlVaGd3TTY?oc=5",
           "published": "2026-11-24T19:07:01.000Z"
         }
       ],
-      "insight": {
-        "tag": "Research",
-        "headline": "HSBC expands RedCoin use into wealth management with tokenised fund launch - South China Morning Post",
-        "teaser": null,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEJkUURIME9wRzVEak9QZkhiaFR1ZUJkcmFMSTlMbHp0bGt5cGd6dHNJbFpYUUxZenJkLWppRjZyTkZwSTd2VHRObzZ6NHBnXzNDd3V4NGNiMVV5UjFDNGo2MFF1WXIxZmtIV3laNkU2V3JWY19ETkdOYUtvVll3b19GLTZqTmg4SkJCRHV0WVh1a2VQbjdTb0JQLXVabFQydlE2THlQUDEwNWxldmtZX1k4WGk0YkxfdlJ4UjNSVzBWa09s?oc=5",
-        "published": "2026-11-19T07:00:09.000Z",
-        "paywalled": false
-      },
+      "insight": null,
       "companyUpdates": [
         {
           "company": "DBS Group",
@@ -157,48 +142,16 @@
           "headline": "UBS (UBS) Q3 2026 Earnings Call Transcript - The Motley Fool",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmtoeWE1RVB0cmRBdXNPVGR2bk5VOVlWQVZLOXpHMUduM0RvaVlOOWt5YXU3cG5ra2NlTUZyOHdaeTJvRGFUNng0bDg3cWptMnFjWTMwQmJqNUlrbW55RE9DYzJ1eDBSYTh6c1d4VlNTX1VWTVlfT0Yzdlg0aUh0RWVfR3N6a1BhbEpwWDVzOHE0ZjRLWGdXMVA4dklWT0Zn?oc=5",
           "published": "2026-10-28T07:00:00.000Z"
-        },
-        {
-          "company": "iFAST Corporation",
-          "ticker": "AIY.SI",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: iFAST posts strong Q3 2026 growth as bank scales - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSERhUXpmbWo3d0VSRFB1a2pHd2MzWkNpYXVLZnFVS0QzVDVvbDVBOUs2bXJNOFhmV3hRc1BOR1pHcjdMcEhpTUdvOEt4QnFGWkl6STM0RU9WSHo1Mjh5ZlN2X1ZXcDNKQUROWGc5LUdLZGNfVjZ4b0c2MXVjcWRZbEpDWWxoRHFKRkxuNzhMZ2szYjNVTkY1RXd3TnViV1hFb1RIWlExcXl2WXBCNENGdm1HZURPeWpaMmU4YVFMakduTDFpZDlnTA?oc=5",
-          "published": "2026-10-27T07:00:00.000Z"
         }
       ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [
-        {
-          "tag": "Press",
-          "headline": "Inside AIA Philippines Life and General Insurance Company Inc.’s win at the Insurance Asia Awards 2026 - Insurance Asia",
-          "source": "Insurance Asia",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHRCbXVtMXhNVGZvWXUtdDVoQWpGQU9BX0pKOUdkRE1FSThGWXNjU3RvQ1RHU3F5WkNXakllaEZDU3RYUG12VHRld0FQMi1kRXpONnMzLWVHS2dmcU5tVXBqdHczME9KZFB3TmpFUG02SVhKaFU5eFlwWjlrLUUwRUlpSHNBOEh0cktZWDBsY1QxTGlCcDJCRUJKTzZZeEQwNzcyeEtTbW5Wc2VOUk9aNGxNT3dnQTVqQ3pHcFc4MnBJZkg2?oc=5",
-          "published": "2026-11-23T04:32:34.000Z"
-        }
-      ],
-      "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Inside AIA Philippines Life and General Insurance Company Inc.’s win at the Insurance Asia Awards 2026 - Insurance Asia",
-          "source": "Insurance Asia",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHRCbXVtMXhNVGZvWXUtdDVoQWpGQU9BX0pKOUdkRE1FSThGWXNjU3RvQ1RHU3F5WkNXakllaEZDU3RYUG12VHRld0FQMi1kRXpONnMzLWVHS2dmcU5tVXBqdHczME9KZFB3TmpFUG02SVhKaFU5eFlwWjlrLUUwRUlpSHNBOEh0cktZWDBsY1QxTGlCcDJCRUJKTzZZeEQwNzcyeEtTbW5Wc2VOUk9aNGxNT3dnQTVqQ3pHcFc4MnBJZkg2?oc=5",
-          "published": "2026-11-23T04:32:34.000Z"
-        }
-      ],
+      "bullets": [],
+      "candidates": [],
       "insight": null,
       "companyUpdates": [
-        {
-          "company": "Prudential plc",
-          "ticker": "PRU",
-          "tag": "Transcript",
-          "headline": "Prudential Financial (PRU) Q2 2026 Earnings Call Transcript - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRFlqbXBrU09WRk5xd0tPU2FHOUpiV19iMDRMSGk4aldwUnBlVmdPVGtrVDItbl93LWxRVmZ1X2RPUVdQNk1KRVIwYVV3a0JBbWV6eWdyS1dQVUF2U0I1SE9nZDNZbXU3MkdERFhkQ252d1RI?oc=5",
-          "published": "2026-11-16T13:07:16.000Z"
-        },
         {
           "company": "Great Eastern",
           "ticker": "GEL",
@@ -206,6 +159,14 @@
           "headline": "Great Eastern Shipping releases Q2FY27 earnings call transcript with key market insights - scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUFLSnF2NTFaemV1dEh3OVlDcldPa2kwRGlza1JudGhkNFFhdnhrTkpCNHpEN0I2Z1pYMV9HQ0Y4RkFKbE5mYWpydVh5VFVLVXp0SlJ3RWsyekRPVTZ3Q04tQ3p1eEsxcDh6NGlyVE1yZVFmYWNQdnVucGUzNy1RaXNIclpoMWJ0SHUzRS1UZTlpcXotM21oN3djbllXSlI2NkFsTEVzNHVlNU55VFlLTjZnbHlzcWg5OTl6cVFsRmxBdDg?oc=5",
           "published": "2026-11-16T10:21:36.000Z"
+        },
+        {
+          "company": "Prudential plc",
+          "ticker": "PRU",
+          "tag": "Transcript",
+          "headline": "Prudential (PRU) Q3 2026 Earnings Call Transcript - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkxudVR2QUE2c2pzRGpaUmVacHBZcGliTzZEbnZqQVJyZmptb3prRkJwcHJmdy1MNkcyV2ktc28zSVJGTDI2V2VaUlJFZWdaQklDZHhxdW5XWlVIZjhLTkk2STVaNzBDcWxjc0dPSHhyd2ZYa2RxQXdSbFgtWUdmQ2llbVdqVlNMWXhhd1RhWGNNXzdNU1dDTmMxSGU5REMwY3BaYXMycHduUQ?oc=5",
+          "published": "2026-11-04T08:00:00.000Z"
         },
         {
           "company": "AIA Group",
@@ -222,13 +183,6 @@
       "name": "Retail Banking",
       "bullets": [
         {
-          "tag": "Product",
-          "headline": "Gangs swap credit card chips at Japan bathhouse lockers, spending mostly in Hong Kong",
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3375681/gangs-swap-credit-card-chips-japan-bathhouse-lockers-spending-mostly-hong-kong",
-          "published": "2026-11-25T01:55:11.000Z"
-        },
-        {
           "tag": "Strategy",
           "headline": "National Australia Bank (ASX:NAB) Could Be 2% Undervalued On Square Payments Partnership - Yahoo Finance Australia",
           "source": "Yahoo Finance Australia",
@@ -236,22 +190,15 @@
           "published": "2026-11-24T17:13:02.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Singapore's OCBC, StraitsX launch pilot for cross-border business stablecoin payments - The Block",
-          "source": "The Block",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0diV3FKTVZzRVF6OFFralQ4cHNhSHY3M2xwOHd0eFd2Ync3bXhZYWJQN2hqVDdWbTlQdjBoQU5tcHpXU1VMWmFxbnUyNmw1akpqNnEwQThTR0FCeU5VcDJGZ3pQRWl5U2ZDbG85UWJuOU5JX2UyeWJwOUFKMjA1MVk1alE5d21CZmN2c3NodjV6cklGakZyQk9mWQ?oc=5",
-          "published": "2026-11-23T10:04:00.000Z"
+          "tag": "Press",
+          "headline": "Cambodia’s Bakong Is Making Digital Payments Work in a Country That Once Abolished Money - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXY5dW5qUElfaW5kUF9RTnJZUmpieGFiMmtVX2plZFJOQmZJdUNOWDlGQVUtNnFkSlliRHQ5Vkt4eVIyZUI1VWgtT3Y1Y2VSOWNnZ0RxNElQRzNlYk1ZUWxJUFl1OU1aTjdyYjVsRUgwSjR0U0U2LWVRSEVhNnpGVU1XVTh1cW9mV1E?oc=5",
+          "published": "2026-11-26T07:46:38.000Z"
         }
       ],
       "candidates": [
         {
-          "tag": "Product",
-          "headline": "Gangs swap credit card chips at Japan bathhouse lockers, spending mostly in Hong Kong",
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3375681/gangs-swap-credit-card-chips-japan-bathhouse-lockers-spending-mostly-hong-kong",
-          "published": "2026-11-25T01:55:11.000Z"
-        },
-        {
           "tag": "Strategy",
           "headline": "National Australia Bank (ASX:NAB) Could Be 2% Undervalued On Square Payments Partnership - Yahoo Finance Australia",
           "source": "Yahoo Finance Australia",
@@ -259,25 +206,11 @@
           "published": "2026-11-24T17:13:02.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "Singapore's OCBC, StraitsX launch pilot for cross-border business stablecoin payments - The Block",
-          "source": "The Block",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0diV3FKTVZzRVF6OFFralQ4cHNhSHY3M2xwOHd0eFd2Ync3bXhZYWJQN2hqVDdWbTlQdjBoQU5tcHpXU1VMWmFxbnUyNmw1akpqNnEwQThTR0FCeU5VcDJGZ3pQRWl5U2ZDbG85UWJuOU5JX2UyeWJwOUFKMjA1MVk1alE5d21CZmN2c3NodjV6cklGakZyQk9mWQ?oc=5",
-          "published": "2026-11-23T10:04:00.000Z"
-        },
-        {
           "tag": "Press",
-          "headline": "OpenWay Teams Up With Visa to Expand Digital Payments in APAC - Fintech Singapore",
+          "headline": "Cambodia’s Bakong Is Making Digital Payments Work in a Country That Once Abolished Money - Fintech Singapore",
           "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRnl3enhUczE3Y0VGYmx5X1E3Wm40VEk0RkhYeE14V21nTEtERHVucXpFNlBXRk9fNDRybml5b0RrQVViR0tUS2pXNXczTkpSTXFvdXVBa2hudHdOT0oxT2NFSms2R1ZzSERPVG44eGx3MVVoODA1MzIzeDlndmM?oc=5",
-          "published": "2026-11-24T09:33:46.000Z"
-        },
-        {
-          "tag": "Press",
-          "headline": "Deputy Governor Pham Thanh Ha attended the Financial Stability Council's workshop on cross-border payments. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjViaE5PSERKTDdUWms3RUpwZzZrTzVlM2Q4N2h5bkJ1ellDX0gxMGxiUlgxeFZmNExjYTlzWFp6WXdyLXpRcWs5X3NaSUJudzg3VGREV1VzVTBZbEpxM0lQMThxbFBxMmtmYkZDSkE1V0FyY2lXUEFKSUJhbzBocjcxTXdHUEVOQ3hwNHpZUVByN0drWHpoV0lkb1ZFYlV5aG1KdVo1R0dQYXp2azBiMFdxME5jdG5jajliNEctMGRyM1hlanNmMTNKYw?oc=5",
-          "published": "2026-11-23T08:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXY5dW5qUElfaW5kUF9RTnJZUmpieGFiMmtVX2plZFJOQmZJdUNOWDlGQVUtNnFkSlliRHQ5Vkt4eVIyZUI1VWgtT3Y1Y2VSOWNnZ0RxNElQRzNlYk1ZUWxJUFl1OU1aTjdyYjVsRUgwSjR0U0U2LWVRSEVhNnpGVU1XVTh1cW9mV1E?oc=5",
+          "published": "2026-11-26T07:46:38.000Z"
         }
       ],
       "insight": {
@@ -297,14 +230,6 @@
           "headline": "DBS GROUP HOLDINGS LTD. R (DEVL.DU) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTVuS1NoUVo5b21Cb2dOTURVUHQxS0RnUWdRRjhMb0pKWExJemE2RUc2OTBEMERRNU5KVWNCT1JuWGRPNGEwTVpaSXQ4R1Raek4zd3p0ZkhWOVN1c0llc013NUNvOTlzNG9DRDFVRTM3YklES1FoYnZXNDJ5UTJQUWsyekJ4V1F6aDViM2JmUF9ia1Jy?oc=5",
           "published": "2026-11-05T08:00:00.000Z"
-        },
-        {
-          "company": "UOB",
-          "ticker": "U11.SI",
-          "tag": "Transcript",
-          "headline": "UNITED OVERSEAS BANK LTD. R (UOB.DU) Q3 FY2026 TU earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGQ5NFZTWEU1OHdYUkdVcVMtWHN1aTMwaGpmZ1BxQ255VzJpdEt4TUg2RVhLcmRZUndSNTJIVU5mZzN0UEdFLURmTmNTX0cxTGRYMi1HNDZ2RTU1LTFGcVRzdUdkSFNMU1Z2UV9SRnNsTFJSQXJrU21pbjlPemdrQWFiTkE0dE5UcUZTTWR0XzRyUQ?oc=5",
-          "published": "2026-11-04T08:00:00.000Z"
         },
         {
           "company": "Standard Chartered",
