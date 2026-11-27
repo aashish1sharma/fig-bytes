@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:56:39.802Z",
+  "generatedAt": "2026-11-27T10:00:28.720Z",
   "region": "Asia",
   "title": "Asia FIG Bytes",
   "regionId": "asia",
@@ -39,11 +39,18 @@
           "published": "2026-11-25T03:00:25.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "World’s First Offshore Yuan Bond ETF Lists in Hong Kong - Caixin Global",
-          "source": "Caixin Global",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjhJTFc4cnlheHVOdVJKWDRZaU1iQmlUUzlGcjM2cHVkaDhWMDVPcFh3VzhRbkN6ZndrUWx6eDk3dnRodUgtbk5VYk1yM0h0VGhXNUtvb2Y1RUZfeU85SktMSWNmQ2xzREhJaXNGWG1GQTBFZjlYVEhRR0hfbXRlcFBFeXhxUnZLdldBQlRQcEJ5aDNKbkpVYlZ4VURZSUcta0g5N1ZYTkhRaEI0NHc?oc=5",
-          "published": "2026-11-24T05:55:00.000Z"
+          "tag": "Press",
+          "headline": "Hong Kong and Singapore Investors Eye ‘K-Consumer Goods’ ... KCGI Asset Management Expands Overseas Outreach - 파이낸셜뉴스",
+          "source": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fMjlxbU1MWURFS0VmZTZ0QkYzNk81enkxZzQzWXBDR1hTa3VCc2o5ei1sU1J5OUdjUG5FQ0VOV002czIxUGFScDh0OW9hSXVWWjBWVXdOT0I?oc=5",
+          "published": "2026-11-27T04:35:04.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "KCGI Asset Management Courts Asian Investors With Korea Market Seminar - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2kzWjFFUmQ1aVZ3a3dJbFpRSUkybE9xWkU0WUlzeGhCNC1aVVpScjdaaFdFTlYwcEtNdXJhNnB0eTdfaTh4QmtGSjRPb1JPUl90ZEw2UXRMSGpBNzNMRmJJTV9JUVFBWEtuWi1LbS1EQm9lNjFac3VFT1I2Mm1ra19vTVNKVmE2bEZkWDE5SWdSai1rcF9WVnlhSXE?oc=5",
+          "published": "2026-11-27T01:08:24.000Z"
         }
       ],
       "candidates": [
@@ -55,14 +62,29 @@
           "published": "2026-11-25T03:00:25.000Z"
         },
         {
-          "tag": "Product",
-          "headline": "World’s First Offshore Yuan Bond ETF Lists in Hong Kong - Caixin Global",
-          "source": "Caixin Global",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjhJTFc4cnlheHVOdVJKWDRZaU1iQmlUUzlGcjM2cHVkaDhWMDVPcFh3VzhRbkN6ZndrUWx6eDk3dnRodUgtbk5VYk1yM0h0VGhXNUtvb2Y1RUZfeU85SktMSWNmQ2xzREhJaXNGWG1GQTBFZjlYVEhRR0hfbXRlcFBFeXhxUnZLdldBQlRQcEJ5aDNKbkpVYlZ4VURZSUcta0g5N1ZYTkhRaEI0NHc?oc=5",
-          "published": "2026-11-24T05:55:00.000Z"
+          "tag": "Press",
+          "headline": "Hong Kong and Singapore Investors Eye ‘K-Consumer Goods’ ... KCGI Asset Management Expands Overseas Outreach - 파이낸셜뉴스",
+          "source": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fMjlxbU1MWURFS0VmZTZ0QkYzNk81enkxZzQzWXBDR1hTa3VCc2o5ei1sU1J5OUdjUG5FQ0VOV002czIxUGFScDh0OW9hSXVWWjBWVXdOT0I?oc=5",
+          "published": "2026-11-27T04:35:04.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "KCGI Asset Management Courts Asian Investors With Korea Market Seminar - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2kzWjFFUmQ1aVZ3a3dJbFpRSUkybE9xWkU0WUlzeGhCNC1aVVpScjdaaFdFTlYwcEtNdXJhNnB0eTdfaTh4QmtGSjRPb1JPUl90ZEw2UXRMSGpBNzNMRmJJTV9JUVFBWEtuWi1LbS1EQm9lNjFac3VFT1I2Mm1ra19vTVNKVmE2bEZkWDE5SWdSai1rcF9WVnlhSXE?oc=5",
+          "published": "2026-11-27T01:08:24.000Z"
         }
       ],
-      "insight": null,
+      "insight": {
+        "tag": "Research",
+        "headline": "EWH – iShares MSCI Hong Kong ETF – ETF Quote - Morningstar",
+        "teaser": null,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iSDZrdzFaQmY4dC14OG1qNXFiNnNudVZDRTc4RVVOcDY0RHd3cFI5MHlsUHFZWUFRSzJ3Zk1UdGFDYW41X3V4NF9KTm52Z3M1RTRtelhodE9rbGc?oc=5",
+        "published": "2026-11-24T08:00:00.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "Schroders",
@@ -81,12 +103,12 @@
           "published": "2026-11-05T08:00:00.000Z"
         },
         {
-          "company": "Nikko Asset Management",
-          "ticker": "NOMURA",
-          "tag": "Transcript",
-          "headline": "Nomura Holdings Q2 2027 Earnings Call Transcript - Nomura Holdings (NYSE:NMR) - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUZ6NFkxRnVyV25nZGs4eXdDaFlaRlVmdXNqb091QWlfa0JTa1RpZlpfdkZXUTdlQ2hneFdfa1lTeDFfbHdxQ2RTLVRwQWtCMkstMzFBQVQ5RndIcm45bm5lZndycUlpc3Rqd200MVNBYmpNWlQwa005RzJBQ19uX1AyUjNjMm1wSllyQ1kwa2ZGaGM5alduYg?oc=5",
-          "published": "2026-10-28T07:00:00.000Z"
+          "company": "Fidelity International",
+          "ticker": "FIL",
+          "tag": "Analyst Report",
+          "headline": "Fidelity International launches equity research Ucits ETF - Funds Europe",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmVlS1JCRGE3ME51a3BsYVdfdGhuTlFHaFVnMENTdnYyanZoaGVVaG9YMzFuM1dKc2Q3eUQtYmhNVDBUQXB2QzlqMVRWSlJjOXIwcWtDN2lzWGducDZhc01nUlVNc1loMFhaTHlSak03WEdaOUQ1U0h4bi1XajRhWUpickZ1TkxyV0lr?oc=5",
+          "published": "2026-11-23T10:02:12.000Z"
         }
       ]
     },
@@ -96,13 +118,6 @@
       "bullets": [
         {
           "tag": "Press",
-          "headline": "Thailand’s Family Office Market Poised for Transformation Amid Wealth Transfer Boom and SEC Rule Clarifications - Thailand Business News",
-          "source": "Thailand Business News",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUmY4azlwdXd1aUd1c3Zpc1B5V0JEVTQtYnFXaUNWdThscEY2Y3V3cXFJRzJnODB3aGpyY0VfZFVaSm90bzh2d3NLQUxmSHJKeUp5dWw2bFplSjEzWDNGR1l4blpMLUVTak9icy0welZFUTZydkhyUm5uQVdBTjl6TzJnYXN6eUJqbGZPa0JUOTdrMTNMNFJqMWJFYk1kOUlLczIzWEVjUW12TWRSQTNjQThBbmFvY3JtM3FzSjFZTTd5QTB1YTY0bWtFZDlOd2Z2WWUxWEZmbjJiLWFmOXB3YkcwNUh3eUo3TTJlTVR4c2tJd3YwMGlN?oc=5",
-          "published": "2026-11-25T22:31:00.000Z"
-        },
-        {
-          "tag": "Press",
           "headline": "Who's Moving Where In Wealth Management? – LinqAlpha Sets Up Tokyo Office - Wealth Briefing Asia",
           "source": "Wealth Briefing Asia",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZXE4ekVPcWhkaEJiTjlRSExMYlR0MVZ0SXNtR3FKYk9Mcld4N2lkNDV4QzI3c2FhLTB6UXJzUWtGWGs4M0FILVV1dFAwNEg4RXZPVUNDbHpxdkZQS1Y2eEp6VEpKckI2RlNXWndMU3IwTWZ0WmJTa3hTTXpqVmlRaUxNNVQxekNNQ3o4aWFyUWp0cGtKOHdDYXd6Q2xVcUR6VXNud19WbmNmSjEzZHFMNXZtUjQ5ZzhtYWpTRkJDUTlnQVdRWGZJVzg1VkpKc2R4RmlVaGd3TTY?oc=5",
@@ -110,13 +125,6 @@
         }
       ],
       "candidates": [
-        {
-          "tag": "Press",
-          "headline": "Thailand’s Family Office Market Poised for Transformation Amid Wealth Transfer Boom and SEC Rule Clarifications - Thailand Business News",
-          "source": "Thailand Business News",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUmY4azlwdXd1aUd1c3Zpc1B5V0JEVTQtYnFXaUNWdThscEY2Y3V3cXFJRzJnODB3aGpyY0VfZFVaSm90bzh2d3NLQUxmSHJKeUp5dWw2bFplSjEzWDNGR1l4blpMLUVTak9icy0welZFUTZydkhyUm5uQVdBTjl6TzJnYXN6eUJqbGZPa0JUOTdrMTNMNFJqMWJFYk1kOUlLczIzWEVjUW12TWRSQTNjQThBbmFvY3JtM3FzSjFZTTd5QTB1YTY0bWtFZDlOd2Z2WWUxWEZmbjJiLWFmOXB3YkcwNUh3eUo3TTJlTVR4c2tJd3YwMGlN?oc=5",
-          "published": "2026-11-25T22:31:00.000Z"
-        },
         {
           "tag": "Press",
           "headline": "Who's Moving Where In Wealth Management? – LinqAlpha Sets Up Tokyo Office - Wealth Briefing Asia",
@@ -134,23 +142,39 @@
           "headline": "DBS GROUP HOLDINGS LTD. R (DEVL.DU) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTVuS1NoUVo5b21Cb2dOTURVUHQxS0RnUWdRRjhMb0pKWExJemE2RUc2OTBEMERRNU5KVWNCT1JuWGRPNGEwTVpaSXQ4R1Raek4zd3p0ZkhWOVN1c0llc013NUNvOTlzNG9DRDFVRTM3YklES1FoYnZXNDJ5UTJQUWsyekJ4V1F6aDViM2JmUF9ia1Jy?oc=5",
           "published": "2026-11-05T08:00:00.000Z"
-        },
-        {
-          "company": "UBS Group",
-          "ticker": "UBS",
-          "tag": "Transcript",
-          "headline": "UBS (UBS) Q3 2026 Earnings Call Transcript - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmtoeWE1RVB0cmRBdXNPVGR2bk5VOVlWQVZLOXpHMUduM0RvaVlOOWt5YXU3cG5ra2NlTUZyOHdaeTJvRGFUNng0bDg3cWptMnFjWTMwQmJqNUlrbW55RE9DYzJ1eDBSYTh6c1d4VlNTX1VWTVlfT0Yzdlg0aUh0RWVfR3N6a1BhbEpwWDVzOHE0ZjRLWGdXMVA4dklWT0Zn?oc=5",
-          "published": "2026-10-28T07:00:00.000Z"
         }
       ]
     },
     {
       "id": "insurance",
       "name": "Insurance",
-      "bullets": [],
-      "candidates": [],
-      "insight": null,
+      "bullets": [
+        {
+          "tag": "Press",
+          "headline": "The Ceding (Retrocession) of “Postal Life Insurance Policies” between Japan Post Insurance and SCOR, and Investment in a Reinsurance Vehi…",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVpFd2NZN1ZEMGV4RGVYQ0hHQ0xUMFh6SnZkX2ZCQjRmUndCWDVXbUI2bV9hYktmRldEMjVYZzJMdmJwbVk3LUlPLVRIbm5zdDQwYzJ2OV93cmdxMEpndWxDa2dlcTBVYjh6dXc1Q24zSThzaUc4VjdIR25xZ2tsSG9ralZBdTVMMjI5dEVETXozUFZmTWh0VWFDNA?oc=5",
+          "published": "2026-11-27T05:33:58.000Z"
+        }
+      ],
+      "candidates": [
+        {
+          "tag": "Press",
+          "headline": "The Ceding (Retrocession) of “Postal Life Insurance Policies” between Japan Post Insurance and SCOR, and Investment in a Reinsurance Vehi…",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVpFd2NZN1ZEMGV4RGVYQ0hHQ0xUMFh6SnZkX2ZCQjRmUndCWDVXbUI2bV9hYktmRldEMjVYZzJMdmJwbVk3LUlPLVRIbm5zdDQwYzJ2OV93cmdxMEpndWxDa2dlcTBVYjh6dXc1Q24zSThzaUc4VjdIR25xZ2tsSG9ralZBdTVMMjI5dEVETXozUFZmTWh0VWFDNA?oc=5",
+          "published": "2026-11-27T05:33:58.000Z"
+        }
+      ],
+      "insight": {
+        "tag": "Research",
+        "headline": "The Ceding (Retrocession) of “Postal Life Insurance Policies” between Japan Post Insurance and SCOR, and Investment in a Reinsurance Vehicl…",
+        "teaser": null,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVpFd2NZN1ZEMGV4RGVYQ0hHQ0xUMFh6SnZkX2ZCQjRmUndCWDVXbUI2bV9hYktmRldEMjVYZzJMdmJwbVk3LUlPLVRIbm5zdDQwYzJ2OV93cmdxMEpndWxDa2dlcTBVYjh6dXc1Q24zSThzaUc4VjdIR25xZ2tsSG9ralZBdTVMMjI5dEVETXozUFZmTWh0VWFDNA?oc=5",
+        "published": "2026-11-27T05:33:58.000Z",
+        "paywalled": false
+      },
       "companyUpdates": [
         {
           "company": "Great Eastern",
@@ -167,14 +191,6 @@
           "headline": "Prudential (PRU) Q3 2026 Earnings Call Transcript - The Motley Fool",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkxudVR2QUE2c2pzRGpaUmVacHBZcGliTzZEbnZqQVJyZmptb3prRkJwcHJmdy1MNkcyV2ktc28zSVJGTDI2V2VaUlJFZWdaQklDZHhxdW5XWlVIZjhLTkk2STVaNzBDcWxjc0dPSHhyd2ZYa2RxQXdSbFgtWUdmQ2llbVdqVlNMWXhhd1RhWGNNXzdNU1dDTmMxSGU5REMwY3BaYXMycHduUQ?oc=5",
           "published": "2026-11-04T08:00:00.000Z"
-        },
-        {
-          "company": "AIA Group",
-          "ticker": "AIA",
-          "tag": "Transcript",
-          "headline": "Earnings call transcript: AIA Engineering Q2 2026 shares fall as freight costs bite By Investing.com - Investing.com In…",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUHRCNFJNMWFId2ZOaFNTaUNWdDZzUC1vUlhIdjg4X3lKN2VFYnBkU2pWNl9zQ0Mwb2czdUlvUVUzNUw1LWRRUzNZQXI5eE94STdabThfeDRna3NsUlFtVlFOelFoaHNUSnFpMlM3X2VFRjMyaE1RY25tOEdUc0MyMlhremw2S241c09QUGIxMkxRTG1yLUE4Y2VybEhzSVhUVU5ieVEtYS1obFZoUnZ6bDN4Ri00dnlONkhENXo1NnVMYVI0a1FtYUNiX2VaZGRMZi15RmdlcTRrdU0?oc=5",
-          "published": "2026-11-03T08:00:00.000Z"
         }
       ]
     },
@@ -183,27 +199,55 @@
       "name": "Retail Banking",
       "bullets": [
         {
+          "tag": "Product",
+          "headline": "Black Friday to Christmas: Credit Card Promos in Singapore - MoneySmart",
+          "source": "MoneySmart",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fcHpMN2ZzM3d0SE9RbzZHenRzTU5tZkNQLVh6ODFVNl82a0c3SXEybmNfTWxLN3hfVmowX3BDVHVQYlY1N3pMR1hkVlpvZExONmFkaEJPXzZ6V1hhSEJ2V1luWEhjOE41RDB1OWNxZ3lwQQ?oc=5",
+          "published": "2026-11-27T06:01:09.000Z"
+        },
+        {
           "tag": "Strategy",
-          "headline": "National Australia Bank (ASX:NAB) Could Be 2% Undervalued On Square Payments Partnership - Yahoo Finance Australia",
-          "source": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXNjM0xqYXRfclBMWGlLNlJXdVZHQzBqMHNQdVFlb1FCTWkwQm4xQ2UtSDI1Z2RXRC0tU01hRm9qRF9KU3lfemt2UXF6dHRVdzJTVmJ6V0t3ell0WTlCZ2hrYUNGQmRMRzJRcWNpOXRXQ1JfYzVvekdQQm10dFpFRWg1UUlxWnc?oc=5",
+          "headline": "National Australia Bank (ASX:NAB) Could Be 2% Undervalued On Square Payments Partnership - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWE5ON21nUTB1R0pwdUlPVXM1WkRrN3ZqaE1OeG42djhOYWhKdVNrZU03WFZSMGJyS29zajFDdUNTUkNIZDVjV2tFY0d5NVh1QzFTMDRkZ0ZRSnNCaW5PQUdzcExLWTdsSjdUQzJWdnNfOWxyOGRFMHpRX1hkak5vYnFmS0NnRXU5OWR3Zzg0dGlBOWJYendMTF9GdUo?oc=5",
           "published": "2026-11-24T17:13:02.000Z"
         },
         {
           "tag": "Press",
-          "headline": "Cambodia’s Bakong Is Making Digital Payments Work in a Country That Once Abolished Money - Fintech Singapore",
-          "source": "Fintech Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXY5dW5qUElfaW5kUF9RTnJZUmpieGFiMmtVX2plZFJOQmZJdUNOWDlGQVUtNnFkSlliRHQ5Vkt4eVIyZUI1VWgtT3Y1Y2VSOWNnZ0RxNElQRzNlYk1ZUWxJUFl1OU1aTjdyYjVsRUgwSjR0U0U2LWVRSEVhNnpGVU1XVTh1cW9mV1E?oc=5",
-          "published": "2026-11-26T07:46:38.000Z"
+          "headline": "China, Japan, South Korea, and ASEAN to Form Working Group on Cross-Border Digital Payments - ForkLog",
+          "source": "ForkLog",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEtnbk91T3l0ODBhUWdOeEtHQXcyYXhRVzJNZ3JIaTRyYU8xTm9rM2VvSWFOR24xT3dnZ25xcGVNUjA0V2oyWVJwak5TU01TTXVpQVk0QWFOR1YyY09Na1k4Y3ZqanRhYkptUjdEVHBsX3RTb3FwSUVMeUVSVmZIZFNaZGtaWE5yM0ZwbFJyb1VockNFLTZsV0RBM2ttbk5FQl93OXhfY1RwMG9SQi1mMTln?oc=5",
+          "published": "2026-11-27T05:46:06.000Z"
         }
       ],
       "candidates": [
         {
+          "tag": "Product",
+          "headline": "Black Friday to Christmas: Credit Card Promos in Singapore - MoneySmart",
+          "source": "MoneySmart",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fcHpMN2ZzM3d0SE9RbzZHenRzTU5tZkNQLVh6ODFVNl82a0c3SXEybmNfTWxLN3hfVmowX3BDVHVQYlY1N3pMR1hkVlpvZExONmFkaEJPXzZ6V1hhSEJ2V1luWEhjOE41RDB1OWNxZ3lwQQ?oc=5",
+          "published": "2026-11-27T06:01:09.000Z"
+        },
+        {
           "tag": "Strategy",
-          "headline": "National Australia Bank (ASX:NAB) Could Be 2% Undervalued On Square Payments Partnership - Yahoo Finance Australia",
-          "source": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXNjM0xqYXRfclBMWGlLNlJXdVZHQzBqMHNQdVFlb1FCTWkwQm4xQ2UtSDI1Z2RXRC0tU01hRm9qRF9KU3lfemt2UXF6dHRVdzJTVmJ6V0t3ell0WTlCZ2hrYUNGQmRMRzJRcWNpOXRXQ1JfYzVvekdQQm10dFpFRWg1UUlxWnc?oc=5",
+          "headline": "National Australia Bank (ASX:NAB) Could Be 2% Undervalued On Square Payments Partnership - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWE5ON21nUTB1R0pwdUlPVXM1WkRrN3ZqaE1OeG42djhOYWhKdVNrZU03WFZSMGJyS29zajFDdUNTUkNIZDVjV2tFY0d5NVh1QzFTMDRkZ0ZRSnNCaW5PQUdzcExLWTdsSjdUQzJWdnNfOWxyOGRFMHpRX1hkak5vYnFmS0NnRXU5OWR3Zzg0dGlBOWJYendMTF9GdUo?oc=5",
           "published": "2026-11-24T17:13:02.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "China, Japan, South Korea, and ASEAN to Form Working Group on Cross-Border Digital Payments - ForkLog",
+          "source": "ForkLog",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEtnbk91T3l0ODBhUWdOeEtHQXcyYXhRVzJNZ3JIaTRyYU8xTm9rM2VvSWFOR24xT3dnZ25xcGVNUjA0V2oyWVJwak5TU01TTXVpQVk0QWFOR1YyY09Na1k4Y3ZqanRhYkptUjdEVHBsX3RTb3FwSUVMeUVSVmZIZFNaZGtaWE5yM0ZwbFJyb1VockNFLTZsV0RBM2ttbk5FQl93OXhfY1RwMG9SQi1mMTln?oc=5",
+          "published": "2026-11-27T05:46:06.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "XTransfer Taps StanChart’s Banking Network for Cross-Border Payments - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SV21nNV9qeUlEejJ6WTJnS09FaE1qbUVxdGZldkZNU2NWVWRLLUVLcU85TmF2YVo1UEt1SFpaa3pJa0N2VEJkVW9yQnMzODdZWkQwSG96TUV6QWtac2xQZU5CZjBGdmFMRjluQmhDVFk2QW9XVWdJ?oc=5",
+          "published": "2026-11-27T03:54:56.000Z"
         },
         {
           "tag": "Press",
@@ -211,15 +255,22 @@
           "source": "Fintech Singapore",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXY5dW5qUElfaW5kUF9RTnJZUmpieGFiMmtVX2plZFJOQmZJdUNOWDlGQVUtNnFkSlliRHQ5Vkt4eVIyZUI1VWgtT3Y1Y2VSOWNnZ0RxNElQRzNlYk1ZUWxJUFl1OU1aTjdyYjVsRUgwSjR0U0U2LWVRSEVhNnpGVU1XVTh1cW9mV1E?oc=5",
           "published": "2026-11-26T07:46:38.000Z"
+        },
+        {
+          "tag": "Press",
+          "headline": "Triple-A and Coocon to Expand Stablecoin Payments in South Korea - Fintech Singapore",
+          "source": "Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlN5TW9QRDRXTWt1SGVhNlFSbjM2THdWVWxPWEJBOUxWMGpBS0dMZGpHaFhTQ2Y1bUJETDBSVy1NWlZtUnNwSXBCcDBqN21CUTg2S1h5bW9jb1RiSmFfSE5kR0EwUnpiTDMxY0pPS0U1N01JcXIzUkZVaVpSRzlsdFhxMko5WEk?oc=5",
+          "published": "2026-11-26T04:09:05.000Z"
         }
       ],
       "insight": {
         "tag": "Research",
-        "headline": "barq Signs MoU with TenPay Global to Enhance Remittances and Digital Payments in China - Morningstar",
+        "headline": "Ping An Digital Bank gets fresh US$64 million capital injection from Lufax - South China Morning Post",
         "teaser": null,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa25VZDY0RkJsVW1xLVBfV2M2ckVPYmxZYnhGWkhjSWNEQVlqVGZJUVpLYndBbmFob0xfRHpVWGpQcHQ4ZjJRR2licVpNTEh2enRRWkZZc2RqY24tR01uLWFlb2lpWTZuY1NBWmRXLUxnUVFMNE9Wc2tEcGh6RnVMRktBN2pERENUTVVCZ0RmZEo1NmpYcFZjQ3otNTdrRjFQMWJLSkxrUTdfby14THBGaVNPM01VaXJmVDhVUXRkdTF4YzJEUnh3a2NNaFVuS2ZLOW9KcDBDazQ?oc=5",
-        "published": "2026-11-20T12:00:00.000Z",
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDhDdzNzenhQM3NnVFhQQVQ5bEwwM2pRY2J0YmVZSkJnVHR0TjdIb1A4N3FBZGt1UzdaT1hSSjRucG5HWm4yUkNic2lsNXh3VWt5ekQ5d3hWTU5ocW92Vnd0bktVeU5HSmE5SVRJYTYzV3dNQXowQ0hPY0xkTmJfdUhiX0NaV08zU0dTa3pSQ0Qxa1haeXMydHJPZldycEpUc2xFOXllbm02aDhlWkYxWXU1VDFHS0g5d0JSMEhiU3JnVXV1bVE?oc=5",
+        "published": "2026-11-20T13:24:24.000Z",
         "paywalled": false
       },
       "companyUpdates": [
@@ -230,14 +281,6 @@
           "headline": "DBS GROUP HOLDINGS LTD. R (DEVL.DU) Q3 FY2026 TU (Q&A) earnings call transcript - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTVuS1NoUVo5b21Cb2dOTURVUHQxS0RnUWdRRjhMb0pKWExJemE2RUc2OTBEMERRNU5KVWNCT1JuWGRPNGEwTVpaSXQ4R1Raek4zd3p0ZkhWOVN1c0llc013NUNvOTlzNG9DRDFVRTM3YklES1FoYnZXNDJ5UTJQUWsyekJ4V1F6aDViM2JmUF9ia1Jy?oc=5",
           "published": "2026-11-05T08:00:00.000Z"
-        },
-        {
-          "company": "Standard Chartered",
-          "ticker": "STAN",
-          "tag": "Transcript",
-          "headline": "STANDARD CHARTERED PLC 7 3/8% N (STAB.L) Q3 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3djMnMtNzBuZ0M3dGJaWW41LWF5akhSRGdVR3RmVmlLX1FmR2JHRTZzOXBCRmF2WDhPTmpXVnBWQnlzMnBib01CRW9sbXAtVllxRXJCOURNM053dDFscjdicUhvd3pKcDZ4OFRRLTdkSlVpZDh4a2VSNDd4Yk9nbm5Fb0xhV0k0UmN2QVdGTm9oUQ?oc=5",
-          "published": "2026-10-28T07:00:00.000Z"
         }
       ]
     }
